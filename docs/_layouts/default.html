@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} — Strongman Meals</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏋️</text></svg>">
+    {% seo %}
+</head>
+
+<body>
+    {% include nav.html %}
+    <main class="container">
+        <h1 class="page-title">{{ page.title }}</h1>
+        {{ content }}
+    </main>
+    <footer class="container">
+        <p>Strongman Meals — Maaltijdplan</p>
+    </footer>
+    <script>
+        // Checkbox state persistence via localStorage
+        document.addEventListener('DOMContentLoaded', function () {
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            checkboxes.forEach(function (cb, i) {
+                const key = 'cb-' + window.location.pathname + '-' + i;
+                cb.checked = localStorage.getItem(key) === 'true';
+                cb.addEventListener('change', function () {
+                    localStorage.setItem(key, cb.checked);
+                });
+            });
+
+            // Cooking step highlight on tap
+            const steps = document.querySelectorAll('.cooking-steps li');
+            steps.forEach(function (step) {
+                step.addEventListener('click', function () {
+                    step.classList.toggle('step-done');
+                });
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<nav class="main-nav">
+    <div class="nav-container">
+        <a href="{{ '/' | relative_url }}" class="nav-brand">🏋️ Strongman Meals</a>
+        <button class="nav-toggle" aria-label="Menu"
+            onclick="this.parentElement.parentElement.classList.toggle('nav-open')">☰</button>
+        <ul class="nav-links">
+            <li><a href="{{ '/' | relative_url }}" {% if page.url=='/' %}class="active" {% endif %}>Dagplan</a></li>
+            <li class="nav-dropdown">
+                <a href="{{ '/maaltijden/' | relative_url }}" {% if page.url contains '/maaltijden/' %}class="active" {%
+                    endif %}>Maaltijden ▾</a>
+                <ul class="dropdown-menu">
+                    <li><a href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake</a>
+                    </li>
+                    <li><a href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Overnight Oats</a>
+                    </li>
+                    <li><a href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Eieren
+                            (ma,wo,vr)</a></li>
+                    <li><a href="{{ '/maaltijden/maaltijd-3b-kip-avocado-salade' | relative_url }}">13:00 Kip Salade
+                            (di,do)</a></li>
+                    <li><a href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap</a>
+                    </li>
+                    <li><a href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Stoofpot</a></li>
+                    <li><a href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Whey Shake</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="{{ '/boodschappen' | relative_url }}" {% if page.url=='/boodschappen/' %}class="active" {%
+                    endif %}>🛒 Boodschappen</a></li>
+            <li><a href="{{ '/macros' | relative_url }}" {% if page.url=='/macros/' %}class="active" {% endif %}>📊
+                    Macro's</a></li>
+        </ul>
+    </div>
+</nav>
