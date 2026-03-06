@@ -32,9 +32,9 @@ title: "Gebakken Eieren met Kaas & Ham — 13:00"
 
 <h3>🔪 Snijden</h3>
 
-- Snijd 40 g kaas in kleine blokjes<br>
-- Snijd 30 g tostiham in reepjes<br>
-- Snijd 50 g champignons in plakjes<br>
+- Snijd 40 g kaas in kleine blokjes
+- Snijd 30 g tostiham in reepjes
+- Snijd 50 g champignons in plakjes
 
 </div>
 
