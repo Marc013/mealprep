@@ -32,7 +32,7 @@ title: "Kip Ketjap Roerbak — 15:45"
 
 ## Voorbereiding (snijwerk)
 
-<div class="prep-section">
+<div class="prep-section" markdown="1">
 
 <h3>🔪 Snijden — doe dit als eerste</h3>
 

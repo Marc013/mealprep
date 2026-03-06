@@ -37,7 +37,7 @@ title: "Kip & Varkenshaas Stoofpot — 18:30"
 
 ## Voorbereiding (snijwerk)
 
-<div class="prep-section">
+<div class="prep-section" markdown="1">
 
 <h3>🔪 Snijden — doe dit als eerste</h3>
 
