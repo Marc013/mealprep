@@ -9,7 +9,7 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 
 - [ ] Magere kwark (500 g)
 - [ ] Halfvolle yoghurt (500 ml)
-- [ ] Houdbare halfvolle melk (Lidl)
+- [ ] Houdbare halfvolle melk
 - [ ] Eieren (doos van 10)
 - [ ] Coco Vite Vloeibaar Eiwit 500 g
 - [ ] Kaas 48+
@@ -17,14 +17,14 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 ## 🥩 Vlees & Eiwitten
 
 - [ ] Kipfilet (750 g totaal)
-- [ ] Gerookte scharrelkipfilet (Aldi)
+- [ ] Gerookte scharrelkipfilet
 - [ ] Varkenshaas (250 g)
-- [ ] Jumbo Tostiham 150 g
+- [ ] Tostiham 150 g
 
 ## 🍞 Brood & Granen
 
 - [ ] Volkoren brood
-- [ ] Havervlokken Crownfield (Lidl)
+- [ ] Havervlokken Crownfield
 - [ ] Witte rijst
 
 ## 🥦 Groenten
@@ -35,8 +35,8 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Courgette (1 stuk)
 - [ ] Zoete aardappelen (550 g)
 - [ ] Cherrytomaatjes (bakje 250 g)
-- [ ] Jumbo IJsbergsla
-- [ ] Jumbo Veldsla 200 g
+- [ ] IJsbergsla 200 g
+- [ ] Veldsla 200 g
 
 ## 🍎 Fruit
 

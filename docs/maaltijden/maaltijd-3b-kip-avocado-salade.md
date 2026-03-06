@@ -17,7 +17,7 @@ title: "Kip-Avocado Salade — 13:00"
 
 | Ingrediënt                                | Hoeveelheid       |
 | :---------------------------------------- | :---------------- |
-| Gerookte scharrelkipfilet (Aldi)          | 70 g              |
+| Gerookte scharrelkipfilet                 | 70 g              |
 | Avocado                                   | ½ stuk (~70 g)    |
 | Kaas 48+ (in blokjes)                     | 25 g              |
 | Tostiham (Jumbo, in reepjes)              | 30 g              |
@@ -33,7 +33,7 @@ title: "Kip-Avocado Salade — 13:00"
 
 <div class="prep-section">
 
-<h3>🔪 Snijden</h3>
+### 🔪 Snijden
 
 - Snijd 70 g gerookte scharrelkipfilet in blokjes
 - Halveer de avocado, verwijder pit, snijd vruchtvlees in blokjes — besprenkel met citroensap tegen verkleuring
