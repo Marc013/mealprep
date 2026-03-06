@@ -1,7 +1,7 @@
 title: "Strongman Meals"
 description: "Maaltijdplan & Mealprep"
-baseurl: ""
-url: ""
+baseurl: "/mealprep"
+url: "https://marc013.github.io"
 
 markdown: kramdown
 kramdown:
