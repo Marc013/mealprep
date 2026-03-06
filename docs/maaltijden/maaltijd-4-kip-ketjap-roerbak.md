@@ -15,20 +15,20 @@ title: "Kip Ketjap Roerbak — 15:45"
 
 ## Ingrediënten
 
-| Ingrediënt | Per portie | Voor 5 porties |
-|:---|:---|:---|
-| Kipfilet | 100 g | 500 g |
-| Witte rijst (droog) | 65 g | 325 g |
-| Champignons (vers) | 60 g | 300 g |
-| Paprika (rood) | 60 g (~½ stuk) | 300 g (~3 stuks) |
-| Ui (gesnipperd) | 40 g (~½ stuk) | 200 g (~3 stuks) |
-| Broccoli (roosjes) | 80 g | 400 g |
-| Courgette | 50 g | 250 g |
-| Ketjap manis | 20 ml (~1,5 el) | 100 ml |
-| Olijfolie | 15 ml (~1 el) | 75 ml |
-| Knoflook | 1 teentje | 5 teentjes |
-| Gemberpoeder | 1 g | 5 g |
-| Zwarte peper | naar smaak | naar smaak |
+| Ingrediënt          | Per portie      | Voor 5 porties   |
+| :------------------ | :-------------- | :--------------- |
+| Kipfilet            | 100 g           | 500 g            |
+| Witte rijst (droog) | 65 g            | 325 g            |
+| Champignons (vers)  | 60 g            | 300 g            |
+| Paprika (rood)      | 60 g (~½ stuk)  | 300 g (~3 stuks) |
+| Ui (gesnipperd)     | 40 g (~½ stuk)  | 200 g (~3 stuks) |
+| Broccoli (roosjes)  | 80 g            | 400 g            |
+| Courgette           | 50 g            | 250 g            |
+| Ketjap manis        | 20 ml (~1,5 el) | 100 ml           |
+| Olijfolie           | 15 ml (~1 el)   | 75 ml            |
+| Knoflook            | 1 teentje       | 5 teentjes       |
+| Gemberpoeder        | 1 g             | 5 g              |
+| Zwarte peper        | naar smaak      | naar smaak       |
 
 ## Voorbereiding (snijwerk)
 
