@@ -33,7 +33,7 @@ title: "Kip-Avocado Salade — 13:00"
 
 <div class="prep-section">
 
-### 🔪 Snijden
+<h3>🔪 Snijden</h3>
 
 - Snijd 70 g gerookte scharrelkipfilet in blokjes
 - Halveer de avocado, verwijder pit, snijd vruchtvlees in blokjes — besprenkel met citroensap tegen verkleuring

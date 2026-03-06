@@ -30,7 +30,7 @@ title: "Gebakken Eieren met Kaas & Ham — 13:00"
 
 <div class="prep-section">
 
-### 🔪 Snijden
+<h3>🔪 Snijden</h3>
 
 - Snijd 40 g kaas in kleine blokjes<br>
 - Snijd 30 g tostiham in reepjes<br>
