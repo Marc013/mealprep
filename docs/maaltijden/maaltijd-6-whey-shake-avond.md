@@ -31,4 +31,4 @@ Tik op een stap om deze als klaar te markeren.
   <li>Schil de 2 kiwi's, snijd in plakjes of eet met een lepeltje uit de schil.</li>
 </ol>
 
-> **Fruitvariatie:** Wissel de kiwi's af met 2 mandarijnen (~140 g), 1 appel (~180 g) of een handvol druiven (~150 g). De macro's blijven nagenoeg gelijk (±15 kcal).
+> **Fruitvariatie:** Wissel de kiwi's af met 2 mandarijnen (~100 g), 1 appel (~100 g) of een handvol druiven (~100 g).

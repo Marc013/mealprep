@@ -9,34 +9,33 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 
 - [ ] Magere kwark (500 g)
 - [ ] Halfvolle yoghurt (500 ml)
-- [ ] Houdbare halfvolle melk
 - [ ] Eieren (doos van 10)
 - [ ] Coco Vite Vloeibaar Eiwit 500 g
-- [ ] Kaas 48+
+- [ ] Kaas 45+
 
 ## 🥩 Vlees & Eiwitten
 
 - [ ] Kipfilet (750 g totaal)
 - [ ] Gerookte scharrelkipfilet
 - [ ] Varkenshaas (250 g)
-- [ ] Tostiham 150 g
+- [ ] Jumbo Tostiham 150 g
 
 ## 🍞 Brood & Granen
 
 - [ ] Volkoren brood
-- [ ] Havervlokken Crownfield
+- [ ] Havervlokken Crownfield (Lidl)
 - [ ] Witte rijst
 
 ## 🥦 Groenten
 
 - [ ] Champignons vers (3x bakje 250 g)
 - [ ] Rode paprika (6 stuks)
+- [ ] Uien (6 stuks)
 - [ ] Broccoli (1 krop ~400 g)
 - [ ] Courgette (1 stuk)
 - [ ] Zoete aardappelen (550 g)
 - [ ] Cherrytomaatjes (bakje 250 g)
-- [ ] IJsbergsla 200 g
-- [ ] Veldsla 200 g
+- [ ] Gemengde sla (IJsbergsla & Veldsla) 200 g
 
 ## 🍎 Fruit
 
@@ -57,5 +56,14 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 
 ## 🧂 Sauzen & Kruiden
 
+- [ ] Ketjap manis (fles)
 - [ ] 100% Pindakaas naturel (pot)
 - [ ] Olijfolie
+- [ ] Knoflook (bol)
+- [ ] Kaneelpoeder
+- [ ] Gemberpoeder
+- [ ] Paprikapoeder (gerookt)
+- [ ] Komijnpoeder
+- [ ] Chilipoeder — optioneel
+- [ ] Zwarte peper
+- [ ] Zout

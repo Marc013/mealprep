@@ -17,7 +17,7 @@ title: "Whey Shake + Fruit — 07:30"
 | :----------------------------------- | :-------------- |
 | Perfect Whey Protein (XXL Nutrition) | 50 g (2 scoops) |
 | Water                                | 300 ml          |
-| Appel (middelgroot)                  | 1 stuk (~180 g) |
+| Appel (middelgroot)                  | 1 stuk (~100 g) |
 
 ## Bereidingswijze
 
@@ -31,4 +31,4 @@ Tik op een stap om deze als klaar te markeren.
   <li>Was de appel en eet deze bij de shake.</li>
 </ol>
 
-> **Fruitvariatie:** Wissel de appel af met 2 kiwi's (~150 g), 2 mandarijnen (~140 g) of een handvol druiven (~150 g). De macro's blijven nagenoeg gelijk (±15 kcal).
+> **Fruitvariatie:** Wissel de appel af met 2 kiwi's (~150 g), 2 mandarijnen (~100 g) of een handvol druiven (~100 g).

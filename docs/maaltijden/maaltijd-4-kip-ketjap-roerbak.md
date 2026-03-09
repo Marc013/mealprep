@@ -8,31 +8,31 @@ title: "Kip Ketjap Roerbak — 15:45"
 
 <div class="macro-bar">
   <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">480</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">25 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">15 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">62 g</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">31 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">8 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value"> 69 g</div></div>
 </div>
 
 ## Ingrediënten
 
-| Ingrediënt          | Per portie      | Voor 5 porties   |
-| :------------------ | :-------------- | :--------------- |
-| Kipfilet            | 100 g           | 500 g            |
-| Witte rijst (droog) | 65 g            | 325 g            |
-| Champignons (vers)  | 60 g            | 300 g            |
-| Paprika (rood)      | 60 g (~½ stuk)  | 300 g (~3 stuks) |
-| Ui (gesnipperd)     | 40 g (~½ stuk)  | 200 g (~3 stuks) |
-| Broccoli (roosjes)  | 80 g            | 400 g            |
-| Courgette           | 50 g            | 250 g            |
-| Ketjap manis        | 20 ml (~1,5 el) | 100 ml           |
-| Olijfolie           | 15 ml (~1 el)   | 75 ml            |
-| Knoflook            | 1 teentje       | 5 teentjes       |
-| Gemberpoeder        | 1 g             | 5 g              |
-| Zwarte peper        | naar smaak      | naar smaak       |
+| Ingrediënt          | Per portie       | Voor 5 porties     |
+| :------------------ | :--------------- | :----------------- |
+| Kipfilet            | 100 g            | 500 g              |
+| Witte rijst (droog) | 55 g             | 275 g              |
+| Champignons (vers)  | 60 g             | 300 g              |
+| Paprika (rood)      | 60 g (~½ stuk)   | 300 g (~3 stuks)   |
+| Ui (gesnipperd)     | 40 g (~½ stuk)   | 200 g (~3 stuks)   |
+| Broccoli (roosjes)  | 40 g             | 200 g              |
+| Courgette           | 50 g             | 250 g              |
+| Ketjap manis        | 20 ml (~1,5 el)  | 100 ml             |
+| Olijfolie           | 4.8 ml           | 24 ml              |
+| Knoflook            | 5 g (~1 teentje) | 25 g (~5 teentjes) |
+| Gemberpoeder        | 1 g              | 5 g                |
+| Zwarte peper        | naar smaak       | naar smaak         |
 
 ## Voorbereiding (snijwerk)
 
-<div class="prep-section" markdown="1">
+<div class="prep-section">
 
 <h3>🔪 Snijden — doe dit als eerste</h3>
 

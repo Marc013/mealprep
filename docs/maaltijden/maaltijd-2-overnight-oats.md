@@ -5,10 +5,10 @@ title: "Overnight Oats Bowl — 10:15"
 <a href="{{ '/maaltijden/' | relative_url }}" class="back-link">← Terug naar maaltijden</a>
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">420</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">25 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">13 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">55 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">424</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">20 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">9 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">59 g</div></div>
 </div>
 
 ## Ingrediënten
@@ -16,11 +16,11 @@ title: "Overnight Oats Bowl — 10:15"
 | Ingrediënt                    | Hoeveelheid     |
 | :---------------------------- | :-------------- |
 | Havervlokken (Crownfield)     | 50 g            |
-| Magere kwark                  | 150 g           |
-| Halfvolle yoghurt             | 50 g            |
+| Magere kwark                  | 50 g            |
+| Halfvolle yoghurt             | 75 g            |
 | Diepvries bosvruchten (Jumbo) | 80 g            |
 | Banaan (klein)                | 1 stuk (~100 g) |
-| 100% pindakaas naturel        | 15 g            |
+| 100% pindakaas naturel        | 8 g             |
 | Kaneelpoeder                  | 1 g (snufje)    |
 
 ## Voorbereiding — Avond ervoor

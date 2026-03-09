@@ -18,15 +18,15 @@ title: "Kip-Avocado Salade — 13:00"
 | Ingrediënt                                | Hoeveelheid       |
 | :---------------------------------------- | :---------------- |
 | Gerookte scharrelkipfilet                 | 70 g              |
-| Avocado                                   | ½ stuk (~70 g)    |
-| Kaas 48+ (in blokjes)                     | 25 g              |
+| Avocado                                   | 60 g (~½ stuk)    |
+| Kaas 45+ (in blokjes)                     | 25 g              |
 | Tostiham (Jumbo, in reepjes)              | 30 g              |
 | Gemengde sla (Jumbo IJsbergsla & Veldsla) | 50 g              |
 | Paprika (rood of geel, in blokjes)        | 50 g              |
 | Cherrytomaatjes                           | 50 g              |
 | Mais (blik, uitgelekt)                    | 40 g              |
 | Olijfolie                                 | 5 ml (½ eetlepel) |
-| Mosterd (Dijon)                           | 5 g (1 theelepel) |
+| Mosterd (Franse)                          | 5 g (1 theelepel) |
 | Zout & zwarte peper                       | naar smaak        |
 
 ## Voorbereiding (snijwerk)
