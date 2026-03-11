@@ -54,8 +54,8 @@
                 });
             });
 
-            // Dynamic mealprep A/B selector for grocery list
-            if (window.location.pathname.includes('boodschappen')) {
+            // Dynamic mealprep A/B selector for grocery list and macro overview
+            if (window.location.pathname.includes('boodschappen') || window.location.pathname.includes('macros')) {
                 setupMealPrepSelector();
             }
 
@@ -65,6 +65,27 @@
                     li.querySelector('[data-mealprep-choice]')
                 );
 
+                // Macros page: replace the placeholder selector
+                const macroSelector = document.getElementById('macro-mealprep-selector');
+                if (macroSelector) {
+                    const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
+                    const buttons = macroSelector.querySelectorAll('.selector-btn');
+
+                    buttons.forEach(btn => {
+                        const choice = btn.getAttribute('data-macro-choice');
+                        if (choice === savedChoice) {
+                            btn.classList.add('active');
+                        }
+                        btn.addEventListener('click', function () {
+                            setMealPrepChoice(choice);
+                        });
+                    });
+
+                    setMealPrepChoice(savedChoice);
+                    return;
+                }
+
+                // Grocery list: create selector dynamically
                 if (!hasOptions) return;
 
                 const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
@@ -88,23 +109,30 @@
 
                 // Insert right after the page title h1
                 const mainEl = document.querySelector('main.container');
-                const pageTitle = mainEl ? mainEl.querySelector('h1') : null;
-                if (pageTitle) {
-                    pageTitle.insertAdjacentElement('afterend', selector);
-                } else {
-                    const firstUl = document.querySelector('main ul');
-                    if (firstUl) firstUl.parentNode.insertBefore(selector, firstUl);
-                }
-
-                const buttons = selector.querySelectorAll('.selector-btn');
-                buttons.forEach(btn => {
-                    btn.addEventListener('click', function () {
-                        setMealPrepChoice(this.getAttribute('data-choice'));
-                    });
+                const pageTitle = mainEl ? mai(both selector locations)
+                document.querySelectorAll('#mealprep-selector .selector-btn, #macro-mealprep-selector .selector-btn').forEach(btn => {
+                    const btnChoice = btn.getAttribute('data-choice') || btn.getAttribute('data-macro-choice');
+                    btn.classList.toggle('active', btnChoice === choice);
                 });
 
-                setMealPrepChoice(savedChoice);
+                // Hide/show macro rows based on choice
+                document.querySelectorAll('[data-mealprep-row]').forEach(elem => {
+                    const elementChoice = elem.getAttribute('data-mealprep-row');
+                    elem.parentElement.style.display = elementChoice === choice ? '' : 'none';
+                });
+
+                // Show/hide grocery list items based on choiceinsertBefore(selector, firstUl);
             }
+
+            const buttons = selector.querySelectorAll('.selector-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', function () {
+                    setMealPrepChoice(this.getAttribute('data-choice'));
+                });
+            });
+
+            setMealPrepChoice(savedChoice);
+        }
 
             function setMealPrepChoice(choice) {
                 localStorage.setItem('mealprep-15-45-choice', choice);

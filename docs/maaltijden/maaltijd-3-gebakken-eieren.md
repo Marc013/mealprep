@@ -26,7 +26,7 @@ title: "Gebakken Eieren met Kaas & Ham — 13:00"
 
 ## Voorbereiding (snijwerk)
 
-<div class="prep-section">
+<div class="prep-section" markdown="1">
 
 <h3>🔪 Snijden</h3>
 

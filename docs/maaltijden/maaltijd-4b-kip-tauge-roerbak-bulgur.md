@@ -15,8 +15,6 @@ title: "Kip & Taugé Roerbak met Bulgur — 15:45"
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">65,3 g</div></div>
 </div>
 
-> **Waarom dit gerecht meer volume biedt:** Rijst (275 g droog) is vervangen door bulgur (165 g droog) en een grote hoeveelheid taugé (875 g). Taugé heeft slechts ~30 kcal/100 g maar neemt veel ruimte en vult goed. Het resultaat is ~600–650 g per portie na bereiding, tegenover ~450 g bij de originele roerbak — bij identiek caloriebudget.
-
 ## Ingrediënten
 
 | Ingrediënt         | Per portie       | Voor 5 porties     |
@@ -39,7 +37,7 @@ title: "Kip & Taugé Roerbak met Bulgur — 15:45"
 
 ## Voorbereiding (snijwerk)
 
-<div class="prep-section">
+<div class="prep-section" markdown="1">
 
 <h3>🔪 Snijden — doe dit als eerste</h3>
 
