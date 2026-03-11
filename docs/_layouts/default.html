@@ -25,28 +25,23 @@
         document.addEventListener('DOMContentLoaded', function () {
             const checkboxes = document.querySelectorAll('input[type="checkbox"]');
 
-            // Initialize checkboxes from localStorage
-            checkboxes.forEach(function (cb, index) {
-                // Jekyll renders GFM task-list checkboxes as disabled — enable them
+            checkboxes.forEach(function (cb) {
+                // Jekyll renders GFM task-list checkboxes as disabled; enable interaction.
                 cb.disabled = false;
 
-                // Create unique key using page path + text content for stability
                 const label = cb.parentElement.textContent.trim().substring(0, 50);
                 const key = 'mealprep-checkbox-' + window.location.pathname + '-' + label;
 
-                // Restore state if it exists
                 const saved = localStorage.getItem(key);
                 if (saved !== null) {
                     cb.checked = saved === 'true';
                 }
 
-                // Save state on every change
                 cb.addEventListener('change', function () {
                     localStorage.setItem(key, cb.checked.toString());
                 });
             });
 
-            // Cooking step highlight on tap (for recipe pages)
             const steps = document.querySelectorAll('.cooking-steps li');
             steps.forEach(function (step) {
                 step.addEventListener('click', function () {
@@ -54,111 +49,175 @@
                 });
             });
 
-            // Dynamic mealprep A/B selector for grocery list and macro overview
             if (window.location.pathname.includes('boodschappen') || window.location.pathname.includes('macros')) {
                 setupMealPrepSelector();
             }
+        });
 
-            function setupMealPrepSelector() {
-                const allItems = document.querySelectorAll('main ul li');
-                const hasOptions = Array.from(allItems).some(li =>
-                    li.querySelector('[data-mealprep-choice]')
-                );
+        function setupMealPrepSelector() {
+            const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
+            const savedLunchChoice = localStorage.getItem('lunch-13-00-choice') || 'EIEREN';
 
-                // Macros page: replace the placeholder selector
-                const macroSelector = document.getElementById('macro-mealprep-selector');
+            // Macros page uses a static selector that already exists in the markdown.
+            const macroSelector = document.getElementById('macro-mealprep-selector');
+            const lunchSelector = document.getElementById('macro-lunch-selector');
+            if (macroSelector || lunchSelector) {
                 if (macroSelector) {
-                    const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
                     const buttons = macroSelector.querySelectorAll('.selector-btn');
-
-                    buttons.forEach(btn => {
-                        const choice = btn.getAttribute('data-macro-choice');
-                        if (choice === savedChoice) {
-                            btn.classList.add('active');
-                        }
+                    buttons.forEach(function (btn) {
                         btn.addEventListener('click', function () {
+                            const choice = btn.getAttribute('data-macro-choice');
                             setMealPrepChoice(choice);
                         });
                     });
-
-                    setMealPrepChoice(savedChoice);
-                    return;
                 }
 
-                // Grocery list: create selector dynamically
-                if (!hasOptions) return;
+                if (lunchSelector) {
+                    const lunchButtons = lunchSelector.querySelectorAll('.selector-btn');
+                    lunchButtons.forEach(function (btn) {
+                        btn.addEventListener('click', function () {
+                            const choice = btn.getAttribute('data-lunch-choice');
+                            setLunchChoice(choice);
+                        });
+                    });
+                }
 
-                const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
+                setMealPrepChoice(savedChoice);
+                setLunchChoice(savedLunchChoice);
+                return;
+            }
 
-                const selector = document.createElement('div');
-                selector.id = 'mealprep-selector';
-                selector.className = 'mealprep-selector';
-                selector.innerHTML = `
-                    <strong>🍽️ 15:45 Mealprep — kies jouw maaltijd:</strong>
-                    <div class="selector-buttons">
-                        <button class="selector-btn" data-choice="A">
-                            <span class="btn-label">Kip Ketjap Roerbak</span>
-                            <span class="btn-sub">Met rijst</span>
-                        </button>
-                        <button class="selector-btn" data-choice="B">
-                            <span class="btn-label">Kip Taugé Roerbak</span>
-                            <span class="btn-sub">Met bulgur</span>
-                        </button>
-                    </div>
-                `;
+            // Grocery list builds the selector dynamically when choice markers exist.
+            const listItems = document.querySelectorAll('main ul li');
+            const hasChoiceMarkers = Array.from(listItems).some(function (li) {
+                return !!li.querySelector('[data-mealprep-choice]');
+            });
 
-                // Insert right after the page title h1
-                const mainEl = document.querySelector('main.container');
-                const pageTitle = mainEl ? mai(both selector locations)
-                document.querySelectorAll('#mealprep-selector .selector-btn, #macro-mealprep-selector .selector-btn').forEach(btn => {
-                    const btnChoice = btn.getAttribute('data-choice') || btn.getAttribute('data-macro-choice');
-                    btn.classList.toggle('active', btnChoice === choice);
-                });
+            if (!hasChoiceMarkers) {
+                return;
+            }
 
-                // Hide/show macro rows based on choice
-                document.querySelectorAll('[data-mealprep-row]').forEach(elem => {
-                    const elementChoice = elem.getAttribute('data-mealprep-row');
-                    elem.parentElement.style.display = elementChoice === choice ? '' : 'none';
-                });
+            const selector = document.createElement('div');
+            selector.id = 'mealprep-selector';
+            selector.className = 'mealprep-selector';
+            selector.innerHTML = `
+                <strong>🍽️ 15:45 Mealprep — kies jouw maaltijd:</strong>
+                <div class="selector-buttons">
+                    <button class="selector-btn" data-choice="A">
+                        <span class="btn-label">Kip Ketjap Roerbak</span>
+                        <span class="btn-sub">Met rijst</span>
+                    </button>
+                    <button class="selector-btn" data-choice="B">
+                        <span class="btn-label">Kip Taugé Roerbak</span>
+                        <span class="btn-sub">Met bulgur</span>
+                    </button>
+                </div>
+            `;
 
-                // Show/hide grocery list items based on choiceinsertBefore(selector, firstUl);
+            const mainEl = document.querySelector('main.container');
+            const pageTitle = mainEl ? mainEl.querySelector('h1') : null;
+            if (pageTitle) {
+                pageTitle.insertAdjacentElement('afterend', selector);
+            } else {
+                const firstUl = document.querySelector('main ul');
+                if (firstUl) {
+                    firstUl.parentNode.insertBefore(selector, firstUl);
+                }
             }
 
             const buttons = selector.querySelectorAll('.selector-btn');
-            buttons.forEach(btn => {
+            buttons.forEach(function (btn) {
                 btn.addEventListener('click', function () {
-                    setMealPrepChoice(this.getAttribute('data-choice'));
+                    const choice = btn.getAttribute('data-choice');
+                    setMealPrepChoice(choice);
                 });
             });
 
             setMealPrepChoice(savedChoice);
         }
 
-            function setMealPrepChoice(choice) {
-                localStorage.setItem('mealprep-15-45-choice', choice);
+        function setMealPrepChoice(choice) {
+            localStorage.setItem('mealprep-15-45-choice', choice);
 
-                // Update button active states
-                document.querySelectorAll('#mealprep-selector .selector-btn').forEach(btn => {
-                    btn.classList.toggle('active', btn.getAttribute('data-choice') === choice);
-                });
+            document.querySelectorAll('#mealprep-selector .selector-btn, #macro-mealprep-selector .selector-btn').forEach(function (btn) {
+                const btnChoice = btn.getAttribute('data-choice') || btn.getAttribute('data-macro-choice');
+                btn.classList.toggle('active', btnChoice === choice);
+            });
 
-                // Show/hide option items completely
-                document.querySelectorAll('main ul li').forEach(li => {
-                    const marker = li.querySelector('[data-mealprep-choice]');
+            // Grocery list filtering.
+            document.querySelectorAll('main ul li').forEach(function (li) {
+                const marker = li.querySelector('[data-mealprep-choice]');
+                if (!marker) {
+                    li.style.display = '';
+                    return;
+                }
 
-                    if (!marker) {
-                        li.style.display = '';
-                        return;
-                    }
+                li.style.display = marker.getAttribute('data-mealprep-choice') === choice ? '' : 'none';
+            });
 
-                    if (marker.getAttribute('data-mealprep-choice') !== choice) {
-                        li.style.display = 'none';
-                    } else {
-                        li.style.display = '';
-                    }
-                });
+            // Macro overview filtering.
+            document.querySelectorAll('tr[data-mealprep-choice]').forEach(function (row) {
+                row.style.display = row.getAttribute('data-mealprep-choice') === choice ? 'table-row' : 'none';
+            });
+
+            recalculateMacroTotals();
+        }
+
+        function setLunchChoice(choice) {
+            localStorage.setItem('lunch-13-00-choice', choice);
+
+            document.querySelectorAll('#macro-lunch-selector .selector-btn').forEach(function (btn) {
+                const btnChoice = btn.getAttribute('data-lunch-choice');
+                btn.classList.toggle('active', btnChoice === choice);
+            });
+
+            document.querySelectorAll('tr[data-lunch-choice]').forEach(function (row) {
+                row.style.display = row.getAttribute('data-lunch-choice') === choice ? 'table-row' : 'none';
+            });
+
+            recalculateMacroTotals();
+        }
+
+        function recalculateMacroTotals() {
+            const rows = document.querySelectorAll('tr[data-macro-row]');
+            if (rows.length === 0) {
+                return;
             }
-        });
+
+            let kcal = 0;
+            let protein = 0;
+            let fat = 0;
+            let carbs = 0;
+
+            rows.forEach(function (row) {
+                if (row.style.display === 'none') {
+                    return;
+                }
+
+                kcal += parseFloat(row.getAttribute('data-kcal') || '0');
+                protein += parseFloat(row.getAttribute('data-protein') || '0');
+                fat += parseFloat(row.getAttribute('data-fat') || '0');
+                carbs += parseFloat(row.getAttribute('data-carbs') || '0');
+            });
+
+            const totalKcal = document.getElementById('macro-total-kcal');
+            const totalProtein = document.getElementById('macro-total-protein');
+            const totalFat = document.getElementById('macro-total-fat');
+            const totalCarbs = document.getElementById('macro-total-carbs');
+
+            if (totalKcal) totalKcal.textContent = formatMacroNumber(kcal);
+            if (totalProtein) totalProtein.textContent = formatMacroNumber(protein) + ' g';
+            if (totalFat) totalFat.textContent = formatMacroNumber(fat) + ' g';
+            if (totalCarbs) totalCarbs.textContent = formatMacroNumber(carbs) + ' g';
+        }
+
+        function formatMacroNumber(value) {
+            const rounded = Math.round(value * 10) / 10;
+            if (Math.abs(rounded - Math.round(rounded)) < 0.001) {
+                return String(Math.round(rounded));
+            }
+            return rounded.toFixed(1).replace('.', ',');
+        }
     </script>
 </body>
 
