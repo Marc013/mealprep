@@ -429,6 +429,35 @@ tr:hover {
     color: var(--accent-light);
 }
 
+/* Compacte selectorvariant voor macro-overzicht */
+.selector-compact {
+    padding: 0.6rem 0.75rem;
+    border-width: 1px;
+    gap: 0.5rem;
+}
+
+.selector-compact .selector-buttons {
+    gap: 0.5rem;
+}
+
+.selector-compact .selector-btn {
+    min-width: 150px;
+    padding: 0.55rem 0.7rem;
+    border-width: 1px;
+    border-radius: 7px;
+    gap: 0.05rem;
+}
+
+.selector-compact .btn-label {
+    font-size: 0.9rem;
+    line-height: 1.2;
+}
+
+.selector-compact .btn-sub {
+    font-size: 0.72rem;
+    line-height: 1.2;
+}
+
 .mealprep-choice-marker {
     display: none;
 }
@@ -441,6 +470,10 @@ tr:hover {
 @media (max-width: 600px) {
     .mealprep-selector {
         padding: 0.85rem 1rem;
+    }
+
+    .selector-compact {
+        padding: 0.65rem 0.75rem;
     }
 
     .selector-buttons {

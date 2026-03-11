@@ -13,26 +13,9 @@ title: "📊 Macro-overzicht"
 
 ---
 
-## Mealprep 15:45 — Kies jouw variant
-
-<div id="macro-mealprep-selector" class="mealprep-selector" style="margin: 1.5rem 0;">
-  <strong>🍽️ 15:45 Mealprep — kies jouw maaltijd:</strong>
-  <div class="selector-buttons">
-    <button class="selector-btn" data-macro-choice="A">
-      <span class="btn-label">Kip Ketjap Roerbak</span>
-      <span class="btn-sub">Met rijst</span>
-    </button>
-    <button class="selector-btn" data-macro-choice="B">
-      <span class="btn-label">Kip Taugé Roerbak</span>
-      <span class="btn-sub">Met bulgur</span>
-    </button>
-  </div>
-</div>
-
 ## Lunch 13:00 — Kies jouw variant
 
-<div id="macro-lunch-selector" class="mealprep-selector" style="margin: 1.5rem 0;">
-  <strong>🥗 13:00 Lunch — kies jouw maaltijd:</strong>
+<div id="macro-lunch-selector" class="mealprep-selector selector-compact" style="margin: 0.75rem 0 1rem;">
   <div class="selector-buttons">
     <button class="selector-btn" data-lunch-choice="EIEREN">
       <span class="btn-label">Gebakken Eieren</span>
@@ -41,6 +24,21 @@ title: "📊 Macro-overzicht"
     <button class="selector-btn" data-lunch-choice="SALADE">
       <span class="btn-label">Kip-avocado salade</span>
       <span class="btn-sub">Koude variant</span>
+    </button>
+  </div>
+</div>
+
+## Mealprep 15:45 — Kies jouw variant
+
+<div id="macro-mealprep-selector" class="mealprep-selector selector-compact" style="margin: 0.75rem 0 1rem;">
+  <div class="selector-buttons">
+    <button class="selector-btn" data-macro-choice="A">
+      <span class="btn-label">Kip Ketjap Roerbak</span>
+      <span class="btn-sub">Met rijst</span>
+    </button>
+    <button class="selector-btn" data-macro-choice="B">
+      <span class="btn-label">Kip Taugé Roerbak</span>
+      <span class="btn-sub">Met bulgur</span>
     </button>
   </div>
 </div>
