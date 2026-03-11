@@ -297,6 +297,10 @@ tr:hover {
 @media (max-width: 600px) {
     table {
         font-size: 0.8rem;
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
     }
 
     th,
@@ -394,6 +398,13 @@ blockquote {
 
 blockquote strong {
     color: var(--text);
+}
+
+@media (max-width: 600px) {
+    blockquote {
+        font-size: 0.85rem;
+        padding: 0.85rem 1rem;
+    }
 }
 
 /* ── MACRO BADGE ── */

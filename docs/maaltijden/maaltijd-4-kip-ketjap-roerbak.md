@@ -6,6 +6,8 @@ title: "Kip Ketjap Roerbak — 15:45"
 
 **Mealprep — 5 porties** — Bewaar in de koelkast (max 3 dagen) of vriezer.
 
+> Dit is **optie A** voor 15:45. Wil je meer volume zonder rijst? Kies dan [optie B: Kip & Taugé Roerbak met Bulgur]({{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}). Gebruik daarna de juiste keuze in de [boodschappenlijst]({{ '/boodschappen' | relative_url }}).
+
 <div class="macro-bar">
   <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">480</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">31 g</div></div>

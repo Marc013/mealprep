@@ -2,6 +2,8 @@
 title: "Maaltijden"
 ---
 
+> 15:45 mealprep heeft twee varianten. Kies **optie A of optie B**; je maakt er per week maar één.
+
 <div class="card-grid">
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">
     <div class="time">07:30</div>
@@ -24,8 +26,13 @@ title: "Maaltijden"
     <span class="type type-vers">Vers</span>
   </a>
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">
-    <div class="time">15:45</div>
+    <div class="time">15:45 — optie A</div>
     <div class="name">Kip Ketjap Roerbak met Rijst</div>
+    <span class="type type-mealprep">Mealprep</span>
+  </a>
+  <a class="meal-card" href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">
+    <div class="time">15:45 — optie B (alternatief)</div>
+    <div class="name">Kip &amp; Taugé Roerbak met Bulgur</div>
     <span class="type type-mealprep">Mealprep</span>
   </a>
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">
