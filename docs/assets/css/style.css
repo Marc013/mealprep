@@ -429,6 +429,10 @@ tr:hover {
     color: var(--accent-light);
 }
 
+.mealprep-choice-marker {
+    display: none;
+}
+
 /* Items die verborgen zijn door A/B selectie */
 .mealprep-hidden {
     display: none;

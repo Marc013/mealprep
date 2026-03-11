@@ -62,7 +62,7 @@
             function setupMealPrepSelector() {
                 const allItems = document.querySelectorAll('main ul li');
                 const hasOptions = Array.from(allItems).some(li =>
-                    li.textContent.includes('Optie A:') || li.textContent.includes('Optie B:')
+                    li.querySelector('[data-mealprep-choice]')
                 );
 
                 if (!hasOptions) return;
@@ -76,12 +76,12 @@
                     <strong>🍽️ 15:45 Mealprep — kies jouw maaltijd:</strong>
                     <div class="selector-buttons">
                         <button class="selector-btn" data-choice="A">
-                            <span class="btn-label">Optie A</span>
-                            <span class="btn-sub">Kip Ketjap Roerbak &middot; Rijst</span>
+                            <span class="btn-label">Kip Ketjap Roerbak</span>
+                            <span class="btn-sub">Met rijst</span>
                         </button>
                         <button class="selector-btn" data-choice="B">
-                            <span class="btn-label">Optie B</span>
-                            <span class="btn-sub">Kip Taugé Roerbak &middot; Bulgur</span>
+                            <span class="btn-label">Kip Taugé Roerbak</span>
+                            <span class="btn-sub">Met bulgur</span>
                         </button>
                     </div>
                 `;
@@ -116,10 +116,14 @@
 
                 // Show/hide option items completely
                 document.querySelectorAll('main ul li').forEach(li => {
-                    const text = li.textContent;
-                    if (text.includes('Optie A:') && choice !== 'A') {
-                        li.style.display = 'none';
-                    } else if (text.includes('Optie B:') && choice !== 'B') {
+                    const marker = li.querySelector('[data-mealprep-choice]');
+
+                    if (!marker) {
+                        li.style.display = '';
+                        return;
+                    }
+
+                    if (marker.getAttribute('data-mealprep-choice') !== choice) {
                         li.style.display = 'none';
                     } else {
                         li.style.display = '';

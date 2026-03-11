@@ -5,8 +5,6 @@ title: "🛒 Weekboodschappen"
 Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 {: .text-muted}
 
-> **Tip:** Kies optie A of B voor je 15:45 mealprep — de items zullen zich aanpassen.
-
 ## 🥛 Zuivel & Eieren
 
 - [ ] Magere kwark (500 g)
@@ -27,10 +25,10 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Volkoren brood
 - [ ] Havervlokken Crownfield (Lidl)
 
-### 15:45 Mealprep — Kies A of B
+### 15:45 Mealprep
 
-- [ ] Optie A: Witte rijst (275 g droog)
-- [ ] Optie B: Bulgur (165 g droog)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Witte rijst (275 g droog)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Bulgur (165 g droog)
 
 ## 🥦 Groenten
 
@@ -42,12 +40,12 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Cherrytomaatjes (bakje 250 g)
 - [ ] Gemengde sla (IJsbergsla & Veldsla) 200 g
 
-### 15:45 Mealprep — Kies A of B
+### 15:45 Mealprep
 
-- [ ] Optie A: Broccoli (1 krop ~400 g)
-- [ ] Optie B: Taugé (875 g)
-- [ ] Optie B: Prei (400 g ~5 stuks)
-- [ ] Optie B: Wortel (250 g)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Broccoli (1 krop ~400 g)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Taugé (875 g)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Prei (400 g ~5 stuks)
+- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Wortel (250 g)
 
 ## 🍎 Fruit
 
