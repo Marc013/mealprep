@@ -357,6 +357,80 @@ tr:hover {
     content: '✓';
 }
 
+/* ── MEALPREP A/B SELECTOR ── */
+.mealprep-selector {
+    background: var(--card);
+    border: 2px solid var(--accent);
+    border-radius: var(--radius);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.mealprep-selector strong {
+    color: var(--accent);
+    font-size: 1rem;
+}
+
+.selector-buttons {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.selector-btn {
+    flex: 1;
+    min-width: 150px;
+    padding: 0.75rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-weight: 500;
+}
+
+.selector-btn:hover {
+    background: var(--card);
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+.selector-btn.active {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+    font-weight: 600;
+}
+
+/* Items die verborgen zijn door A/B selectie */
+.mealprep-hidden {
+    pointer-events: none;
+}
+
+@media (max-width: 600px) {
+    .mealprep-selector {
+        padding: 0.85rem;
+        flex-direction: column;
+    }
+
+    .selector-buttons {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .selector-btn {
+        min-width: unset;
+        width: 100%;
+    }
+}
+
 /* ── CHECKLIST (boodschappen) ── */
 .task-list-item {
     list-style: none;
@@ -373,12 +447,27 @@ tr:hover {
     height: 1.25rem;
     accent-color: var(--green);
     flex-shrink: 0;
+    cursor: pointer;
 }
 
-.task-list-item-checkbox:checked+span,
-input[type="checkbox"]:checked~* {
+/* Styling voor checked items */
+.task-list-item input[type="checkbox"]:checked+span,
+.task-list-item.task-list-item-checked {
     opacity: 0.5;
     text-decoration: line-through;
+    color: var(--text-muted);
+}
+
+/* Als de checkbox direct de label-tekst omhult */
+.task-list-item input[type="checkbox"]+label {
+    cursor: pointer;
+    flex-grow: 1;
+}
+
+.task-list-item input[type="checkbox"]:checked+label {
+    opacity: 0.5;
+    text-decoration: line-through;
+    color: var(--text-muted);
 }
 
 ul:has(.task-list-item) {

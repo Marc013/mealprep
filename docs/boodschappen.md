@@ -5,11 +5,7 @@ title: "🛒 Weekboodschappen"
 Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 {: .text-muted}
 
-> Voor maaltijd 15:45 kies je **1 variant**:
-> **Optie A:** Kip Ketjap Roerbak met Rijst
-> **Optie B:** Kip & Taugé Roerbak met Bulgur
->
-> Vink bij de keuze-secties alleen de variant aan die je deze week maakt.
+> **Tip:** Kies optie A of B voor je 15:45 mealprep — de items zullen zich aanpassen.
 
 ## 🥛 Zuivel & Eieren
 
@@ -31,7 +27,7 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Volkoren brood
 - [ ] Havervlokken Crownfield (Lidl)
 
-### Keuze 15:45 mealprep (kies A of B)
+### 15:45 Mealprep — Kies A of B
 
 - [ ] Optie A: Witte rijst (275 g droog)
 - [ ] Optie B: Bulgur (165 g droog)
@@ -46,11 +42,11 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Cherrytomaatjes (bakje 250 g)
 - [ ] Gemengde sla (IJsbergsla & Veldsla) 200 g
 
-### Keuze 15:45 mealprep (kies A of B)
+### 15:45 Mealprep — Kies A of B
 
 - [ ] Optie A: Broccoli (1 krop ~400 g)
 - [ ] Optie B: Taugé (875 g)
-- [ ] Optie B: Prei (400 g)
+- [ ] Optie B: Prei (400 g ~5 stuks)
 - [ ] Optie B: Wortel (250 g)
 
 ## 🍎 Fruit

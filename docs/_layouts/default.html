@@ -24,21 +24,113 @@
         // Checkbox state persistence via localStorage
         document.addEventListener('DOMContentLoaded', function () {
             const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-            checkboxes.forEach(function (cb, i) {
-                const key = 'cb-' + window.location.pathname + '-' + i;
-                cb.checked = localStorage.getItem(key) === 'true';
+
+            // Initialize checkboxes from localStorage
+            checkboxes.forEach(function (cb, index) {
+                // Create unique key using page path + text content for stability
+                const label = cb.parentElement.textContent.trim().substring(0, 50);
+                const key = 'mealprep-checkbox-' + window.location.pathname + '-' + label;
+
+                // Restore state if it exists
+                const saved = localStorage.getItem(key);
+                if (saved !== null) {
+                    cb.checked = saved === 'true';
+                }
+
+                // Save state on every change
                 cb.addEventListener('change', function () {
-                    localStorage.setItem(key, cb.checked);
+                    localStorage.setItem(key, cb.checked.toString());
                 });
             });
 
-            // Cooking step highlight on tap
+            // Cooking step highlight on tap (for recipe pages)
             const steps = document.querySelectorAll('.cooking-steps li');
             steps.forEach(function (step) {
                 step.addEventListener('click', function () {
                     step.classList.toggle('step-done');
                 });
             });
+
+            // Dynamic mealprep A/B selector for grocery list
+            if (window.location.pathname.includes('boodschappen')) {
+                setupMealPrepSelector();
+            }
+
+            function setupMealPrepSelector() {
+                // Find all list items
+                const allItems = document.querySelectorAll('main ul li');
+                const itemsWithOptions = Array.from(allItems).filter(li =>
+                    li.textContent.includes('Optie A:') || li.textContent.includes('Optie B:')
+                );
+
+                if (itemsWithOptions.length === 0) return;
+
+                // Get or set saved preference
+                const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
+
+                // Create selector UI
+                const selector = document.createElement('div');
+                selector.id = 'mealprep-selector';
+                selector.className = 'mealprep-selector';
+                selector.innerHTML = `
+                    <strong>15:45 Mealprep keuze:</strong>
+                    <div class="selector-buttons">
+                        <button class="selector-btn ${savedChoice === 'A' ? 'active' : ''}" data-choice="A">
+                            ▢ Optie A: Rijst
+                        </button>
+                        <button class="selector-btn ${savedChoice === 'B' ? 'active' : ''}" data-choice="B">
+                            ▢ Optie B: Bulgur
+                        </button>
+                    </div>
+                `;
+
+                // Insert before first content ul
+                const firstUl = document.querySelector('main > ul');
+                if (firstUl) {
+                    firstUl.parentNode.insertBefore(selector, firstUl);
+                }
+
+                // Add event listeners
+                const buttons = selector.querySelectorAll('.selector-btn');
+                buttons.forEach(btn => {
+                    btn.addEventListener('click', function () {
+                        const choice = this.getAttribute('data-choice');
+                        setMealPrepChoice(choice);
+
+                        // Update active state
+                        buttons.forEach(b => b.classList.remove('active'));
+                        this.classList.add('active');
+                    });
+                });
+
+                // Apply initial choice
+                setMealPrepChoice(savedChoice);
+            }
+
+            function setMealPrepChoice(choice) {
+                localStorage.setItem('mealprep-15-45-choice', choice);
+
+                // Get all items
+                const allItems = document.querySelectorAll('main ul li');
+
+                allItems.forEach(li => {
+                    const text = li.textContent;
+
+                    if (text.includes('Optie A:') && choice !== 'A') {
+                        li.style.opacity = '0.3';
+                        li.style.pointerEvents = 'none';
+                        li.classList.add('mealprep-hidden');
+                    } else if (text.includes('Optie B:') && choice !== 'B') {
+                        li.style.opacity = '0.3';
+                        li.style.pointerEvents = 'none';
+                        li.classList.add('mealprep-hidden');
+                    } else {
+                        li.style.opacity = '1';
+                        li.style.pointerEvents = 'auto';
+                        li.classList.remove('mealprep-hidden');
+                    }
+                });
+            }
         });
     </script>
 </body>
