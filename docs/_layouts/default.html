@@ -27,6 +27,9 @@
 
             // Initialize checkboxes from localStorage
             checkboxes.forEach(function (cb, index) {
+                // Jekyll renders GFM task-list checkboxes as disabled — enable them
+                cb.disabled = false;
+
                 // Create unique key using page path + text content for stability
                 const label = cb.parentElement.textContent.trim().substring(0, 50);
                 const key = 'mealprep-checkbox-' + window.location.pathname + '-' + label;
@@ -57,77 +60,69 @@
             }
 
             function setupMealPrepSelector() {
-                // Find all list items
                 const allItems = document.querySelectorAll('main ul li');
-                const itemsWithOptions = Array.from(allItems).filter(li =>
+                const hasOptions = Array.from(allItems).some(li =>
                     li.textContent.includes('Optie A:') || li.textContent.includes('Optie B:')
                 );
 
-                if (itemsWithOptions.length === 0) return;
+                if (!hasOptions) return;
 
-                // Get or set saved preference
                 const savedChoice = localStorage.getItem('mealprep-15-45-choice') || 'A';
 
-                // Create selector UI
                 const selector = document.createElement('div');
                 selector.id = 'mealprep-selector';
                 selector.className = 'mealprep-selector';
                 selector.innerHTML = `
-                    <strong>15:45 Mealprep keuze:</strong>
+                    <strong>🍽️ 15:45 Mealprep — kies jouw maaltijd:</strong>
                     <div class="selector-buttons">
-                        <button class="selector-btn ${savedChoice === 'A' ? 'active' : ''}" data-choice="A">
-                            ▢ Optie A: Rijst
+                        <button class="selector-btn" data-choice="A">
+                            <span class="btn-label">Optie A</span>
+                            <span class="btn-sub">Kip Ketjap Roerbak &middot; Rijst</span>
                         </button>
-                        <button class="selector-btn ${savedChoice === 'B' ? 'active' : ''}" data-choice="B">
-                            ▢ Optie B: Bulgur
+                        <button class="selector-btn" data-choice="B">
+                            <span class="btn-label">Optie B</span>
+                            <span class="btn-sub">Kip Taugé Roerbak &middot; Bulgur</span>
                         </button>
                     </div>
                 `;
 
-                // Insert before first content ul
-                const firstUl = document.querySelector('main > ul');
-                if (firstUl) {
-                    firstUl.parentNode.insertBefore(selector, firstUl);
+                // Insert right after the page title h1
+                const mainEl = document.querySelector('main.container');
+                const pageTitle = mainEl ? mainEl.querySelector('h1') : null;
+                if (pageTitle) {
+                    pageTitle.insertAdjacentElement('afterend', selector);
+                } else {
+                    const firstUl = document.querySelector('main ul');
+                    if (firstUl) firstUl.parentNode.insertBefore(selector, firstUl);
                 }
 
-                // Add event listeners
                 const buttons = selector.querySelectorAll('.selector-btn');
                 buttons.forEach(btn => {
                     btn.addEventListener('click', function () {
-                        const choice = this.getAttribute('data-choice');
-                        setMealPrepChoice(choice);
-
-                        // Update active state
-                        buttons.forEach(b => b.classList.remove('active'));
-                        this.classList.add('active');
+                        setMealPrepChoice(this.getAttribute('data-choice'));
                     });
                 });
 
-                // Apply initial choice
                 setMealPrepChoice(savedChoice);
             }
 
             function setMealPrepChoice(choice) {
                 localStorage.setItem('mealprep-15-45-choice', choice);
 
-                // Get all items
-                const allItems = document.querySelectorAll('main ul li');
+                // Update button active states
+                document.querySelectorAll('#mealprep-selector .selector-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.getAttribute('data-choice') === choice);
+                });
 
-                allItems.forEach(li => {
+                // Show/hide option items completely
+                document.querySelectorAll('main ul li').forEach(li => {
                     const text = li.textContent;
-
                     if (text.includes('Optie A:') && choice !== 'A') {
-                        li.style.opacity = '0.3';
-                        li.style.pointerEvents = 'none';
-                        li.classList.add('mealprep-hidden');
+                        li.style.display = 'none';
                     } else if (text.includes('Optie B:') && choice !== 'B') {
-                        li.style.opacity = '0.3';
-                        li.style.pointerEvents = 'none';
-                        li.classList.add('mealprep-hidden');
+                        li.style.display = 'none';
                     } else {
-                        li.style.opacity = '1';
-                        li.style.pointerEvents = 'auto';
-                        li.classList.remove('mealprep-hidden');
+                        li.style.display = '';
                     }
                 });
             }

@@ -362,12 +362,11 @@ tr:hover {
     background: var(--card);
     border: 2px solid var(--accent);
     border-radius: var(--radius);
-    padding: 1rem;
+    padding: 1rem 1.25rem;
     margin: 1.5rem 0;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
-    align-items: flex-start;
+    gap: 0.75rem;
 }
 
 .mealprep-selector strong {
@@ -384,40 +383,60 @@ tr:hover {
 
 .selector-btn {
     flex: 1;
-    min-width: 150px;
-    padding: 0.75rem 1rem;
+    min-width: 180px;
+    padding: 0.85rem 1rem;
     background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--text);
-    border-radius: 6px;
+    border: 2px solid var(--border);
+    color: var(--text-muted);
+    border-radius: 8px;
     font-size: 0.9rem;
     cursor: pointer;
     transition: all 0.2s;
-    font-weight: 500;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
 }
 
 .selector-btn:hover {
-    background: var(--card);
     border-color: var(--accent);
-    color: var(--accent);
+    color: var(--text);
 }
 
 .selector-btn.active {
-    background: var(--accent);
-    color: var(--bg);
+    background: rgba(240, 136, 62, 0.12);
     border-color: var(--accent);
-    font-weight: 600;
+    color: var(--text);
+}
+
+.btn-label {
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--text-muted);
+}
+
+.selector-btn.active .btn-label {
+    color: var(--accent);
+}
+
+.btn-sub {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+.selector-btn.active .btn-sub {
+    color: var(--accent-light);
 }
 
 /* Items die verborgen zijn door A/B selectie */
 .mealprep-hidden {
-    pointer-events: none;
+    display: none;
 }
 
 @media (max-width: 600px) {
     .mealprep-selector {
-        padding: 0.85rem;
-        flex-direction: column;
+        padding: 0.85rem 1rem;
     }
 
     .selector-buttons {
@@ -450,21 +469,8 @@ tr:hover {
     cursor: pointer;
 }
 
-/* Styling voor checked items */
-.task-list-item input[type="checkbox"]:checked+span,
-.task-list-item.task-list-item-checked {
-    opacity: 0.5;
-    text-decoration: line-through;
-    color: var(--text-muted);
-}
-
-/* Als de checkbox direct de label-tekst omhult */
-.task-list-item input[type="checkbox"]+label {
-    cursor: pointer;
-    flex-grow: 1;
-}
-
-.task-list-item input[type="checkbox"]:checked+label {
+/* Styling voor checked items — :has() werkt omdat Jekyll tekst als text node rendert, niet als <span> */
+.task-list-item:has(input[type="checkbox"]:checked) {
     opacity: 0.5;
     text-decoration: line-through;
     color: var(--text-muted);
@@ -472,6 +478,12 @@ tr:hover {
 
 ul:has(.task-list-item) {
     padding-left: 0;
+}
+
+/* ── TEXT UTILITIES ── */
+.text-muted {
+    color: var(--text-muted);
+    font-size: 0.9rem;
 }
 
 /* ── BLOCKQUOTE (tips/notes) ── */
