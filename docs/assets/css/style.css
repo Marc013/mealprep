@@ -466,11 +466,39 @@ tr:hover {
 }
 
 .task-list-item input[type="checkbox"] {
-    width: 1.25rem;
-    height: 1.25rem;
-    accent-color: var(--green);
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 1.75rem;
+    height: 1.75rem;
+    border: 2px solid var(--border);
+    border-radius: 50%;
+    background: var(--surface);
     flex-shrink: 0;
     cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.task-list-item input[type="checkbox"]:hover {
+    border-color: var(--accent);
+}
+
+.task-list-item input[type="checkbox"]:checked {
+    background: var(--green);
+    border-color: var(--green);
+}
+
+.task-list-item input[type="checkbox"]:checked::after {
+    content: '✓';
+    color: var(--bg);
+    font-weight: 700;
+    font-size: 1.2rem;
+    position: absolute;
+    line-height: 1;
 }
 
 /* Styling voor checked items — :has() werkt omdat Jekyll tekst als text node rendert, niet als <span> */

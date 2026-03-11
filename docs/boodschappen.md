@@ -24,9 +24,6 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 
 - [ ] Volkoren brood
 - [ ] Havervlokken Crownfield (Lidl)
-
-### 15:45 Mealprep
-
 - [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Witte rijst (275 g droog)
 - [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Bulgur (165 g droog)
 
@@ -39,9 +36,6 @@ Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
 - [ ] Zoete aardappelen (550 g)
 - [ ] Cherrytomaatjes (bakje 250 g)
 - [ ] Gemengde sla (IJsbergsla & Veldsla) 200 g
-
-### 15:45 Mealprep
-
 - [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Broccoli (1 krop ~400 g)
 - [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Taugé (875 g)
 - [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Prei (400 g ~5 stuks)
