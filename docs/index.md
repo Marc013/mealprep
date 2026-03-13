@@ -253,7 +253,7 @@ Deze recepten blijven onderdeel van de site en zijn los inzetbaar buiten het nie
 | Rustdag      | 1880 |    190 g |   80 g |        100 g |
 
 {: .text-muted}
-Geplande praktijkuitkomst op basis van de huidige maaltijdhoeveelheden: circa 2896 kcal op trainingsdagen en circa 1846 kcal op rustdagen.
+Geplande praktijkuitkomst op basis van de huidige maaltijdhoeveelheden: circa 2893 kcal op trainingsdagen en circa 1846 kcal op rustdagen.
 
 ---
 

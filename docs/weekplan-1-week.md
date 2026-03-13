@@ -237,9 +237,9 @@ Richtmacro's: 264 kcal, 41 g eiwit, 3 g vet, 18 g koolhydraten.
 
 | Ingrediënt        | Hoeveelheid |
 | :---------------- | ----------: |
-| Skyr              |       150 g |
-| Halfvolle yoghurt |       250 g |
-| Havervlokken      |        40 g |
+| Skyr              |        95 g |
+| Halfvolle yoghurt |       200 g |
+| Havervlokken      |        38 g |
 | Banaan            |        90 g |
 | Bosvruchten       |       100 g |
 | Rozijnen          |        10 g |
@@ -253,7 +253,7 @@ Bereiding:
 3. Snijd de banaan in plakjes en verdeel erover.
 4. Werk af met rozijnen, honing en kaneel.
 
-Richtmacro's: ongeveer 500 kcal, 30 g eiwit, 7 g vet, 80 g koolhydraten.
+Richtmacro's: ongeveer 502 kcal, 33,9 g eiwit, 6 g vet, 79,2 g koolhydraten.
 
 ### Rustdag — Volume zuivelbowl
 
@@ -272,7 +272,7 @@ Bereiding:
 2. Voeg bosvruchten en havervlokken toe.
 3. Werk af met pindakaas en kaneel.
 
-Richtmacro's: ongeveer 250 kcal, 26 g eiwit, 5 g vet, 20 g koolhydraten.
+Richtmacro's: ongeveer 250 kcal, 28 g eiwit, 8 g vet, 24 g koolhydraten.
 
 ---
 
@@ -285,22 +285,20 @@ Richtmacro's: ongeveer 250 kcal, 26 g eiwit, 5 g vet, 20 g koolhydraten.
 | Eieren          |     2 stuks |
 | Vloeibaar eiwit |       150 g |
 | Tostiham        |        40 g |
-| Kaas 45+        |        20 g |
+| Kaas 45+        |        15 g |
 | Champignons     |       150 g |
 | Tomaat          |        75 g |
 | Komkommer       |        75 g |
 | Volkoren brood  |  3 sneetjes |
 | Ketchup         |        10 g |
-| Halfvolle melk  |      200 ml |
 
 Bereiding:
 
 1. Bak de champignons 4 minuten in een koekenpan.
 2. Voeg ei, vloeibaar eiwit, ham en kaas toe en bak tot een stevige omelet.
 3. Serveer met brood, tomaat, komkommer en ketchup.
-4. Drink de melk erbij.
 
-Richtmacro's: ongeveer 570 kcal, 40 g eiwit, 16 g vet, 60 g koolhydraten.
+Richtmacro's: ongeveer 572 kcal, 52,2 g eiwit, 18,5 g vet, 54,1 g koolhydraten.
 
 ### Rustdag — Grote omelet-salade
 
@@ -323,7 +321,7 @@ Bereiding:
 2. Maak daarnaast een grote salade van tomaat, komkommer, sla en avocado.
 3. Gebruik een kleine hoeveelheid mayonaise of olijfolie als dressing.
 
-Richtmacro's: ongeveer 400 kcal, 35 g eiwit, 20 g vet, 14 g koolhydraten.
+Richtmacro's: ongeveer 400 kcal, 37 g eiwit, 29 g vet, 15 g koolhydraten.
 
 ---
 
@@ -359,17 +357,16 @@ Richtmacro's: ongeveer 660 kcal, 41 g eiwit, 8 g vet, 85 g koolhydraten.
 
 | Ingrediënt     | Hoeveelheid |
 | :------------- | ----------: |
-| Kipfilet       |       140 g |
-| Bloemkoolrijst |       250 g |
+| Kipfilet       |        75 g |
+| Bloemkoolrijst |       175 g |
 | Champignons    |       100 g |
 | Paprika        |       100 g |
-| Ui             |        80 g |
-| Courgette      |       200 g |
-| Taugé          |       100 g |
-| Avocado        |        30 g |
+| Ui             |        70 g |
+| Courgette      |       100 g |
+| Taugé          |        75 g |
 | Ketjap manis   |       10 ml |
 | Olijfolie      |        5 ml |
-| Knoflook       |   1 teentje |
+| Knoflook       |         5 g |
 
 Bereiding:
 
@@ -377,9 +374,9 @@ Bereiding:
 2. Roerbak ui, knoflook, paprika, champignons, courgette en taugé.
 3. Voeg ketjap toe en schep alles om.
 4. Bak de bloemkoolrijst kort mee in een aparte pan of in de wok.
-5. Verdeel over bakken en voeg avocado pas toe bij het eten of dezelfde dag van mealprep.
+5. Verdeel over mealprep-bakken.
 
-Richtmacro's: ongeveer 320 kcal, 37 g eiwit, 10 g vet, 18 g koolhydraten.
+Richtmacro's: ongeveer 320 kcal, 30,1 g eiwit, 8 g vet, 29,1 g koolhydraten.
 
 ---
 
@@ -391,7 +388,7 @@ Richtmacro's: ongeveer 320 kcal, 37 g eiwit, 10 g vet, 18 g koolhydraten.
 | :--------------------- | ----------: |
 | Kipfilet               |       100 g |
 | Varkenshaas            |       100 g |
-| Zoete aardappel        |       180 g |
+| Zoete aardappel        |        80 g |
 | Kidneybonen, uitgelekt |        70 g |
 | Mais, uitgelekt        |        50 g |
 | Champignons            |       100 g |
@@ -412,7 +409,7 @@ Bereiding:
 4. Voeg passata, ketjap, bonen, mais en kruiden toe en laat 10 minuten rustig stoven.
 5. Meng de zoete aardappel erdoor en verdeel over mealprep-bakken.
 
-Richtmacro's: ongeveer 620 kcal, 44 g eiwit, 14 g vet, 70 g koolhydraten.
+Richtmacro's: ongeveer 620 kcal, 61,1 g eiwit, 11,4 g vet, 73,7 g koolhydraten.
 
 ### Rustdag — Kip-varkenshaas volume stoofpot
 
@@ -442,7 +439,7 @@ Bereiding:
 4. Bak de bloemkoolrijst apart of schep die op het einde door de pan.
 5. Voeg avocado pas na het opwarmen toe voor de beste structuur.
 
-Richtmacro's: ongeveer 330 kcal, 36 g eiwit, 12 g vet, 17 g koolhydraten.
+Richtmacro's: ongeveer 330 kcal, 41 g eiwit, 24 g vet, 18 g koolhydraten.
 
 ---
 
@@ -452,8 +449,8 @@ De totalen zijn benaderingen op basis van gemiddelde voedingswaarden. In de prak
 
 | Dagtype      |       Kcal |    Eiwitten |     Vetten | Koolhydraten |
 | :----------- | ---------: | ----------: | ---------: | -----------: |
-| Trainingsdag | circa 2896 | circa 232 g | circa 55 g |  circa 350 g |
-| Rustdag      | circa 1846 | circa 220 g | circa 60 g |   circa 90 g |
+| Trainingsdag | circa 2893 | circa 278 g | circa 49 g |  circa 345 g |
+| Rustdag      | circa 1846 | circa 218 g | circa 75 g |  circa 125 g |
 
 Deze praktijkuitkomst blijft binnen je daglimieten: trainingsdag niet boven 2900 kcal en rustdag niet boven 1880 kcal.
 

@@ -12,7 +12,7 @@ Dit overzicht sluit aan op het [Weekplan 1 Week]({{ '/weekplan-1-week' | relativ
 | Trainingsdag | 2900 |    190 g |   60 g |        400 g |
 | Rustdag      | 1880 |    190 g |   80 g |        100 g |
 
-Gevalideerde praktijkuitkomst met de huidige hoeveelheden: circa 2896 kcal op trainingsdagen en circa 1846 kcal op rustdagen.
+Gevalideerde praktijkuitkomst met de huidige hoeveelheden: circa 2893 kcal op trainingsdagen en circa 1846 kcal op rustdagen.
 {: .text-muted}
 
 ---

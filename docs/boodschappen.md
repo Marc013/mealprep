@@ -10,22 +10,21 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 ## Zuivel en eieren
 
 - [ ] Perfect Whey Protein: 700 g
-- [ ] Skyr: 1,2 kg
-- [ ] Halfvolle yoghurt: 1,6 kg
-- [ ] Halfvolle melk: 800 ml
+- [ ] Skyr: 980 g
+- [ ] Halfvolle yoghurt: 1,4 kg
 - [ ] Eieren: 14 stuks
 - [ ] Vloeibaar eiwit: 900 g
-- [ ] Kaas 45+: 155 g
+- [ ] Kaas 45+: 135 g
 
 ## Vlees en eiwitbronnen
 
-- [ ] Kipfilet: 1,68 kg
-- [ ] Varkenshaas: 640 g
+- [ ] Kipfilet: 1,49 kg
+- [ ] Varkenshaas: 580 g
 - [ ] Tostiham: 250 g
 
 ## Granen en brood
 
-- [ ] Havervlokken: 175 g
+- [ ] Havervlokken: 167 g
 - [ ] Witte rijst droog: 320 g
 - [ ] Volkoren brood: 12 sneetjes, ongeveer 3/4 brood
 
@@ -33,11 +32,11 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 - [ ] Champignons: 2,6 kg
 - [ ] Paprika rood of geel: 1,4 kg
-- [ ] Uien: 1,06 kg
-- [ ] Courgette: 1,5 kg
-- [ ] Taugé: 600 g
-- [ ] Bloemkoolrijst: 1,5 kg
-- [ ] Zoete aardappel: 720 g
+- [ ] Uien: 1,03 kg
+- [ ] Courgette: 1,2 kg
+- [ ] Taugé: 525 g
+- [ ] Bloemkoolrijst: 1,28 kg
+- [ ] Zoete aardappel: 320 g
 - [ ] Tomaat: 750 g
 - [ ] Komkommer: 750 g
 - [ ] Gemengde sla: 225 g
@@ -47,9 +46,9 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 - [ ] Appels: 7 stuks
 - [ ] Kiwi's: 14 stuks
-- [ ] Bananen: 3 tot 4 stuks
+- [ ] Bananen: 3 stuks
 - [ ] Bosvruchten diepvries: 850 g
-- [ ] Avocado: 330 g eetbaar, ongeveer 3 tot 4 stuks
+- [ ] Avocado: 240 g eetbaar, ongeveer 2 tot 3 stuks
 
 ## Blik, pot en saus
 
