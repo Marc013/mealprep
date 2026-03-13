@@ -12,10 +12,10 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 - [ ] Perfect Whey Protein: 700 g
 - [ ] Skyr: 1,2 kg
 - [ ] Halfvolle yoghurt: 1,6 kg
-- [ ] Halfvolle melk: 1 liter
+- [ ] Halfvolle melk: 800 ml
 - [ ] Eieren: 14 stuks
 - [ ] Vloeibaar eiwit: 900 g
-- [ ] Kaas 45+: 170 g
+- [ ] Kaas 45+: 155 g
 
 ## Vlees en eiwitbronnen
 
@@ -25,9 +25,9 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 ## Granen en brood
 
-- [ ] Havervlokken: 270 g
-- [ ] Witte rijst droog: 400 g
-- [ ] Volkoren brood: 16 sneetjes, ongeveer 1 heel brood
+- [ ] Havervlokken: 175 g
+- [ ] Witte rijst droog: 320 g
+- [ ] Volkoren brood: 12 sneetjes, ongeveer 3/4 brood
 
 ## Groente
 
@@ -37,7 +37,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 - [ ] Courgette: 1,5 kg
 - [ ] Taugé: 600 g
 - [ ] Bloemkoolrijst: 1,5 kg
-- [ ] Zoete aardappel: 1 kg
+- [ ] Zoete aardappel: 720 g
 - [ ] Tomaat: 750 g
 - [ ] Komkommer: 750 g
 - [ ] Gemengde sla: 225 g
@@ -47,29 +47,29 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 - [ ] Appels: 7 stuks
 - [ ] Kiwi's: 14 stuks
-- [ ] Bananen: 4 tot 5 stuks
+- [ ] Bananen: 3 tot 4 stuks
 - [ ] Bosvruchten diepvries: 850 g
-- [ ] Avocado: 600 g eetbaar, ongeveer 5 tot 6 stuks
+- [ ] Avocado: 330 g eetbaar, ongeveer 3 tot 4 stuks
 
 ## Blik, pot en saus
 
-- [ ] Kidneybonen: 490 g uitgelekt, reken op 3 blikken of pakken
-- [ ] Mais: 320 g uitgelekt
+- [ ] Kidneybonen: 340 g uitgelekt, reken op 2 tot 3 blikken of pakken
+- [ ] Mais: 200 g uitgelekt
 - [ ] Passata: 840 ml
-- [ ] Ketjap manis: 215 ml
+- [ ] Ketjap manis: 180 ml
 - [ ] Sojasaus: 20 ml
-- [ ] Ketchup: 60 g
-- [ ] Honing: 40 g
-- [ ] 100% pindakaas: 30 g
-- [ ] Mayonaise: 15 g
+- [ ] Ketchup: 40 g
+- [ ] Honing: 20 g
+- [ ] 100% pindakaas: 15 g
+- [ ] Mayonaise: optioneel
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie: 150 ml is ruim voldoende
+- [ ] Olijfolie: 62 ml is ruim voldoende
 - [ ] Kaneelpoeder
-- [ ] Rozijnen: 60 g
-- [ ] Gerookt paprikapoeder
-- [ ] Komijnpoeder
+- [ ] Rozijnen: 40 g
+- [ ] Gerookt paprikapoeder: 7 tl
+- [ ] Komijnpoeder: 7 tl
 - [ ] Zwarte peper
 - [ ] Zout
 

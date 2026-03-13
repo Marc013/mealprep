@@ -7,7 +7,7 @@ title: "Volume Zuivelbowl — 10:15"
 **Rustdag** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">300</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">250</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">28 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">8 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">24 g</div></div>
@@ -20,8 +20,8 @@ title: "Volume Zuivelbowl — 10:15"
 | Skyr              |       200 g |
 | Halfvolle yoghurt |       200 g |
 | Bosvruchten       |       150 g |
-| Havervlokken      |        10 g |
-| 100% pindakaas    |        10 g |
+| Havervlokken      |         5 g |
+| 100% pindakaas    |         5 g |
 | Kaneel            |  naar smaak |
 
 ## Bereiding

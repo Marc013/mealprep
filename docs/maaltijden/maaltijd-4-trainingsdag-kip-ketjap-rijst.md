@@ -7,7 +7,7 @@ title: "Kip Ketjap met Rijst — 15:45"
 **Trainingsdag mealprep** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">760</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">660</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">42 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">9 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">102 g</div></div>
@@ -18,15 +18,15 @@ title: "Kip Ketjap met Rijst — 15:45"
 | Ingrediënt        | Hoeveelheid |
 | :---------------- | ----------: |
 | Kipfilet          |       140 g |
-| Witte rijst droog |       100 g |
+| Witte rijst droog |        80 g |
 | Champignons       |       100 g |
 | Paprika           |       100 g |
 | Ui                |        80 g |
 | Courgette         |       150 g |
 | Taugé             |        75 g |
-| Ketjap manis      |       20 ml |
+| Ketjap manis      |       15 ml |
 | Sojasaus          |        5 ml |
-| Olijfolie         |        5 ml |
+| Olijfolie         |        3 ml |
 | Knoflook          |   1 teentje |
 
 ## Bereiding

@@ -32,18 +32,18 @@ Deze batch is voor maandag, dinsdag, woensdag en donderdag.
 | Ingrediënt         |             Totaal |
 | :----------------- | -----------------: |
 | Kipfilet           |              560 g |
-| Witte rijst, droog |              300 g |
+| Witte rijst, droog |              240 g |
 | Bloemkoolrijst     |              250 g |
 | Champignons        |              400 g |
 | Paprika            |              400 g |
 | Ui                 |              320 g |
 | Courgette          |              650 g |
 | Taugé              |              325 g |
-| Ketjap manis       |              75 ml |
+| Avocado            | 30 g, apart houden |
+| Ketjap manis       |              55 ml |
 | Sojasaus           |              15 ml |
-| Olijfolie          |              25 ml |
+| Olijfolie          |              14 ml |
 | Knoflook           |         4 teentjes |
-| Avocado            | 60 g, apart houden |
 
 Verdeling bakjes:
 
@@ -55,27 +55,27 @@ Verdeling bakjes:
 | Ingrediënt             |             Totaal |
 | :--------------------- | -----------------: |
 | Kipfilet               |              400 g |
-| Varkenshaas            |              380 g |
-| Zoete aardappel        |              750 g |
+| Varkenshaas            |              360 g |
+| Zoete aardappel        |              540 g |
 | Bloemkoolrijst         |              250 g |
-| Kidneybonen, uitgelekt |              330 g |
-| Mais, uitgelekt        |              240 g |
+| Kidneybonen, uitgelekt |              230 g |
+| Mais, uitgelekt        |              150 g |
 | Champignons            |              450 g |
 | Paprika                |              400 g |
 | Ui                     |              300 g |
 | Courgette              |              100 g |
 | Passata                |             530 ml |
 | Ketjap manis           |              55 ml |
-| Olijfolie              |              45 ml |
+| Olijfolie              |              20 ml |
 | Knoflook               |         4 teentjes |
 | Gerookt paprikapoeder  |               4 tl |
 | Komijn                 |               4 tl |
-| Avocado                | 70 g, apart houden |
+| Avocado                | 30 g, apart houden |
 
 Verdeling bakjes:
 
-- 3 bakjes `T-18:30`: per bakje 100 g kip, 100 g varkenshaas, 250 g zoete aardappel, 100 g kidneybonen, 80 g mais en trainingssaus
-- 1 bakje `R-18:30`: 100 g kip, 80 g varkenshaas, 250 g bloemkoolrijst en rustsaus
+- 3 bakjes `T-18:30`: per bakje 100 g kip, 100 g varkenshaas, 180 g zoete aardappel, 70 g kidneybonen, 50 g mais en trainingssaus
+- 1 bakje `R-18:30`: 100 g kip, 60 g varkenshaas, 250 g bloemkoolrijst en rustsaus
 
 ### Kookvolgorde zondag
 
@@ -102,53 +102,53 @@ Deze batch is voor vrijdag, zaterdag en zondag.
 
 ### 15:45 totaal — woensdagbatch
 
-| Ingrediënt         |              Totaal |
-| :----------------- | ------------------: |
-| Kipfilet           |               420 g |
-| Witte rijst, droog |               100 g |
-| Bloemkoolrijst     |               500 g |
-| Champignons        |               300 g |
-| Paprika            |               300 g |
-| Ui                 |               240 g |
-| Courgette          |               550 g |
-| Taugé              |               275 g |
-| Ketjap manis       |               50 ml |
-| Sojasaus           |                5 ml |
-| Olijfolie          |               25 ml |
-| Knoflook           |          3 teentjes |
-| Avocado            | 120 g, apart houden |
+| Ingrediënt         |             Totaal |
+| :----------------- | -----------------: |
+| Kipfilet           |              420 g |
+| Witte rijst, droog |               80 g |
+| Bloemkoolrijst     |              500 g |
+| Champignons        |              300 g |
+| Paprika            |              300 g |
+| Ui                 |              240 g |
+| Courgette          |              550 g |
+| Taugé              |              275 g |
+| Avocado            | 60 g, apart houden |
+| Ketjap manis       |              35 ml |
+| Sojasaus           |               5 ml |
+| Olijfolie          |              13 ml |
+| Knoflook           |         3 teentjes |
 
 Verdeling bakjes:
 
-- 1 bakje `T-15:45`: per bakje 140 g kip, 100 g droge rijst gaar gekookt en trainingsgroenten
+- 1 bakje `T-15:45`: per bakje 140 g kip, 80 g droge rijst gaar gekookt en trainingsgroenten
 - 2 bakjes `R-15:45`: per bakje 140 g kip, 250 g bloemkoolrijst en rustgroenten
 
 ### 18:30 totaal — woensdagbatch
 
-| Ingrediënt             |              Totaal |
-| :--------------------- | ------------------: |
-| Kipfilet               |               300 g |
-| Varkenshaas            |               260 g |
-| Zoete aardappel        |               250 g |
-| Bloemkoolrijst         |               500 g |
-| Kidneybonen, uitgelekt |               160 g |
-| Mais, uitgelekt        |                80 g |
-| Champignons            |               400 g |
-| Paprika                |               300 g |
-| Ui                     |               200 g |
-| Courgette              |               200 g |
-| Passata                |              310 ml |
-| Ketjap manis           |               35 ml |
-| Olijfolie              |               40 ml |
-| Knoflook               |          3 teentjes |
-| Gerookt paprikapoeder  |                3 tl |
-| Komijn                 |                3 tl |
-| Avocado                | 140 g, apart houden |
+| Ingrediënt             |             Totaal |
+| :--------------------- | -----------------: |
+| Kipfilet               |              300 g |
+| Varkenshaas            |              220 g |
+| Zoete aardappel        |              180 g |
+| Bloemkoolrijst         |              500 g |
+| Kidneybonen, uitgelekt |              110 g |
+| Mais, uitgelekt        |               50 g |
+| Champignons            |              400 g |
+| Paprika                |              300 g |
+| Ui                     |              200 g |
+| Courgette              |              200 g |
+| Passata                |             310 ml |
+| Ketjap manis           |              35 ml |
+| Olijfolie              |              15 ml |
+| Knoflook               |         3 teentjes |
+| Gerookt paprikapoeder  |               3 tl |
+| Komijn                 |               3 tl |
+| Avocado                | 60 g, apart houden |
 
 Verdeling bakjes:
 
-- 1 bakje `T-18:30`: per bakje 100 g kip, 100 g varkenshaas, 250 g zoete aardappel, 100 g kidneybonen, 80 g mais en trainingssaus
-- 2 bakjes `R-18:30`: per bakje 100 g kip, 80 g varkenshaas, 250 g bloemkoolrijst en rustsaus
+- 1 bakje `T-18:30`: per bakje 100 g kip, 100 g varkenshaas, 180 g zoete aardappel, 70 g kidneybonen, 50 g mais en trainingssaus
+- 2 bakjes `R-18:30`: per bakje 100 g kip, 60 g varkenshaas, 250 g bloemkoolrijst en rustsaus
 
 ### Kookvolgorde woensdag
 

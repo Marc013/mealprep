@@ -249,8 +249,11 @@ Deze recepten blijven onderdeel van de site en zijn los inzetbaar buiten het nie
 
 | Dagtype      | Kcal | Eiwitten | Vetten | Koolhydraten |
 | :----------- | ---: | -------: | -----: | -----------: |
-| Trainingsdag | 3396 |    244 g | 59,5 g |        422 g |
-| Rustdag      | 2286 |    227 g | 84,5 g |        118 g |
+| Trainingsdag | 2900 |    190 g |   60 g |        400 g |
+| Rustdag      | 1880 |    190 g |   80 g |        100 g |
+
+{: .text-muted}
+Geplande praktijkuitkomst op basis van de huidige maaltijdhoeveelheden: circa 2896 kcal op trainingsdagen en circa 1846 kcal op rustdagen.
 
 ---
 

@@ -7,7 +7,7 @@ title: "Kip Ketjap met Bloemkoolrijst — 15:45"
 **Rustdag mealprep** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">420</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">320</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">39 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">22 g</div></div>
@@ -24,9 +24,9 @@ title: "Kip Ketjap met Bloemkoolrijst — 15:45"
 | Ui             |        80 g |
 | Courgette      |       200 g |
 | Taugé          |       100 g |
-| Avocado        |        60 g |
-| Ketjap manis   |       15 ml |
-| Olijfolie      |       10 ml |
+| Avocado        |        30 g |
+| Ketjap manis   |       10 ml |
+| Olijfolie      |        5 ml |
 | Knoflook       |   1 teentje |
 
 ## Bereiding

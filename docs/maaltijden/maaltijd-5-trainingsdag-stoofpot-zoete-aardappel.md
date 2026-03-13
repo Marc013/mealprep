@@ -7,7 +7,7 @@ title: "Stoofpot met Zoete Aardappel — 18:30"
 **Trainingsdag mealprep** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">790</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">620</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">46 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">20 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">99 g</div></div>
@@ -19,15 +19,15 @@ title: "Stoofpot met Zoete Aardappel — 18:30"
 | :--------------------- | ----------: |
 | Kipfilet               |       100 g |
 | Varkenshaas            |       100 g |
-| Zoete aardappel        |       250 g |
-| Kidneybonen, uitgelekt |       100 g |
-| Mais, uitgelekt        |        80 g |
+| Zoete aardappel        |       180 g |
+| Kidneybonen, uitgelekt |        70 g |
+| Mais, uitgelekt        |        50 g |
 | Champignons            |       100 g |
 | Paprika                |       100 g |
 | Ui                     |        80 g |
 | Passata                |      150 ml |
 | Ketjap manis           |       15 ml |
-| Olijfolie              |       10 ml |
+| Olijfolie              |        5 ml |
 | Knoflook               |   1 teentje |
 | Gerookt paprikapoeder  |        1 tl |
 | Komijn                 |        1 tl |

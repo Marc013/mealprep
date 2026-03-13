@@ -7,7 +7,7 @@ title: "Power Oats Bowl — 10:15"
 **Trainingsdag** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">620</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">500</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">30 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">7 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">105 g</div></div>
@@ -19,11 +19,11 @@ title: "Power Oats Bowl — 10:15"
 | :---------------- | ----------: |
 | Skyr              |       150 g |
 | Halfvolle yoghurt |       250 g |
-| Havervlokken      |        60 g |
-| Banaan            |       120 g |
+| Havervlokken      |        40 g |
+| Banaan            |        90 g |
 | Bosvruchten       |       100 g |
-| Rozijnen          |        15 g |
-| Honing            |        10 g |
+| Rozijnen          |        10 g |
+| Honing            |         5 g |
 | Kaneel            |  naar smaak |
 
 ## Bereiding

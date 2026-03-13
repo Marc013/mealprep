@@ -7,7 +7,7 @@ title: "Volume Stoofpot — 18:30"
 **Rustdag mealprep** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">520</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">330</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">41 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">24 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">18 g</div></div>
@@ -18,17 +18,17 @@ title: "Volume Stoofpot — 18:30"
 | Ingrediënt             | Hoeveelheid |
 | :--------------------- | ----------: |
 | Kipfilet               |       100 g |
-| Varkenshaas            |        80 g |
+| Varkenshaas            |        60 g |
 | Bloemkoolrijst         |       250 g |
 | Champignons            |       150 g |
 | Courgette              |       100 g |
 | Paprika                |       100 g |
 | Ui                     |        60 g |
-| Kidneybonen, uitgelekt |        30 g |
+| Kidneybonen, uitgelekt |        20 g |
 | Passata                |       80 ml |
-| Avocado                |        70 g |
+| Avocado                |        30 g |
 | Ketjap manis           |       10 ml |
-| Olijfolie              |       15 ml |
+| Olijfolie              |        5 ml |
 | Knoflook               |   1 teentje |
 | Gerookt paprikapoeder  |        1 tl |
 | Komijn                 |        1 tl |

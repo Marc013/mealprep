@@ -7,7 +7,7 @@ title: "Omelet met Brood — 13:00"
 **Trainingsdag** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">680</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">570</div></div>
   <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">44 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18 g</div></div>
   <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">77 g</div></div>
@@ -24,9 +24,9 @@ title: "Omelet met Brood — 13:00"
 | Champignons     |       150 g |
 | Tomaat          |        75 g |
 | Komkommer       |        75 g |
-| Volkoren brood  |  4 sneetjes |
-| Ketchup         |        15 g |
-| Halfvolle melk  |      250 ml |
+| Volkoren brood  |  3 sneetjes |
+| Ketchup         |        10 g |
+| Halfvolle melk  |      200 ml |
 
 ## Bereiding
 
