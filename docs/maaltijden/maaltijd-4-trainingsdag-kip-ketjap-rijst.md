@@ -7,10 +7,10 @@ title: "Kip Ketjap met Rijst — 15:45"
 **Trainingsdag mealprep** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">660</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">42 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">9 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">102 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">653</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">48.7 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">7.7 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">99.1 g</div></div>
 </div>
 
 ## Ingrediënten per portie
