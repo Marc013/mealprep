@@ -113,7 +113,8 @@ body {
     z-index: 200;
 }
 
-.nav-dropdown:hover .dropdown-menu {
+.nav-dropdown:hover .dropdown-menu,
+.nav-dropdown:focus-within .dropdown-menu {
     display: block;
 }
 
@@ -835,7 +836,7 @@ footer {
 
 @media (max-width: 768px) {
     body {
-        padding-bottom: 5.75rem;
+        padding-bottom: 8.5rem;
     }
 
     .container {

@@ -53,7 +53,7 @@ title: "Kip Ketjap Roerbak — 15:45"
 ## Verwante recepten
 
 <div class="quick-links">
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip &amp; Taugé</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip &amp; Taugé met Bulgur</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Training</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">15:45 Rust</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Klassiek</a>

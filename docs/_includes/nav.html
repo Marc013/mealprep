@@ -22,10 +22,12 @@
                             href="{{ '/maaltijden/#klassieke-maaltijden' | relative_url }}">Klassiek</a></li>
                     <li class="dropdown-heading">Vaste momenten</li>
                     <li class="detailed-nav-item"><a
-                            href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake</a>
+                            href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake +
+                            Fruit</a>
                     </li>
                     <li class="detailed-nav-item"><a
-                            href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Whey Shake</a>
+                            href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Whey Shake +
+                            Fruit</a>
                     </li>
                     <li class="dropdown-heading">Trainingsdag routes</li>
                     <li class="detailed-nav-item"><a
@@ -33,27 +35,26 @@
                             Oats</a>
                     </li>
                     <li class="detailed-nav-item"><a
-                            href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Volume
-                            Bowl</a>
-                    </li>
-                    <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-3-trainingsdag-omelet-brood' | relative_url }}">13:00 Omelet
-                            +
-                            Brood</a></li>
+                            met Brood</a></li>
                     <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Kip
-                            Ketjap + Rijst</a>
+                            Ketjap met Rijst</a>
                     </li>
                     <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-5-trainingsdag-stoofpot-zoete-aardappel' | relative_url }}">18:30
-                            Stoofpot + Zoete Aardappel</a></li>
+                            Stoofpot met Zoete Aardappel</a></li>
                     <li class="dropdown-heading">Rustdag routes</li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Volume
+                            Zuivelbowl</a>
+                    </li>
                     <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-3-rustdag-omelet-salade' | relative_url }}">13:00
                             Omelet-Salade</a></li>
                     <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">15:45
-                            Kip Ketjap + Bloemkoolrijst</a>
+                            Kip Ketjap met Bloemkoolrijst</a>
                     </li>
                     <li class="detailed-nav-item"><a
                             href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Volume
@@ -75,18 +76,16 @@
                             href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip
                             &amp; Taugé met Bulgur</a></li>
                     <li class="detailed-nav-item"><a href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30
-                            Klassieke Stoofpot</a>
+                            Kip &amp; Varkenshaas Stoofpot</a>
                     </li>
                 </ul>
             </li>
             <li><a href="{{ '/boodschappen' | relative_url }}" {% if page.url=='/boodschappen/' %}class="active" {%
                     endif %}>🛒 Boodschappen</a></li>
-            <li><a href="{{ '/boodschappen-1-week' | relative_url }}" {% if page.url=='/boodschappen-1-week/'
-                    %}class="active" {% endif %}>Weekboodschappen</a></li>
             <li><a href="{{ '/batchprep-1-week' | relative_url }}" {% if page.url=='/batchprep-1-week/' %}class="active"
                     {% endif %}>Batchprep</a></li>
             <li><a href="{{ '/macros' | relative_url }}" {% if page.url=='/macros/' %}class="active" {% endif %}>📊
-                    Macro's</a></li>
+                    Macro-overzicht</a></li>
         </ul>
     </div>
 </nav>

@@ -9,8 +9,11 @@ Dit overzicht sluit aan op het [Weekplan 1 Week]({{ '/weekplan-1-week' | relativ
 
 | Dagtype      | Kcal | Eiwitten | Vetten | Koolhydraten |
 | :----------- | ---: | -------: | -----: | -----------: |
-| Trainingsdag | 2900 |    190 g |   60 g |        400 g |
-| Rustdag      | 1880 |    190 g |   80 g |        100 g |
+| Trainingsdag | 3396 |    244 g | 59,5 g |        422 g |
+| Rustdag      | 2286 |    227 g | 84,5 g |        118 g |
+
+Deze totalen zijn gevalideerd door de richtmacro's van de 6 maaltijdpagina's per dagtype op te tellen.
+{: .text-muted}
 
 ---
 

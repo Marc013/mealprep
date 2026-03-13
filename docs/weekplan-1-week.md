@@ -14,12 +14,20 @@ Dit weekplan gebruikt de vaste shake-momenten uit deze repo en voegt daar per da
 Trainingsdagen: maandag, dinsdag, donderdag en zaterdag.
 {: .text-muted}
 
+<div class="quick-links">
+	<a class="quick-link" href="{{ '/' | relative_url }}">Start</a>
+	<a class="quick-link" href="{{ '/maaltijden/' | relative_url }}">Alle maaltijden</a>
+	<a class="quick-link" href="{{ '/boodschappen' | relative_url }}">Boodschappen</a>
+	<a class="quick-link" href="{{ '/batchprep-1-week' | relative_url }}">Batchprep</a>
+	<a class="quick-link" href="{{ '/macros' | relative_url }}">Macro-overzicht</a>
+</div>
+
 Dagdoelen:
 
 | Dagtype      | Kcal | Eiwitten | Vetten | Koolhydraten |
 | :----------- | ---: | -------: | -----: | -----------: |
-| Trainingsdag | 2900 |    190 g |   60 g |        400 g |
-| Rustdag      | 1880 |    190 g |   80 g |        100 g |
+| Trainingsdag | 3396 |    244 g | 59,5 g |        422 g |
+| Rustdag      | 2286 |    227 g | 84,5 g |        118 g |
 
 > Alle 15:45 en 18:30 maaltijden zijn zonder broccoli. Op rustdagen is het volume bewust hoog gehouden via champignons, courgette, taugé, sla, komkommer en bloemkoolrijst.
 
@@ -444,13 +452,13 @@ De totalen zijn benaderingen op basis van gemiddelde voedingswaarden. In de prak
 
 | Dagtype      |       Kcal |    Eiwitten |     Vetten | Koolhydraten |
 | :----------- | ---------: | ----------: | ---------: | -----------: |
-| Trainingsdag | circa 2900 | circa 190 g | circa 60 g |  circa 400 g |
-| Rustdag      | circa 1880 | circa 190 g | circa 80 g |  circa 100 g |
+| Trainingsdag | circa 3396 | circa 244 g | circa 60 g |  circa 422 g |
+| Rustdag      | circa 2286 | circa 227 g | circa 85 g |  circa 118 g |
 
 ## Praktische notities
 
 1. Mealprep de 15:45 en 18:30 maaltijden in twee batches: zondag voor ma-di-wo en woensdag voor do-vr-za-zo.
 2. Avocado bij rustmaaltijden bij voorkeur vers toevoegen op de dag zelf.
 3. Op zaterdag is de training in de ochtend. Gebruik 10:15 als eerste grote herstelmaaltijd na training.
-4. De bijbehorende 7-daagse boodschappenlijst staat op [Weekboodschappen 1 Week]({{ '/boodschappen-1-week' | relative_url }}).
+4. De bijbehorende 7-daagse boodschappenlijst staat op [Weekboodschappen]({{ '/boodschappen' | relative_url }}).
 5. De exacte zondag- en woensdagkookverdeling staat op [Batchprep 1 Week]({{ '/batchprep-1-week' | relative_url }}).

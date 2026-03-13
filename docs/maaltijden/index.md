@@ -7,7 +7,7 @@ Alle maaltijden op deze site staan hier samen: het actieve weekplan en de oudere
 <div class="quick-links">
   <a class="quick-link" href="{{ '/weekplan-1-week' | relative_url }}">Weekplan</a>
   <a class="quick-link" href="{{ '/macros' | relative_url }}">Macro-overzicht</a>
-  <a class="quick-link" href="{{ '/boodschappen-1-week' | relative_url }}">Weekboodschappen</a>
+  <a class="quick-link" href="{{ '/boodschappen' | relative_url }}">Boodschappen</a>
   <a class="quick-link" href="{{ '/batchprep-1-week' | relative_url }}">Batchprep</a>
 </div>
 

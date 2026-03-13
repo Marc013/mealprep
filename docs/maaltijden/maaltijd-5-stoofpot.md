@@ -58,6 +58,6 @@ title: "Kip & Varkenshaas Stoofpot — 18:30"
 <div class="quick-links">
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-trainingsdag-stoofpot-zoete-aardappel' | relative_url }}">18:30 Training</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Rust</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap Roerbak</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Klassiek</a>
 </div>

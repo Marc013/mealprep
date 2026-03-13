@@ -2,73 +2,88 @@
 title: "🛒 Weekboodschappen"
 ---
 
-Vink af wat je in je mandje hebt. Je voortgang wordt automatisch onthouden.
+Deze lijst hoort bij het [Weekplan 1 Week]({{ '/weekplan-1-week' | relative_url }}).
 {: .text-muted}
 
-## 🥛 Zuivel & Eieren
+Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:30 en 21:15.
 
-- [ ] Magere kwark (500 g)
-- [ ] Halfvolle yoghurt (500 ml)
-- [ ] Eieren (doos van 10)
-- [ ] Coco Vite Vloeibaar Eiwit 500 g
-- [ ] Kaas 45+
+## Zuivel en eieren
 
-## 🥩 Vlees & Eiwitten
+- [ ] Perfect Whey Protein: 700 g
+- [ ] Skyr: 1,2 kg
+- [ ] Halfvolle yoghurt: 1,6 kg
+- [ ] Halfvolle melk: 1 liter
+- [ ] Eieren: 14 stuks
+- [ ] Vloeibaar eiwit: 900 g
+- [ ] Kaas 45+: 170 g
 
-- [ ] Kipfilet (750 g totaal)
-- [ ] Gerookte scharrelkipfilet
-- [ ] Varkenshaas (250 g)
-- [ ] Jumbo Tostiham 150 g
+## Vlees en eiwitbronnen
 
-## 🍞 Brood & Granen
+- [ ] Kipfilet: 1,7 kg
+- [ ] Varkenshaas: 650 g
+- [ ] Tostiham: 250 g
 
-- [ ] Volkoren brood
-- [ ] Havervlokken Crownfield (Lidl)
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Witte rijst (275 g droog)
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Bulgur (165 g droog)
+## Granen en brood
 
-## 🥦 Groenten
+- [ ] Havervlokken: 270 g
+- [ ] Witte rijst droog: 400 g
+- [ ] Volkoren brood: 16 sneetjes, ongeveer 1 heel brood
 
-- [ ] Champignons vers (3x bakje 250 g)
-- [ ] Rode paprika (6 stuks)
-- [ ] Uien (6 stuks)
-- [ ] Courgette (1 stuk)
-- [ ] Zoete aardappelen (550 g)
-- [ ] Cherrytomaatjes (bakje 250 g)
-- [ ] Gemengde sla (IJsbergsla & Veldsla) 200 g
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="A"></span>Broccoli (1 krop ~400 g)
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Taugé (875 g)
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Prei (400 g ~5 stuks)
-- [ ] <span class="mealprep-choice-marker" data-mealprep-choice="B"></span>Wortel (250 g)
+## Groente
 
-## 🍎 Fruit
+- [ ] Champignons: 2,6 kg
+- [ ] Paprika rood of geel: 1,4 kg
+- [ ] Uien: 1,1 kg
+- [ ] Courgette: 1,5 kg
+- [ ] Taugé: 600 g
+- [ ] Bloemkoolrijst: 1,5 kg
+- [ ] Zoete aardappel: 1 kg
+- [ ] Tomaat: 750 g
+- [ ] Komkommer: 750 g
+- [ ] Gemengde sla: 225 g
+- [ ] Knoflook: 70 g, ongeveer 2 bollen
 
-- [ ] Appels (4-5 stuks)
-- [ ] Bananen (tros van 5-7)
-- [ ] Kiwi's (netje 6-8)
-- [ ] Mandarijnen (netje)
-- [ ] Druiven (trosje ~500 g)
-- [ ] Vriesverse Bosvruchten 750 g
-- [ ] Avocado (1 stuk)
+## Fruit
 
-## 🥫 Blikken & Potten
+- [ ] Appels: 7 stuks
+- [ ] Kiwi's: 14 stuks
+- [ ] Bananen: 4 tot 5 stuks
+- [ ] Bosvruchten diepvries: 850 g
+- [ ] Avocado: 600 g eetbaar, ongeveer 5 tot 6 stuks
 
-- [ ] Kidney Bonen (380 g)
-- [ ] Zwarte Bonen (380 g)
-- [ ] Mais (blik, 340 g)
-- [ ] Tomatenpassata (pak/fles 500 ml)
+## Blik, pot en saus
 
-## 🧂 Sauzen & Kruiden
+- [ ] Kidneybonen: 490 g uitgelekt, reken op 3 blikken of pakken
+- [ ] Mais: 320 g uitgelekt
+- [ ] Passata: 840 ml
+- [ ] Ketjap manis: 215 ml
+- [ ] Sojasaus: 20 ml
+- [ ] Ketchup: 60 g
+- [ ] Honing: 40 g
+- [ ] 100% pindakaas: 30 g
+- [ ] Mayonaise: 15 g
 
-- [ ] Ketjap manis (fles)
-- [ ] Kikkoman sojasaus (fles)
-- [ ] 100% Pindakaas naturel (pot)
-- [ ] Olijfolie
-- [ ] Knoflook (bol)
+## Kruiden en vetten
+
+- [ ] Olijfolie: 150 ml is ruim voldoende
 - [ ] Kaneelpoeder
-- [ ] Gemberpoeder
-- [ ] Paprikapoeder (gerookt)
+- [ ] Rozijnen: 60 g
+- [ ] Gerookt paprikapoeder
 - [ ] Komijnpoeder
-- [ ] Chilipoeder — optioneel
 - [ ] Zwarte peper
 - [ ] Zout
+
+## Mealprep-verdeling
+
+De exacte kookverdeling per batch staat op [Batchprep 1 Week]({{ '/batchprep-1-week' | relative_url }}).
+{: .text-muted}
+
+### Batch 1 — zondag bereiden
+
+- [ ] 3 porties 15:45 maaltijd
+- [ ] 3 porties 18:30 maaltijd
+
+### Batch 2 — woensdag bereiden
+
+- [ ] 4 porties 15:45 maaltijd
+- [ ] 4 porties 18:30 maaltijd

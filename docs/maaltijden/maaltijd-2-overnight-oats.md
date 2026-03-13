@@ -46,7 +46,7 @@ title: "Overnight Oats Bowl — 10:15"
 
 <div class="quick-links">
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-trainingsdag-power-oats' | relative_url }}">10:15 Power Oats</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Volume Bowl</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Volume Zuivelbowl</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake + Fruit</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Klassiek</a>
 </div>

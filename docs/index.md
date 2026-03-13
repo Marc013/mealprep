@@ -7,8 +7,9 @@ Welkom bij Strongman Meals. Hier komen het actieve weekplan en de oudere losse m
 
 <div class="quick-links">
   <a class="quick-link" href="{{ '/weekplan-1-week' | relative_url }}">Weekplan</a>
+  <a class="quick-link" href="{{ '/macros' | relative_url }}">Macro-overzicht</a>
   <a class="quick-link" href="{{ '/maaltijden/' | relative_url }}">Alle maaltijden</a>
-  <a class="quick-link" href="{{ '/boodschappen-1-week' | relative_url }}">Weekboodschappen</a>
+  <a class="quick-link" href="{{ '/boodschappen' | relative_url }}">Boodschappen</a>
   <a class="quick-link" href="{{ '/batchprep-1-week' | relative_url }}">Batchprep</a>
 </div>
 
@@ -248,8 +249,8 @@ Deze recepten blijven onderdeel van de site en zijn los inzetbaar buiten het nie
 
 | Dagtype      | Kcal | Eiwitten | Vetten | Koolhydraten |
 | :----------- | ---: | -------: | -----: | -----------: |
-| Trainingsdag | 2900 |    190 g |   60 g |        400 g |
-| Rustdag      | 1880 |    190 g |   80 g |        100 g |
+| Trainingsdag | 3396 |    244 g | 59,5 g |        422 g |
+| Rustdag      | 2286 |    227 g | 84,5 g |        118 g |
 
 ---
 

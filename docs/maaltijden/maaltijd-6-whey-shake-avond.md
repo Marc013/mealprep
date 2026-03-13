@@ -37,7 +37,7 @@ title: "Whey Shake + Fruit — 21:15"
 
 <div class="quick-links">
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Vast</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Klassieke Stoofpot</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Kip &amp; Varkenshaas Stoofpot</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Volume Stoofpot</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Vast</a>
 </div>
