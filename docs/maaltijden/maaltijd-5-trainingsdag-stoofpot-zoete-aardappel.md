@@ -8,29 +8,29 @@ title: "Stoofpot met Zoete Aardappel — 18:30"
 
 <div class="macro-bar">
   <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">620</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">46 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">20 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">99 g</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">61.1 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">11.4 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">73.7 g</div></div>
 </div>
 
 ## Ingrediënten per portie
 
-| Ingrediënt             | Hoeveelheid |
-| :--------------------- | ----------: |
-| Kipfilet               |       100 g |
-| Varkenshaas            |       100 g |
-| Zoete aardappel        |       180 g |
-| Kidneybonen, uitgelekt |        70 g |
-| Mais, uitgelekt        |        50 g |
-| Champignons            |       100 g |
-| Paprika                |       100 g |
-| Ui                     |        80 g |
-| Passata                |      150 ml |
-| Ketjap manis           |       15 ml |
-| Olijfolie              |        5 ml |
-| Knoflook               |   1 teentje |
-| Gerookt paprikapoeder  |        1 tl |
-| Komijn                 |        1 tl |
+| Ingrediënt             |      Hoeveelheid |
+| :--------------------- | ---------------: |
+| Kipfilet               |            100 g |
+| Varkenshaas            |            100 g |
+| Zoete aardappel        |             80 g |
+| Kidneybonen, uitgelekt |             70 g |
+| Mais, uitgelekt        |             50 g |
+| Champignons            |            100 g |
+| Paprika                |            100 g |
+| Ui                     |             80 g |
+| Passata                |           150 ml |
+| Ketjap manis           |            15 ml |
+| Olijfolie              |             5 ml |
+| Knoflook               | 1 teentje (~5 g) |
+| Gerookt paprikapoeder  |     0.5 g(~1 tl) |
+| Komijn                 |    0.5 g (~1 tl) |
 
 ## Bereiding
 
