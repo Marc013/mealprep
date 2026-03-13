@@ -457,7 +457,7 @@ De totalen zijn benaderingen op basis van gemiddelde voedingswaarden. In de prak
 
 ## Praktische notities
 
-1. Mealprep de 15:45 en 18:30 maaltijden in twee batches: zondag voor ma-di-wo en woensdag voor do-vr-za-zo.
+1. Mealprep de 15:45 en 18:30 maaltijden in twee batches: zondag voor ma-di-wo-do en woensdag voor vr-za-zo.
 2. Avocado bij rustmaaltijden bij voorkeur vers toevoegen op de dag zelf.
 3. Op zaterdag is de training in de ochtend. Gebruik 10:15 als eerste grote herstelmaaltijd na training.
 4. De bijbehorende 7-daagse boodschappenlijst staat op [Weekboodschappen]({{ '/boodschappen' | relative_url }}).

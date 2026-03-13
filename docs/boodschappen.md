@@ -19,8 +19,8 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 ## Vlees en eiwitbronnen
 
-- [ ] Kipfilet: 1,7 kg
-- [ ] Varkenshaas: 650 g
+- [ ] Kipfilet: 1,68 kg
+- [ ] Varkenshaas: 640 g
 - [ ] Tostiham: 250 g
 
 ## Granen en brood
@@ -33,7 +33,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 - [ ] Champignons: 2,6 kg
 - [ ] Paprika rood of geel: 1,4 kg
-- [ ] Uien: 1,1 kg
+- [ ] Uien: 1,06 kg
 - [ ] Courgette: 1,5 kg
 - [ ] Taugé: 600 g
 - [ ] Bloemkoolrijst: 1,5 kg
@@ -80,10 +80,10 @@ De exacte kookverdeling per batch staat op [Batchprep 1 Week]({{ '/batchprep-1-w
 
 ### Batch 1 — zondag bereiden
 
-- [ ] 3 porties 15:45 maaltijd
-- [ ] 3 porties 18:30 maaltijd
+- [ ] 4 porties 15:45 maaltijd
+- [ ] 4 porties 18:30 maaltijd
 
 ### Batch 2 — woensdag bereiden
 
-- [ ] 4 porties 15:45 maaltijd
-- [ ] 4 porties 18:30 maaltijd
+- [ ] 3 porties 15:45 maaltijd
+- [ ] 3 porties 18:30 maaltijd
