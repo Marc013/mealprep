@@ -32,36 +32,29 @@ title: "Kip Ketjap Roerbak — 15:45"
 | Gemberpoeder        | 1 g              | 5 g                |
 | Zwarte peper        | naar smaak       | naar smaak         |
 
-## Voorbereiding (snijwerk)
-
-<div class="prep-section" markdown="1">
-
-<h3>🔪 Snijden — doe dit als eerste</h3>
-
-- Snijd 500 g kipfilet in blokjes van ~2 cm
-- Snijd de paprika's in reepjes
-- Snijd de champignons in plakjes
-- Snipper de uien
-- Snijd de broccoli in kleine roosjes
-- Snijd de courgette in halve plakjes
-- Pers of snijd 5 teentjes knoflook
-
-</div>
-
-## Bereidingswijze (voor 5 porties)
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
+## Bereiding
 
 <ol class="cooking-steps">
-  <li><strong>Rijst koken:</strong> Was 325 g rijst onder koud water. Breng 650 ml water aan de kook. Voeg de rijst en een snufje zout toe. Kook op laag vuur, afgedekt, circa 12-15 minuten tot het water geabsorbeerd is. Zet het vuur uit en laat 5 minuten stomen met deksel erop.</li>
-  <li><strong>Kip kruiden:</strong> Bestrooi de kipblokjes met gemberpoeder en zwarte peper.</li>
-  <li><strong>Kip bakken:</strong> Verhit 35 ml olijfolie in een grote wok of koekenpan op hoog vuur. Bak de kipblokjes in 2-3 batches circa 5-6 minuten per batch tot ze goudbruin en gaar zijn. Haal uit de pan en zet apart.</li>
-  <li><strong>Groenten bakken:</strong> Voeg de resterende 40 ml olijfolie toe aan dezelfde pan. Bak de uien en knoflook 2 minuten. Voeg champignons, paprika, broccoli en courgette toe. Bak op hoog vuur 4-5 minuten; de groenten moeten nog licht knapperig zijn.</li>
-  <li><strong>Samenvoegen:</strong> Voeg de kip terug aan de groenten. Giet 100 ml ketjap manis erover. Roerbak alles samen 1-2 minuten tot alles gelijkmatig bedekt is.</li>
-  <li><strong>Verdelen:</strong> Verdeel de rijst gelijk over 5 mealprep bakjes. Schep de kip-groenten mix ernaast. Laat volledig afkoelen vóór het afsluiten.</li>
+  <li>Snijd kip, paprika, champignons, ui, broccoli, courgette en knoflook voordat je begint.</li>
+  <li>Kook 275 g rijst gaar volgens de verpakking en laat kort uitstomen.</li>
+  <li>Kruid de kip met gemberpoeder en zwarte peper.</li>
+  <li>Bak de kip in 2 tot 3 batches in ongeveer de helft van de olijfolie tot deze goudbruin en gaar is. Haal uit de pan.</li>
+  <li>Bak ui en knoflook kort aan. Voeg daarna champignons, paprika, broccoli en courgette toe en roerbak tot de groenten nog licht knapperig zijn.</li>
+  <li>Doe de kip terug in de pan, voeg ketjap toe en roer alles 1 tot 2 minuten goed door.</li>
+  <li>Verdeel rijst en kip-groentenmix over 5 bakjes en laat volledig afkoelen voor je afsluit.</li>
 </ol>
 
-## Opwarminstructie
+## Praktisch
 
-> Verwarm in de magnetron op 700W gedurende 3-4 minuten. Roer halverwege om. Controleer of de kip door en door warm is.
+- Klassieke mealprep-optie voor 15:45 met rijst.
+- Verwarm 3 tot 4 minuten op 700W en roer halverwege door.
+- Bewaar maximaal 3 dagen in de koelkast of vries direct in.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip &amp; Taugé</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Training</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">15:45 Rust</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Klassiek</a>
+</div>

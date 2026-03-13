@@ -29,34 +29,26 @@ title: "Kip-Avocado Salade — 13:00"
 | Mosterd (Franse)                          | 5 g (1 theelepel) |
 | Zout & zwarte peper                       | naar smaak        |
 
-## Voorbereiding (snijwerk)
+## Bereiding
 
-<div class="prep-section" markdown="1">
+<ol class="cooking-steps">
+  <li>Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes klein.</li>
+  <li>Doe 50 g gemengde sla in een afgesloten bakje en verdeel de overige ingrediënten erover.</li>
+  <li>Meng olijfolie, mosterd, zout en peper tot een dressing en bewaar die apart.</li>
+  <li>Sluit het bakje af en zet het in de koelkast.</li>
+  <li>Giet de dressing er vlak voor het eten over en eet de salade koud.</li>
+</ol>
 
-<h3>🔪 Snijden</h3>
+## Praktisch
 
-- Snijd 70 g gerookte scharrelkipfilet in blokjes
-- Halveer de avocado, verwijder pit, snijd vruchtvlees in blokjes — besprenkel met citroensap tegen verkleuring
-- Snijd kaas in blokjes en ham in reepjes
-- Snijd paprika in kleine blokjes
-- Halveer de cherrytomaatjes
+- Klassieke 13:00-optie voor di en do.
+- Bereid deze de avond ervoor voor de snelste lunchvariant.
 
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Eieren + Ham</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-trainingsdag-omelet-brood' | relative_url }}">13:00 Omelet + Brood</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-omelet-salade' | relative_url }}">13:00 Omelet-Salade</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-3b-kip-avocado-salade' | relative_url }}">13:00 Klassiek</a>
 </div>
-
-## Bereidingswijze — Avond ervoor
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
-
-<ol class="cooking-steps">
-  <li>Doe 50 g gemengde sla in een afgesloten bakje.</li>
-  <li>Leg de kipblokjes, avocado, kaasblokjes, hamreepjes, paprika, cherrytomaatjes en mais erbij.</li>
-  <li><strong>Dressing:</strong> Meng 5 ml olijfolie met 5 g mosterd, zout en peper. Bewaar apart in een klein potje.</li>
-  <li>Sluit het bakje af en zet in de koelkast.</li>
-</ol>
-
-## Serveren — Lunch
-
-<ol class="cooking-steps">
-  <li>Giet de dressing over de salade, roer licht door en eet koud.</li>
-</ol>

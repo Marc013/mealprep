@@ -19,10 +19,7 @@ title: "Whey Shake + Fruit — 21:15"
 | Water                                | 300 ml           |
 | Kiwi                                 | 2 stuks (~150 g) |
 
-## Bereidingswijze
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Meet 300 ml koud water af in een shakebeker.</li>
@@ -31,4 +28,16 @@ Tik op een stap om deze als klaar te markeren.
   <li>Schil de 2 kiwi's, snijd in plakjes of eet met een lepeltje uit de schil.</li>
 </ol>
 
-> **Fruitvariatie:** Wissel de kiwi's af met 2 mandarijnen (~100 g), 1 appel (~100 g) of een handvol druiven (~100 g).
+## Praktisch
+
+- Wissel de kiwi's af met 2 mandarijnen, 1 appel of een handvol druiven.
+- Handige vaste eiwitmaaltijd voor laat op de avond.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Vast</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Klassieke Stoofpot</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Volume Stoofpot</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Vast</a>
+</div>

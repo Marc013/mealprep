@@ -19,10 +19,7 @@ title: "Whey Shake + Fruit — 07:30"
 | Water                                | 300 ml          |
 | Appel (middelgroot)                  | 1 stuk (~100 g) |
 
-## Bereidingswijze
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Meet 300 ml koud water af in een shakebeker.</li>
@@ -31,4 +28,16 @@ Tik op een stap om deze als klaar te markeren.
   <li>Was de appel en eet deze bij de shake.</li>
 </ol>
 
-> **Fruitvariatie:** Wissel de appel af met 2 kiwi's (~150 g), 2 mandarijnen (~100 g) of een handvol druiven (~100 g).
+## Praktisch
+
+- Wissel de appel af met 2 kiwi's, 2 mandarijnen of een handvol druiven.
+- Gebruik deze vaste maaltijd als snelle eiwitstart van de dag.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Vast</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Overnight Oats</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-trainingsdag-power-oats' | relative_url }}">10:15 Power Oats</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Vast</a>
+</div>

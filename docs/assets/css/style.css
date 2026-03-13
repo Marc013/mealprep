@@ -124,6 +124,19 @@ body {
     border-radius: 0;
 }
 
+.dropdown-heading {
+    color: var(--accent-light);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 0.7rem 1rem 0.25rem;
+    text-transform: uppercase;
+}
+
+.compact-nav-item {
+    display: none;
+}
+
 /* Mobile nav */
 @media (max-width: 768px) {
     .nav-toggle {
@@ -150,9 +163,26 @@ body {
         position: static;
         border: none;
         box-shadow: none;
-        padding-left: 1rem;
+        padding-left: 0.25rem;
         display: none;
         background: transparent;
+    }
+
+    .dropdown-heading,
+    .detailed-nav-item {
+        display: none;
+    }
+
+    .compact-nav-item {
+        display: block;
+    }
+
+    .compact-nav-item a {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        margin: 0.25rem 0;
+        padding: 0.85rem 0.9rem;
     }
 
     .nav-dropdown:hover .dropdown-menu,
@@ -250,6 +280,64 @@ a {
     display: inline-block;
 }
 
+.day-plan-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.day-plan-card {
+    display: block;
+    text-decoration: none;
+    color: var(--text);
+    background: linear-gradient(180deg, rgba(240, 136, 62, 0.14), rgba(28, 35, 51, 0.9));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem;
+    transition: all 0.2s;
+}
+
+.day-plan-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+.day-plan-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.9rem;
+}
+
+.day-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--accent-light);
+}
+
+.day-plan-meal {
+    padding: 0.4rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    color: var(--text);
+}
+
+.day-plan-meal strong {
+    color: var(--blue);
+    display: inline-block;
+    min-width: 3.4rem;
+}
+
+.day-plan-note {
+    margin-top: 0.75rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
 .type-vast {
     background: #1f3a2a;
     color: var(--green);
@@ -263,6 +351,46 @@ a {
 .type-mealprep {
     background: #3a2a1f;
     color: var(--accent);
+}
+
+.type-classic {
+    background: #2f2139;
+    color: #d9b8ff;
+}
+
+.quick-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.75rem;
+    margin: 1rem 0 1.5rem;
+}
+
+.quick-link {
+    display: block;
+    padding: 0.95rem 1rem;
+    border-radius: 12px;
+    background: linear-gradient(180deg, rgba(88, 166, 255, 0.12), rgba(88, 166, 255, 0.05));
+    border: 1px solid rgba(88, 166, 255, 0.25);
+    color: var(--text);
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+}
+
+.quick-link:hover {
+    border-color: var(--blue);
+    background: linear-gradient(180deg, rgba(88, 166, 255, 0.18), rgba(88, 166, 255, 0.08));
+}
+
+.quick-link.current-page {
+    border-color: rgba(240, 136, 62, 0.4);
+    background: linear-gradient(180deg, rgba(240, 136, 62, 0.18), rgba(240, 136, 62, 0.08));
+}
+
+@media (max-width: 768px) {
+    .day-plan-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* ── TABLES ── */
@@ -662,19 +790,29 @@ footer {
 .back-link {
     display: inline-block;
     margin-bottom: 1rem;
-    color: var(--text-muted);
+    color: var(--text);
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    padding: 0.65rem 0.9rem;
+    border-radius: 999px;
+    background: rgba(88, 166, 255, 0.1);
+    border: 1px solid rgba(88, 166, 255, 0.22);
 }
 
 .back-link:hover {
-    color: var(--accent);
+    color: var(--blue);
+    border-color: rgba(88, 166, 255, 0.45);
+}
+
+.mobile-quickbar {
+    display: none;
 }
 
 /* ── PRINT ── */
 @media print {
 
     .main-nav,
+    .mobile-quickbar,
     footer,
     .back-link {
         display: none;
@@ -692,5 +830,88 @@ footer {
     blockquote {
         background: #f9f9f9;
         border-color: #ddd;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding-bottom: 5.75rem;
+    }
+
+    .container {
+        padding: 1rem 0.85rem;
+    }
+
+    .page-title {
+        font-size: 1.55rem;
+        margin-bottom: 1rem;
+    }
+
+    .meal-card {
+        padding: 1rem;
+        min-height: 118px;
+    }
+
+    .meal-card .time {
+        font-size: 0.9rem;
+    }
+
+    .meal-card .name {
+        font-size: 1.05rem;
+        line-height: 1.3;
+    }
+
+    .macro-bar {
+        gap: 0.5rem;
+    }
+
+    .macro-badge {
+        flex: 1 1 calc(50% - 0.5rem);
+        min-width: 0;
+        padding: 0.6rem 0.75rem;
+    }
+
+    .macro-badge .value {
+        font-size: 1.15rem;
+    }
+
+    .cooking-steps li {
+        padding: 1rem 1rem 1rem 3.25rem;
+        margin-bottom: 0.9rem;
+    }
+
+    .prep-section {
+        padding: 1rem;
+    }
+
+    blockquote {
+        font-size: 0.9rem;
+    }
+
+    .quick-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .mobile-quickbar {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1px;
+        background: var(--border);
+        border-top: 1px solid var(--border);
+        z-index: 300;
+    }
+
+    .mobile-quickbar a {
+        background: var(--surface);
+        color: var(--text);
+        text-decoration: none;
+        text-align: center;
+        padding: 0.9rem 0.4rem;
+        font-size: 0.82rem;
+        font-weight: 600;
     }
 }

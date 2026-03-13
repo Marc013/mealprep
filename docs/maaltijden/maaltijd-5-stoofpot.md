@@ -35,39 +35,29 @@ title: "Kip & Varkenshaas Stoofpot — 18:30"
 | Chilipoeder              | naar smaak         | naar smaak         |
 | Zout & zwarte peper      | naar smaak         | naar smaak         |
 
-## Voorbereiding (snijwerk)
-
-<div class="prep-section" markdown="1">
-
-<h3>🔪 Snijden — doe dit als eerste</h3>
-
-- Schil 550 g zoete aardappel en snijd in blokjes van ~2 cm
-- Snijd 250 g kipfilet in blokjes van ~2 cm
-- Snijd 250 g varkenshaas in blokjes van ~2 cm
-- Snijd de paprika's in blokjes
-- Snijd de champignons in plakjes
-- Snipper de uien
-- Pers of snijd 5 teentjes knoflook
-- Laat kidney bonen, zwarte bonen en mais uitlekken
-
-</div>
-
-## Bereidingswijze (voor 5 porties)
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
+## Bereiding
 
 <ol class="cooking-steps">
-  <li><strong>Zoete aardappel koken:</strong> Kook de blokjes zoete aardappel in gezouten water circa 12-15 minuten tot ze gaar maar nog stevig zijn. Giet af en zet apart.</li>
-  <li><strong>Vlees kruiden:</strong> Bestrooi de kip- en varkenshaasblokjes met paprikapoeder, komijnpoeder, zout en peper. Meng goed door.</li>
-  <li><strong>Vlees aanbraden:</strong> Verhit 50 ml olijfolie in een grote, diepe pan op hoog vuur. Braad het vlees (kip en varkenshaas samen) in 2-3 batches circa 4-5 minuten per batch tot rondom bruin. Haal uit de pan en zet apart.</li>
-  <li><strong>Groenten bakken:</strong> Voeg de resterende 50 ml olijfolie toe aan dezelfde pan. Fruit de uien en knoflook 2 minuten op middelhoog vuur. Voeg paprika en champignons toe en bak 3-4 minuten mee.</li>
-  <li><strong>Stoven:</strong> Voeg 250 ml tomatenpassata toe aan de groenten. Roer goed. Voeg de kidney bonen, zwarte bonen en mais toe. Breng aan de kook.</li>
-  <li><strong>Samenvoegen:</strong> Voeg het aangebraden vlees terug. Giet 75 ml ketjap manis erbij. Voeg eventueel chilipoeder toe. Laat op laag vuur 10-12 minuten sudderen met deksel schuin erop, tot de saus licht is ingedikt en het vlees gaar is.</li>
-  <li><strong>Zoete aardappel toevoegen:</strong> Voeg de gekookte zoete aardappel voorzichtig toe aan de stoofpot. Roer zachtjes door en verwarm 2 minuten mee.</li>
-  <li><strong>Verdelen:</strong> Verdeel de stoofpot gelijk over 5 mealprep bakjes. Laat volledig afkoelen vóór het afsluiten.</li>
+  <li>Schil de zoete aardappel en snijd die samen met kip, varkenshaas, paprika, champignons, ui en knoflook klein. Laat bonen en mais uitlekken.</li>
+  <li>Kook de blokjes zoete aardappel 12 tot 15 minuten tot ze gaar maar stevig zijn en giet af.</li>
+  <li>Kruid kip en varkenshaas met paprikapoeder, komijn, zout en peper.</li>
+  <li>Braad het vlees in 2 tot 3 batches aan in ongeveer de helft van de olijfolie en haal uit de pan.</li>
+  <li>Bak ui, knoflook, paprika en champignons kort aan. Voeg passata, bonen en mais toe en breng aan de kook.</li>
+  <li>Doe het vlees terug in de pan, voeg ketjap toe en laat 10 tot 12 minuten zacht stoven.</li>
+  <li>Roer de gekookte zoete aardappel er voorzichtig doorheen en verdeel de stoofpot over 5 bakjes.</li>
 </ol>
 
-## Opwarminstructie
+## Praktisch
 
-> Verwarm in de magnetron op 700W gedurende 3-4 minuten. Roer halverwege om. Controleer of het vlees door en door warm is.
+- Klassieke 18:30-mealprep met zoete aardappel en bonen.
+- Verwarm 3 tot 4 minuten op 700W en roer halverwege door.
+- Bewaar maximaal 3 dagen in de koelkast of vries direct in.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-trainingsdag-stoofpot-zoete-aardappel' | relative_url }}">18:30 Training</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Rust</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Klassiek</a>
+</div>

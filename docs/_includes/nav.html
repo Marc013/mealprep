@@ -4,31 +4,87 @@
         <button class="nav-toggle" aria-label="Menu"
             onclick="this.parentElement.parentElement.classList.toggle('nav-open')">☰</button>
         <ul class="nav-links">
-            <li><a href="{{ '/' | relative_url }}" {% if page.url=='/' %}class="active" {% endif %}>Dagplan</a></li>
+            <li><a href="{{ '/' | relative_url }}" {% if page.url=='/' %}class="active" {% endif %}>Start</a></li>
+            <li><a href="{{ '/weekplan-1-week' | relative_url }}" {% if page.url=='/weekplan-1-week/' %}class="active"
+                    {% endif %}>Weekplan</a></li>
             <li class="nav-dropdown">
                 <a href="{{ '/maaltijden/' | relative_url }}" {% if page.url contains '/maaltijden/' %}class="active" {%
                     endif %}>Maaltijden ▾</a>
                 <ul class="dropdown-menu">
-                    <li><a href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake</a>
+                    <li class="compact-nav-item"><a href="{{ '/maaltijden/' | relative_url }}">Alle maaltijden</a></li>
+                    <li class="compact-nav-item"><a href="{{ '/maaltijden/#vaste-momenten' | relative_url }}">Vaste
+                            momenten</a></li>
+                    <li class="compact-nav-item"><a
+                            href="{{ '/maaltijden/#trainingsdag-routes' | relative_url }}">Trainingsdag</a></li>
+                    <li class="compact-nav-item"><a
+                            href="{{ '/maaltijden/#rustdag-routes' | relative_url }}">Rustdag</a></li>
+                    <li class="compact-nav-item"><a
+                            href="{{ '/maaltijden/#klassieke-maaltijden' | relative_url }}">Klassiek</a></li>
+                    <li class="dropdown-heading">Vaste momenten</li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-1-whey-shake-ochtend' | relative_url }}">07:30 Whey Shake</a>
                     </li>
-                    <li><a href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Overnight Oats</a>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Whey Shake</a>
                     </li>
-                    <li><a href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Eieren
-                            (ma,wo,vr)</a></li>
-                    <li><a href="{{ '/maaltijden/maaltijd-3b-kip-avocado-salade' | relative_url }}">13:00 Kip Salade
-                            (di,do)</a></li>
-                    <li><a href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap</a>
+                    <li class="dropdown-heading">Trainingsdag routes</li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-2-trainingsdag-power-oats' | relative_url }}">10:15 Power
+                            Oats</a>
                     </li>
-                    <li><a href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip
-                            &amp; Taugé (alt)</a>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Volume
+                            Bowl</a>
                     </li>
-                    <li><a href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Stoofpot</a></li>
-                    <li><a href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Whey Shake</a>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-3-trainingsdag-omelet-brood' | relative_url }}">13:00 Omelet
+                            +
+                            Brood</a></li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Kip
+                            Ketjap + Rijst</a>
+                    </li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-5-trainingsdag-stoofpot-zoete-aardappel' | relative_url }}">18:30
+                            Stoofpot + Zoete Aardappel</a></li>
+                    <li class="dropdown-heading">Rustdag routes</li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-3-rustdag-omelet-salade' | relative_url }}">13:00
+                            Omelet-Salade</a></li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">15:45
+                            Kip Ketjap + Bloemkoolrijst</a>
+                    </li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Volume
+                            Stoofpot</a></li>
+                    <li class="dropdown-heading">Klassieke maaltijden</li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Overnight Oats</a>
+                    </li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Eieren met Kaas
+                            &amp; Ham</a></li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-3b-kip-avocado-salade' | relative_url }}">13:00 Kip-Avocado
+                            Salade</a></li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap
+                            Roerbak</a></li>
+                    <li class="detailed-nav-item"><a
+                            href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Kip
+                            &amp; Taugé met Bulgur</a></li>
+                    <li class="detailed-nav-item"><a href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30
+                            Klassieke Stoofpot</a>
                     </li>
                 </ul>
             </li>
             <li><a href="{{ '/boodschappen' | relative_url }}" {% if page.url=='/boodschappen/' %}class="active" {%
                     endif %}>🛒 Boodschappen</a></li>
+            <li><a href="{{ '/boodschappen-1-week' | relative_url }}" {% if page.url=='/boodschappen-1-week/'
+                    %}class="active" {% endif %}>Weekboodschappen</a></li>
+            <li><a href="{{ '/batchprep-1-week' | relative_url }}" {% if page.url=='/batchprep-1-week/' %}class="active"
+                    {% endif %}>Batchprep</a></li>
             <li><a href="{{ '/macros' | relative_url }}" {% if page.url=='/macros/' %}class="active" {% endif %}>📊
                     Macro's</a></li>
         </ul>

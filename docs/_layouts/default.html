@@ -17,6 +17,13 @@
         <h1 class="page-title">{{ page.title }}</h1>
         {{ content }}
     </main>
+    {% if page.url contains '/maaltijden/' %}
+    <div class="mobile-quickbar">
+        <a href="{{ '/maaltijden/' | relative_url }}">Maaltijden</a>
+        <a href="{{ '/weekplan-1-week' | relative_url }}">Weekplan</a>
+        <a href="{{ '/boodschappen-1-week' | relative_url }}">Boodschappen</a>
+    </div>
+    {% endif %}
     <footer class="container">
         <p>Strongman Meals — Maaltijdplan</p>
     </footer>

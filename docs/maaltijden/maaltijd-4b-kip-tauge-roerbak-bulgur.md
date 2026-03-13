@@ -35,39 +35,29 @@ title: "Kip & Taugé Roerbak met Bulgur — 15:45"
 | Gemberpoeder       | 1 g              | 5 g                |
 | Zwarte peper       | naar smaak       | naar smaak         |
 
-## Voorbereiding (snijwerk)
-
-<div class="prep-section" markdown="1">
-
-<h3>🔪 Snijden — doe dit als eerste</h3>
-
-- Snijd 500 g kipfilet in blokjes van ~2 cm
-- Snijd de paprika's in reepjes
-- Snijd de champignons in plakjes
-- Snipper de uien
-- Snijd de prei in ringen van ~1 cm (gebruik het wit en lichtgroen)
-- Snijd de courgette in halve plakjes
-- Schil de wortels en snijd in dunne halve plakjes (~3 mm)
-- Pers of snijd 5 teentjes knoflook
-- Spoel 875 g taugé af onder koud water en laat uitlekken
-
-</div>
-
-## Bereidingswijze (voor 5 porties)
-
-Tik op een stap om deze als klaar te markeren.
-{: .text-muted}
+## Bereiding
 
 <ol class="cooking-steps">
-  <li><strong>Bulgur zetten:</strong> Breng 250 ml water aan de kook. Voeg 165 g bulgur en een snufje zout toe. Zet het vuur laag, dek af en laat 12 minuten zachtjes koken tot het water geabsorbeerd is. Haal van het vuur en laat 5 minuten stomen met deksel erop. Maak los met een vork.</li>
-  <li><strong>Kip kruiden:</strong> Bestrooi de kipblokjes met gemberpoeder en zwarte peper.</li>
-  <li><strong>Kip bakken:</strong> Verhit de helft van de olijfolie (~9 ml) in een grote wok of koekenpan op hoog vuur. Bak de kipblokjes in 2–3 batches circa 5–6 minuten per batch tot ze goudbruin en gaar zijn. Haal uit de pan en zet apart.</li>
-  <li><strong>Harde groenten bakken:</strong> Voeg de resterende olijfolie toe aan dezelfde pan. Bak de wortels 3 minuten op hoog vuur. Voeg ui, prei en knoflook toe en bak 2–3 minuten tot de prei zacht begint te worden. Voeg paprika, champignons en courgette toe. Roerbak 4–5 minuten; de groenten moeten nog licht knapperig zijn.</li>
-  <li><strong>Taugé toevoegen:</strong> Voeg de taugé toe aan de pan. Roerbak 1–2 minuten op hoog vuur — taugé mag niet te lang garen om knapperig te blijven en geen vocht te verliezen.</li>
-  <li><strong>Saus en kip erbij:</strong> Voeg de kip terug aan de groenten. Giet 100 ml ketjap manis en 40 ml sojasaus erover. Roerbak alles samen 1–2 minuten op middelhoog vuur tot alles gelijkmatig bedekt is. Proef en pas af met zwarte peper.</li>
-  <li><strong>Verdelen:</strong> Verdeel de bulgur gelijk over 5 mealprep bakjes. Schep de kip-groenten mix (inclusief taugé) ernaast of erbovenop. Laat volledig afkoelen vóór het afsluiten.</li>
+  <li>Snijd kip, paprika, champignons, ui, prei, courgette, wortel en knoflook. Spoel de taugé af en laat uitlekken.</li>
+  <li>Kook 165 g bulgur gaar volgens de verpakking en maak los met een vork.</li>
+  <li>Kruid de kip met gemberpoeder en zwarte peper.</li>
+  <li>Bak de kip in 2 tot 3 batches in ongeveer de helft van de olijfolie tot deze goudbruin en gaar is. Haal uit de pan.</li>
+  <li>Bak wortel, ui, prei en knoflook kort aan. Voeg daarna paprika, champignons en courgette toe en roerbak tot de groenten nog beet hebben.</li>
+  <li>Voeg taugé, kip, ketjap en sojasaus toe en roerbak nog 1 tot 2 minuten.</li>
+  <li>Verdeel bulgur en roerbakmix over 5 bakjes en laat volledig afkoelen voor je afsluit.</li>
 </ol>
 
-## Opwarminstructie
+## Praktisch
 
-> Verwarm in de magnetron op 700W gedurende 3–4 minuten. Roer halverwege om. Controleer of de kip door en door warm is. De taugé blijft licht knapperig — dit is normaal.
+- Klassieke 15:45-variant met bulgur en extra groentevolume.
+- Verwarm 3 tot 4 minuten op 700W en roer halverwege door.
+- De taugé blijft na opwarmen licht knapperig; dat is normaal.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-kip-ketjap-roerbak' | relative_url }}">15:45 Kip Ketjap</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Training</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">15:45 Rust</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-4b-kip-tauge-roerbak-bulgur' | relative_url }}">15:45 Klassiek</a>
+</div>
