@@ -7,26 +7,25 @@ title: "Omelet met Brood — 13:00"
 **Trainingsdag** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">570</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">44 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">77 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">572</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">52.2 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18.5 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">54.1 g</div></div>
 </div>
 
 ## Ingrediënten
 
-| Ingrediënt      | Hoeveelheid |
-| :-------------- | ----------: |
-| Eieren          |     2 stuks |
-| Vloeibaar eiwit |       150 g |
-| Tostiham        |        40 g |
-| Kaas 45+        |        20 g |
-| Champignons     |       150 g |
-| Tomaat          |        75 g |
-| Komkommer       |        75 g |
-| Volkoren brood  |  3 sneetjes |
-| Ketchup         |        10 g |
-| Halfvolle melk  |      200 ml |
+| Ingrediënt      |         Hoeveelheid |
+| :-------------- | ------------------: |
+| Eieren          |    2 stuks (~100 g) |
+| Vloeibaar eiwit |               150 g |
+| Tostiham        |                40 g |
+| Kaas 45+        |                15 g |
+| Champignons     |               150 g |
+| Tomaat          |                75 g |
+| Komkommer       |                75 g |
+| Volkoren brood  | 90 g (~ 3 sneetjes) |
+| Ketchup         |                10 g |
 
 ## Bereiding
 
@@ -34,7 +33,6 @@ title: "Omelet met Brood — 13:00"
   <li>Bak de champignons 4 minuten in een koekenpan.</li>
   <li>Voeg eieren, vloeibaar eiwit, ham en kaas toe en bak tot een stevige omelet.</li>
   <li>Serveer met volkoren brood, tomaat, komkommer en ketchup.</li>
-  <li>Drink de halfvolle melk erbij.</li>
 </ol>
 
 ## Praktisch
