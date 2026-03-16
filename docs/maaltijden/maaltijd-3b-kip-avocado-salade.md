@@ -31,6 +31,12 @@ title: "Kip-Avocado Salade — 13:00"
 
 ## Bereiding
 
+### Voorbereiding
+
+- Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes vooraf.
+- Laat mais goed uitlekken zodat de salade niet waterig wordt.
+- Meng de dressing alvast en bewaar die apart tot het eetmoment.
+
 <ol class="cooking-steps">
   <li>Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes klein.</li>
   <li>Doe 50 g gemengde sla in een afgesloten bakje en verdeel de overige ingrediënten erover.</li>

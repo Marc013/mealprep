@@ -34,6 +34,13 @@ title: "Kip Ketjap Roerbak — 15:45"
 
 ## Bereiding
 
+### Voorbereiding
+
+- Snijd alle groenten en knoflook vooraf en verdeel in aparte bakjes.
+- Snijd de kip in gelijke blokjes of reepjes voor gelijke gaartijd.
+- Marineer de kip 10-15 minuten met een deel van de ketjap, gemberpoeder en peper.
+- Zet een pan voor de rijst en een ruime wok of hapjespan klaar.
+
 <ol class="cooking-steps">
   <li>Snijd kip, paprika, champignons, ui, broccoli, courgette en knoflook voordat je begint.</li>
   <li>Kook 275 g rijst gaar volgens de verpakking en laat kort uitstomen.</li>

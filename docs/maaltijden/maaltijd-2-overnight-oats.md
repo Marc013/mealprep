@@ -25,6 +25,12 @@ title: "Overnight Oats Bowl — 10:15"
 
 ## Bereiding
 
+### Voorbereiding
+
+- Zet een afsluitbaar bakje klaar voor de nacht in de koelkast.
+- Weeg havervlokken, kwark en yoghurt vooraf af.
+- Leg de bosvruchten alvast in de koelkast als je ze minder koud wilt serveren.
+
 <ol class="cooking-steps">
   <li>Doe 50 g havervlokken in een afgesloten pot of bakje.</li>
   <li>Voeg 50 g magere kwark en 75 g halfvolle yoghurt toe. Roer goed door.</li>

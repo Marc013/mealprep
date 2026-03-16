@@ -30,6 +30,12 @@ title: "Grote Omelet-Salade — 13:00"
 
 ## Bereiding
 
+### Voorbereiding
+
+- Snijd tomaat, komkommer en avocado en houd de saladecomponenten apart.
+- Snijd champignons alvast in plakjes voor een snellere bereiding.
+- Klop eieren en vloeibaar eiwit los voordat de pan op temperatuur is.
+
 <ol class="cooking-steps">
   <li>Bak champignons, ei, vloeibaar eiwit, ham en kaas tot een stevig eiergerecht.</li>
   <li>Maak daarnaast een grote salade van tomaat, komkommer, sla en avocado.</li>

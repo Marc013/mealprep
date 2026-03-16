@@ -29,6 +29,12 @@ title: "Omelet met Brood — 13:00"
 
 ## Bereiding
 
+### Voorbereiding
+
+- Snijd tomaat en komkommer alvast in stukken voor erbij.
+- Snijd champignons in plakjes en zet ham en kaas klaar.
+- Klop eieren en vloeibaar eiwit alvast los in een kom.
+
 <ol class="cooking-steps">
   <li>Bak de champignons 4 minuten in een koekenpan.</li>
   <li>Voeg eieren, vloeibaar eiwit, ham en kaas toe en bak tot een stevige omelet.</li>
