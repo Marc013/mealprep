@@ -29,14 +29,14 @@ title: "Kip Ketjap met Rijst — 15:45"
 | Olijfolie         |        3 ml |
 | Knoflook          |   1 teentje |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd kip, ui, knoflook, paprika, champignons en courgette vooraf.
-- Spoel de taugé en laat goed uitlekken.
+- Snijd de kip in reepjes.
 - Marineer de kip 10-15 minuten met ketjap, sojasaus en knoflook.
-- Weeg de rijst direct per batch af zodat portioneren sneller gaat.
+- Snijd ui, knoflook, paprika, champignons en courgette; spoel de taugé en laat uitlekken.
+- Weeg de rijst per batch af zodat portioneren sneller gaat.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Kook de rijst gaar volgens de verpakking.</li>

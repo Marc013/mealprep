@@ -35,14 +35,14 @@ title: "Kip & Taugé Roerbak met Bulgur — 15:45"
 | Gemberpoeder       | 1 g              | 5 g                |
 | Zwarte peper       | naar smaak       | naar smaak         |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd kip en alle groenten vooraf en houd taugé apart.
-- Spoel de taugé en laat goed uitlekken in een vergiet.
+- Snijd de kip in reepjes.
 - Marineer de kip 10-15 minuten met ketjap, sojasaus, gemberpoeder en peper.
+- Snijd alle groenten; spoel de taugé en laat uitlekken in een vergiet.
 - Zet een pan voor de bulgur en een ruime wok of hapjespan klaar.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Snijd kip, paprika, champignons, ui, prei, courgette, wortel en knoflook. Spoel de taugé af en laat uitlekken.</li>

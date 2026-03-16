@@ -32,14 +32,14 @@ title: "Stoofpot met Zoete Aardappel — 18:30"
 | Gerookt paprikapoeder  |     0.5 g(~1 tl) |
 | Komijn                 |    0.5 g (~1 tl) |
 
+## Voorbereiding
+
+- Snijd kip en varkenshaas in blokjes.
+- Marineer 10-15 minuten met paprikapoeder en komijn.
+- Laat kidneybonen en mais uitlekken.
+- Schil en snijd de zoete aardappel; snijd ui, knoflook, paprika en champignons.
+
 ## Bereiding
-
-### Voorbereiding
-
-- Schil en snijd de zoete aardappel vooraf in gelijke blokjes.
-- Snijd kip, varkenshaas, ui, knoflook, paprika en champignons vooraf.
-- Laat kidneybonen en mais goed uitlekken.
-- Kruid of marineer het vlees 10-15 minuten met paprikapoeder en komijn.
 
 <ol class="cooking-steps">
   <li>Kook of rooster de zoete aardappel tot gaar.</li>

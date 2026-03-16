@@ -33,14 +33,15 @@ title: "Volume Stoofpot — 18:30"
 | Gerookt paprikapoeder  |        1 tl |
 | Komijn                 |        1 tl |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd kip, varkenshaas, ui, knoflook, paprika, courgette en champignons vooraf.
-- Laat kidneybonen goed uitlekken en meet passata en ketjap alvast af.
-- Kruid of marineer het vlees 10-15 minuten met gerookt paprikapoeder en komijn.
+- Snijd kip en varkenshaas in blokjes.
+- Marineer 10-15 minuten met gerookt paprikapoeder en komijn.
+- Laat kidneybonen uitlekken; meet passata en ketjap alvast af.
+- Snijd ui, knoflook, paprika, courgette en champignons.
 - Houd avocado apart tot na het opwarmen.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Bak kip en varkenshaas rondom aan.</li>

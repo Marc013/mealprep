@@ -24,12 +24,12 @@ title: "Gebakken Eieren met Kaas & Ham — 13:00"
 | Champignons (vers, gesneden)   | 50 g              |
 | Volkoren brood                 | 1 sneetje (~35 g) |
 
-## Bereiding
-
-### Voorbereiding
+## Voorbereiding
 
 - Snijd kaas in blokjes, ham in reepjes en champignons in plakjes.
 - Zet een koekenpan op middelhoog vuur en leg een spatel klaar.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Snijd 30 g kaas in kleine blokjes, snijd 30 g ham in reepjes en snijd 50 g champignons in plakjes.</li>

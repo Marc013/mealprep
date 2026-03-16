@@ -29,13 +29,13 @@ title: "Kip-Avocado Salade — 13:00"
 | Mosterd (Franse)                          | 5 g (1 theelepel) |
 | Zout & zwarte peper                       | naar smaak        |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes vooraf.
 - Laat mais goed uitlekken zodat de salade niet waterig wordt.
-- Meng de dressing alvast en bewaar die apart tot het eetmoment.
+- Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes.
+- Meng de dressing en bewaar apart tot het eetmoment.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Snijd kip, avocado, kaas, ham, paprika en cherrytomaatjes klein.</li>

@@ -35,14 +35,15 @@ title: "Kip & Varkenshaas Stoofpot — 18:30"
 | Chilipoeder              | naar smaak         | naar smaak         |
 | Zout & zwarte peper      | naar smaak         | naar smaak         |
 
+## Voorbereiding
+
+- Snijd kip en varkenshaas in blokjes.
+- Marineer 10-15 minuten met paprikapoeder, komijn, zout en peper.
+- Laat bonen en mais uitlekken.
+- Schil en snijd de zoete aardappel en alle overige groenten.
+- Zet een kookpan voor de zoete aardappel en een ruime stoofpan klaar.
+
 ## Bereiding
-
-### Voorbereiding
-
-- Schil en snijd de zoete aardappel in gelijke blokjes.
-- Snijd kip, varkenshaas en alle groenten vooraf en laat bonen en mais uitlekken.
-- Marineer kip en varkenshaas 10-15 minuten met paprikapoeder, komijn, zout en peper.
-- Zet een kookpan voor zoete aardappel en een ruime stoofpan klaar.
 
 <ol class="cooking-steps">
   <li>Schil de zoete aardappel en snijd die samen met kip, varkenshaas, paprika, champignons, ui en knoflook klein. Laat bonen en mais uitlekken.</li>

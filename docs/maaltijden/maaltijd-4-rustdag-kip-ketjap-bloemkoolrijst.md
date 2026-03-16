@@ -28,14 +28,14 @@ title: "Kip Ketjap met Bloemkoolrijst — 15:45"
 | Olijfolie      |             5 ml |
 | Knoflook       | 5 g (~1 teentje) |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd kip, ui, knoflook, paprika, champignons en courgette vooraf.
-- Spoel de taugé en laat goed uitlekken.
-- Marineer de kip 10-15 minuten met ketjap en knoflook voor extra smaak.
+- Snijd de kip in reepjes.
+- Marineer de kip 10-15 minuten met ketjap en knoflook.
+- Snijd ui, knoflook, paprika, champignons en courgette; spoel de taugé en laat uitlekken.
 - Zet een tweede pan klaar als je de bloemkoolrijst apart wilt bakken.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Bak de kip goudbruin en gaar.</li>

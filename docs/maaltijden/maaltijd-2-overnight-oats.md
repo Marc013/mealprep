@@ -23,13 +23,13 @@ title: "Overnight Oats Bowl — 10:15"
 | 100% pindakaas naturel        | 8 g             |
 | Kaneelpoeder                  | 1 g (snufje)    |
 
-## Bereiding
-
-### Voorbereiding
+## Voorbereiding
 
 - Zet een afsluitbaar bakje klaar voor de nacht in de koelkast.
 - Weeg havervlokken, kwark en yoghurt vooraf af.
 - Leg de bosvruchten alvast in de koelkast als je ze minder koud wilt serveren.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Doe 50 g havervlokken in een afgesloten pot of bakje.</li>

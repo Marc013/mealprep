@@ -27,13 +27,13 @@ title: "Omelet met Brood — 13:00"
 | Volkoren brood  | 90 g (~ 3 sneetjes) |
 | Ketchup         |                10 g |
 
-## Bereiding
+## Voorbereiding
 
-### Voorbereiding
-
-- Snijd tomaat en komkommer alvast in stukken voor erbij.
 - Snijd champignons in plakjes en zet ham en kaas klaar.
-- Klop eieren en vloeibaar eiwit alvast los in een kom.
+- Klop eieren en vloeibaar eiwit los in een kom.
+- Snijd tomaat en komkommer voor erbij.
+
+## Bereiding
 
 <ol class="cooking-steps">
   <li>Bak de champignons 4 minuten in een koekenpan.</li>
