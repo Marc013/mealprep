@@ -8,9 +8,9 @@ title: "Volume Stoofpot — 18:30"
 
 <div class="macro-bar">
   <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">330</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">41 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">24 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">18 g</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">33.5 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">5.5 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">36.4 g</div></div>
 </div>
 
 ## Ingrediënten per portie
@@ -26,7 +26,6 @@ title: "Volume Stoofpot — 18:30"
 | Ui                     |        60 g |
 | Kidneybonen, uitgelekt |        20 g |
 | Passata                |       80 ml |
-| Avocado                |        30 g |
 | Ketjap manis           |       10 ml |
 | Olijfolie              |        5 ml |
 | Knoflook               |   1 teentje |
@@ -39,7 +38,6 @@ title: "Volume Stoofpot — 18:30"
 - Marineer 10-15 minuten met gerookt paprikapoeder en komijn.
 - Laat kidneybonen uitlekken; meet passata en ketjap alvast af.
 - Snijd ui, knoflook, paprika, courgette en champignons.
-- Houd avocado apart tot na het opwarmen.
 
 ## Bereiding
 
@@ -48,13 +46,11 @@ title: "Volume Stoofpot — 18:30"
   <li>Voeg ui, knoflook, paprika, courgette en champignons toe en bak tot de pan vol maar nog stevig is.</li>
   <li>Voeg passata, ketjap, bonen en kruiden toe en laat kort inkoken.</li>
   <li>Bak de bloemkoolrijst apart of schep die op het einde door de pan.</li>
-  <li>Voeg avocado pas na het opwarmen toe voor de beste structuur.</li>
 </ol>
 
 ## Praktisch
 
 - Verwarm 3 tot 4 minuten op 700W.
-- Voeg avocado pas na het opwarmen toe.
 - Voor de exacte zondag- en woensdagbatch: zie [Batchprep 1 Week]({{ '/batchprep-1-week' | relative_url }}).
 
 ## Verwante recepten

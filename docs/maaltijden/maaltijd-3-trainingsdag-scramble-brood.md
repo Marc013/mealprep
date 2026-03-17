@@ -7,10 +7,10 @@ title: "Eiwitrijke Scramble met Brood — 13:00"
 **Trainingsdag** — ma, di, do, za
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">572</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">52.2 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">581</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">52.8 g</div></div>
   <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18.5 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">54.1 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">57.9 g</div></div>
 </div>
 
 ## Ingrediënten
@@ -44,7 +44,6 @@ title: "Eiwitrijke Scramble met Brood — 13:00"
 
 - Dit is je laatste verse maaltijd voor de middagtraining op ma, di en do.
 - Relatief koolhydraatrijk en nog goed verteerbaar voor later op de dag.
-- Geen omeletstructuur, wel vergelijkbare macro's en verzadiging.
 
 ## Verwante recepten
 

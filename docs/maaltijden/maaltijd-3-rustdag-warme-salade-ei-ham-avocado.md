@@ -7,25 +7,25 @@ title: "Warme Salade met Ei, Ham & Avocado — 13:00"
 **Rustdag** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">400</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">37 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">29 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">15 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">399</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">35.6 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">23.2 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">14.2 g</div></div>
 </div>
 
 ## Ingrediënten
 
-| Ingrediënt      |     Hoeveelheid |
-| :-------------- | --------------: |
-| Eieren          |         2 stuks |
-| Vloeibaar eiwit |           100 g |
-| Kaas 45+        |            25 g |
-| Tostiham        |            30 g |
-| Champignons     |           150 g |
-| Tomaat          |           250 g |
-| Gemengde sla    |           125 g |
-| Avocado         |            50 g |
-| Olijfolie       | 5 g (optioneel) |
+| Ingrediënt      |      Hoeveelheid |
+| :-------------- | ---------------: |
+| Eieren          | 2 stuks (~100 g) |
+| Vloeibaar eiwit |             75 g |
+| Kaas 45+        |             15 g |
+| Tostiham        |             30 g |
+| Champignons     |            100 g |
+| Tomaat          |            175 g |
+| Gemengde sla    |            125 g |
+| Avocado         |             25 g |
+| Olijfolie       |            2.5 g |
 
 ## Voorbereiding
 

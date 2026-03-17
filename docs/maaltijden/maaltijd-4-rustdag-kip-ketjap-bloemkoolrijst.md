@@ -7,10 +7,10 @@ title: "Kip Ketjap met Bloemkoolrijst — 15:45"
 **Rustdag mealprep** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">320</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">30.1 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">8 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">29.1 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">311</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">31.2 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">7.1 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">28.8 g</div></div>
 </div>
 
 ## Ingrediënten per portie
