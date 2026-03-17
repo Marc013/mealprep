@@ -56,7 +56,7 @@ Welkom bij Strongman Meals. Hier komen het actieve weekplan en de oudere losse m
     </div>
     <div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
     <div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham</div>
+    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
     <div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
     <div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
     <div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -80,7 +80,7 @@ Welkom bij Strongman Meals. Hier komen het actieve weekplan en de oudere losse m
     </div>
     <div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
     <div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham</div>
+    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
     <div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
     <div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
     <div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -105,7 +105,7 @@ Welkom bij Strongman Meals. Hier komen het actieve weekplan en de oudere losse m
     </div>
     <div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
     <div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham</div>
+    <div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
     <div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
     <div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
     <div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -166,9 +166,9 @@ Welkom bij Strongman Meals. Hier komen het actieve weekplan en de oudere losse m
     <div class="name">Volume Zuivelbowl</div>
     <span class="type type-classic">Rust</span>
   </a>
-  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham' | relative_url }}">
+  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">
     <div class="time">13:00</div>
-    <div class="name">Warme Salade met Ei, Ham</div>
+    <div class="name">Warme Salade met Ei, Ham &amp; Avocado</div>
     <span class="type type-classic">Rust</span>
   </a>
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">

@@ -55,6 +55,6 @@ title: "Kip-Avocado Salade — 13:00"
 <div class="quick-links">
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Gebakken Eieren</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-trainingsdag-scramble-brood' | relative_url }}">13:00 Eiwitrijke Scramble</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham' | relative_url }}">13:00 Warme Salade Ei-Ham</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">13:00 Warme Salade Ei-Ham</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-3b-kip-avocado-salade' | relative_url }}">13:00 Klassiek</a>
 </div>

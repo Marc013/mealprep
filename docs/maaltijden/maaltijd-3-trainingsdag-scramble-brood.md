@@ -49,7 +49,7 @@ title: "Eiwitrijke Scramble met Brood — 13:00"
 
 <div class="quick-links">
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-3-trainingsdag-scramble-brood' | relative_url }}">13:00 Training</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham' | relative_url }}">13:00 Rust</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">13:00 Rust</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Klassiek</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Volgende</a>
 </div>

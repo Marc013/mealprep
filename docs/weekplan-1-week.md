@@ -186,9 +186,9 @@ Open op je smartphone direct de juiste maaltijdpagina:
 		<div class="name">Volume Zuivelbowl</div>
 		<span class="type type-classic">Rust</span>
 	</a>
-	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham' | relative_url }}">
+	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">
 		<div class="time">13:00</div>
-		<div class="name">Warme Salade met Ei, Ham</div>
+		<div class="name">Warme Salade met Ei, Ham &amp; Avocado</div>
 		<span class="type type-classic">Rust</span>
 	</a>
 	<a class="meal-card" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">
@@ -300,7 +300,7 @@ Bereiding:
 
 Richtmacro's: ongeveer 581 kcal, 52,8 g eiwit, 18,5 g vet, 57,9 g koolhydraten.
 
-### Rustdag — Warme salade met ei, ham
+### Rustdag — Warme salade met ei, ham & avocado
 
 | Ingrediënt      | Hoeveelheid |
 | :-------------- | ----------: |
@@ -318,7 +318,7 @@ Bereiding:
 2. Maak een grote salade van tomaat, sla en leg de gekookte eieren erbovenop.
 3. Serveer de warme champignon-hammix naast of over de salade. Gebruik eventueel alleen een klein scheutje olijfolie.
 
-Richtmacro's: ongeveer 352 kcal, 35 g eiwit, 18,7 g vet, 13,9 g koolhydraten.
+Richtmacro's: ongeveer 399 kcal, 35,6 g eiwit, 23,2 g vet, 14,2 g koolhydraten.
 
 ---
 

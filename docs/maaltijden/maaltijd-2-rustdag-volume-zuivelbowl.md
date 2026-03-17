@@ -43,5 +43,5 @@ title: "Volume Zuivelbowl — 10:15"
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-trainingsdag-power-oats' | relative_url }}">10:15 Training</a>
   <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-2-rustdag-volume-zuivelbowl' | relative_url }}">10:15 Rust</a>
   <a class="quick-link" href="{{ '/maaltijden/maaltijd-2-overnight-oats' | relative_url }}">10:15 Klassiek</a>
-  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham' | relative_url }}">13:00 Volgende</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">13:00 Volgende</a>
 </div>

@@ -48,7 +48,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 - [ ] Kiwi's: 14 stuks
 - [ ] Bananen: 3 stuks
 - [ ] Bosvruchten diepvries: 850 g
-- [ ] Avocado: 90 g eetbaar, ongeveer 1 stuk
+- [ ] Avocado: 240 g eetbaar, ongeveer 2 tot 3 stuks
 
 ## Blik, pot en saus
 
