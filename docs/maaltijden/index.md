@@ -51,9 +51,9 @@ Gebruik trainingsdag- en rustdagroutes om sneller de juiste variant per eetmomen
     <div class="name">Power Oats Bowl</div>
     <span class="type type-vers">Training</span>
   </a>
-  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-trainingsdag-omelet-brood' | relative_url }}">
+  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-trainingsdag-scramble-brood' | relative_url }}">
     <div class="time">13:00</div>
-    <div class="name">Omelet met Brood</div>
+    <div class="name">Eiwitrijke Scramble met Brood</div>
     <span class="type type-vers">Training</span>
   </a>
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">
@@ -78,9 +78,9 @@ Gebruik trainingsdag- en rustdagroutes om sneller de juiste variant per eetmomen
     <div class="name">Volume Zuivelbowl</div>
     <span class="type type-classic">Rust</span>
   </a>
-  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-omelet-salade' | relative_url }}">
+  <a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">
     <div class="time">13:00</div>
-    <div class="name">Grote Omelet-Salade</div>
+    <div class="name">Warme Salade met Ei, Ham &amp; Avocado</div>
     <span class="type type-classic">Rust</span>
   </a>
   <a class="meal-card" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">

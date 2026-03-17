@@ -52,7 +52,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Power Oats Bowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Omelet met Brood</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Eiwitrijke Scramble met Brood</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Rijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Stoofpot met Zoete Aardappel</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -64,7 +64,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Power Oats Bowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Omelet met Brood</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Eiwitrijke Scramble met Brood</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Rijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Stoofpot met Zoete Aardappel</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -76,7 +76,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Grote Omelet-Salade</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -88,7 +88,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Power Oats Bowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Omelet met Brood</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Eiwitrijke Scramble met Brood</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Rijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Stoofpot met Zoete Aardappel</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -100,7 +100,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Grote Omelet-Salade</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -112,7 +112,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Power Oats Bowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Omelet met Brood</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Eiwitrijke Scramble met Brood</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Rijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Stoofpot met Zoete Aardappel</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -125,7 +125,7 @@ Dagdoelen:
 		</div>
 		<div class="day-plan-meal"><strong>07:30</strong> Whey + appel</div>
 		<div class="day-plan-meal"><strong>10:15</strong> Volume Zuivelbowl</div>
-		<div class="day-plan-meal"><strong>13:00</strong> Grote Omelet-Salade</div>
+		<div class="day-plan-meal"><strong>13:00</strong> Warme Salade met Ei, Ham &amp; Avocado</div>
 		<div class="day-plan-meal"><strong>15:45</strong> Kip Ketjap met Bloemkoolrijst</div>
 		<div class="day-plan-meal"><strong>18:30</strong> Volume Stoofpot</div>
 		<div class="day-plan-meal"><strong>21:15</strong> Whey + kiwi</div>
@@ -161,9 +161,9 @@ Open op je smartphone direct de juiste maaltijdpagina:
 		<div class="name">Power Oats Bowl</div>
 		<span class="type type-vers">Training</span>
 	</a>
-	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-trainingsdag-omelet-brood' | relative_url }}">
+	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-trainingsdag-scramble-brood' | relative_url }}">
 		<div class="time">13:00</div>
-		<div class="name">Omelet met Brood</div>
+		<div class="name">Eiwitrijke Scramble met Brood</div>
 		<span class="type type-vers">Training</span>
 	</a>
 	<a class="meal-card" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">
@@ -186,9 +186,9 @@ Open op je smartphone direct de juiste maaltijdpagina:
 		<div class="name">Volume Zuivelbowl</div>
 		<span class="type type-classic">Rust</span>
 	</a>
-	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-omelet-salade' | relative_url }}">
+	<a class="meal-card" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">
 		<div class="time">13:00</div>
-		<div class="name">Grote Omelet-Salade</div>
+		<div class="name">Warme Salade met Ei, Ham &amp; Avocado</div>
 		<span class="type type-classic">Rust</span>
 	</a>
 	<a class="meal-card" href="{{ '/maaltijden/maaltijd-4-rustdag-kip-ketjap-bloemkoolrijst' | relative_url }}">
@@ -278,7 +278,7 @@ Richtmacro's: ongeveer 250 kcal, 28 g eiwit, 8 g vet, 24 g koolhydraten.
 
 ## 13:00 Verse maaltijd
 
-### Trainingsdag — Omelet met brood
+### Trainingsdag — Eiwitrijke scramble met brood
 
 | Ingrediënt      | Hoeveelheid |
 | :-------------- | ----------: |
@@ -300,7 +300,7 @@ Bereiding:
 
 Richtmacro's: ongeveer 572 kcal, 52,2 g eiwit, 18,5 g vet, 54,1 g koolhydraten.
 
-### Rustdag — Grote omelet-salade
+### Rustdag — Warme salade met ei, ham & avocado
 
 | Ingrediënt             | Hoeveelheid |
 | :--------------------- | ----------: |
