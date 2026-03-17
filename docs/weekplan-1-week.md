@@ -298,7 +298,7 @@ Bereiding:
 2. Voeg ei, vloeibaar eiwit, ham en kaas toe en bak tot een stevige omelet.
 3. Serveer met brood, tomaat, komkommer en ketchup.
 
-Richtmacro's: ongeveer 572 kcal, 52,2 g eiwit, 18,5 g vet, 54,1 g koolhydraten.
+Richtmacro's: ongeveer 581 kcal, 52,8 g eiwit, 18,5 g vet, 57,9 g koolhydraten.
 
 ### Rustdag — Warme salade met ei, ham & avocado
 
@@ -321,7 +321,7 @@ Bereiding:
 2. Maak daarnaast een grote salade van tomaat, komkommer, sla en avocado.
 3. Gebruik een kleine hoeveelheid mayonaise of olijfolie als dressing.
 
-Richtmacro's: ongeveer 400 kcal, 37 g eiwit, 29 g vet, 15 g koolhydraten.
+Richtmacro's: ongeveer 399 kcal, 35,6 g eiwit, 23,2 g vet, 14,2 g koolhydraten.
 
 ---
 
