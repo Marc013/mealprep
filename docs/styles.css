@@ -380,13 +380,13 @@ h4 {
 }
 
 .meal-card.fixed {
-    opacity: 0.7;
-    cursor: default;
+    opacity: 1;
+    cursor: pointer;
 }
 
 .meal-card.fixed:hover {
-    border-left-color: var(--color-border);
-    background-color: var(--color-bg-secondary);
+    border-left-color: var(--color-accent);
+    background-color: var(--color-bg-tertiary);
 }
 
 .meal-time {
