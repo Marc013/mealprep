@@ -148,6 +148,12 @@
                     "name": "Appel",
                     "amount": "1 stuk"
                 }
+            ],
+            "preparation": [
+                "Doe 50 g wheypoeder in een shaker of groot glas.",
+                "Voeg 300 ml koud water toe.",
+                "Schud of roer krachtig door tot volledig opgelost.",
+                "Eet de appel heel of in partjes als bijgerecht."
             ]
         },
         "shake-avond": {
@@ -173,6 +179,12 @@
                     "name": "Appel",
                     "amount": "1 stuk"
                 }
+            ],
+            "preparation": [
+                "Doe 50 g wheypoeder in een shaker of groot glas.",
+                "Voeg 300 ml koud water toe.",
+                "Schud of roer krachtig door tot volledig opgelost.",
+                "Eet de appel heel of in partjes als bijgerecht."
             ]
         },
         "ontbijt-plan1": {
@@ -991,7 +1003,7 @@
                         },
                         {
                             "id": "skyr2",
-                            "name": "Skyr naturel",
+                            "name": "Skyr naturel (Lidl)",
                             "amount": "294 g"
                         }
                     ]
@@ -1101,7 +1113,7 @@
                         },
                         {
                             "id": "fruit2",
-                            "name": "Fruit (appel)",
+                            "name": "Fruit — suggesties: appel, peer, mandarijn, kiwi, pruim",
                             "amount": "14 stuks"
                         }
                     ]

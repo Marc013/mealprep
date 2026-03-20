@@ -209,7 +209,7 @@ const MealApp = {
             `;
         }).join('');
 
-        scheduleEl.querySelectorAll('.meal-card:not(.fixed)').forEach(card => {
+        scheduleEl.querySelectorAll('.meal-card').forEach(card => {
             card.addEventListener('click', () => {
                 const mealId = card.dataset.meal;
                 this.openModal(mealId);
@@ -351,6 +351,136 @@ const MealApp = {
             overlay.classList.remove('open');
             document.body.style.overflow = '';
         }
+    }
+};
+
+// ========== Macros App (macros.html) ==========
+const MacrosApp = {
+    data: null,
+    dayType: 'training',
+    currentPlan: 'plan1',
+
+    async init() {
+        Utils.initNavigation();
+        try {
+            this.data = await Utils.loadData('data/meals.json');
+            this.loadSavedPlan();
+            this.initWeekplanSelector();
+            this.initToggle();
+            this.render();
+        } catch (e) {
+            console.error('Failed to load macros data:', e);
+        }
+    },
+
+    loadSavedPlan() {
+        const state = Utils.loadState();
+        if (state.currentPlan && this.data.weekplans[state.currentPlan]) {
+            this.currentPlan = state.currentPlan;
+        }
+    },
+
+    savePlan() {
+        const state = Utils.loadState();
+        state.currentPlan = this.currentPlan;
+        Utils.saveState(state);
+    },
+
+    initWeekplanSelector() {
+        const select = document.getElementById('weekplan-select');
+        if (!select || !this.data.weekplans) return;
+
+        select.innerHTML = Object.entries(this.data.weekplans).map(([id, plan]) => `
+            <option value="${id}" ${id === this.currentPlan ? 'selected' : ''}>
+                ${Utils.escape(plan.name)}
+            </option>
+        `).join('');
+
+        select.addEventListener('change', () => {
+            this.currentPlan = select.value;
+            this.savePlan();
+            this.render();
+        });
+    },
+
+    initToggle() {
+        const buttons = document.querySelectorAll('.toggle-btn');
+        buttons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                buttons.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                this.dayType = btn.dataset.type;
+                this.render();
+            });
+        });
+    },
+
+    render() {
+        const plan = this.data.weekplans[this.currentPlan];
+        const targets = this.data.targets[this.dayType];
+        const labelEl = document.getElementById('day-type-label');
+        const sectionEl = document.getElementById('macros-breakdown');
+
+        if (labelEl) {
+            labelEl.textContent = this.dayType === 'training' ? 'TRAININGSDAG' : 'RUSTDAG';
+        }
+
+        if (!sectionEl) return;
+
+        const rows = plan.schedule.map(slot => {
+            const meal = this.data.meals[slot.meal];
+            if (!meal) return '';
+
+            const macros = meal.variants
+                ? meal.variants[this.dayType].macros
+                : meal.macros;
+
+            const variantLabel = meal.variants
+                ? `<span class="variant-badge">${Utils.escape(meal.variants[this.dayType].label)}</span>`
+                : '';
+
+            return `
+                <div class="macro-row">
+                    <span class="macro-row-time">${slot.time}</span>
+                    <span class="macro-row-title">${Utils.escape(meal.title)}${variantLabel}</span>
+                    <span class="macro-row-val kcal-val">${macros.kcal}</span>
+                    <span class="macro-row-val protein-val">${macros.protein}g</span>
+                    <span class="macro-row-val">${macros.fat}g</span>
+                    <span class="macro-row-val">${macros.carbs}g</span>
+                </div>
+            `;
+        }).join('');
+
+        const totals = plan.totals[this.dayType];
+        sectionEl.innerHTML = `
+            <div class="macro-col-header">
+                <span>Tijd</span>
+                <span>Gerecht</span>
+                <span>Kcal</span>
+                <span>Eiwit</span>
+                <span>Vet</span>
+                <span>KH</span>
+            </div>
+            <div class="macros-breakdown">
+                ${rows}
+                <div class="macro-row total-row">
+                    <span class="macro-row-time">—</span>
+                    <span class="macro-row-title">TOTAAL</span>
+                    <span class="macro-row-val kcal-val">${totals.kcal}</span>
+                    <span class="macro-row-val protein-val">${totals.protein}g</span>
+                    <span class="macro-row-val">${totals.fat}g</span>
+                    <span class="macro-row-val">${totals.carbs}g</span>
+                </div>
+                <div class="macro-row target-row">
+                    <span class="macro-row-time">—</span>
+                    <span class="macro-row-title">DOEL (max)</span>
+                    <span class="macro-row-val">${targets.kcal}</span>
+                    <span class="macro-row-val">${targets.protein}g</span>
+                    <span class="macro-row-val">${targets.fat}g</span>
+                    <span class="macro-row-val">${targets.carbs}g</span>
+                </div>
+            </div>
+        `;
     }
 };
 

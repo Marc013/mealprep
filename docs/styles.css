@@ -92,10 +92,10 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: var(--font-heading);
+    font-family: var(--font-body);
     font-weight: 700;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
+    line-height: 1.3;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
 }
 
@@ -284,7 +284,11 @@ h4 {
 }
 
 .totals-title {
-    font-size: var(--text-lg);
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    line-height: 1.3;
     margin: 0;
 }
 
@@ -466,7 +470,12 @@ h4 {
 }
 
 .category-title {
-    font-size: var(--text-lg);
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    line-height: 1.3;
     margin-bottom: var(--space-4);
     padding-bottom: var(--space-2);
     border-bottom: 2px solid var(--color-accent);
@@ -605,12 +614,13 @@ h4 {
 
 .modal {
     position: relative;
+    display: flex;
+    flex-direction: column;
     width: 100%;
     max-width: var(--container-max);
     max-height: 85vh;
     background-color: var(--color-bg-secondary);
     border-top: 3px solid var(--color-accent);
-    overflow-y: auto;
     transform: translateY(100%);
     transition: transform var(--transition-base);
 }
@@ -619,10 +629,17 @@ h4 {
     transform: translateY(0);
 }
 
+.modal-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--color-border);
+    flex-shrink: 0;
+    background-color: var(--color-bg-secondary);
+}
+
 .modal-close {
-    position: absolute;
-    top: var(--space-3);
-    right: var(--space-3);
     width: 40px;
     height: 40px;
     background: var(--color-bg-tertiary);
@@ -633,11 +650,20 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
+}
+
+.modal-close:hover {
+    background: var(--color-accent-muted);
+    border-color: var(--color-accent);
+    color: var(--color-accent);
 }
 
 .modal-content {
     padding: var(--space-6);
-    position: relative;
+    overflow-y: auto;
+    flex: 1;
+    -webkit-overflow-scrolling: touch;
 }
 
 .recipe-header {
@@ -645,7 +671,12 @@ h4 {
 }
 
 .recipe-title {
-    font-size: var(--text-2xl);
+    font-family: var(--font-body);
+    font-size: var(--text-xl);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    line-height: 1.3;
     margin-bottom: var(--space-2);
 }
 
@@ -664,7 +695,11 @@ h4 {
 }
 
 .recipe-section-title {
-    font-size: var(--text-base);
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
     margin-bottom: var(--space-3);
     color: var(--color-accent);
 }
@@ -746,6 +781,98 @@ h4 {
     border-color: var(--color-accent);
 }
 
+/* ---------- Macros Breakdown Page ---------- */
+.macros-section {
+    margin-top: var(--space-6);
+}
+
+.macro-col-header {
+    display: grid;
+    grid-template-columns: 60px 1fr repeat(4, 56px);
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    font-family: var(--font-mono);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.macro-col-header span:nth-child(n+3) {
+    text-align: right;
+}
+
+.macros-breakdown {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.macro-row {
+    display: grid;
+    grid-template-columns: 60px 1fr repeat(4, 56px);
+    gap: var(--space-2);
+    align-items: center;
+    padding: var(--space-3) var(--space-4);
+    background-color: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-left: 3px solid transparent;
+}
+
+.macro-row.total-row {
+    border-left-color: var(--color-accent);
+    background-color: var(--color-bg-tertiary);
+    margin-top: var(--space-2);
+    border-top: 2px solid var(--color-border-strong);
+}
+
+.macro-row.target-row {
+    border-left-color: var(--color-info);
+    background-color: transparent;
+    opacity: 0.75;
+}
+
+.macro-row-time {
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--color-accent);
+}
+
+.macro-row-title {
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+}
+
+.macro-row-val {
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    text-align: right;
+    color: var(--color-text-secondary);
+}
+
+.macro-row-val.kcal-val {
+    color: var(--color-accent);
+}
+
+.macro-row-val.protein-val {
+    color: var(--color-success);
+}
+
+.variant-badge {
+    display: block;
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    font-family: var(--font-mono);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    margin-top: 2px;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
     .nav-links {
@@ -799,6 +926,31 @@ h4 {
 
     .checklist-item {
         padding: var(--space-4);
+    }
+
+    .macro-col-header {
+        grid-template-columns: 46px 1fr repeat(4, 42px);
+        font-size: 0.6rem;
+        padding: var(--space-1) var(--space-2);
+        gap: var(--space-1);
+    }
+
+    .macro-row {
+        grid-template-columns: 46px 1fr repeat(4, 42px);
+        padding: var(--space-2) var(--space-2);
+        gap: var(--space-1);
+    }
+
+    .macro-row-val {
+        font-size: var(--text-xs);
+    }
+
+    .macro-row-title {
+        font-size: var(--text-xs);
+    }
+
+    .macro-row-time {
+        font-size: var(--text-xs);
     }
 }
 

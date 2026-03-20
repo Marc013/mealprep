@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>STRONGMAN MEALPREP</title>
+    <title>Macro's — STRONGMAN MEALPREP</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -13,9 +13,9 @@
     <nav class="nav-bar">
         <div class="nav-brand">MEALPREP</div>
         <div class="nav-links">
-            <a href="index.html" class="nav-link active">Dagplan</a>
+            <a href="index.html" class="nav-link">Dagplan</a>
             <a href="shopping.html" class="nav-link">Boodschappen</a>
-            <a href="macros.html" class="nav-link">Macro's</a>
+            <a href="macros.html" class="nav-link active">Macro's</a>
         </div>
         <button class="nav-toggle" aria-label="Menu">
             <span class="bar"></span>
@@ -26,6 +26,11 @@
 
     <!-- Main Content -->
     <main class="container">
+        <header class="page-header">
+            <h1 class="page-title">DAGTOTAAL MACRO'S</h1>
+            <p class="page-subtitle" id="day-type-label">TRAININGSDAG</p>
+        </header>
+
         <!-- Weekplan Selector -->
         <section class="weekplan-selector">
             <label class="selector-label">WEEKPLAN</label>
@@ -40,42 +45,16 @@
             <button class="toggle-btn" data-type="rest">RUST</button>
         </div>
 
-        <!-- Day Totals -->
-        <section class="day-totals">
-            <div class="totals-header">
-                <h2 class="totals-title">DAGTOTAAL</h2>
-                <span class="totals-label" id="day-type-label">TRAININGSDAG</span>
-            </div>
-            <div class="macro-grid" id="day-macros">
-                <!-- Populated by JS -->
-            </div>
-            <div class="targets-row" id="targets-row">
-                <!-- Target indicators -->
-            </div>
-        </section>
-
-        <!-- Schedule -->
-        <section class="schedule" id="schedule">
-            <!-- Meal cards populated by JS -->
+        <!-- Macros Breakdown -->
+        <section class="macros-section" id="macros-breakdown">
+            <!-- Populated by JS -->
         </section>
     </main>
-
-    <!-- Recipe Modal -->
-    <div class="modal-overlay" id="modal-overlay">
-        <div class="modal" id="recipe-modal">
-            <div class="modal-header">
-                <button class="modal-close" id="modal-close" aria-label="Sluiten">&times;</button>
-            </div>
-            <div class="modal-content" id="modal-content">
-                <!-- Recipe details -->
-            </div>
-        </div>
-    </div>
 
     <script src="app.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            MealApp.init();
+            MacrosApp.init();
         });
     </script>
 </body>
