@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boodschappen — STRONGMAN MEALPREP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav-bar">
+        <div class="nav-brand">MEALPREP</div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link">Dagplan</a>
+            <a href="shopping.html" class="nav-link active">Boodschappen</a>
+        </div>
+        <button class="nav-toggle" aria-label="Menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container">
+        <header class="page-header">
+            <h1 class="page-title">BOODSCHAPPEN</h1>
+            <p class="page-subtitle">Weeklijst — 7 dagen</p>
+        </header>
+
+        <!-- Weekplan Selector -->
+        <section class="weekplan-selector">
+            <label class="selector-label">WEEKPLAN</label>
+            <select id="weekplan-select" class="weekplan-select">
+                <!-- Populated by JS -->
+            </select>
+        </section>
+
+        <!-- Actions -->
+        <div class="shopping-actions">
+            <button class="btn btn-secondary" id="clear-all">Reset lijst</button>
+            <span class="progress-text" id="progress-text">0/0 afgevinkt</span>
+        </div>
+
+        <!-- Shopping Lists -->
+        <div id="shopping-lists">
+            <!-- Populated by JS -->
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            ShoppingApp.init();
+        });
+    </script>
+</body>
+
+</html>

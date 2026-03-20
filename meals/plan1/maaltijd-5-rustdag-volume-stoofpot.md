@@ -1,0 +1,63 @@
+---
+title: "Volume Stoofpot — 18:30"
+---
+
+<a href="{{ '/maaltijden/' | relative_url }}" class="back-link">← Terug naar maaltijden</a>
+
+**Rustdag mealprep** — wo, vr, zo
+
+<div class="macro-bar">
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">330</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">33.5 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">5.5 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">36.4 g</div></div>
+</div>
+
+## Ingrediënten per portie
+
+| Ingrediënt             | Hoeveelheid |
+| :--------------------- | ----------: |
+| Kipfilet               |       100 g |
+| Varkenshaas            |        60 g |
+| Bloemkoolrijst         |       250 g |
+| Champignons            |       150 g |
+| Courgette              |       100 g |
+| Paprika                |       100 g |
+| Ui                     |        60 g |
+| Kidneybonen, uitgelekt |        20 g |
+| Passata                |       80 ml |
+| Ketjap manis           |       10 ml |
+| Olijfolie              |        5 ml |
+| Knoflook               |   1 teentje |
+| Gerookt paprikapoeder  |        1 tl |
+| Komijn                 |        1 tl |
+
+## Voorbereiding
+
+- Snijd kip en varkenshaas in blokjes.
+- Marineer 10-15 minuten met gerookt paprikapoeder en komijn.
+- Laat kidneybonen uitlekken; meet passata en ketjap alvast af.
+- Snijd ui, knoflook, paprika, courgette en champignons.
+
+## Bereiding
+
+<ol class="cooking-steps">
+  <li>Bak kip en varkenshaas rondom aan.</li>
+  <li>Voeg ui, knoflook, paprika, courgette en champignons toe en bak tot de pan vol maar nog stevig is.</li>
+  <li>Voeg passata, ketjap, bonen en kruiden toe en laat kort inkoken.</li>
+  <li>Bak de bloemkoolrijst apart of schep die op het einde door de pan.</li>
+</ol>
+
+## Praktisch
+
+- Verwarm 3 tot 4 minuten op 700W.
+- Voor de exacte zondag- en woensdagbatch: zie [Batchprep 1 Week]({{ '/batchprep-1-week' | relative_url }}).
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-trainingsdag-stoofpot-zoete-aardappel' | relative_url }}">18:30 Training</a>
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-5-rustdag-volume-stoofpot' | relative_url }}">18:30 Rust</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-5-stoofpot' | relative_url }}">18:30 Klassiek</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-6-whey-shake-avond' | relative_url }}">21:15 Volgende</a>
+</div>

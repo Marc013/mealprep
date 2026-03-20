@@ -1,0 +1,143 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "GitHub Pages Content Schema",
+    "description": "Example data structure for static site content",
+    "example": {
+        "site": {
+            "title": "Site Title",
+            "subtitle": "Site subtitle or tagline"
+        },
+        "cards": [
+            {
+                "id": "card-1",
+                "title": "Card Title",
+                "badge": "Optional Badge",
+                "description": "Card description text",
+                "macros": {
+                    "kcal": 500,
+                    "protein": 40,
+                    "fat": 15,
+                    "carbs": 50
+                },
+                "link": "page.html"
+            }
+        ],
+        "checklist": [
+            {
+                "id": "item-1",
+                "text": "Checklist item text",
+                "amount": "500g",
+                "category": "Optional category"
+            }
+        ],
+        "details": [
+            {
+                "label": "Detail label",
+                "value": "Detail value"
+            }
+        ]
+    },
+    "type": "object",
+    "properties": {
+        "site": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "subtitle": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title"
+            ]
+        },
+        "cards": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "badge": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "macros": {
+                        "type": "object",
+                        "properties": {
+                            "kcal": {
+                                "type": "number"
+                            },
+                            "protein": {
+                                "type": "number"
+                            },
+                            "fat": {
+                                "type": "number"
+                            },
+                            "carbs": {
+                                "type": "number"
+                            }
+                        }
+                    },
+                    "link": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "title"
+                ]
+            }
+        },
+        "checklist": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "text": {
+                        "type": "string"
+                    },
+                    "amount": {
+                        "type": "string"
+                    },
+                    "category": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "text"
+                ]
+            }
+        },
+        "details": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "label": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "label",
+                    "value"
+                ]
+            }
+        }
+    }
+}

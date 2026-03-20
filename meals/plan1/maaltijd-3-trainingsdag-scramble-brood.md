@@ -1,0 +1,55 @@
+---
+title: "Eiwitrijke Scramble met Brood — 13:00"
+---
+
+<a href="{{ '/maaltijden/' | relative_url }}" class="back-link">← Terug naar maaltijden</a>
+
+**Trainingsdag** — ma, di, do, za
+
+<div class="macro-bar">
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">581</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">52.8 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">18.5 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">57.9 g</div></div>
+</div>
+
+## Ingrediënten
+
+| Ingrediënt      |         Hoeveelheid |
+| :-------------- | ------------------: |
+| Eieren          |    2 stuks (~100 g) |
+| Vloeibaar eiwit |               150 g |
+| Tostiham        |                40 g |
+| Kaas 45+        |                15 g |
+| Champignons     |               150 g |
+| Tomaat          |               150 g |
+| Volkoren brood  | 90 g (~ 3 sneetjes) |
+| Ketchup         |                10 g |
+
+## Voorbereiding
+
+- Snijd champignons in plakjes en zet ham en kaas klaar.
+- Kook 2 eieren hard, pel ze en halveer ze.
+- Snijd tomaat voor erbij.
+
+## Bereiding
+
+<ol class="cooking-steps">
+  <li>Bak de champignons 4 minuten in een koekenpan.</li>
+  <li>Voeg vloeibaar eiwit en tostiham toe en roer op middelhoog vuur tot een stevige scramble; strooi op het einde de kaas erover.</li>
+  <li>Serveer met de gekookte eieren, volkoren brood, tomaat en ketchup.</li>
+</ol>
+
+## Praktisch
+
+- Dit is je laatste verse maaltijd voor de middagtraining op ma, di en do.
+- Relatief koolhydraatrijk en nog goed verteerbaar voor later op de dag.
+
+## Verwante recepten
+
+<div class="quick-links">
+  <a class="quick-link current-page" href="{{ '/maaltijden/maaltijd-3-trainingsdag-scramble-brood' | relative_url }}">13:00 Training</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-rustdag-warme-salade-ei-ham-avocado' | relative_url }}">13:00 Rust</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-3-gebakken-eieren' | relative_url }}">13:00 Klassiek</a>
+  <a class="quick-link" href="{{ '/maaltijden/maaltijd-4-trainingsdag-kip-ketjap-rijst' | relative_url }}">15:45 Volgende</a>
+</div>

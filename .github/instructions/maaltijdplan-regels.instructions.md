@@ -1,0 +1,60 @@
+---
+description: "Use when creating, editing or validating meal plan markdown files. Hard constraints for macro limits, nutrition source lookup, ingredient naming, macro validation and mealprep requirements. Keywords: maaltijdplan, mealprep, macro's berekenen, ingredienten, voedingswaarden, weekschema."
+---
+
+# Maaltijdplan — harde regels
+
+> Volledige documentatie: [.github/skills/mealplan/references/macro-regels.md](../.github/skills/mealplan/references/macro-regels.md)
+
+## Voedingswaarde-opzoekingsvolgorde (verplicht, exacte volgorde)
+
+1. Zoek het ingredient in `src/voedingswaardetabel_referentie.md`
+2. Zoek het ingredient in `src/voedingswaarde_handmatig.md`
+3. Pas de ingredientnaam aan naar de **officiële naam** uit dat bronbestand
+4. **Alleen als het ingredient in beide bestanden ontbreekt**: ophalen via https://www.voedingswaardetabel.nl/ en opslaan in `src/ontbrekende_macros_lijst.md` (alfabetisch gesorteerd, geen dubbelen)
+
+## Ingrediëntregels
+
+- Elke ingredient heeft een **exacte gramhoeveelheid** — ook smaakmakers, olie en gedroogde kruiden
+- Gebruik altijd de **officiële productnaam** zoals die voorkomt in de `src/` bronbestanden
+- Bereken de macrobijdrage van kruiden en smaakmakers altijd expliciet mee (bijv. 2 g Italiaanse kruiden = 5,1 kcal / 0,3 g P / 0,1 g V / 0,3 g KH)
+- Zout en peper mogen als "naar smaak" vermeld worden — macrobijdrage verwaarloosbaar
+
+## Macro-limieten (harde bovengrenzen — nooit overschrijden)
+
+De dagmacro's zijn **strikte maxima**, niet doelen die een klein beetje over mogen.
+
+Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet / 38 g KH**
+
+| Dag          |  Kcal | Eiwit | Vet  | Koolhydraten |
+| :----------- | ----: | ----: | ---: | -----------: |
+| Trainingsdag | 2900  | 190 g | 60 g |        400 g |
+| Rustdag      | 1880  | 190 g | 80 g |        100 g |
+
+## Harde verboden
+
+- Geen vis, zeevruchten of orgaanvlees
+- Geen omelet
+- Geen aparte salade
+- Maximaal 2 mealprep-gerechten per dagschema
+
+## Mealprep-vereisten
+
+- Beide mealprep-gerechten zijn **eenpansgerechten**
+- Beide bevatten een **sauscomponent** (onderdeel van het gerecht of apart toegevoegd na opwarming)
+- Elk mealprep-gerecht heeft een **trainingsdag-variant** (hogere KH) én een **rustdag-variant** (lagere KH)
+- Koolhydraatbron is flexibel: bij voorkeur bulgur (training) ↔ bloemkoolrijst (rust)
+- Gerechten moeten geschikt zijn voor meerdere porties vooruit koken en opwarmen zonder droog te worden
+
+## Macro-validatie (verplicht na elke berekening)
+
+1. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
+2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `Macros_Dagtotalen.md`
+3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding
+
+## Kwaliteitscriteria
+
+- Concreet en praktisch — geen vage hoeveelheden
+- Porties realistisch voor mealprep (meerdere porties per sessie)
+- Smaken die ook na opwarming goed blijven
+- Efficiënte ingredientcombinaties voor inkoop bij Jumbo of Lidl

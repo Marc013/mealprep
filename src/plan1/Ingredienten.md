@@ -2,6 +2,7 @@
 
 # Sauzen
 - Go-Tan Sweet chilli sauce
+- Ketjap Manis
 - Kikkoman Natuurlijk Gebrouwen Sojasaus
 - Maggi
 - Jumbo Teriyaki Saus
@@ -16,10 +17,11 @@
 
 ## Vlees & Eiwitten
 
-- half om half gehakt
-- Rundergehakt
+- Kipfilet
+- Gerookte kipfilet
+- Varkenshaas
 - Hamburger
-- Hamlappen
+- Gehakt (rund, half-om-half)
 - Pancetta
 - Mozzarella
 - Kaas 45+
@@ -27,8 +29,8 @@
 
 ## Koolhydraten
 
+- Witte rijst
 - Bulgur
-- Friet
 - Pasta:
   - Macaroni
   - Spagethi
@@ -43,11 +45,15 @@
 - Bosui / Lente ui
 - Amsterdamse uien
 - Zilver uien
+- Champignons
 - Oesterzwammen
 - Tomaat
 - Paprika (rood/geel)
+- Aubergine
+- Courgette
 - Mais
 - Avocado
+- Komkommer
 - Kikkererwten
 - Cannellini bonen
 - Zwarte bonen
