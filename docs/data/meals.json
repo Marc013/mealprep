@@ -835,6 +835,10 @@
                     },
                     "extraIngredients": [
                         {
+                            "name": "Tostiham",
+                            "amount": "29 g"
+                        },
+                        {
                             "name": "Macaroni vlugkokend (droog)",
                             "amount": "203 g"
                         },
@@ -867,16 +871,12 @@
                         },
                         {
                             "name": "Tostiham",
-                            "amount": "73 g"
+                            "amount": "102 g"
                         }
                     ]
                 }
             },
             "baseIngredients": [
-                {
-                    "name": "Tostiham",
-                    "amount": "29 g"
-                },
                 {
                     "name": "Passata",
                     "amount": "53 g"

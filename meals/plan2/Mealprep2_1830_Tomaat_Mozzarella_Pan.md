@@ -21,7 +21,6 @@ De passata met gesmolten mozzarella vormt een vochtige saus die goed opwarmt. De
 - Koolhydraten: 17 g
 
 ## Ingredienten per portie
-- 29 g tostiham, in reepjes
 - 53 g passata
 - 36 g ui, gesnipperd
 - 51 g paprika, in blokjes
@@ -32,6 +31,7 @@ De passata met gesmolten mozzarella vormt een vochtige saus die goed opwarmt. De
 - Zout en peper naar smaak (basisproducten)
 
 Trainingsdag toevoeging per portie:
+- 29 g tostiham, in reepjes
 - 203 g Macaroni Vlugkokend - Jumbo (droog gewogen)
 - 23 g mozzarella
 
@@ -39,7 +39,7 @@ Rustdag toevoeging per portie:
 - 44 g bloemkoolrijst
 - 65 g mozzarella
 - 37 g avocado, in blokjes
-- 73 g tostiham, in reepjes
+- 102 g tostiham, in reepjes
 
 ## Voorbereiding
 - Snijd ui, paprika en knoflook voor meerdere porties tegelijk.
@@ -47,10 +47,10 @@ Rustdag toevoeging per portie:
 
 ## Bereiding
 - Verhit olijfolie in een grote hapjespan en fruit ui en knoflook 2 minuten.
-- Voeg paprika en ham toe en bak 3 minuten.
+- Voeg paprika toe en bak 3 minuten.
 - Voeg passata, sojasaus en 2 g Italiaanse gedroogde kruiden toe en laat 4 minuten zacht inkoken.
-- Trainingsdag: roer de gekookte macaroni en 23 g mozzarella door de saus.
-- Rustdag: voeg bloemkoolrijst en 73 g extra tostiham toe, bak kort mee en roer daarna 65 g mozzarella erdoor. Avocado pas na opwarmen toevoegen.
+- Trainingsdag: voeg 29 g tostiham toe, bak 1 minuut mee en roer daarna de gekookte macaroni en 23 g mozzarella door de saus.
+- Rustdag: voeg bloemkoolrijst en 102 g tostiham toe, bak kort mee en roer daarna 65 g mozzarella erdoor. Avocado pas na opwarmen toevoegen.
 
 ## Opwarmadvies
 - Warm afgedekt 2 tot 3 minuten op in de magnetron en roer halverwege.
