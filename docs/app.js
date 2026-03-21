@@ -240,10 +240,13 @@ const MealApp = {
                 </div>
             `;
 
+            const selectedIngredients = variant.ingredients
+                ? variant.ingredients
+                : [...(meal.baseIngredients || []), ...(variant.extraIngredients || [])];
+
             ingredientsList = `
                 <ul class="ingredient-list" id="ingredient-list">
-                    ${this.renderIngredients(meal.baseIngredients)}
-                    ${this.renderIngredients(variant.extraIngredients, true)}
+                    ${this.renderIngredients(selectedIngredients)}
                 </ul>
             `;
         } else if (meal.ingredients) {
@@ -340,8 +343,10 @@ const MealApp = {
 
         const list = document.getElementById('ingredient-list');
         if (list) {
-            list.innerHTML = this.renderIngredients(meal.baseIngredients) +
-                this.renderIngredients(variantData.extraIngredients, true);
+            const selectedIngredients = variantData.ingredients
+                ? variantData.ingredients
+                : [...(meal.baseIngredients || []), ...(variantData.extraIngredients || [])];
+            list.innerHTML = this.renderIngredients(selectedIngredients);
         }
     },
 

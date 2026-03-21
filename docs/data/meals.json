@@ -201,7 +201,19 @@
                         "fat": 6,
                         "carbs": 79
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Skyr",
+                            "amount": "95 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "200 g"
+                        },
+                        {
+                            "name": "Bosvruchten",
+                            "amount": "100 g"
+                        },
                         {
                             "name": "Havervlokken",
                             "amount": "38 g"
@@ -217,6 +229,10 @@
                         {
                             "name": "Honing",
                             "amount": "5 g"
+                        },
+                        {
+                            "name": "Kaneel",
+                            "amount": "1 g"
                         }
                     ]
                 },
@@ -228,7 +244,19 @@
                         "fat": 5,
                         "carbs": 20
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Skyr",
+                            "amount": "185 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Bosvruchten",
+                            "amount": "100 g"
+                        },
                         {
                             "name": "Havervlokken",
                             "amount": "5 g"
@@ -236,28 +264,14 @@
                         {
                             "name": "100% Pindakaas",
                             "amount": "5 g"
+                        },
+                        {
+                            "name": "Kaneel",
+                            "amount": "1 g"
                         }
                     ]
                 }
             },
-            "baseIngredients": [
-                {
-                    "name": "Skyr",
-                    "amount": "95-185 g"
-                },
-                {
-                    "name": "Halfvolle yoghurt",
-                    "amount": "100-200 g"
-                },
-                {
-                    "name": "Bosvruchten",
-                    "amount": "100 g"
-                },
-                {
-                    "name": "Kaneel",
-                    "amount": "1 g"
-                }
-            ],
             "preparation": [
                 "Doe skyr en yoghurt in een grote kom.",
                 "Roer de bosvruchten erdoor.",
@@ -279,7 +293,31 @@
                         "fat": 19,
                         "carbs": 58
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Eieren",
+                            "amount": "2 stuks"
+                        },
+                        {
+                            "name": "Vloeibaar eiwit",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Tostiham",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Kaas 45+",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "150 g"
+                        },
                         {
                             "name": "Volkoren brood",
                             "amount": "90 g (3 sneetjes)"
@@ -298,7 +336,31 @@
                         "fat": 23,
                         "carbs": 14
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Eieren",
+                            "amount": "2 stuks"
+                        },
+                        {
+                            "name": "Vloeibaar eiwit",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Tostiham",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Kaas 45+",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "175 g"
+                        },
                         {
                             "name": "Gemengde sla",
                             "amount": "125 g"
@@ -306,36 +368,14 @@
                         {
                             "name": "Avocado",
                             "amount": "25 g"
+                        },
+                        {
+                            "name": "Olijfolie",
+                            "amount": "2.5 g"
                         }
                     ]
                 }
             },
-            "baseIngredients": [
-                {
-                    "name": "Eieren",
-                    "amount": "2 stuks"
-                },
-                {
-                    "name": "Vloeibaar eiwit",
-                    "amount": "75-150 g"
-                },
-                {
-                    "name": "Tostiham",
-                    "amount": "30-40 g"
-                },
-                {
-                    "name": "Kaas 45+",
-                    "amount": "15 g"
-                },
-                {
-                    "name": "Champignons",
-                    "amount": "100-150 g"
-                },
-                {
-                    "name": "Tomaat",
-                    "amount": "150-175 g"
-                }
-            ],
             "preparation": [
                 "Bak champignons 4 minuten in de pan.",
                 "Voeg vloeibaar eiwit en ham toe, roer tot scramble.",
@@ -357,10 +397,50 @@
                         "fat": 8,
                         "carbs": 99
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "140 g"
+                        },
                         {
                             "name": "Witte rijst (droog)",
                             "amount": "80 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Taugé",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Ketjap manis",
+                            "amount": "15 ml"
+                        },
+                        {
+                            "name": "Sojasaus",
+                            "amount": "5 ml"
+                        },
+                        {
+                            "name": "Olijfolie",
+                            "amount": "3 ml"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "1 teentje"
                         }
                     ]
                 },
@@ -372,56 +452,50 @@
                         "fat": 7,
                         "carbs": 29
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "75 g"
+                        },
                         {
                             "name": "Bloemkoolrijst",
                             "amount": "175 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Taugé",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Ketjap manis",
+                            "amount": "10 ml"
+                        },
+                        {
+                            "name": "Olijfolie",
+                            "amount": "5 ml"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "5 g (~1 teentje)"
                         }
                     ]
                 }
             },
-            "baseIngredients": [
-                {
-                    "name": "Kipfilet",
-                    "amount": "75-140 g"
-                },
-                {
-                    "name": "Champignons",
-                    "amount": "100 g"
-                },
-                {
-                    "name": "Paprika",
-                    "amount": "100 g"
-                },
-                {
-                    "name": "Ui",
-                    "amount": "70-80 g"
-                },
-                {
-                    "name": "Courgette",
-                    "amount": "100-150 g"
-                },
-                {
-                    "name": "Taugé",
-                    "amount": "75 g"
-                },
-                {
-                    "name": "Ketjap manis",
-                    "amount": "10-15 ml"
-                },
-                {
-                    "name": "Sojasaus",
-                    "amount": "5 ml"
-                },
-                {
-                    "name": "Olijfolie",
-                    "amount": "3-5 ml"
-                },
-                {
-                    "name": "Knoflook",
-                    "amount": "1 teentje"
-                }
-            ],
             "preparation": [
                 "Snijd kip in reepjes, marineer met ketjap en knoflook.",
                 "Bak kip goudbruin op hoog vuur.",
@@ -444,7 +518,15 @@
                         "fat": 11,
                         "carbs": 74
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Varkenshaas",
+                            "amount": "100 g"
+                        },
                         {
                             "name": "Zoete aardappel",
                             "amount": "80 g"
@@ -456,6 +538,42 @@
                         {
                             "name": "Mais",
                             "amount": "50 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Passata",
+                            "amount": "150 ml"
+                        },
+                        {
+                            "name": "Ketjap manis",
+                            "amount": "15 ml"
+                        },
+                        {
+                            "name": "Olijfolie",
+                            "amount": "5 ml"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "1 teentje (~5 g)"
+                        },
+                        {
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "0.5 g (~1 tl)"
+                        },
+                        {
+                            "name": "Komijn",
+                            "amount": "0.5 g (~1 tl)"
                         }
                     ]
                 },
@@ -467,7 +585,15 @@
                         "fat": 6,
                         "carbs": 36
                     },
-                    "extraIngredients": [
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Varkenshaas",
+                            "amount": "60 g"
+                        },
                         {
                             "name": "Bloemkoolrijst",
                             "amount": "250 g"
@@ -479,56 +605,46 @@
                         {
                             "name": "Kidneybonen",
                             "amount": "20 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Passata",
+                            "amount": "80 ml"
+                        },
+                        {
+                            "name": "Ketjap manis",
+                            "amount": "10 ml"
+                        },
+                        {
+                            "name": "Olijfolie",
+                            "amount": "5 ml"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "1 teentje"
+                        },
+                        {
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "1 tl"
+                        },
+                        {
+                            "name": "Komijn",
+                            "amount": "1 tl"
                         }
                     ]
                 }
             },
-            "baseIngredients": [
-                {
-                    "name": "Kipfilet",
-                    "amount": "100 g"
-                },
-                {
-                    "name": "Varkenshaas",
-                    "amount": "60-100 g"
-                },
-                {
-                    "name": "Champignons",
-                    "amount": "100-150 g"
-                },
-                {
-                    "name": "Paprika",
-                    "amount": "100 g"
-                },
-                {
-                    "name": "Ui",
-                    "amount": "60-80 g"
-                },
-                {
-                    "name": "Passata",
-                    "amount": "80-150 ml"
-                },
-                {
-                    "name": "Ketjap manis",
-                    "amount": "10-15 ml"
-                },
-                {
-                    "name": "Olijfolie",
-                    "amount": "5 ml"
-                },
-                {
-                    "name": "Knoflook",
-                    "amount": "1 teentje"
-                },
-                {
-                    "name": "Gerookt paprikapoeder",
-                    "amount": "1 tl"
-                },
-                {
-                    "name": "Komijn",
-                    "amount": "1 tl"
-                }
-            ],
             "preparation": [
                 "Snijd vlees in blokjes, marineer met kruiden.",
                 "Bak vlees rondom aan.",
