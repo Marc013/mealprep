@@ -689,9 +689,9 @@
             "time": "13:00",
             "macros": {
                 "kcal": 196,
-                "protein": 13,
-                "fat": 11,
-                "carbs": 9
+                "protein": 12.3,
+                "fat": 9.8,
+                "carbs": 11.8
             },
             "description": "Snelle, hartige lunch met gecontroleerde koolhydraten.",
             "ingredients": [
