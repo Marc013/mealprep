@@ -91,9 +91,18 @@ Volledige implementatie: zie `prompt-github-pages.md` en `docs/`
 - Macro grid (kcal/eiwit/vet/kh) met kleurcodering
 - Maaltijdkaarten met tijdstip en mini-macro weergave
 - Recept modal met ingrediënten en bereiding
+- Recept modal toont ook expliciet voorbereiding per maaltijd
 - Variant toggle (training vs rust) voor mealprep gerechten
 - Checkbox boodschappenlijst per weekplan met LocalStorage
 - Progress indicator (X/Y afgevinkt)
+
+**Mealplan-consistentie die de site moet respecteren:**
+- Toon in content dat macrotargets dicht benaderd worden met strikte bovengrenzen.
+- 10:15 maaltijdregels moeten herkenbaar terugkomen in receptdata.
+- 13:00 maaltijd moet als snelle 30-minuten maaltijd gelabeld worden.
+- Rustdagvarianten benadrukken volume/verzadiging.
+- Maximaal 2 mealprep-gerechten per week met training/rust varianten.
+- Vermijd bloemkoolrijst in data; als aanwezig, maximaal in 1 gerecht.
 
 **Data structuur (`meals.json`):**
 ```json

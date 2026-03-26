@@ -22,7 +22,7 @@ Deze skill verwacht de volgende bestanden in je project:
 | Bestand | Doel | Template |
 |---------|------|----------|
 | `promp.md` | Dagmacro's, shake-definitie, eettijden | [config-template.md](./assets/config-template.md) |
-| `Ingredienten.md` | Beschikbare ingrediënten | Lijst met producten |
+| `src/Ingredienten.md` | Beschikbare ingrediënten | Lijst met producten |
 | `src/voedingswaardetabel_referentie.md` | Voedingswaarden bron 1 | Macro's per 100g |
 | `src/voedingswaarde_handmatig.md` | Voedingswaarden bron 2 | Aanvullende waarden |
 | `src/ontbrekende_macros_lijst.md` | Cache voor opgehaalde waarden | Leeg starten |
@@ -33,7 +33,7 @@ Deze skill verwacht de volgende bestanden in je project:
 
 ```
 promp.md → dagmacro's en constraints
-Ingredienten.md → beschikbare producten
+src/Ingredienten.md → beschikbare producten
 ```
 
 ### 2. Bereken macro-ruimte
@@ -51,6 +51,15 @@ Shake-blok is vast (zie [macro-regels.md](./references/macro-regels.md)):
 | Mealprep 1 | 15:45 | Training + rust variant |
 | Mealprep 2 | 18:30 | Training + rust variant |
 
+Verplichte ontwerpregels:
+- Verdeel macro's evenredig over de dag; voorkom grote uitschieters per maaltijd.
+- Rustdagmaaltijden prioriteren volume en verzadiging.
+- 10:15 bevat verplicht: kwark of skyr (niet beide), halfvolle yoghurt, diepvries bosvruchten (Jumbo), banaan, kaneelpoeder, optioneel 100% pindakaas naturel, optioneel honing.
+- 13:00 moet ultra-eenvoudig zijn en binnen 30 minuten totaal (voorbereiden + bereiden + eten).
+- Per week maximaal 2 mealprep-gerechten, beide eenpansgerechten met sauscomponent en met training/rust-variant.
+- Gebruik bij voorkeur geen bloemkoolrijst; maximaal in 1 mealprep-gerecht als alternatief met lage koolhydraten.
+- Mealprep-smaakprofielen: oosters, Mexicaans of Arabisch, met duidelijke kruiding.
+
 ### 4. Bereken macro's per ingredient
 
 Voedingswaarden opzoeken in volgorde:
@@ -61,6 +70,9 @@ Voedingswaarden opzoeken in volgorde:
 ### 5. Valideer dagtotalen
 
 - Dagmacro's zijn **strikte bovengrenzen**
+- Benader target zo dicht mogelijk; kleine afwijking is toegestaan
+- Eiwit iets boven target is acceptabel, maar vermijd structureel grote overschrijding
+- Valideer ook evenredige macroverdeling over maaltijden
 - Corrigeer porties indien nodig
 - Geen overschrijdingen publiceren
 
@@ -92,6 +104,8 @@ Zie [macro-regels.md](./references/macro-regels.md) voor complete regelset:
 - **Geen vis, zeevruchten, orgaanvlees, omelet**
 - **Max 2 mealprep-gerechten**, beide eenpansgerechten met saus
 - **Training + rust varianten** per mealprep-gerecht
+- **Per maaltijd aparte secties voor Voorbereiding en Bereiding**
+- **Rustdag: hoge verzadiging en volume als prioriteit**
 
 ## Customization
 

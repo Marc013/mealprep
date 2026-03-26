@@ -56,10 +56,10 @@ C:\Temp\Meals\
     │   ├── boodschappen.md
     │   ├── macros.md
     │   ├── weekplan-1-week.md
-    │   ├── Ingredienten.md
+    │   ├── src/Ingredienten.md
     │   └── Prompt.md
     ├── Boodschappenlijst.md # Plan2 boodschappen
-    ├── Ingredienten.md
+    ├── src/Ingredienten.md
     ├── Macros_Dagtotalen.md
     └── voedingswaardetabel_referentie.md
 ```
@@ -116,12 +116,20 @@ Brondata locaties:
 
 ## FUNCTIONELE EISEN
 
-| Feature               | Beschrijving                                                                                   |
-| --------------------- | ---------------------------------------------------------------------------------------------- |
-| **Weekplanning**      | Overzicht van alle maaltijden per dag + tijdstip. Duidelijk scanbaar op één scherm             |
-| **Receptpagina's**    | Individuele recepten met: ingrediënten, macro's (kcal/eiwit/koolhydraten/vet), bereidingswijze |
-| **Boodschappenlijst** | Geaggregeerde ingrediënten met checkbox-functionaliteit. LocalStorage voor persistentie        |
-| **Navigatie**         | Snelle toegang tussen weekoverzicht ↔ recepten ↔ boodschappenlijst                             |
+| Feature               | Beschrijving                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| **Weekplanning**      | Overzicht van alle maaltijden per dag + tijdstip. Duidelijk scanbaar op één scherm.              |
+| **Receptpagina's**    | Individuele recepten met ingrediënten, macro's (kcal/eiwit/koolhydraten/vet) en bereidingswijze. |
+| **Boodschappenlijst** | Geaggregeerde ingrediënten met checkbox-functionaliteit. LocalStorage voor persistentie.         |
+| **Navigatie**         | Snelle toegang tussen weekoverzicht, recepten en boodschappenlijst.                              |
+
+### Aanvullend voor mealprep-workflow
+
+- Per maaltijd moeten zowel voorbereiding als bereiding zichtbaar zijn.
+- 10:15 maaltijd moet de vaste ingrediëntencombinatie expliciet tonen (kwark of skyr, niet beide).
+- 13:00 maaltijd moet als snelle 30-minuten maaltijd herkenbaar zijn.
+- Rustdagmaaltijden moeten in de presentatie volume en verzadiging benadrukken.
+- Macro-overzichten moeten evenredigheid over maaltijden inzichtelijk maken.
 
 ### Extra pagina's
 

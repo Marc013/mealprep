@@ -14,6 +14,14 @@ Scaffold een complete GitHub Pages website met het brutalist/industrial design s
 3. Analyseer bestaande data in de workspace (indien aanwezig)
 4. Genereer de volledige site structuur in `docs/`
 5. Pas templates aan op basis van het site doel
+6. Behoud mealplan-regels zichtbaar in de UI (macro-evenredigheid, rustdag-volume, 10:15 en 13:00 constraints)
+
+## Extra mealprep-specifieke eisen voor weergave
+
+- Maak duidelijk dat dagmacro's strikte maxima zijn en dat doelen zo dicht mogelijk benaderd worden.
+- Markeer rustdag-varianten als hoog volume/verzadiging.
+- Label 13:00-maaltijden als snel/eenvoudig (max 30 min totaal).
+- Toon per maaltijd zowel voorbereiding als bereiding.
 
 ## Output
 

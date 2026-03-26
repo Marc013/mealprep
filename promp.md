@@ -63,7 +63,7 @@ Shakeblok totaal (beide shakes + fruit, vast): **535 kcal / 79 g eiwit / 6 g vet
 
 ## Ingrediëntenbron
 
-Gebruik `Ingredienten.md` als primaire ingrediëntenbron.
+Gebruik `src/Ingredienten.md` als primaire ingrediëntenbron.
 
 **Ontbijtsuggesties** (voel je vrij om hiervan af te wijken):
 

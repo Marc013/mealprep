@@ -15,7 +15,7 @@ Lees altijd de mealplan skill voordat je begint:
 Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap:
 
 - `promp.md` — dagmacro's, shake-definitie en eettijden (configuratie)
-- `Ingredienten.md` — beschikbare ingrediënten (primaire bron)
+- `src/Ingredienten.md` — beschikbare ingrediënten (primaire bron)
 - `src/voedingswaardetabel_referentie.md` — voedingswaarden bron 1
 - `src/voedingswaarde_handmatig.md` — voedingswaarden bron 2
 - `src/ontbrekende_macros_lijst.md` — eerder opgehaalde ontbrekende waarden
@@ -25,7 +25,7 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 
 1. Bereken de bijdrage van de 2 vaste shake-momenten (zie `promp.md`)
 2. Bepaal hoeveel macro-ruimte resteert voor de 4 uit te werken maaltijden
-3. Analyseer `Ingredienten.md` — selecteer ingrediënten geschikt voor 2 mealprep-basisgerechten
+3. Analyseer `src/Ingredienten.md` — selecteer ingrediënten geschikt voor 2 mealprep-basisgerechten
 4. Kies 2 mealprep-gerechten, elk met trainingsdag-variant en rustdag-variant
 5. Ontwerp 1 ontbijt en 1 lunch die de resterende macro-ruimte logisch opvullen
 6. Onderbouw kort de nutritionele en praktische keuzes per gerecht
@@ -34,6 +34,16 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 9. Schrijf de 4 maaltijdbestanden en `Macros_Dagtotalen.md`
 10. Schrijf `Boodschappenlijst.md`
 11. Sla nieuw opgehaalde voedingswaarden op in `src/ontbrekende_macros_lijst.md` (alfabetisch)
+
+Aanvullende harde uitvoeringsregels:
+- Verdeel macro's per dag zo evenredig mogelijk over de 4 hoofdmaaltijden.
+- Rustdagmaaltijden maximaliseren volume/verzadiging (veel groente/vezels/vocht, lage energiedichtheid).
+- 10:15 bevat verplicht: kwark of skyr (niet beide), halfvolle yoghurt, diepvries bosvruchten (Jumbo), banaan, kaneelpoeder; optioneel 100% pindakaas naturel en/of honing.
+- 13:00 moet extreem eenvoudig blijven en binnen 30 minuten totaal (voorbereiden + bereiden + eten) uitvoerbaar zijn.
+- Per week maximaal 2 mealprep-gerechten, beide eenpansgerecht met sauscomponent, beide met trainings- en rustdagvariant.
+- Vermijd bloemkoolrijst; alleen toegestaan in maximaal 1 mealprep-gerecht.
+- Mealprep-gerechten moeten uitgesproken smaak hebben met oosterse, Mexicaanse of Arabische invloeden.
+- Maaltijdontwerp moet hongergevoel actief bestrijden (volume, vezels, eiwit, vocht, textuur).
 
 ## Bestandsnamen
 
@@ -65,6 +75,9 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 
 ## Ingredienten per portie
 - [exacte gramhoeveelheid] [officiële productnaam]
+- ...
+
+## Voorbereiding
 - ...
 
 ## Bereiding
@@ -215,7 +228,9 @@ Maak een eindtabel trainingsdag EN rustdag. Voorbeeld:
 
 - Afwijkingen expliciet benoemen
 - Als een dagdoel dreigt te worden **overschreden**: porties aanpassen en herbereken vóór opslaan
-- Streef naar maximaal 5% afwijking per macro (mag alleen onder het doel zijn, nooit erboven)
+- Streef naar minimale afwijking (enkele grammen) per macro
+- Beperkte eiwit-overschrijding is acceptabel, maar vermijd structureel grote overschrijding
+- Controleer expliciet macro-evenredigheid per maaltijd (geen onnodige macro-pieken)
 
 ## Bij onduidelijkheid
 

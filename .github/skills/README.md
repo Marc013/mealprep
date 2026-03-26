@@ -97,7 +97,7 @@ Voordat je de skill gebruikt, maak deze bestanden aan:
 | Bestand                                 | Beschrijving                                                                                      |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | `promp.md`                              | Dagmacro's en configuratie (template: [config-template.md](./mealplan/assets/config-template.md)) |
-| `Ingredienten.md`                       | Lijst beschikbare ingrediënten                                                                    |
+| `src/Ingredienten.md`                   | Lijst beschikbare ingrediënten                                                                    |
 | `src/voedingswaardetabel_referentie.md` | Voedingswaarden database                                                                          |
 | `src/voedingswaarde_handmatig.md`       | Aanvullende voedingswaarden                                                                       |
 | `src/ontbrekende_macros_lijst.md`       | Cache (leeg starten)                                                                              |

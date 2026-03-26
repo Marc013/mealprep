@@ -22,7 +22,9 @@ description: "Use when creating, editing or validating meal plan markdown files.
 
 ## Macro-limieten (harde bovengrenzen — nooit overschrijden)
 
-De dagmacro's zijn **strikte maxima**, niet doelen die een klein beetje over mogen.
+De dagmacro's zijn **strikte maxima**.
+Daarnaast geldt: benader targets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan, maar grote afwijkingen niet.
+Een beperkte eiwit-overschrijding is acceptabel, maar voorkom structurele grote overschrijdingen.
 
 Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet / 38 g KH**
 
@@ -38,19 +40,37 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 - Geen aparte salade
 - Maximaal 2 mealprep-gerechten per dagschema
 
+## Verplichte maaltijdopbouw per tijdstip
+
+- 10:15 maaltijd bevat verplicht:
+	- Kwark **of** Skyr (niet beide)
+	- Halfvolle yoghurt
+	- Diepvries bosvruchten (Jumbo)
+	- Banaan
+	- Kaneelpoeder
+	- Optioneel: 100% pindakaas naturel
+	- Optioneel: honing
+- 13:00 maaltijd moet eenvoudig zijn en binnen **30 minuten totaal** (voorbereiden + bereiden + eten) haalbaar zijn.
+- Per maaltijd moet zowel **Voorbereiding** als **Bereiding** expliciet beschreven zijn.
+
 ## Mealprep-vereisten
 
 - Beide mealprep-gerechten zijn **eenpansgerechten**
 - Beide bevatten een **sauscomponent** (onderdeel van het gerecht of apart toegevoegd na opwarming)
 - Elk mealprep-gerecht heeft een **trainingsdag-variant** (hogere KH) én een **rustdag-variant** (lagere KH)
-- Koolhydraatbron is flexibel: bij voorkeur bulgur (training) ↔ bloemkoolrijst (rust)
+- Gebruik maximaal **2 verschillende** mealprep-gerechten per week
+- Koolhydraatwissel moet trainingsdag en rustdag bedienen via alternatieven met lage KH voor rustdagen
+- **Bij voorkeur geen bloemkoolrijst**; als gebruikt, dan in maximaal **1** mealprep-gerecht
 - Gerechten moeten geschikt zijn voor meerdere porties vooruit koken en opwarmen zonder droog te worden
+- Smaakprofiel: duidelijk gekruid met oosterse, Mexicaanse of Arabische invloeden
+- Hongercontrole prioriteren via volume, vezels, eiwit en hoge verzadiging
 
 ## Macro-validatie (verplicht na elke berekening)
 
 1. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
 2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `Macros_Dagtotalen.md`
 3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding
+4. Controleer macro-evenredigheid per maaltijd: geen extreme pieken tenzij expliciet functioneel onderbouwd
 
 ## Kwaliteitscriteria
 
