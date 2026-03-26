@@ -6,7 +6,7 @@
 | -------- | ----------------------------------- |
 | 07:30    | Whey Shake + Fruit (vast)           |
 | 10:15    | Skyr-Yoghurt Bowl                   |
-| 13:00    | Ei-Ham Skillet                      |
+| 13:00    | Ei-Ham Koekenpan                    |
 | 15:45    | Mexicaanse Half-om-Half Chili       |
 | 18:30    | Arabische Kipfilet met Kikkererwten |
 | 21:15    | Whey Shake + Fruit (vast)           |
@@ -26,18 +26,18 @@
 
 | Macro        | Totaal | Max   |
 | ------------ | ------ | ----- |
-| Kcal         | 2865   | 2900  |
-| Eiwit        | 226 g  | 190 g |
-| Vet          | 61,2 g | 60 g  |
-| Koolhydraten | 360 g  | 400 g |
+| Kcal         | 2890   | 2900  |
+| Eiwit        | 223 g  | 190 g |
+| Vet          | 60,0 g | 60 g  |
+| Koolhydraten | 374 g  | 400 g |
 
 ### Rustdag
 
 | Macro        | Totaal | Max   |
 | ------------ | ------ | ----- |
-| Kcal         | 1868   | 1880  |
-| Eiwit        | 187 g  | 190 g |
-| Vet          | 72,8 g | 80 g  |
+| Kcal         | 1870   | 1880  |
+| Eiwit        | 193 g  | 190 g |
+| Vet          | 63,0 g | 80 g  |
 | Koolhydraten | 99 g   | 100 g |
 
 ## Smaakprofiel

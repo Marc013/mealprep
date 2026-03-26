@@ -129,15 +129,15 @@
             "description": "Mexicaanse half-om-half gehaktchili, Arabische kipfilet met kikkererwten",
             "totals": {
                 "training": {
-                    "kcal": 2865,
-                    "protein": 226,
-                    "fat": 61,
-                    "carbs": 360
+                    "kcal": 2890,
+                    "protein": 223,
+                    "fat": 60,
+                    "carbs": 374
                 },
                 "rest": {
-                    "kcal": 1868,
-                    "protein": 187,
-                    "fat": 73,
+                    "kcal": 1870,
+                    "protein": 193,
+                    "fat": 63,
                     "carbs": 99
                 }
             },
@@ -1005,9 +1005,9 @@
                 "rest": {
                     "label": "Hoog eiwit, laag KH",
                     "macros": {
-                        "kcal": 380,
-                        "protein": 31,
-                        "fat": 19,
+                        "kcal": 251,
+                        "protein": 28,
+                        "fat": 7,
                         "carbs": 17
                     },
                     "ingredients": [
@@ -1039,9 +1039,9 @@
         },
         "lunch-plan3": {
             "id": "lunch-plan3",
-            "title": "Ei-Ham Skillet",
+            "title": "Ei-Ham Koekenpan",
             "time": "13:00",
-            "description": "Snelle hartige skillet, klaar binnen 25 minuten.",
+            "description": "Snelle hartige koekenpanmaaltijd, klaar binnen 25 minuten.",
             "variants": {
                 "training": {
                     "label": "Met volkoren brood",
@@ -1081,9 +1081,9 @@
                 "rest": {
                     "label": "Zonder brood",
                     "macros": {
-                        "kcal": 310,
-                        "protein": 28,
-                        "fat": 17,
+                        "kcal": 365,
+                        "protein": 39,
+                        "fat": 19,
                         "carbs": 9
                     },
                     "ingredients": [
@@ -1127,10 +1127,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 791,
-                        "protein": 40,
-                        "fat": 20,
-                        "carbs": 110
+                        "kcal": 735,
+                        "protein": 38,
+                        "fat": 19,
+                        "carbs": 96
                     },
                     "ingredients": [
                         {
@@ -1186,9 +1186,9 @@
                 "rest": {
                     "label": "Met bloemkoolrijst",
                     "macros": {
-                        "kcal": 390,
-                        "protein": 26,
-                        "fat": 21,
+                        "kcal": 420,
+                        "protein": 29,
+                        "fat": 23,
                         "carbs": 19
                     },
                     "ingredients": [
@@ -1253,10 +1253,10 @@
                 "training": {
                     "label": "Met witte rijst & kikkererwten",
                     "macros": {
-                        "kcal": 752,
-                        "protein": 46,
+                        "kcal": 777,
+                        "protein": 48,
                         "fat": 9,
-                        "carbs": 114
+                        "carbs": 119
                     },
                     "ingredients": [
                         {
@@ -1308,9 +1308,9 @@
                 "rest": {
                     "label": "Met extra groenten",
                     "macros": {
-                        "kcal": 290,
-                        "protein": 36,
-                        "fat": 10,
+                        "kcal": 360,
+                        "protein": 51,
+                        "fat": 12,
                         "carbs": 15
                     },
                     "ingredients": [
