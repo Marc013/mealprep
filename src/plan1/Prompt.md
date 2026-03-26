@@ -72,6 +72,7 @@ Deze zou kunnen bestaan uit (voel je vrij om hiervan af te wijken):
 - Brood
 - Kaas (48+)
 - Ham (Jumbo Tostiham 150 g bestellen? | Jumbo)
+- Gekookte beenhamreepjes
 - Champignons
 - Tomaten
 - Augurk

@@ -1,3 +1,18 @@
+### Gekookte beenhamreepjes - Jumbo
+
+- URL: https://www.jumbo.com/producten/jumbo-bloemkoolrijst-400-g-562790ZK
+
+| Voedingswaarden             | per 100 g |
+| :-------------------------- | :-------- |
+| Energie                     | 127 kcal  |
+| Vetten                      | 5,0 g     |
+| waarvan verzadigde vetzuren | 2,0 g     |
+| Koolhydraten                | 2,5 g     |
+| waarvan suikers             | 0,0 g     |
+| Vezels                      | 0,3 g     |
+| Eiwitten                    | 17,8 g    |
+| Zout                        | 2,54 g    |
+
 ### Bloemkoolrijst - Jumbo
 
 - URL: https://www.jumbo.com/producten/jumbo-bloemkoolrijst-400-g-562790ZK

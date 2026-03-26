@@ -122,6 +122,53 @@
                     "fixed": true
                 }
             ]
+        },
+        "plan3": {
+            "id": "plan3",
+            "name": "Mexicaanse Chili & Arabische Kip",
+            "description": "Mexicaanse half-om-half gehaktchili, Arabische kipfilet met kikkererwten",
+            "totals": {
+                "training": {
+                    "kcal": 2701,
+                    "protein": 219,
+                    "fat": 60,
+                    "carbs": 298
+                },
+                "rest": {
+                    "kcal": 1556,
+                    "protein": 174,
+                    "fat": 45,
+                    "carbs": 98
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan3"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan3"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan3"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan3"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond",
+                    "fixed": true
+                }
+            ]
         }
     },
     "meals": {
@@ -913,6 +960,407 @@
                 "Training: roer macaroni en mozzarella erdoor.",
                 "Rust: bloemkoolrijst + ham, mozzarella erdoor, avocado na opwarmen."
             ]
+        },
+        "ontbijt-plan3": {
+            "id": "ontbijt-plan3",
+            "title": "Skyr-Yoghurt Bowl",
+            "time": "10:15",
+            "description": "Hoog-eiwit bowl met skyr, yoghurt en bosvruchten.",
+            "variants": {
+                "training": {
+                    "label": "Met banaan & honing",
+                    "macros": {
+                        "kcal": 328,
+                        "protein": 24,
+                        "fat": 4,
+                        "carbs": 48
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Skyr naturel (Milbona)",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "8 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Hoog eiwit, laag KH",
+                    "macros": {
+                        "kcal": 191,
+                        "protein": 26,
+                        "fat": 2,
+                        "carbs": 17
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Skyr naturel (Milbona)",
+                            "amount": "210 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Doe skyr en yoghurt in een kom en roer glad.",
+                "Voeg bosvruchten toe (licht ontdooid).",
+                "Training: voeg banaan in plakjes en honing toe.",
+                "Bestrooi met kaneelpoeder."
+            ]
+        },
+        "lunch-plan3": {
+            "id": "lunch-plan3",
+            "title": "Ei-Ham Skillet",
+            "time": "13:00",
+            "description": "Snelle hartige skillet, klaar binnen 25 minuten.",
+            "variants": {
+                "training": {
+                    "label": "Met volkoren brood",
+                    "macros": {
+                        "kcal": 534,
+                        "protein": 38,
+                        "fat": 22,
+                        "carbs": 43
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren",
+                            "amount": "3 stuks (150 g)"
+                        },
+                        {
+                            "name": "Tostiham (Jumbo)",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "3 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Zonder brood",
+                    "macros": {
+                        "kcal": 266,
+                        "protein": 23,
+                        "fat": 15,
+                        "carbs": 9
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren",
+                            "amount": "2 stuks (100 g)"
+                        },
+                        {
+                            "name": "Tostiham (Jumbo)",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "3 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Paprika en tomaat in blokjes snijden.",
+                "Verhit olijfolie, bak paprika 2 min.",
+                "Voeg tomaat en ham toe, bak 2 min.",
+                "Breek eieren in de pan, bak 3-4 min.",
+                "Training: serveer met volkoren brood."
+            ]
+        },
+        "mealprep1-plan3": {
+            "id": "mealprep1-plan3",
+            "title": "Mexicaanse Half-om-Half Chili",
+            "time": "15:45",
+            "description": "Gekruide gehaktchili met zwarte bonen en sweet chilli saus.",
+            "variants": {
+                "training": {
+                    "label": "Met bulgur",
+                    "macros": {
+                        "kcal": 674,
+                        "protein": 33,
+                        "fat": 19,
+                        "carbs": 83
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Half om half gehakt",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Biologisch volkoren bulgur (AH)",
+                            "amount": "65 g (droog)"
+                        },
+                        {
+                            "name": "Zwarte bonen (blik, uitgelekt)",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Go-Tan Sweet Chilli Sauce",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Met bloemkoolrijst",
+                    "macros": {
+                        "kcal": 318,
+                        "protein": 20,
+                        "fat": 16,
+                        "carbs": 20
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Half om half gehakt",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Bloemkoolrijst (Jumbo)",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Bak gehakt rul in olijfolie, 3-4 min.",
+                "Voeg ui en knoflook toe, bak 2 min.",
+                "Voeg paprika en tomaat toe, bak 3 min.",
+                "Roer passata, sweet chilli, komijn en chilivlokken erdoor.",
+                "Voeg zwarte bonen toe (training), pruttelen 5 min.",
+                "Training: serveer op bulgur. Rust: serveer op bloemkoolrijst."
+            ]
+        },
+        "mealprep2-plan3": {
+            "id": "mealprep2-plan3",
+            "title": "Arabische Kipfilet met Kikkererwten",
+            "time": "18:30",
+            "description": "Sappige kip met komijn en passatasaus.",
+            "variants": {
+                "training": {
+                    "label": "Met witte rijst & kikkererwten",
+                    "macros": {
+                        "kcal": 630,
+                        "protein": 45,
+                        "fat": 9,
+                        "carbs": 86
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "130 g"
+                        },
+                        {
+                            "name": "Witte rijst (droog)",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Kikkoman Sojasaus",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "1 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Met extra groenten",
+                    "macros": {
+                        "kcal": 246,
+                        "protein": 28,
+                        "fat": 6,
+                        "carbs": 15
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Ui",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Kikkoman Sojasaus",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Kip in reepjes snijden, goudbruin bakken in olijfolie, 4-5 min.",
+                "Ui en knoflook toevoegen, 2 min bakken.",
+                "Paprika toevoegen, 3 min bakken.",
+                "Passata, sojasaus, komijn en paprikapoeder erdoor roeren.",
+                "Kip en kikkererwten (training) terug, 5 min sudderen.",
+                "Training: serveer op rijst. Rust: direct serveren."
+            ]
         }
     },
     "shopping": {
@@ -1230,6 +1678,186 @@
                         {
                             "id": "fruit2",
                             "name": "Fruit — suggesties: appel, peer, mandarijn, kiwi, pruim",
+                            "amount": "14 stuks"
+                        }
+                    ]
+                }
+            ]
+        },
+        "plan3": {
+            "name": "Mexicaanse Chili & Arabische Kip",
+            "categories": [
+                {
+                    "name": "Vlees & Eiwit",
+                    "items": [
+                        {
+                            "id": "gehakt3",
+                            "name": "Half om half gehakt",
+                            "amount": "560 g"
+                        },
+                        {
+                            "id": "kip3",
+                            "name": "Kipfilet",
+                            "amount": "910 g"
+                        },
+                        {
+                            "id": "tostiham3",
+                            "name": "Tostiham (Jumbo)",
+                            "amount": "350 g"
+                        },
+                        {
+                            "id": "eieren3",
+                            "name": "Eieren",
+                            "amount": "17 stuks"
+                        }
+                    ]
+                },
+                {
+                    "name": "Zuivel",
+                    "items": [
+                        {
+                            "id": "skyr3",
+                            "name": "Skyr naturel (Milbona)",
+                            "amount": "1330 g"
+                        },
+                        {
+                            "id": "yoghurt3",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "630 g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Groenten",
+                    "items": [
+                        {
+                            "id": "paprika3",
+                            "name": "Paprika",
+                            "amount": "2590 g"
+                        },
+                        {
+                            "id": "ui3",
+                            "name": "Ui",
+                            "amount": "1050 g"
+                        },
+                        {
+                            "id": "tomaat3",
+                            "name": "Tomaat",
+                            "amount": "1890 g"
+                        },
+                        {
+                            "id": "knoflook3",
+                            "name": "Knoflook",
+                            "amount": "56 g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Koolhydraten",
+                    "items": [
+                        {
+                            "id": "bulgur3",
+                            "name": "Biologisch volkoren bulgur (AH)",
+                            "amount": "260 g (droog)"
+                        },
+                        {
+                            "id": "rijst3",
+                            "name": "Witte rijst",
+                            "amount": "300 g (droog)"
+                        },
+                        {
+                            "id": "bloemkool3",
+                            "name": "Bloemkoolrijst (Jumbo)",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "brood3",
+                            "name": "Volkoren brood",
+                            "amount": "320 g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Conserven & Bonen",
+                    "items": [
+                        {
+                            "id": "zwartebonen3",
+                            "name": "Zwarte bonen (blik)",
+                            "amount": "840 g uitgelekt"
+                        },
+                        {
+                            "id": "kikkererwten3",
+                            "name": "Kikkererwten (blik)",
+                            "amount": "560 g uitgelekt"
+                        },
+                        {
+                            "id": "passata3",
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "840 g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauzen & Kruiden",
+                    "items": [
+                        {
+                            "id": "sweetc3",
+                            "name": "Go-Tan Sweet Chilli Sauce",
+                            "amount": "60 g"
+                        },
+                        {
+                            "id": "soja3",
+                            "name": "Kikkoman Sojasaus",
+                            "amount": "70 g"
+                        },
+                        {
+                            "id": "olijf3",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "112 g"
+                        },
+                        {
+                            "id": "komijn3",
+                            "name": "Komijnpoeder",
+                            "amount": "28 g"
+                        },
+                        {
+                            "id": "chili3",
+                            "name": "Chilivlokken",
+                            "amount": "7 g"
+                        },
+                        {
+                            "id": "paprikapoeder3",
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "4 g"
+                        },
+                        {
+                            "id": "kaneel3",
+                            "name": "Kaneelpoeder",
+                            "amount": "14 g"
+                        }
+                    ]
+                },
+                {
+                    "name": "Overig",
+                    "items": [
+                        {
+                            "id": "whey3",
+                            "name": "Whey Protein",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "bos3",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "560 g"
+                        },
+                        {
+                            "id": "banaan3",
+                            "name": "Banaan",
+                            "amount": "4 stuks"
+                        },
+                        {
+                            "id": "fruit3",
+                            "name": "Fruit voor shakes (appel/banaan)",
                             "amount": "14 stuks"
                         }
                     ]

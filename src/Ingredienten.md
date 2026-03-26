@@ -24,6 +24,7 @@
 - Mozzarella
 - Kaas 45+
 - Tostiham
+- Gekookte beenhamreepjes
 
 ## Koolhydraten
 
