@@ -13,14 +13,14 @@
 | Vet          | 9,0 g  |
 | Koolhydraten | 91,0 g |
 
-### Rustdag (met extra groenten, geen koolhydraatbasis)
+### Rustdag (met extra groenten, extra kip en geen koolhydraatbasis)
 
 | Macro        | Waarde |
 | ------------ | ------ |
-| Kcal         | 287    |
-| Eiwit        | 35,5 g |
-| Vet          | 7,6 g  |
-| Koolhydraten | 14,8 g |
+| Kcal         | 314    |
+| Eiwit        | 46,0 g |
+| Vet          | 6,0 g  |
+| Koolhydraten | 15,0 g |
 
 ---
 
@@ -62,24 +62,24 @@
 
 ---
 
-## Rustdag — Arabische Kip met Extra Groenten
+## Rustdag — Arabische Kip met Extra Groenten en Extra Kip
 
 ### Ingrediënten (1 portie)
 
 | Ingredient                      | Hoeveelheid | Kcal    | Eiwit      | Vet       | KH         |
 | ------------------------------- | ----------- | ------- | ---------- | --------- | ---------- |
-| Kipfilet                        | 130 g       | 143     | 31,2 g     | 1,3 g     | 0,0 g      |
-| Paprika                         | 120 g       | 31      | 1,2 g      | 0,0 g     | 5,4 g      |
-| Ui                              | 30 g        | 12      | 0,3 g      | 0,0 g     | 2,4 g      |
-| Tomaat                          | 80 g        | 15      | 0,8 g      | 0,2 g     | 2,3 g      |
-| Tomaten Gezeefd Passata (Jumbo) | 40 g        | 15      | 0,4 g      | 0,2 g     | 2,4 g      |
-| Kikkoman Sojasaus               | 10 g        | 8       | 1,0 g      | 0,0 g     | 0,3 g      |
-| Knoflook                        | 4 g         | 6       | 0,2 g      | 0,0 g     | 1,1 g      |
-| Olijfolie Extra Vierge          | 6 g         | 49      | 0,0 g      | 5,5 g     | 0,0 g      |
+| Kipfilet                        | 170 g       | 187     | 40,8 g     | 1,7 g     | 0,0 g      |
+| Paprika                         | 160 g       | 42      | 1,6 g      | 0,0 g     | 7,2 g      |
+| Ui                              | 10 g        | 4       | 0,1 g      | 0,0 g     | 0,8 g      |
+| Tomaat                          | 120 g       | 23      | 1,2 g      | 0,2 g     | 3,5 g      |
+| Tomaten Gezeefd Passata (Jumbo) | 20 g        | 8       | 0,2 g      | 0,1 g     | 1,2 g      |
+| Kikkoman Sojasaus               | 8 g         | 6       | 0,8 g      | 0,0 g     | 0,3 g      |
+| Knoflook                        | 2 g         | 3       | 0,1 g      | 0,0 g     | 0,6 g      |
+| Olijfolie Extra Vierge          | 4 g         | 33      | 0,0 g      | 3,7 g     | 0,0 g      |
 | Komijnpoeder                    | 2 g         | 8       | 0,4 g      | 0,4 g     | 0,9 g      |
-| **Totaal**                      |             | **287** | **35,5 g** | **7,6 g** | **14,8 g** |
+| **Totaal**                      |             | **314** | **45,2 g** | **6,1 g** | **14,5 g** |
 
-> Afgeronde planningswaarden: **287 kcal / 35,5g P / 7,6g V / 14,8g KH**
+> Afgeronde planningswaarden: **314 kcal / 46,0g P / 6,0g V / 15,0g KH**
 
 ### Voorbereiding
 - Kip in reepjes snijden, paprika en tomaat in blokjes, knoflook fijnhakken.
@@ -90,7 +90,8 @@
 3. Bak ui en knoflook 2 minuten.
 4. Voeg paprika en tomaat toe en bak 3 minuten.
 5. Roer passata, sojasaus en komijn erdoor.
-6. Voeg de kip terug toe en laat 5 minuten sudderen.
-7. Serveer direct zonder koolhydraatbasis.
+6. Voeg 100 ml water toe voor extra sausvolume en laat 2 minuten inkoken.
+7. Voeg de kip terug toe en laat 5 minuten sudderen.
+8. Serveer direct zonder koolhydraatbasis.
 
 > **Rustdag**: geen rijst of kikkererwten, zodat de koolhydraten laag blijven en de maaltijd toch veel volume houdt.

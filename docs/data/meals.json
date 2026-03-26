@@ -135,9 +135,9 @@
                     "carbs": 311
                 },
                 "rest": {
-                    "kcal": 1851,
-                    "protein": 201,
-                    "fat": 64,
+                    "kcal": 1878,
+                    "protein": 211,
+                    "fat": 62,
                     "carbs": 100
                 }
             },
@@ -1306,45 +1306,45 @@
                     ]
                 },
                 "rest": {
-                    "label": "Met extra groenten en extra kip",
+                    "label": "Met extra groenten, extra kip en extra volume",
                     "macros": {
-                        "kcal": 287,
-                        "protein": 36,
-                        "fat": 8,
+                        "kcal": 314,
+                        "protein": 46,
+                        "fat": 6,
                         "carbs": 15
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet",
-                            "amount": "130 g"
+                            "amount": "170 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "120 g"
+                            "amount": "160 g"
                         },
                         {
                             "name": "Ui",
-                            "amount": "30 g"
-                        },
-                        {
-                            "name": "Tomaat",
-                            "amount": "80 g"
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata (Jumbo)",
-                            "amount": "40 g"
-                        },
-                        {
-                            "name": "Kikkoman Sojasaus",
                             "amount": "10 g"
                         },
                         {
+                            "name": "Tomaat",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata (Jumbo)",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Kikkoman Sojasaus",
+                            "amount": "8 g"
+                        },
+                        {
                             "name": "Knoflook",
-                            "amount": "4 g"
+                            "amount": "2 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "6 g"
+                            "amount": "4 g"
                         },
                         {
                             "name": "Komijnpoeder",
@@ -1359,7 +1359,7 @@
                 "Paprika toevoegen, 3 min bakken.",
                 "Passata, sojasaus, komijn en paprikapoeder erdoor roeren.",
                 "Kip en kikkererwten (training) terug, 5 min sudderen.",
-                "Training: serveer op rijst. Rust: direct serveren."
+                "Training: serveer op rijst. Rust: voeg 100 ml water toe en serveer direct zonder koolhydraatbasis."
             ]
         }
     },

@@ -35,9 +35,9 @@
 
 | Macro        | Totaal | Max   |
 | ------------ | ------ | ----- |
-| Kcal         | 1851   | 1880  |
-| Eiwit        | 201 g  | 190 g |
-| Vet          | 64,0 g | 80 g  |
+| Kcal         | 1878   | 1880  |
+| Eiwit        | 211 g  | 190 g |
+| Vet          | 62,0 g | 80 g  |
 | Koolhydraten | 100 g  | 100 g |
 
 ## Smaakprofiel
