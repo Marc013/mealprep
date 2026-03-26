@@ -6,20 +6,20 @@
 
 ### Trainingsdag (met witte rijst)
 
-| Macro        | Waarde |
-| ------------ | ------ |
-| Kcal         | 630    |
-| Eiwit        | 45,4 g |
-| Vet          | 8,8 g  |
-| Koolhydraten | 86,3 g |
+| Macro        | Waarde  |
+| ------------ | ------- |
+| Kcal         | 752     |
+| Eiwit        | 45,8 g  |
+| Vet          | 9,1 g   |
+| Koolhydraten | 113,8 g |
 
 ### Rustdag (met extra groenten, geen koolhydraatbasis)
 
 | Macro        | Waarde |
 | ------------ | ------ |
-| Kcal         | 246    |
-| Eiwit        | 28,3 g |
-| Vet          | 6,3 g  |
+| Kcal         | 290    |
+| Eiwit        | 39,7 g |
+| Vet          | 10,7 g |
 | Koolhydraten | 14,9 g |
 
 ---
@@ -28,22 +28,22 @@
 
 ### Ingrediënten (1 portie)
 
-| Ingredient                      | Hoeveelheid | Kcal    | Eiwit      | Vet       | KH         |
-| ------------------------------- | ----------- | ------- | ---------- | --------- | ---------- |
-| Kipfilet                        | 130 g       | 143     | 31,2 g     | 1,3 g     | 0,0 g      |
-| Witte rijst (droog)             | 75 g        | 263     | 5,3 g      | 0,8 g     | 58,5 g     |
-| Kikkererwten (blik, uitgelekt)  | 70 g        | 84      | 4,9 g      | 1,4 g     | 11,9 g     |
-| Paprika                         | 100 g       | 26      | 1,0 g      | 0,0 g     | 4,5 g      |
-| Ui                              | 50 g        | 20      | 0,5 g      | 0,0 g     | 4,0 g      |
-| Tomaten Gezeefd Passata (Jumbo) | 80 g        | 30      | 0,8 g      | 0,3 g     | 4,8 g      |
-| Kikkoman Sojasaus               | 10 g        | 8       | 1,0 g      | 0,0 g     | 0,3 g      |
-| Knoflook                        | 5 g         | 7       | 0,3 g      | 0,0 g     | 1,4 g      |
-| Olijfolie Extra Vierge          | 5 g         | 41      | 0,0 g      | 4,6 g     | 0,0 g      |
-| Komijnpoeder                    | 2 g         | 8       | 0,4 g      | 0,4 g     | 0,9 g      |
-| Gerookt paprikapoeder           | 1 g         | 3       | 0,1 g      | 0,2 g     | 0,3 g      |
-| **Totaal**                      |             | **633** | **45,5 g** | **9,0 g** | **86,6 g** |
+| Ingredient                      | Hoeveelheid | Kcal    | Eiwit      | Vet       | KH          |
+| ------------------------------- | ----------- | ------- | ---------- | --------- | ----------- |
+| Kipfilet                        | 130 g       | 143     | 31,2 g     | 1,3 g     | 0,0 g       |
+| Witte rijst (droog)             | 110 g       | 385     | 7,7 g      | 1,1 g     | 85,8 g      |
+| Kikkererwten (blik, uitgelekt)  | 70 g        | 84      | 4,9 g      | 1,4 g     | 11,9 g      |
+| Paprika                         | 100 g       | 26      | 1,0 g      | 0,0 g     | 4,5 g       |
+| Ui                              | 50 g        | 20      | 0,5 g      | 0,0 g     | 4,0 g       |
+| Tomaten Gezeefd Passata (Jumbo) | 80 g        | 30      | 0,8 g      | 0,3 g     | 4,8 g       |
+| Kikkoman Sojasaus               | 10 g        | 8       | 1,0 g      | 0,0 g     | 0,3 g       |
+| Knoflook                        | 5 g         | 7       | 0,3 g      | 0,0 g     | 1,4 g       |
+| Olijfolie Extra Vierge          | 5 g         | 41      | 0,0 g      | 4,6 g     | 0,0 g       |
+| Komijnpoeder                    | 2 g         | 8       | 0,4 g      | 0,4 g     | 0,9 g       |
+| Gerookt paprikapoeder           | 1 g         | 3       | 0,1 g      | 0,2 g     | 0,3 g       |
+| **Totaal**                      |             | **755** | **48,1 g** | **9,2 g** | **113,9 g** |
 
-> Afgeronde planningswaarden: **630 kcal / 45,4g P / 8,8g V / 86,3g KH**
+> Afgeronde planningswaarden: **752 kcal / 45,8g P / 9,1g V / 113,8g KH**
 
 ### Voorbereiding (mealprep — meerdere porties)
 - Kip in reepjes of grove blokjes snijden.
@@ -68,18 +68,18 @@
 
 | Ingredient                      | Hoeveelheid | Kcal    | Eiwit      | Vet       | KH         |
 | ------------------------------- | ----------- | ------- | ---------- | --------- | ---------- |
-| Kipfilet                        | 100 g       | 110     | 24,0 g     | 1,0 g     | 0,0 g      |
+| Kipfilet                        | 130 g       | 143     | 31,2 g     | 1,3 g     | 0,0 g      |
 | Paprika                         | 120 g       | 31      | 1,2 g      | 0,0 g     | 5,4 g      |
 | Ui                              | 30 g        | 12      | 0,3 g      | 0,0 g     | 2,4 g      |
 | Tomaat                          | 80 g        | 15      | 0,8 g      | 0,2 g     | 2,3 g      |
 | Tomaten Gezeefd Passata (Jumbo) | 40 g        | 15      | 0,4 g      | 0,2 g     | 2,4 g      |
 | Kikkoman Sojasaus               | 10 g        | 8       | 1,0 g      | 0,0 g     | 0,3 g      |
 | Knoflook                        | 4 g         | 6       | 0,2 g      | 0,0 g     | 1,1 g      |
-| Olijfolie Extra Vierge          | 5 g         | 41      | 0,0 g      | 4,6 g     | 0,0 g      |
+| Olijfolie Extra Vierge          | 8 g         | 66      | 0,0 g      | 7,4 g     | 0,0 g      |
 | Komijnpoeder                    | 2 g         | 8       | 0,4 g      | 0,4 g     | 0,9 g      |
-| **Totaal**                      |             | **246** | **28,3 g** | **6,4 g** | **14,8 g** |
+| **Totaal**                      |             | **290** | **35,5 g** | **9,9 g** | **14,8 g** |
 
-> Afgeronde planningswaarden: **246 kcal / 28,3g P / 6,3g V / 14,9g KH**
+> Afgeronde planningswaarden: **290 kcal / 35,5g P / 9,9g V / 14,9g KH**
 
 ### Voorbereiding
 - Kip in reepjes snijden, paprika en tomaat in blokjes, knoflook fijnhakken.
