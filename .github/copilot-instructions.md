@@ -22,7 +22,7 @@ Zie [.github/skills/README.md](.github/skills/README.md) voor volledige document
 
 - Dagmacro's zijn **strikte bovengrenzen** — nooit overschrijden. Targets staan in `promp.md`.
 - Benader dagtargets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan. Grote afwijkingen vermijden.
-- Eiwit mag beperkt boven target uitkomen, maar niet structureel extreem boven target.
+- Eiwit mag beperkt boven target uitkomen wanneer dit praktisch nut heeft (verzadiging/uitvoerbaarheid), maar niet structureel extreem boven target.
 - Verdeel macro's evenredig over de dag; voorkom dat 1 maaltijd disproportioneel veel van 1 macro bevat.
 - Voedingswaarden opzoeken in volgorde: `src/voedingswaardetabel_referentie.md` → `src/voedingswaarde_handmatig.md` → https://www.voedingswaardetabel.nl/
 - Gebruik altijd de **officiële productnaam** uit de bronbestanden.
@@ -36,6 +36,12 @@ Zie [.github/skills/README.md](.github/skills/README.md) voor volledige document
 - Per week maximaal 2 verschillende mealprep-gerechten; beide moeten training- en rustdag-varianten hebben met slimme koolhydraatwissel. Vermijd bloemkoolrijst waar mogelijk; maximaal in 1 gerecht toepassen.
 - Mealprep-gerechten zijn sterk gekruid en hebben oosterse, Mexicaanse of Arabische invloeden.
 - Maaltijden moeten hongergevoel actief bestrijden (volume, vezels, eiwit, vocht, textuur).
+
+## Outputkwaliteit en flexibiliteit
+
+- Stuur op maximale outputkwaliteit: macro-correctheid, praktische uitvoerbaarheid, smaakbehoud na opwarming en heldere instructies.
+- Gebruik gecontroleerde flexibiliteit: strikt op macrogrenzen, flexibel in kleine gram-finetuning voor betere maaltijdkwaliteit.
+- Vermijd over-rigide plannen die theoretisch kloppen maar in de praktijk minder haalbaar of minder smakelijk zijn.
 
 ## Bronbestanden
 

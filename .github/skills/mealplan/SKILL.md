@@ -60,6 +60,11 @@ Verplichte ontwerpregels:
 - Gebruik bij voorkeur geen bloemkoolrijst; maximaal in 1 mealprep-gerecht als alternatief met lage koolhydraten.
 - Mealprep-smaakprofielen: oosters, Mexicaans of Arabisch, met duidelijke kruiding.
 
+Kwaliteitsfocus tijdens ontwerp:
+- Maximaliseer praktische uitvoerbaarheid en verzadiging zonder macrogrenzen te schenden.
+- Gebruik gecontroleerde flexibiliteit in gramhoeveelheden wanneer dit smaak, textuur of mealprep-kwaliteit verbetert.
+- Vermijd onnodige rigiditeit die plannen theoretisch correct maar praktisch zwakker maakt.
+
 ### 4. Bereken macro's per ingredient
 
 Voedingswaarden opzoeken in volgorde:
@@ -71,10 +76,21 @@ Voedingswaarden opzoeken in volgorde:
 
 - Dagmacro's zijn **strikte bovengrenzen**
 - Benader target zo dicht mogelijk; kleine afwijking is toegestaan
-- Eiwit iets boven target is acceptabel, maar vermijd structureel grote overschrijding
+- Eiwit iets boven target is acceptabel als dit functioneel is voor verzadiging/uitvoerbaarheid, maar vermijd structureel grote overschrijding
 - Valideer ook evenredige macroverdeling over maaltijden
 - Corrigeer porties indien nodig
 - Geen overschrijdingen publiceren
+
+### 5b. Kwaliteitsscore (verplicht voor eindoutput)
+
+Voer een interne check uit op 5 assen en optimaliseer tot een gebalanceerd resultaat:
+1. Macro-nauwkeurigheid en grensbewaking
+2. Praktische bereidingstijd en workflow
+3. Verzadiging en volume (met nadruk op rustdag)
+4. Smaakbehoud en textuur na opwarming
+5. Inkoop-efficiëntie en ingredient-hergebruik
+
+Doel: niet alleen “macro-correct”, maar ook aantoonbaar praktisch en volhoudbaar in de week.
 
 ### 6. Genereer output
 

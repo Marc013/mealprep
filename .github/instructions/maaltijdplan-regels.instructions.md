@@ -2,7 +2,7 @@
 description: "Use when creating, editing or validating meal plan markdown files. Hard constraints for macro limits, nutrition source lookup, ingredient naming, macro validation and mealprep requirements. Keywords: maaltijdplan, mealprep, macro's berekenen, ingredienten, voedingswaarden, weekschema."
 ---
 
-# Maaltijdplan — harde regels
+# Maaltijdplan — kwaliteitsregels met strikte macrogrenzen
 
 > Volledige documentatie: [.github/skills/mealplan/references/macro-regels.md](../.github/skills/mealplan/references/macro-regels.md)
 
@@ -20,11 +20,11 @@ description: "Use when creating, editing or validating meal plan markdown files.
 - Bereken de macrobijdrage van kruiden en smaakmakers altijd expliciet mee (bijv. 2 g Italiaanse kruiden = 5,1 kcal / 0,3 g P / 0,1 g V / 0,3 g KH)
 - Zout en peper mogen als "naar smaak" vermeld worden — macrobijdrage verwaarloosbaar
 
-## Macro-limieten (harde bovengrenzen — nooit overschrijden)
+## Macro-limieten (strikte bovengrenzen — nooit overschrijden)
 
 De dagmacro's zijn **strikte maxima**.
 Daarnaast geldt: benader targets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan, maar grote afwijkingen niet.
-Een beperkte eiwit-overschrijding is acceptabel, maar voorkom structurele grote overschrijdingen.
+Eiwit mag beperkt boven target uitkomen als dit de praktische uitvoerbaarheid en verzadiging duidelijk verbetert, maar voorkom structurele grote overschrijdingen.
 
 Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet / 38 g KH**
 
@@ -33,11 +33,11 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 | Trainingsdag | 2900  | 190 g | 60 g |        400 g |
 | Rustdag      | 1880  | 190 g | 80 g |        100 g |
 
-## Harde verboden
+## Verboden (niet toegestaan)
 
 - Geen vis, zeevruchten of orgaanvlees
 - Geen omelet
-- Geen aparte salade
+- Geen losse salade als hoofdcomponent; een warme of geïntegreerde groentecomponent in een pan-gerecht is wel toegestaan
 - Maximaal 2 mealprep-gerechten per dagschema
 
 ## Verplichte maaltijdopbouw per tijdstip
@@ -69,7 +69,7 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 
 1. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
 2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `Macros_Dagtotalen.md`
-3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding
+3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding van kcal, vet of koolhydraten
 4. Controleer macro-evenredigheid per maaltijd: geen extreme pieken tenzij expliciet functioneel onderbouwd
 
 ## Kwaliteitscriteria
@@ -78,3 +78,10 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 - Porties realistisch voor mealprep (meerdere porties per sessie)
 - Smaken die ook na opwarming goed blijven
 - Efficiënte ingredientcombinaties voor inkoop bij Jumbo of Lidl
+
+## Outputoptimalisatie (maximale kwaliteit met gecontroleerde flexibiliteit)
+
+- Optimaliseer op praktische uitvoerbaarheid, smaakbehoud na opwarming, verzadiging en macro-nauwkeurigheid tegelijk
+- Houd de macrogrenzen strikt, maar laat ruimte voor kleine receptmatige finetuning in gramhoeveelheden voor betere textuur/smaak
+- Vermijd overmatige rigiditeit in formulering; focus op doelbereik en praktische planning in plaats van kunstmatige precisie zonder culinair nut
+- Als meerdere opties macro-technisch gelijkwaardig zijn, kies de optie met hoogste mealprep-robustheid (heropwarmkwaliteit, eenvoud, beschikbaarheid ingrediënten)
