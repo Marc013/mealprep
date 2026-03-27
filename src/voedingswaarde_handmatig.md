@@ -101,6 +101,21 @@
 | Eiwitten                    | 9,0 g     |
 | Zout                        | 0,11 g    |
 
+### Magere Franse Kwark (Milbona) - Lidl
+
+- URL: https://www.fatsecret.nl/calorie%C3%ABn-voedingswaarde/lidl/magere-franse-kwark/100g
+
+| Voedingswaarden             | per 100 g |
+| :-------------------------- | :-------- |
+| Energie                     | 52q kcal  |
+| Vetten                      | 0 g       |
+| waarvan verzadigde vetzuren | 0 g       |
+| Koolhydraten                | 4,0 g     |
+| waarvan suikers             | 4,0 g     |
+| Vezels                      | 0 g       |
+| Eiwitten                    | 8,9 g     |
+| Zout                        | 0,11 g    |
+
 ### Olijfolie Extra Vierge
 
 - URL: https://www.jumbo.com/producten/jumbo-olijfolie-extra-vierge-1-l-418280FLS

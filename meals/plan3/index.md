@@ -26,18 +26,18 @@
 
 | Macro        | Totaal | Max   |
 | ------------ | ------ | ----- |
-| Kcal         | 2798   | 2900  |
-| Eiwit        | 223 g  | 190 g |
-| Vet          | 58,0 g | 60 g  |
+| Kcal         | 2783   | 2900  |
+| Eiwit        | 220 g  | 190 g |
+| Vet          | 57,7 g | 60 g  |
 | Koolhydraten | 311 g  | 400 g |
 
 ### Rustdag
 
 | Macro        | Totaal | Max   |
 | ------------ | ------ | ----- |
-| Kcal         | 1878   | 1880  |
-| Eiwit        | 211 g  | 190 g |
-| Vet          | 62,0 g | 80 g  |
+| Kcal         | 1856   | 1880  |
+| Eiwit        | 207 g  | 190 g |
+| Vet          | 61,6 g | 80 g  |
 | Koolhydraten | 100 g  | 100 g |
 
 ## Smaakprofiel
