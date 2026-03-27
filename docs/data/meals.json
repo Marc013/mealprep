@@ -971,9 +971,9 @@
                     "label": "Met banaan & honing",
                     "macros": {
                         "kcal": 325,
-                        "protein": 21,
-                        "fat": 4,
-                        "carbs": 51
+                        "protein": 20.9,
+                        "fat": 2.2,
+                        "carbs": 52.8
                     },
                     "ingredients": [
                         {
@@ -982,14 +982,10 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "150 g"
+                            "amount": "110 g"
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "100 g"
-                        },
-                        {
-                            "name": "Banaan",
                             "amount": "100 g"
                         },
                         {
@@ -997,18 +993,22 @@
                             "amount": "2 g"
                         },
                         {
+                            "name": "Banaan",
+                            "amount": "100 g"
+                        },
+                        {
                             "name": "Honing",
-                            "amount": "12 g"
+                            "amount": "6 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Hoog eiwit, laag KH",
                     "macros": {
-                        "kcal": 206,
-                        "protein": 22,
-                        "fat": 6,
-                        "carbs": 10
+                        "kcal": 204,
+                        "protein": 24.6,
+                        "fat": 1.3,
+                        "carbs": 19.8
                     },
                     "ingredients": [
                         {
@@ -1017,11 +1017,11 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "40 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "30 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kaneelpoeder",
@@ -1046,10 +1046,10 @@
                 "training": {
                     "label": "Met volkoren brood",
                     "macros": {
-                        "kcal": 467,
-                        "protein": 30,
-                        "fat": 14,
-                        "carbs": 51
+                        "kcal": 463,
+                        "protein": 32.6,
+                        "fat": 14.7,
+                        "carbs": 46.2
                     },
                     "ingredients": [
                         {
@@ -1062,7 +1062,7 @@
                         },
                         {
                             "name": "Tomaat",
-                            "amount": "150 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Paprika",
@@ -1070,21 +1070,21 @@
                         },
                         {
                             "name": "Volkoren brood",
-                            "amount": "100 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "3 g"
+                            "amount": "2 g"
                         }
                     ]
                 },
                 "rest": {
-                    "label": "Zonder brood, extra ham",
+                    "label": "Minder brood, extra ham",
                     "macros": {
-                        "kcal": 334,
-                        "protein": 32,
-                        "fat": 17,
-                        "carbs": 9
+                        "kcal": 333,
+                        "protein": 28.7,
+                        "fat": 13.8,
+                        "carbs": 22.2
                     },
                     "ingredients": [
                         {
@@ -1105,7 +1105,11 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "3 g"
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "30 g"
                         }
                     ]
                 }
@@ -1127,10 +1131,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 743,
-                        "protein": 33,
-                        "fat": 26,
-                        "carbs": 81
+                        "kcal": 742,
+                        "protein": 36.7,
+                        "fat": 22.2,
+                        "carbs": 89.1
                     },
                     "ingredients": [
                         {
@@ -1147,7 +1151,7 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "160 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Ui",
@@ -1171,7 +1175,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Chilivlokken",
@@ -1186,10 +1190,10 @@
                 "rest": {
                     "label": "Met bloemkoolrijst",
                     "macros": {
-                        "kcal": 499,
-                        "protein": 28,
-                        "fat": 28,
-                        "carbs": 28
+                        "kcal": 494,
+                        "protein": 32.9,
+                        "fat": 23.3,
+                        "carbs": 31.4
                     },
                     "ingredients": [
                         {
@@ -1222,7 +1226,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Chilivlokken",
@@ -1253,15 +1257,15 @@
                 "training": {
                     "label": "Met witte rijst & kikkererwten",
                     "macros": {
-                        "kcal": 706,
-                        "protein": 57,
-                        "fat": 9,
-                        "carbs": 91
+                        "kcal": 705,
+                        "protein": 55.7,
+                        "fat": 8.9,
+                        "carbs": 95.9
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet",
-                            "amount": "190 g"
+                            "amount": "180 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -1273,11 +1277,11 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "100 g"
+                            "amount": "50 g"
                         },
                         {
                             "name": "Ui",
-                            "amount": "50 g"
+                            "amount": "40 g"
                         },
                         {
                             "name": "Tomaten Gezeefd Passata (Jumbo)",
@@ -1293,7 +1297,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g"
+                            "amount": "2 g"
                         },
                         {
                             "name": "Komijnpoeder",
@@ -1309,9 +1313,9 @@
                     "label": "Met extra groenten, extra kip en extra volume",
                     "macros": {
                         "kcal": 314,
-                        "protein": 46,
-                        "fat": 6,
-                        "carbs": 15
+                        "protein": 44.5,
+                        "fat": 5.7,
+                        "carbs": 18.5
                     },
                     "ingredients": [
                         {
@@ -1320,11 +1324,11 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "160 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Ui",
-                            "amount": "10 g"
+                            "amount": "43 g"
                         },
                         {
                             "name": "Tomaat",
@@ -1332,7 +1336,7 @@
                         },
                         {
                             "name": "Tomaten Gezeefd Passata (Jumbo)",
-                            "amount": "20 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Sojasaus",
@@ -1344,7 +1348,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "4 g"
+                            "amount": "2 g"
                         },
                         {
                             "name": "Komijnpoeder",

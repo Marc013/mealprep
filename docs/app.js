@@ -37,6 +37,11 @@ const Utils = {
         return div.innerHTML;
     },
 
+    formatNumber(value) {
+        if (!Number.isFinite(value)) return value;
+        return Number.isInteger(value) ? String(value) : value.toFixed(1);
+    },
+
     initNavigation() {
         const toggle = document.querySelector('.nav-toggle');
         const links = document.querySelector('.nav-links');
@@ -45,6 +50,200 @@ const Utils = {
                 links.classList.toggle('open');
             });
         }
+    }
+};
+
+const DataDerivations = {
+    dayCounts: {
+        training: 4,
+        rest: 3
+    },
+
+    getMealMacros(meal, dayType) {
+        return meal.variants ? meal.variants[dayType].macros : meal.macros;
+    },
+
+    getMealIngredients(meal, dayType) {
+        if (meal.variants) {
+            const variant = meal.variants[dayType];
+            return variant.ingredients
+                ? variant.ingredients
+                : [...(meal.baseIngredients || []), ...(variant.extraIngredients || [])];
+        }
+
+        return meal.ingredients || [];
+    },
+
+    calculatePlanTotals(data, planId, dayType) {
+        const plan = data.weekplans[planId];
+        const totals = plan.schedule.reduce((sum, slot) => {
+            const meal = data.meals[slot.meal];
+            if (!meal) return sum;
+
+            const macros = this.getMealMacros(meal, dayType);
+            sum.kcal += Number(macros.kcal || 0);
+            sum.protein += Number(macros.protein || 0);
+            sum.fat += Number(macros.fat || 0);
+            sum.carbs += Number(macros.carbs || 0);
+            return sum;
+        }, { kcal: 0, protein: 0, fat: 0, carbs: 0 });
+
+        return {
+            kcal: Number(totals.kcal.toFixed(1)),
+            protein: Number(totals.protein.toFixed(1)),
+            fat: Number(totals.fat.toFixed(1)),
+            carbs: Number(totals.carbs.toFixed(1))
+        };
+    },
+
+    parseAmount(amount) {
+        if (!amount || amount === 'naar smaak') {
+            return { raw: amount || '' };
+        }
+
+        let match = amount.match(/^(\d+(?:[.,]\d+)?)\s*g\s*\(droog\)$/i);
+        if (match) {
+            return { value: Number(match[1].replace(',', '.')), unit: 'g droog' };
+        }
+
+        match = amount.match(/^(\d+)\s*stuks?\s*\((\d+(?:[.,]\d+)?)\s*g\)$/i);
+        if (match) {
+            return { value: Number(match[1].replace(',', '.')), unit: 'stuks' };
+        }
+
+        match = amount.match(/^(\d+(?:[.,]\d+)?)\s*(g|ml|stuks?)\b/i);
+        if (match) {
+            return { value: Number(match[1].replace(',', '.')), unit: match[2].toLowerCase() };
+        }
+
+        return { raw: amount };
+    },
+
+    formatAmount(value, unit, rawValues) {
+        if (unit === 'g droog') {
+            return `${Utils.formatNumber(Math.round(value))} g droog`;
+        }
+
+        if (unit === 'g' || unit === 'ml') {
+            return `${Utils.formatNumber(Math.round(value))} ${unit}`;
+        }
+
+        if (unit === 'stuk' || unit === 'stuks') {
+            return `${Utils.formatNumber(Math.round(value))} stuks`;
+        }
+
+        if (rawValues?.length) {
+            return rawValues.join(', ');
+        }
+
+        return unit || '';
+    },
+
+    getShoppingCategory(name) {
+        const value = name.toLowerCase();
+
+        if (['perfect whey protein', 'kwark', 'yoghurt', 'skyr', 'mozzarella', 'kaas', 'eiwit'].some(term => value.includes(term))) {
+            return 'Zuivel & Eieren';
+        }
+
+        if (['ei', 'eieren', 'kip', 'gehakt', 'ham', 'varkenshaas'].some(term => value.includes(term))) {
+            return 'Vlees & Eiwit';
+        }
+
+        if (['bulgur', 'rijst', 'brood', 'havervlokken', 'macaroni', 'bloemkoolrijst', 'zoete aardappel'].some(term => value.includes(term))) {
+            return 'Koolhydraten';
+        }
+
+        if (['paprika', 'ui', 'tomaat', 'knoflook', 'champignon', 'courgette', 'taugé', 'komkommer', 'sla'].some(term => value.includes(term))) {
+            return 'Groenten';
+        }
+
+        if (['appel', 'banaan', 'kiwi', 'mandarijn', 'druiven', 'bosvruchten', 'avocado', 'fruit'].some(term => value.includes(term))) {
+            return 'Fruit';
+        }
+
+        if (['bonen', 'kikkererwten', 'passata', 'saus', 'sojasaus', 'ketjap', 'ketchup', 'honing', 'mayolijn', 'pindakaas'].some(term => value.includes(term))) {
+            return 'Conserven & Saus';
+        }
+
+        return 'Kruiden & Vetten';
+    },
+
+    createShoppingId(planId, name) {
+        return `${planId}-${name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+    },
+
+    calculateShopping(data, planId) {
+        const plan = data.weekplans[planId];
+        const aggregated = new Map();
+
+        const addIngredient = (ingredient, multiplier) => {
+            if (!ingredient?.name || ingredient.name === 'Water') {
+                return;
+            }
+
+            const existing = aggregated.get(ingredient.name) || {
+                name: ingredient.name,
+                value: 0,
+                unit: '',
+                rawValues: []
+            };
+
+            const parsed = this.parseAmount(ingredient.amount);
+            if (typeof parsed.value === 'number' && parsed.unit) {
+                if (!existing.unit) {
+                    existing.unit = parsed.unit;
+                }
+
+                if (existing.unit === parsed.unit) {
+                    existing.value += parsed.value * multiplier;
+                }
+            } else if (parsed.raw && !existing.rawValues.includes(parsed.raw)) {
+                existing.rawValues.push(parsed.raw);
+            }
+
+            aggregated.set(ingredient.name, existing);
+        };
+
+        Object.entries(this.dayCounts).forEach(([dayType, count]) => {
+            plan.schedule.forEach(slot => {
+                const meal = data.meals[slot.meal];
+                if (!meal) return;
+
+                this.getMealIngredients(meal, dayType).forEach(ingredient => addIngredient(ingredient, count));
+            });
+        });
+
+        const grouped = new Map();
+        aggregated.forEach(entry => {
+            const category = this.getShoppingCategory(entry.name);
+            if (!grouped.has(category)) {
+                grouped.set(category, []);
+            }
+
+            grouped.get(category).push({
+                id: this.createShoppingId(planId, entry.name),
+                name: entry.name,
+                amount: this.formatAmount(entry.value, entry.unit, entry.rawValues)
+            });
+        });
+
+        const categoryOrder = [
+            'Zuivel & Eieren',
+            'Vlees & Eiwit',
+            'Koolhydraten',
+            'Groenten',
+            'Fruit',
+            'Conserven & Saus',
+            'Kruiden & Vetten'
+        ];
+
+        return categoryOrder
+            .filter(category => grouped.has(category))
+            .map(category => ({
+                name: category,
+                items: grouped.get(category).sort((left, right) => left.name.localeCompare(right.name, 'nl'))
+            }));
     }
 };
 
@@ -146,36 +345,35 @@ const MealApp = {
 
         if (!macrosEl || !this.data) return;
 
-        const plan = this.getCurrentPlan();
-        const totals = plan.totals[this.dayType];
+        const totals = DataDerivations.calculatePlanTotals(this.data, this.currentPlan, this.dayType);
         const targets = this.data.targets[this.dayType];
 
         labelEl.textContent = this.dayType === 'training' ? 'TRAININGSDAG' : 'RUSTDAG';
 
         macrosEl.innerHTML = `
             <div class="macro-item kcal">
-                <span class="macro-value">${totals.kcal}</span>
+                <span class="macro-value">${Utils.formatNumber(totals.kcal)}</span>
                 <span class="macro-label">Kcal</span>
             </div>
-            <div class="macro-item protein">
-                <span class="macro-value">${totals.protein}g</span>
-                <span class="macro-label">Eiwit</span>
+            <div class="macro-item carbs">
+                <span class="macro-value">${Utils.formatNumber(totals.carbs)}g</span>
+                <span class="macro-label">KH</span>
             </div>
             <div class="macro-item fat">
-                <span class="macro-value">${totals.fat}g</span>
+                <span class="macro-value">${Utils.formatNumber(totals.fat)}g</span>
                 <span class="macro-label">Vet</span>
             </div>
-            <div class="macro-item carbs">
-                <span class="macro-value">${totals.carbs}g</span>
-                <span class="macro-label">KH</span>
+            <div class="macro-item protein">
+                <span class="macro-value">${Utils.formatNumber(totals.protein)}g</span>
+                <span class="macro-label">Eiwit</span>
             </div>
         `;
 
         targetsEl.innerHTML = `
             <span>Doel: ${targets.kcal}</span>
-            <span>${targets.protein}g</span>
-            <span>${targets.fat}g</span>
             <span>${targets.carbs}g</span>
+            <span>${targets.fat}g</span>
+            <span>${targets.protein}g</span>
         `;
     },
 
@@ -274,17 +472,17 @@ const MealApp = {
                     <span class="macro-value" id="modal-kcal">${macros.kcal}</span>
                     <span class="macro-label">Kcal</span>
                 </div>
-                <div class="macro-item protein">
-                    <span class="macro-value" id="modal-protein">${macros.protein}g</span>
-                    <span class="macro-label">Eiwit</span>
+                <div class="macro-item carbs">
+                    <span class="macro-value" id="modal-carbs">${macros.carbs}g</span>
+                    <span class="macro-label">KH</span>
                 </div>
                 <div class="macro-item fat">
                     <span class="macro-value" id="modal-fat">${macros.fat}g</span>
                     <span class="macro-label">Vet</span>
                 </div>
-                <div class="macro-item carbs">
-                    <span class="macro-value" id="modal-carbs">${macros.carbs}g</span>
-                    <span class="macro-label">KH</span>
+                <div class="macro-item protein">
+                    <span class="macro-value" id="modal-protein">${macros.protein}g</span>
+                    <span class="macro-label">Eiwit</span>
                 </div>
             </div>
 
@@ -449,40 +647,40 @@ const MacrosApp = {
                     <span class="macro-row-time">${slot.time}</span>
                     <span class="macro-row-title">${Utils.escape(meal.title)}${variantLabel}</span>
                     <span class="macro-row-val kcal-val">${macros.kcal}</span>
-                    <span class="macro-row-val protein-val">${macros.protein}g</span>
-                    <span class="macro-row-val">${macros.fat}g</span>
-                    <span class="macro-row-val">${macros.carbs}g</span>
+                        <span class="macro-row-val">${macros.carbs}g</span>
+                        <span class="macro-row-val">${macros.fat}g</span>
+                        <span class="macro-row-val protein-val">${macros.protein}g</span>
                 </div>
             `;
         }).join('');
 
-        const totals = plan.totals[this.dayType];
+        const totals = DataDerivations.calculatePlanTotals(this.data, this.currentPlan, this.dayType);
         sectionEl.innerHTML = `
             <div class="macro-col-header">
                 <span>Tijd</span>
                 <span>Gerecht</span>
                 <span>Kcal</span>
-                <span>Eiwit</span>
-                <span>Vet</span>
                 <span>KH</span>
+                <span>Vet</span>
+                <span>Eiwit</span>
             </div>
             <div class="macros-breakdown">
                 ${rows}
                 <div class="macro-row total-row">
                     <span class="macro-row-time">—</span>
                     <span class="macro-row-title">TOTAAL</span>
-                    <span class="macro-row-val kcal-val">${totals.kcal}</span>
-                    <span class="macro-row-val protein-val">${totals.protein}g</span>
-                    <span class="macro-row-val">${totals.fat}g</span>
-                    <span class="macro-row-val">${totals.carbs}g</span>
+                    <span class="macro-row-val kcal-val">${Utils.formatNumber(totals.kcal)}</span>
+                        <span class="macro-row-val">${Utils.formatNumber(totals.carbs)}g</span>
+                        <span class="macro-row-val">${Utils.formatNumber(totals.fat)}g</span>
+                        <span class="macro-row-val protein-val">${Utils.formatNumber(totals.protein)}g</span>
                 </div>
                 <div class="macro-row target-row">
                     <span class="macro-row-time">—</span>
                     <span class="macro-row-title">DOEL (max)</span>
                     <span class="macro-row-val">${targets.kcal}</span>
-                    <span class="macro-row-val">${targets.protein}g</span>
-                    <span class="macro-row-val">${targets.fat}g</span>
-                    <span class="macro-row-val">${targets.carbs}g</span>
+                        <span class="macro-row-val">${targets.carbs}g</span>
+                        <span class="macro-row-val">${targets.fat}g</span>
+                        <span class="macro-row-val">${targets.protein}g</span>
                 </div>
             </div>
         `;
@@ -557,15 +755,15 @@ const ShoppingApp = {
     render() {
         this.loadChecked();
         const container = document.getElementById('shopping-lists');
-        if (!container || !this.data?.shopping) return;
+        if (!container || !this.data) return;
 
-        const shopping = this.data.shopping[this.currentPlan];
-        if (!shopping) return;
+        const categories = DataDerivations.calculateShopping(this.data, this.currentPlan);
+        if (!categories.length) return;
 
         let totalItems = 0;
         let checkedCount = 0;
 
-        container.innerHTML = shopping.categories.map(category => {
+        container.innerHTML = categories.map(category => {
             totalItems += category.items.length;
 
             return `

@@ -24,21 +24,21 @@
 
 ### Trainingsdag
 
-| Macro        | Totaal | Max   |
-| ------------ | ------ | ----- |
-| Kcal         | 2783   | 2900  |
-| Eiwit        | 220 g  | 190 g |
-| Vet          | 57,7 g | 60 g  |
-| Koolhydraten | 311 g  | 400 g |
+| Macro        | Totaal  | Max   |
+| ------------ | ------- | ----- |
+| Kcal         | 2771    | 2900  |
+| Eiwit        | 225,9 g | 190 g |
+| Vet          | 54,0 g  | 60 g  |
+| Koolhydraten | 322,0 g | 400 g |
 
 ### Rustdag
 
-| Macro        | Totaal | Max   |
-| ------------ | ------ | ----- |
-| Kcal         | 1856   | 1880  |
-| Eiwit        | 207 g  | 190 g |
-| Vet          | 61,6 g | 80 g  |
-| Koolhydraten | 100 g  | 100 g |
+| Macro        | Totaal  | Max   |
+| ------------ | ------- | ----- |
+| Kcal         | 1881    | 1880  |
+| Eiwit        | 210,7 g | 190 g |
+| Vet          | 50,1 g  | 80 g  |
+| Koolhydraten | 129,9 g | 100 g |
 
 ## Smaakprofiel
 

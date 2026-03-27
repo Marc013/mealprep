@@ -11,13 +11,13 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 
 - [ ] Perfect Whey Protein - XXL Nutrition: 700 g
 - [ ] Magere Franse Kwark (Milbona): 1260 g
-- [ ] Halfvolle yoghurt: 720 g
+- [ ] Halfvolle yoghurt: 680 g
 - [ ] Eieren: 14 stuks
 
 ## Vlees en eiwitbronnen
 
 - [ ] Rundergehakt - Jumbo: 730 g
-- [ ] Kipfilet: 1270 g
+- [ ] Kipfilet: 1230 g
 - [ ] Tostiham (Jumbo): 465 g
 
 ## Koolhydraten
@@ -25,33 +25,33 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief de vaste shakes om 07:3
 - [ ] Biologisch volkoren bulgur (AH): 252 g droog
 - [ ] Witte rijst: 360 g droog
 - [ ] Bloemkoolrijst (Jumbo): 660 g
-- [ ] Volkoren brood: 400 g
+- [ ] Volkoren brood: 450 g
 
 ## Groenten
 
-- [ ] Paprika: 2640 g
-- [ ] Ui: 900 g
-- [ ] Tomaat: 2240 g
+- [ ] Paprika: 2020 g
+- [ ] Ui: 959 g
+- [ ] Tomaat: 2040 g
 - [ ] Knoflook: 58 g
 
 ## Fruit
 
-- [ ] Diepvries bosvruchten (Jumbo): 490 g
-- [ ] Banaan: 4 stuks
-- [ ] Fruit voor shakes (appel/banaan): 14 stuks
+- [ ] Appel: 14 stuks
+- [ ] Banaan: 400 g
+- [ ] Diepvries bosvruchten (Jumbo): 700 g
 
 ## Conserven en saus
 
-- [ ] Zwarte bonen (blik): 200 g uitgelekt
-- [ ] Kikkererwten (blik): 280 g uitgelekt
-- [ ] Tomaten Gezeefd Passata (Jumbo): 1220 g
+- [ ] Zwarte bonen (blik, uitgelekt): 200 g
+- [ ] Kikkererwten (blik, uitgelekt): 280 g
+- [ ] Tomaten Gezeefd Passata (Jumbo): 1400 g
 - [ ] Go-Tan Sweet Chilli Sauce: 60 g
 - [ ] Kikkoman Sojasaus: 64 g
-- [ ] Honing: 48 g
+- [ ] Honing: 24 g
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 88 g
+- [ ] Olijfolie Extra Vierge: 35 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g
 - [ ] Gerookt paprikapoeder: 4 g
