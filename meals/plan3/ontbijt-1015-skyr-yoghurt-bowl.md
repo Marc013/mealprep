@@ -1,4 +1,4 @@
-# Ontbijt 10:15 — Skyr-Yoghurt Bowl
+# Ontbijt 10:15 — Kwark-Yoghurt Bowl
 
 ## Macros
 

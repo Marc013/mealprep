@@ -129,14 +129,14 @@
             "description": "Volumineuze Mexicaanse rundergehaktchili en Arabische kipfilet in passatasaus",
             "totals": {
                 "training": {
-                    "kcal": 2798,
-                    "protein": 223,
+                    "kcal": 2783,
+                    "protein": 220,
                     "fat": 58,
                     "carbs": 311
                 },
                 "rest": {
-                    "kcal": 1878,
-                    "protein": 211,
+                    "kcal": 1856,
+                    "protein": 207,
                     "fat": 62,
                     "carbs": 100
                 }
@@ -963,21 +963,21 @@
         },
         "ontbijt-plan3": {
             "id": "ontbijt-plan3",
-            "title": "Skyr-Yoghurt Bowl",
+            "title": "Kwark-Yoghurt Bowl",
             "time": "10:15",
-            "description": "Hoog-eiwit bowl met skyr, yoghurt en bosvruchten.",
+            "description": "Hoog-eiwit bowl met magere Franse kwark, yoghurt en bosvruchten.",
             "variants": {
                 "training": {
                     "label": "Met banaan & honing",
                     "macros": {
-                        "kcal": 340,
-                        "protein": 24,
+                        "kcal": 325,
+                        "protein": 21,
                         "fat": 4,
                         "carbs": 51
                     },
                     "ingredients": [
                         {
-                            "name": "Skyr naturel (Milbona)",
+                            "name": "Magere Franse Kwark (Milbona)",
                             "amount": "150 g"
                         },
                         {
@@ -998,21 +998,21 @@
                         },
                         {
                             "name": "Honing",
-                            "amount": "8 g"
+                            "amount": "12 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Hoog eiwit, laag KH",
                     "macros": {
-                        "kcal": 228,
-                        "protein": 27,
+                        "kcal": 206,
+                        "protein": 22,
                         "fat": 6,
                         "carbs": 10
                     },
                     "ingredients": [
                         {
-                            "name": "Skyr naturel (Milbona)",
+                            "name": "Magere Franse Kwark (Milbona)",
                             "amount": "220 g"
                         },
                         {
@@ -1031,7 +1031,7 @@
                 }
             },
             "preparation": [
-                "Doe skyr en yoghurt in een kom en roer glad.",
+                "Doe kwark en yoghurt in een kom en roer glad.",
                 "Voeg bosvruchten toe (licht ontdooid).",
                 "Training: voeg banaan in plakjes en honing toe.",
                 "Bestrooi met kaneelpoeder."
@@ -1692,23 +1692,23 @@
                     "items": [
                         {
                             "id": "gehakt3",
-                            "name": "Half om half gehakt",
-                            "amount": "560 g"
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "730 g"
                         },
                         {
                             "id": "kip3",
                             "name": "Kipfilet",
-                            "amount": "910 g"
+                            "amount": "1270 g"
                         },
                         {
                             "id": "tostiham3",
                             "name": "Tostiham (Jumbo)",
-                            "amount": "350 g"
+                            "amount": "465 g"
                         },
                         {
                             "id": "eieren3",
                             "name": "Eieren",
-                            "amount": "17 stuks"
+                            "amount": "14 stuks"
                         }
                     ]
                 },
@@ -1716,14 +1716,14 @@
                     "name": "Zuivel",
                     "items": [
                         {
-                            "id": "skyr3",
-                            "name": "Skyr naturel (Milbona)",
-                            "amount": "1330 g"
+                            "id": "kwark3",
+                            "name": "Magere Franse Kwark (Milbona)",
+                            "amount": "1260 g"
                         },
                         {
                             "id": "yoghurt3",
                             "name": "Halfvolle yoghurt",
-                            "amount": "630 g"
+                            "amount": "720 g"
                         }
                     ]
                 },
@@ -1733,22 +1733,22 @@
                         {
                             "id": "paprika3",
                             "name": "Paprika",
-                            "amount": "2590 g"
+                            "amount": "2640 g"
                         },
                         {
                             "id": "ui3",
                             "name": "Ui",
-                            "amount": "1050 g"
+                            "amount": "900 g"
                         },
                         {
                             "id": "tomaat3",
                             "name": "Tomaat",
-                            "amount": "1890 g"
+                            "amount": "2240 g"
                         },
                         {
                             "id": "knoflook3",
                             "name": "Knoflook",
-                            "amount": "56 g"
+                            "amount": "58 g"
                         }
                     ]
                 },
@@ -1758,22 +1758,22 @@
                         {
                             "id": "bulgur3",
                             "name": "Biologisch volkoren bulgur (AH)",
-                            "amount": "260 g (droog)"
+                            "amount": "252 g (droog)"
                         },
                         {
                             "id": "rijst3",
                             "name": "Witte rijst",
-                            "amount": "300 g (droog)"
+                            "amount": "360 g (droog)"
                         },
                         {
                             "id": "bloemkool3",
                             "name": "Bloemkoolrijst (Jumbo)",
-                            "amount": "600 g"
+                            "amount": "660 g"
                         },
                         {
                             "id": "brood3",
                             "name": "Volkoren brood",
-                            "amount": "320 g"
+                            "amount": "400 g"
                         }
                     ]
                 },
@@ -1783,17 +1783,17 @@
                         {
                             "id": "zwartebonen3",
                             "name": "Zwarte bonen (blik)",
-                            "amount": "840 g uitgelekt"
+                            "amount": "200 g uitgelekt"
                         },
                         {
                             "id": "kikkererwten3",
                             "name": "Kikkererwten (blik)",
-                            "amount": "560 g uitgelekt"
+                            "amount": "280 g uitgelekt"
                         },
                         {
                             "id": "passata3",
                             "name": "Tomaten Gezeefd Passata (Jumbo)",
-                            "amount": "840 g"
+                            "amount": "1220 g"
                         }
                     ]
                 },
@@ -1808,12 +1808,12 @@
                         {
                             "id": "soja3",
                             "name": "Kikkoman Sojasaus",
-                            "amount": "70 g"
+                            "amount": "64 g"
                         },
                         {
                             "id": "olijf3",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "112 g"
+                            "amount": "88 g"
                         },
                         {
                             "id": "komijn3",
@@ -1842,18 +1842,23 @@
                     "items": [
                         {
                             "id": "whey3",
-                            "name": "Whey Protein",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
                             "amount": "700 g"
                         },
                         {
                             "id": "bos3",
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "560 g"
+                            "amount": "490 g"
                         },
                         {
                             "id": "banaan3",
                             "name": "Banaan",
                             "amount": "4 stuks"
+                        },
+                        {
+                            "id": "honing3",
+                            "name": "Honing",
+                            "amount": "48 g"
                         },
                         {
                             "id": "fruit3",

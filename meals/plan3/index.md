@@ -5,7 +5,7 @@
 | Tijdstip | Maaltijd                            |
 | -------- | ----------------------------------- |
 | 07:30    | Whey Shake + Fruit (vast)           |
-| 10:15    | Skyr-Yoghurt Bowl                   |
+| 10:15    | Kwark-Yoghurt Bowl                  |
 | 13:00    | Ei-Ham Koekenpan                    |
 | 15:45    | Mexicaanse Rundergehakt Chili       |
 | 18:30    | Arabische Kipfilet met Kikkererwten |
