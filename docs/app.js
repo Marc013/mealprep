@@ -5,7 +5,7 @@
 
 // ========== Shared Utilities ==========
 const Utils = {
-    storageKey: 'mealprep-state',
+    storageKey: 'app-state',
 
     async loadData(url) {
         const response = await fetch(url);
@@ -158,7 +158,7 @@ const DataDerivations = {
             return 'Groenten';
         }
 
-        if (['appel', 'banaan', 'kiwi', 'mandarijn', 'druiven', 'bosvruchten', 'avocado', 'fruit'].some(term => value.includes(term))) {
+        if (['appel', 'banaan', 'kiwi', 'mandarijn', 'sinaasappel', 'orange', 'druiven', 'bosvruchten', 'avocado', 'fruit'].some(term => value.includes(term))) {
             return 'Fruit';
         }
 

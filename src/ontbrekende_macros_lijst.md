@@ -64,6 +64,20 @@ Laatst bijgewerkt: 2026-03-26
 | Koolhydraten    | 44,2 g    |
 | Zout            | 0,2 g     |
 
+### Sinaasappel
+
+- Bron: https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=853
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 44 kcal   |
+| Eiwitten        | 1,0 g     |
+| Vetten          | 0,2 g     |
+| Koolhydraten    | 9,5 g     |
+| Natrium         | 1 mg      |
+
+Standaard portie gebruikt in plan 4: 150 g per stuk.
+
 ### Volkoren brood
 
 - Bron: NEVO standaardwaarde volkoren brood

@@ -3,37 +3,37 @@
 Gekozen shakes en fruit:
 
 - 07:30 uur: 50 g whey + 1 appel
-- 21:15 uur: 50 g whey + 1 appel
+- 21:15 uur: 50 g whey + 1 sinaasappel (150 g)
 
 Shakeblok totaal:
 
-- Kcal: 535
-- Eiwitten: 79 g
-- Vetten: 6 g
-- Koolhydraten: 38 g
+- Kcal: 534
+- Eiwitten: 80,5 g
+- Vetten: 6,3 g
+- Koolhydraten: 37,3 g
 
 Trainingsdag totaal (streef 2900/190/60/400):
 
 | Eetmoment               |     Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :---------------------- | -------: | -----------: | ---------: | ---------------: |
-| Shakes + fruit          |      535 |           79 |          6 |               38 |
-| Ontbijt                 |      131 |           20 |          1 |               10 |
-| Lunch                   |      196 |           13 |         11 |                9 |
-| Mealprep 1 training     |     1159 |           42 |         28 |              169 |
-| Mealprep 2 training     |      874 |           35 |         11 |              153 |
-| **Totaal trainingsdag** | **2895** |      **189** |     **57** |          **379** |
+| Shakes + fruit          |      534 |         80,5 |        6,3 |             37,3 |
+| Ontbijt                 |      502 |           34 |          6 |               79 |
+| Lunch                   |      430 |           27 |         13 |               45 |
+| Mealprep 1 training     |      700 |           33 |         18 |               95 |
+| Mealprep 2 training     |      730 |           37 |         15 |              108 |
+| **Totaal trainingsdag** | **2896** |    **211,5** |   **58,3** |        **364,3** |
 
-- Afwijking t.o.v. streef: -5 kcal, -1 g eiwit, -3 g vet, -21 g koolhydraten
+- Afwijking t.o.v. streef: -4 kcal, +21,5 g eiwit, -1,7 g vet, -35,7 g koolhydraten
 
 Rustdag totaal (streef 1880/190/80/100):
 
 | Eetmoment          |     Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :----------------- | -------: | -----------: | ---------: | ---------------: |
-| Shakes + fruit     |      535 |           79 |          6 |               38 |
-| Ontbijt            |      131 |           20 |          1 |               10 |
-| Lunch              |      196 |           13 |         11 |                9 |
-| Mealprep 1 rust    |      560 |           43 |         30 |               26 |
-| Mealprep 2 rust    |      427 |           34 |         23 |               17 |
-| **Totaal rustdag** | **1848** |      **190** |     **71** |          **100** |
+| Shakes + fruit     |      534 |         80,5 |        6,3 |             37,3 |
+| Ontbijt            |      249 |           26 |          5 |               20 |
+| Lunch              |      250 |           28 |         11 |                9 |
+| Mealprep 1 rust    |      360 |           32 |         17 |               16 |
+| Mealprep 2 rust    |      395 |           36 |         19 |               15 |
+| **Totaal rustdag** | **1788** |    **202,5** |   **58,3** |         **97,3** |
 
-- Afwijking t.o.v. streef: -32 kcal, 0 g eiwit, -9 g vet, 0 g koolhydraten
+- Afwijking t.o.v. streef: -92 kcal, +12,5 g eiwit, -21,7 g vet, -2,7 g koolhydraten
