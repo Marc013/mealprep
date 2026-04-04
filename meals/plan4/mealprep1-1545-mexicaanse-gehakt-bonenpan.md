@@ -33,7 +33,7 @@
 
 ### Ingredienten
 - 120 g Rundergehakt - Jumbo
-- 140 g Kidneybonen
+- 136 g Zwarte bonen (blik, uitgelekt)
 - 140 g Paprika
 - 100 g Ui
 - 100 g Tomaat

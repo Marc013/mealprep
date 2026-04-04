@@ -44,8 +44,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Conserven en saus
 
-- [ ] Zwarte bonen (blik, uitgelekt): 720 g
-- [ ] Kidneybonen: 420 g
+- [ ] Zwarte bonen (blik, uitgelekt): 856 g
 - [ ] Tomaten Gezeefd Passata - Jumbo: 1460 g
 - [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 50 g
 
