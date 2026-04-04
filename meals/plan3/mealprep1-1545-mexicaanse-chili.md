@@ -30,8 +30,8 @@
 
 | Ingredient                      | Hoeveelheid  | Kcal    | Eiwit      | Vet        | KH         |
 | ------------------------------- | ------------ | ------- | ---------- | ---------- | ---------- |
-| Rundergehakt - Jumbo            | 100 g        | 244     | 16,8 g     | 19,6 g     | 0,0 g      |
 | Biologisch volkoren bulgur (AH) | 63 g (droog) | 246     | 7,6 g      | 0,8 g      | 47,9 g     |
+| Rundergehakt - Jumbo            | 100 g        | 244     | 16,8 g     | 19,6 g     | 0,0 g      |
 | Zwarte bonen (blik, uitgelekt)  | 50 g         | 58      | 3,5 g      | 0,3 g      | 10,0 g     |
 | Paprika                         | 160 g        | 42      | 1,6 g      | 0,0 g      | 7,2 g      |
 | Ui                              | 100 g        | 40      | 1,0 g      | 0,0 g      | 8,0 g      |
