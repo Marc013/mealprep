@@ -20,22 +20,23 @@
 
 ### Trainingsdag
 
-- Kcal: 2866
-- Eiwit: 221.5 g
+- Kcal: 2892
+- Eiwit: 223.5 g
 - Vet: 56.3 g
-- Koolhydraten: 349.3 g
+- Koolhydraten: 353.3 g
 
 ### Rustdag
 
-- Kcal: 1748
-- Eiwit: 208.5 g
+- Kcal: 1744
+- Eiwit: 210.5 g
 - Vet: 52.3 g
-- Koolhydraten: 99.3 g
+- Koolhydraten: 97.3 g
 
 ## Korte evaluatie
 
 - Geen courgette, geen omelet, zout beperkt gehouden.
 - Beide mealpreps zijn eenpansgerechten met sauscomponent en volledig verschillend smaakprofiel (Mexicaans vs Indonesisch).
+- 15:45 bonenpan is aangepast naar meer bonen en minder paprika/tomaat voor meer verzadiging en vezels.
 - 18:30 roerbak heeft hoog volume via taugé (200 g rustdag), knapperige textuur en ketjap-sojasmaak als satis-factor.
 - Rustdag 18:30 heeft geen bulgur — volume via taugé, paprika en kip.
 - Eiwit ligt boven target, maar kcal/vet/koolhydraten blijven onder de bovengrenzen.

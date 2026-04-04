@@ -176,16 +176,16 @@
             "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 2866,
-                    "protein": 221.5,
+                    "kcal": 2892,
+                    "protein": 223.5,
                     "fat": 56.3,
-                    "carbs": 349.3
+                    "carbs": 353.3
                 },
                 "rest": {
-                    "kcal": 1748,
-                    "protein": 208.5,
+                    "kcal": 1744,
+                    "protein": 210.5,
                     "fat": 52.3,
-                    "carbs": 99.3
+                    "carbs": 97.3
                 }
             },
             "schedule": [
@@ -1629,15 +1629,15 @@
             "id": "mealprep1-plan4",
             "title": "Mexicaanse Gehakt-Bonenpan",
             "time": "15:45",
-            "description": "Niet-droge mexicaanse sauspan met passata, bonen en veel groente.",
+            "description": "Niet-droge mexicaanse sauspan met passata, extra bonen en minder paprika/tomaat.",
             "variants": {
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 700,
-                        "protein": 33,
+                        "kcal": 726,
+                        "protein": 35,
                         "fat": 18,
-                        "carbs": 95
+                        "carbs": 99
                     },
                     "ingredients": [
                         {
@@ -1646,15 +1646,15 @@
                         },
                         {
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "75 g (droog)"
+                            "amount": "70 g (droog)"
                         },
                         {
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "90 g"
+                            "amount": "180 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "150 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Ui",
@@ -1662,7 +1662,7 @@
                         },
                         {
                             "name": "Tomaat",
-                            "amount": "150 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Tomaten Gezeefd Passata - Jumbo",
@@ -1687,12 +1687,12 @@
                     ]
                 },
                 "rest": {
-                    "label": "Volumevariant met weinig bulgur",
+                    "label": "Volumevariant zonder bulgur",
                     "macros": {
-                        "kcal": 360,
-                        "protein": 32,
+                        "kcal": 356,
+                        "protein": 34,
                         "fat": 17,
-                        "carbs": 16
+                        "carbs": 14
                     },
                     "ingredients": [
                         {
@@ -1700,16 +1700,12 @@
                             "amount": "120 g"
                         },
                         {
-                            "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "15 g (droog)"
-                        },
-                        {
                             "name": "Kidneybonen",
-                            "amount": "35 g"
+                            "amount": "140 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "220 g"
+                            "amount": "140 g"
                         },
                         {
                             "name": "Ui",
@@ -1717,7 +1713,7 @@
                         },
                         {
                             "name": "Tomaat",
-                            "amount": "180 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Tomaten Gezeefd Passata - Jumbo",
@@ -1747,7 +1743,7 @@
                 "Voeg ui, paprika, tomaat en knoflook toe.",
                 "Roer passata, bonen en kruiden erdoor en laat zacht sudderen.",
                 "Voeg extra water toe als de saus te dik wordt, zodat de mealprep sappig blijft.",
-                "Kook bulgur apart en voeg per dagtype toe."
+                "Trainingsdag: kook bulgur apart en serveer erbij. Rustdag: serveer zonder bulgur."
             ]
         },
         "mealprep2-plan4": {
@@ -2428,7 +2424,7 @@
                         {
                             "id": "paprika4",
                             "name": "Paprika",
-                            "amount": "2580 g"
+                            "amount": "2100 g"
                         },
                         {
                             "id": "ui4",
@@ -2438,7 +2434,7 @@
                         {
                             "id": "tomaat4",
                             "name": "Tomaat",
-                            "amount": "1990 g"
+                            "amount": "1470 g"
                         },
                         {
                             "id": "tauge4",
@@ -2458,7 +2454,7 @@
                         {
                             "id": "bulgur4",
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "685 g (droog)"
+                            "amount": "620 g (droog)"
                         },
                         {
                             "id": "brood4",
@@ -2478,12 +2474,12 @@
                         {
                             "id": "zwartebonen4",
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "360 g"
+                            "amount": "720 g"
                         },
                         {
                             "id": "kidney4",
                             "name": "Kidneybonen",
-                            "amount": "105 g"
+                            "amount": "420 g"
                         },
                         {
                             "id": "passata4",
