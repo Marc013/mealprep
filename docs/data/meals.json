@@ -1701,11 +1701,15 @@
                         },
                         {
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "136 g"
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Kidneybonen",
+                            "amount": "60 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "140 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Ui",
@@ -1713,7 +1717,7 @@
                         },
                         {
                             "name": "Tomaat",
-                            "amount": "100 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Tomaten Gezeefd Passata - Jumbo",
@@ -2424,7 +2428,7 @@
                         {
                             "id": "paprika4",
                             "name": "Paprika",
-                            "amount": "2100 g"
+                            "amount": "1950 g"
                         },
                         {
                             "id": "ui4",
@@ -2434,7 +2438,7 @@
                         {
                             "id": "tomaat4",
                             "name": "Tomaat",
-                            "amount": "1470 g"
+                            "amount": "1380 g"
                         },
                         {
                             "id": "tauge4",
@@ -2474,12 +2478,12 @@
                         {
                             "id": "zwartebonen4",
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "720 g"
+                            "amount": "1020 g"
                         },
                         {
                             "id": "kidney4",
                             "name": "Kidneybonen",
-                            "amount": "420 g"
+                            "amount": "180 g"
                         },
                         {
                             "id": "passata4",

@@ -39,4 +39,4 @@
 - 15:45 bonenpan is aangepast naar meer bonen en minder paprika/tomaat voor meer verzadiging en vezels.
 - 18:30 roerbak heeft hoog volume via taugé (200 g rustdag), knapperige textuur en ketjap-sojasmaak als satis-factor.
 - Rustdag 18:30 heeft geen bulgur — volume via taugé, paprika en kip.
-- Eiwit ligt boven target, maar kcal/vet/koolhydraten blijven onder de bovengrenzen.
+- Validatie dagmacro's: kcal, vet en koolhydraten blijven onder de bovengrenzen; eiwit ligt boven het ingestelde target.

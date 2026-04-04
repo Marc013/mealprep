@@ -33,10 +33,11 @@
 
 ### Ingredienten
 - 120 g Rundergehakt - Jumbo
-- 136 g Zwarte bonen (blik, uitgelekt)
-- 140 g Paprika
+- 100 g Zwarte bonen (blik, uitgelekt)
+- 60 g Kidneybonen
+- 90 g Paprika
 - 100 g Ui
-- 100 g Tomaat
+- 70 g Tomaat
 - 220 g Tomaten Gezeefd Passata - Jumbo
 - 5 g Knoflook
 - 6 g Olijfolie Extra Vierge
