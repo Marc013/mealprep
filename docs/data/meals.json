@@ -172,20 +172,20 @@
         },
         "plan4": {
             "id": "plan4",
-            "name": "Mexicaanse Bonenpan & Arabische Kippenstoof",
-            "description": "Sappige Mexicaanse gehakt-bonenpan en Arabische kip-kikkererwtenstoof met bulgurfocus",
+            "name": "Mexicaanse Bonenpan & Indonesische Kip-Taugé Roerbak",
+            "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 2896,
-                    "protein": 211.5,
-                    "fat": 58.3,
-                    "carbs": 364.3
+                    "kcal": 2866,
+                    "protein": 221.5,
+                    "fat": 56.3,
+                    "carbs": 349.3
                 },
                 "rest": {
-                    "kcal": 1788,
-                    "protein": 202.5,
-                    "fat": 58.3,
-                    "carbs": 97.3
+                    "kcal": 1748,
+                    "protein": 208.5,
+                    "fat": 52.3,
+                    "carbs": 99.3
                 }
             },
             "schedule": [
@@ -1752,17 +1752,17 @@
         },
         "mealprep2-plan4": {
             "id": "mealprep2-plan4",
-            "title": "Arabische Kip-Kikkererwtenstoof",
+            "title": "Indonesische Kip-Taugé Ketjaproerbak",
             "time": "18:30",
-            "description": "Kruidige stoof met veel passata zodat de maaltijd na opwarmen niet droog is.",
+            "description": "Pittige roerbak met knapperige taugé, sappige kipfilet en zoete ketjap-sojasaus. Volledig ander smaakprofiel dan mealprep 1.",
             "variants": {
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 730,
-                        "protein": 37,
-                        "fat": 15,
-                        "carbs": 108
+                        "kcal": 700,
+                        "protein": 47,
+                        "fat": 13,
+                        "carbs": 93
                     },
                     "ingredients": [
                         {
@@ -1774,20 +1774,16 @@
                             "amount": "85 g (droog)"
                         },
                         {
-                            "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "70 g"
+                            "name": "Taugé",
+                            "amount": "150 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "120 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Ui",
-                            "amount": "70 g"
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "220 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Knoflook",
@@ -1795,11 +1791,15 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "6 g"
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Ketjap manis",
+                            "amount": "15 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "6 g"
+                            "amount": "8 g"
                         },
                         {
                             "name": "Komijnpoeder",
@@ -1812,37 +1812,29 @@
                     ]
                 },
                 "rest": {
-                    "label": "Volume stoof met weinig bulgur",
+                    "label": "Volumeroerbak zonder bulgur",
                     "macros": {
-                        "kcal": 395,
-                        "protein": 36,
-                        "fat": 19,
-                        "carbs": 15
+                        "kcal": 355,
+                        "protein": 42,
+                        "fat": 13,
+                        "carbs": 17
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet",
-                            "amount": "170 g"
+                            "amount": "150 g"
                         },
                         {
-                            "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "10 g (droog)"
-                        },
-                        {
-                            "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "30 g"
+                            "name": "Taugé",
+                            "amount": "200 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "180 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Ui",
-                            "amount": "90 g"
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "240 g"
+                            "amount": "50 g"
                         },
                         {
                             "name": "Knoflook",
@@ -1854,7 +1846,7 @@
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "4 g"
+                            "amount": "6 g"
                         },
                         {
                             "name": "Komijnpoeder",
@@ -1868,11 +1860,11 @@
                 }
             },
             "preparation": [
-                "Bak kipfilet kort aan in olijfolie.",
-                "Voeg ui, paprika en knoflook toe en bak mee.",
-                "Roer passata, kikkererwten en kruiden erdoor.",
-                "Voeg per portie een scheut water toe tijdens opwarmen voor extra sappigheid.",
-                "Kook bulgur apart en houd op rustdagen beperkt."
+                "Snijd kip in reepjes en bak goudbruin in olijfolie op hoog vuur.",
+                "Voeg ui, paprika en knoflook toe en roerbak 3 minuten mee.",
+                "Voeg taugé toe en roerbak nog 2 minuten — taugé moet knapperig blijven.",
+                "Blus af met ketjap manis en sojasaus, roer goed door.",
+                "Trainingsdag: serveer op gekookte bulgur. Rustdag: direct serveren zonder bulgur."
             ]
         }
     },
@@ -2383,7 +2375,7 @@
             ]
         },
         "plan4": {
-            "name": "Mexicaanse Bonenpan & Arabische Kippenstoof",
+            "name": "Mexicaanse Bonenpan & Indonesische Kip-Taugé Roerbak",
             "categories": [
                 {
                     "name": "Vlees & Eiwit",
@@ -2396,7 +2388,7 @@
                         {
                             "id": "kip4",
                             "name": "Kipfilet",
-                            "amount": "1030 g"
+                            "amount": "970 g"
                         },
                         {
                             "id": "ham4",
@@ -2436,17 +2428,22 @@
                         {
                             "id": "paprika4",
                             "name": "Paprika",
-                            "amount": "3040 g"
+                            "amount": "2580 g"
                         },
                         {
                             "id": "ui4",
                             "name": "Ui",
-                            "amount": "1170 g"
+                            "amount": "1090 g"
                         },
                         {
                             "id": "tomaat4",
                             "name": "Tomaat",
                             "amount": "1990 g"
+                        },
+                        {
+                            "id": "tauge4",
+                            "name": "Taugé",
+                            "amount": "1200 g"
                         },
                         {
                             "id": "knoflook4",
@@ -2461,7 +2458,7 @@
                         {
                             "id": "bulgur4",
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "715 g (droog)"
+                            "amount": "685 g (droog)"
                         },
                         {
                             "id": "brood4",
@@ -2489,14 +2486,9 @@
                             "amount": "105 g"
                         },
                         {
-                            "id": "kikkererwten4",
-                            "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "370 g"
-                        },
-                        {
                             "id": "passata4",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "3060 g"
+                            "amount": "1460 g"
                         }
                     ]
                 },
@@ -2506,12 +2498,17 @@
                         {
                             "id": "soja4",
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "36 g"
+                            "amount": "50 g"
+                        },
+                        {
+                            "id": "ketjap4",
+                            "name": "Ketjap manis",
+                            "amount": "60 g"
                         },
                         {
                             "id": "olijf4",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "107 g"
+                            "amount": "115 g"
                         },
                         {
                             "id": "komijn4",

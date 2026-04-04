@@ -1,4 +1,4 @@
-# Plan 4 — Mexicaanse Bonenpan & Arabische Kippenstoof
+# Plan 4 — Mexicaanse Bonenpan & Indonesische Kip-Taugé Roerbak
 
 ## Overzicht
 
@@ -8,7 +8,7 @@
 | 10:15    | Zuivelbowl (Power Oats / Volume)        |
 | 13:00    | Ei-Ham Skillet (snel, geen omelet)      |
 | 15:45    | Mexicaanse Gehakt-Bonenpan              |
-| 18:30    | Arabische Kip-Kikkererwtenstoof         |
+| 18:30    | Indonesische Kip-Taugé Ketjaproerbak    |
 | 21:15    | Whey Shake + Sinaasappel (vast)         |
 
 ## Trainings- en rustdagen
@@ -20,21 +20,22 @@
 
 ### Trainingsdag
 
-- Kcal: 2896
-- Eiwit: 211.5 g
-- Vet: 58.3 g
-- Koolhydraten: 364.3 g
+- Kcal: 2866
+- Eiwit: 221.5 g
+- Vet: 56.3 g
+- Koolhydraten: 349.3 g
 
 ### Rustdag
 
-- Kcal: 1788
-- Eiwit: 202.5 g
-- Vet: 58.3 g
-- Koolhydraten: 97.3 g
+- Kcal: 1748
+- Eiwit: 208.5 g
+- Vet: 52.3 g
+- Koolhydraten: 99.3 g
 
 ## Korte evaluatie
 
 - Geen courgette, geen omelet, zout beperkt gehouden.
-- Beide mealpreps zijn eenpansgerechten met natte sausbasis en duidelijk verschillend in smaakprofiel.
-- 15:45 en 18:30 gebruiken per tijdstip grotendeels dezelfde basis op training en rust, met gecontroleerde koolhydraatwissel.
+- Beide mealpreps zijn eenpansgerechten met sauscomponent en volledig verschillend smaakprofiel (Mexicaans vs Indonesisch).
+- 18:30 roerbak heeft hoog volume via taugé (200 g rustdag), knapperige textuur en ketjap-sojasmaak als satis-factor.
+- Rustdag 18:30 heeft geen bulgur — volume via taugé, paprika en kip.
 - Eiwit ligt boven target, maar kcal/vet/koolhydraten blijven onder de bovengrenzen.

@@ -2,7 +2,7 @@
 title: "🛒 Weekboodschappen Plan 4"
 ---
 
-Deze lijst hoort bij plan 4: Mexicaanse Bonenpan & Arabische Kippenstoof.
+Deze lijst hoort bij plan 4: Mexicaanse Bonenpan & Indonesische Kip-Taugé Roerbak.
 {: .text-muted}
 
 Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 en 21:15.
@@ -18,20 +18,21 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 ## Vlees en eiwitbronnen
 
 - [ ] Rundergehakt - Jumbo: 720 g
-- [ ] Kipfilet: 1030 g
+- [ ] Kipfilet: 970 g
 - [ ] Tostiham - Jumbo: 465 g
 
 ## Koolhydraten
 
-- [ ] Biologisch Volkoren bulgur - AH: 715 g droog
+- [ ] Biologisch Volkoren bulgur - AH: 685 g droog
 - [ ] Volkoren brood: 320 g
 - [ ] Havervlokken: 167 g
 
 ## Groenten
 
-- [ ] Paprika: 3040 g
-- [ ] Ui: 1170 g
+- [ ] Paprika: 2580 g
+- [ ] Ui: 1090 g
 - [ ] Tomaat: 1990 g
+- [ ] Taugé: 1200 g
 - [ ] Knoflook: 70 g
 
 ## Fruit
@@ -45,13 +46,13 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 - [ ] Zwarte bonen (blik, uitgelekt): 360 g
 - [ ] Kidneybonen: 105 g
-- [ ] Kikkererwten (blik, uitgelekt): 370 g
-- [ ] Tomaten Gezeefd Passata - Jumbo: 3060 g
-- [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 36 g
+- [ ] Tomaten Gezeefd Passata - Jumbo: 1460 g
+- [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 50 g
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 107 g
+- [ ] Olijfolie Extra Vierge: 115 g
+- [ ] Ketjap manis: 60 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g
 - [ ] Gerookt paprikapoeder: 7 g
