@@ -1,0 +1,650 @@
+{
+    "version": "1.0",
+    "last_updated": "2026-04-04",
+    "total_ingredients": 40,
+    "ingredients": [
+        {
+            "id": "whey-protein-xxl",
+            "name": "Perfect Whey Protein - XXL Nutrition",
+            "category": "protein",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 400,
+                "protein": 80,
+                "fat": 3,
+                "carbs": 6
+            },
+            "sourcing": {
+                "store": "XXL Nutrition",
+                "availability": true
+            }
+        },
+        {
+            "id": "water",
+            "name": "Water",
+            "category": "hydration",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 0,
+                "protein": 0,
+                "fat": 0,
+                "carbs": 0
+            },
+            "sourcing": {
+                "store": "n.v.t.",
+                "availability": true
+            }
+        },
+        {
+            "id": "skyr",
+            "name": "Skyr",
+            "category": "dairy",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 63,
+                "protein": 11,
+                "fat": 0.3,
+                "carbs": 3.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "yoghurt-halfvolle",
+            "name": "Halfvolle yoghurt",
+            "category": "dairy",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 56,
+                "protein": 4,
+                "fat": 2,
+                "carbs": 5.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "kwark-mager-jumbo",
+            "name": "Franse Kwark Mager - Jumbo",
+            "category": "dairy",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 59,
+                "protein": 9,
+                "fat": 0.5,
+                "carbs": 4.4
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "kwark-mager-milbona",
+            "name": "Magere Franse Kwark (Milbona) - Lidl",
+            "category": "dairy",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 52,
+                "protein": 8.9,
+                "fat": 0,
+                "carbs": 4
+            },
+            "sourcing": {
+                "store": "Lidl",
+                "availability": true
+            }
+        },
+        {
+            "id": "vloeibaar-eiwit",
+            "name": "Coco Vite Vloeibaar Eiwit",
+            "category": "protein",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 94,
+                "protein": 20,
+                "fat": 0,
+                "carbs": 2
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "eieren",
+            "name": "Eieren",
+            "category": "protein",
+            "unit": "stuks",
+            "macros_per_100g": {
+                "kcal": 155,
+                "protein": 13,
+                "fat": 11,
+                "carbs": 1
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "gehakt-runder-jumbo",
+            "name": "Rundergehakt - Jumbo",
+            "category": "meat",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 245,
+                "protein": 24,
+                "fat": 16,
+                "carbs": 0
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "kipfilet",
+            "name": "Kipfilet",
+            "category": "meat",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 165,
+                "protein": 31,
+                "fat": 3.6,
+                "carbs": 0
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "tostiham-jumbo",
+            "name": "Tostiham - Jumbo",
+            "category": "meat",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 127,
+                "protein": 17.8,
+                "fat": 5,
+                "carbs": 2.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "bosvruchten-diepvries-jumbo",
+            "name": "Diepvries bosvruchten (Jumbo)",
+            "category": "fruit",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 42,
+                "protein": 0.9,
+                "fat": 0.3,
+                "carbs": 8
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "banaan",
+            "name": "Banaan",
+            "category": "fruit",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 86,
+                "protein": 1.2,
+                "fat": 0.2,
+                "carbs": 18.8
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "appel",
+            "name": "Appel",
+            "category": "fruit",
+            "unit": "stuks",
+            "macros_per_100g": {
+                "kcal": 54,
+                "protein": 0.4,
+                "fat": 0,
+                "carbs": 12
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "sinaasappel",
+            "name": "Sinaasappel",
+            "category": "fruit",
+            "unit": "stuks",
+            "macros_per_100g": {
+                "kcal": 44,
+                "protein": 1,
+                "fat": 0.2,
+                "carbs": 9.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "paprika",
+            "name": "Paprika",
+            "category": "vegetable",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 26,
+                "protein": 1,
+                "fat": 0,
+                "carbs": 4.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "tomaat",
+            "name": "Tomaat",
+            "category": "vegetable",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 19,
+                "protein": 1,
+                "fat": 0.2,
+                "carbs": 2.9
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "ui",
+            "name": "Ui",
+            "category": "vegetable",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 40,
+                "protein": 1.1,
+                "fat": 0.1,
+                "carbs": 9
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "knoflook",
+            "name": "Knoflook",
+            "category": "seasoning",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 140,
+                "protein": 6,
+                "fat": 0.1,
+                "carbs": 28
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "tauge",
+            "name": "Taugé",
+            "category": "vegetable",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 20,
+                "protein": 2.2,
+                "fat": 0.1,
+                "carbs": 3.1
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "bloemkoolrijst-jumbo",
+            "name": "Bloemkoolrijst (Jumbo)",
+            "category": "carbs",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 26,
+                "protein": 1.9,
+                "fat": 0.2,
+                "carbs": 3
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "bulgur-ah",
+            "name": "Biologisch Volkoren bulgur - AH",
+            "category": "carbs",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 390,
+                "protein": 12,
+                "fat": 1.3,
+                "carbs": 76
+            },
+            "sourcing": {
+                "store": "Albert Heijn",
+                "availability": true
+            }
+        },
+        {
+            "id": "volkoren-brood",
+            "name": "Volkoren brood",
+            "category": "carbs",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 210,
+                "protein": 9,
+                "fat": 2,
+                "carbs": 39
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "havervlokken",
+            "name": "Havervlokken",
+            "category": "carbs",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 389,
+                "protein": 17,
+                "fat": 7,
+                "carbs": 66
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "macaroni-jumbo",
+            "name": "Pasta Macaroni Vlugkokend - Jumbo",
+            "category": "carbs",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 346,
+                "protein": 11.4,
+                "fat": 1.5,
+                "carbs": 70
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "passata-jumbo",
+            "name": "Tomaten Gezeefd Passata - Jumbo",
+            "category": "sauce",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 18,
+                "protein": 0.9,
+                "fat": 0.1,
+                "carbs": 3.3
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "sojasaus-kikkoman",
+            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+            "category": "sauce",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 77,
+                "protein": 10,
+                "fat": 0,
+                "carbs": 3.2
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "ketjap-manis",
+            "name": "Ketjap manis",
+            "category": "sauce",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 270,
+                "protein": 2,
+                "fat": 0,
+                "carbs": 65
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "sweet-chilli-gotan",
+            "name": "Go-Tan Sweet Chilli Sauce",
+            "category": "sauce",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 130,
+                "protein": 0.5,
+                "fat": 0.1,
+                "carbs": 30
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "olijfolie-jumbo",
+            "name": "Olijfolie Extra Vierge",
+            "category": "oil",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 823,
+                "protein": 0,
+                "fat": 91.4,
+                "carbs": 0
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "zwarte-bonen-blik",
+            "name": "Zwarte bonen (blik, uitgelekt)",
+            "category": "legume",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 116,
+                "protein": 7,
+                "fat": 0.5,
+                "carbs": 20
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "kidneybonen",
+            "name": "Kidneybonen",
+            "category": "legume",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 113,
+                "protein": 8,
+                "fat": 0.5,
+                "carbs": 19
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "kaneelpoeder",
+            "name": "Kaneelpoeder",
+            "category": "spice",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 314,
+                "protein": 3.8,
+                "fat": 3.2,
+                "carbs": 55
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "chilivlokken",
+            "name": "Chilivlokken",
+            "category": "spice",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 380,
+                "protein": 12,
+                "fat": 17.5,
+                "carbs": 32
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "komijnpoeder",
+            "name": "Komijnpoeder",
+            "category": "spice",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 375,
+                "protein": 18,
+                "fat": 22.3,
+                "carbs": 44.2
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "paprika-gerookt",
+            "name": "Gerookt paprikapoeder",
+            "category": "spice",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 26,
+                "protein": 1,
+                "fat": 0,
+                "carbs": 4.5
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "honing",
+            "name": "Honing",
+            "category": "sweetener",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 304,
+                "protein": 0.3,
+                "fat": 0,
+                "carbs": 82
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "pindakaas-100percent",
+            "name": "100% Pindakaas",
+            "category": "spreads",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 588,
+                "protein": 25,
+                "fat": 50,
+                "carbs": 20
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "rozijnen",
+            "name": "Rozijnen",
+            "category": "fruit",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 300,
+                "protein": 3,
+                "fat": 0.3,
+                "carbs": 79
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        },
+        {
+            "id": "mozzarella",
+            "name": "Mozzarella",
+            "category": "dairy",
+            "unit": "g",
+            "macros_per_100g": {
+                "kcal": 246,
+                "protein": 20,
+                "fat": 16.5,
+                "carbs": 4.6
+            },
+            "sourcing": {
+                "store": "Jumbo",
+                "availability": true
+            }
+        }
+    ],
+    "metadata": {
+        "note": "All macros are per 100g unless otherwise specified. Sourcing info indicates primary retail store."
+    }
+}

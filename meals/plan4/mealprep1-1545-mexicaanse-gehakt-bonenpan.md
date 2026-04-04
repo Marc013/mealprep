@@ -12,7 +12,6 @@
 
 ### Ingredienten
 - 90 g Rundergehakt - Jumbo
-- 70 g Biologisch Volkoren bulgur - AH (droog)
 - 180 g Zwarte bonen (blik, uitgelekt)
 - 90 g Paprika
 - 80 g Ui
@@ -22,6 +21,7 @@
 - 5 g Olijfolie Extra Vierge
 - 2 g Komijnpoeder
 - 1 g Chilivlokken
+- 70 g Biologisch Volkoren bulgur - AH (droog)
 
 ## Rustdag (volume, zonder bulgur)
 

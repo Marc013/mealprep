@@ -176,16 +176,16 @@
             "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 2892,
-                    "protein": 223.5,
-                    "fat": 56.3,
-                    "carbs": 353.3
+                    "kcal": 2898.6,
+                    "protein": 227.7,
+                    "fat": 58.9,
+                    "carbs": 340.0
                 },
                 "rest": {
-                    "kcal": 1744,
-                    "protein": 210.5,
-                    "fat": 52.3,
-                    "carbs": 97.3
+                    "kcal": 1835.7,
+                    "protein": 209.1,
+                    "fat": 60.4,
+                    "carbs": 100.0
                 }
             },
             "schedule": [
@@ -285,26 +285,62 @@
             "id": "shake-avond-plan4",
             "title": "Whey Shake + Sinaasappel",
             "time": "21:15",
-            "macros": {
-                "kcal": 266,
-                "protein": 40.5,
-                "fat": 3.3,
-                "carbs": 18.3
-            },
-            "ingredients": [
-                {
-                    "name": "Perfect Whey Protein - XXL Nutrition",
-                    "amount": "50 g"
+            "variants": {
+                "training": {
+                    "label": "Standaard",
+                    "macros": {
+                        "kcal": 266.0,
+                        "protein": 41.5,
+                        "fat": 1.8,
+                        "carbs": 17.2,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
+                    },
+                    "ingredients": [
+                        {
+                            "ingredient_id": "whey-protein-xxl",
+                            "amount_g": 50
+                        },
+                        {
+                            "ingredient_id": "water",
+                            "amount_g": 300,
+                            "note": "300 ml"
+                        },
+                        {
+                            "ingredient_id": "sinaasappel",
+                            "amount_g": 150,
+                            "note": "1 stuk"
+                        }
+                    ]
                 },
-                {
-                    "name": "Water",
-                    "amount": "300 ml"
-                },
-                {
-                    "name": "Sinaasappel",
-                    "amount": "1 stuk (150 g)"
+                "rest": {
+                    "label": "Standaard",
+                    "macros": {
+                        "kcal": 266.0,
+                        "protein": 41.5,
+                        "fat": 1.8,
+                        "carbs": 17.2,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
+                    },
+                    "ingredients": [
+                        {
+                            "ingredient_id": "whey-protein-xxl",
+                            "amount_g": 50
+                        },
+                        {
+                            "ingredient_id": "water",
+                            "amount_g": 300,
+                            "note": "300 ml"
+                        },
+                        {
+                            "ingredient_id": "sinaasappel",
+                            "amount_g": 150,
+                            "note": "1 stuk"
+                        }
+                    ]
                 }
-            ],
+            },
             "preparation": [
                 "Doe 50 g wheypoeder in een shaker of groot glas.",
                 "Voeg 300 ml koud water toe.",
@@ -1453,78 +1489,82 @@
                 "training": {
                     "label": "Power Oats Bowl",
                     "macros": {
-                        "kcal": 502,
-                        "protein": 34,
-                        "fat": 6,
-                        "carbs": 79
+                        "kcal": 475.7,
+                        "protein": 26.7,
+                        "fat": 7.3,
+                        "carbs": 74.9,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Skyr",
-                            "amount": "95 g"
+                            "ingredient_id": "skyr",
+                            "amount_g": 95
                         },
                         {
-                            "name": "Halfvolle yoghurt",
-                            "amount": "200 g"
+                            "ingredient_id": "yoghurt-halfvolle",
+                            "amount_g": 200
                         },
                         {
-                            "name": "Bosvruchten",
-                            "amount": "100 g"
+                            "ingredient_id": "bosvruchten-diepvries-jumbo",
+                            "amount_g": 100
                         },
                         {
-                            "name": "Havervlokken",
-                            "amount": "38 g"
+                            "ingredient_id": "havervlokken",
+                            "amount_g": 35
                         },
                         {
-                            "name": "Banaan",
-                            "amount": "90 g"
+                            "ingredient_id": "banaan",
+                            "amount_g": 90
                         },
                         {
-                            "name": "Rozijnen",
-                            "amount": "10 g"
+                            "ingredient_id": "rozijnen",
+                            "amount_g": 10
                         },
                         {
-                            "name": "Honing",
-                            "amount": "5 g"
+                            "ingredient_id": "honing",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Kaneelpoeder",
-                            "amount": "1 g"
+                            "ingredient_id": "kaneelpoeder",
+                            "amount_g": 1
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volume Zuivelbowl",
                     "macros": {
-                        "kcal": 249,
-                        "protein": 26,
-                        "fat": 5,
-                        "carbs": 20
+                        "kcal": 228.7,
+                        "protein": 26.2,
+                        "fat": 5.3,
+                        "carbs": 18.0,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Skyr",
-                            "amount": "185 g"
+                            "ingredient_id": "skyr",
+                            "amount_g": 185
                         },
                         {
-                            "name": "Halfvolle yoghurt",
-                            "amount": "100 g"
+                            "ingredient_id": "yoghurt-halfvolle",
+                            "amount_g": 100
                         },
                         {
-                            "name": "Bosvruchten",
-                            "amount": "100 g"
+                            "ingredient_id": "bosvruchten-diepvries-jumbo",
+                            "amount_g": 60
                         },
                         {
-                            "name": "Havervlokken",
-                            "amount": "5 g"
+                            "ingredient_id": "havervlokken",
+                            "amount_g": 0
                         },
                         {
-                            "name": "100% Pindakaas",
-                            "amount": "5 g"
+                            "ingredient_id": "pindakaas-100percent",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Kaneelpoeder",
-                            "amount": "1 g"
+                            "ingredient_id": "kaneelpoeder",
+                            "amount_g": 0.5
                         }
                     ]
                 }
@@ -1545,74 +1585,80 @@
                 "training": {
                     "label": "Ei-Ham Skillet met brood",
                     "macros": {
-                        "kcal": 430,
-                        "protein": 27,
-                        "fat": 13,
-                        "carbs": 45
+                        "kcal": 565.2,
+                        "protein": 56.9,
+                        "fat": 16.7,
+                        "carbs": 43.5,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Eieren",
-                            "amount": "2 stuks"
+                            "ingredient_id": "eieren",
+                            "amount_g": 100,
+                            "note": "2 stuks"
                         },
                         {
-                            "name": "Vloeibaar eiwit",
-                            "amount": "120 g"
+                            "ingredient_id": "vloeibaar-eiwit",
+                            "amount_g": 120
                         },
                         {
-                            "name": "Tostiham - Jumbo",
-                            "amount": "60 g"
+                            "ingredient_id": "tostiham-jumbo",
+                            "amount_g": 60
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "100 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 100
                         },
                         {
-                            "name": "Tomaat",
-                            "amount": "100 g"
+                            "ingredient_id": "tomaat",
+                            "amount_g": 100
                         },
                         {
-                            "name": "Volkoren brood",
-                            "amount": "80 g"
+                            "ingredient_id": "volkoren-brood",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "3 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 1
                         }
                     ]
                 },
                 "rest": {
                     "label": "Ei-Ham Groentepan",
                     "macros": {
-                        "kcal": 250,
-                        "protein": 28,
-                        "fat": 11,
-                        "carbs": 9
+                        "kcal": 396.1,
+                        "protein": 49.0,
+                        "fat": 14.9,
+                        "carbs": 13.1,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Eieren",
-                            "amount": "2 stuks"
+                            "ingredient_id": "eieren",
+                            "amount_g": 100,
+                            "note": "2 stuks"
                         },
                         {
-                            "name": "Vloeibaar eiwit",
-                            "amount": "180 g"
+                            "ingredient_id": "vloeibaar-eiwit",
+                            "amount_g": 120
                         },
                         {
-                            "name": "Tostiham - Jumbo",
-                            "amount": "75 g"
+                            "ingredient_id": "tostiham-jumbo",
+                            "amount_g": 55
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "120 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 120
                         },
                         {
-                            "name": "Tomaat",
-                            "amount": "150 g"
+                            "ingredient_id": "tomaat",
+                            "amount_g": 100
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "3 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 1
                         }
                     ]
                 }
@@ -1634,110 +1680,115 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 726,
-                        "protein": 35,
-                        "fat": 18,
-                        "carbs": 99
+                        "kcal": 843.8,
+                        "protein": 45.4,
+                        "fat": 20.2,
+                        "carbs": 112.0,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Rundergehakt - Jumbo",
-                            "amount": "90 g"
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "70 g (droog)"
+                            "ingredient_id": "bulgur-ah",
+                            "amount_g": 70,
+                            "note": "droog"
                         },
                         {
-                            "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "180 g"
+                            "ingredient_id": "zwarte-bonen-blik",
+                            "amount_g": 180
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "90 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 90
                         },
                         {
-                            "name": "Ui",
-                            "amount": "80 g"
+                            "ingredient_id": "ui",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Tomaat",
-                            "amount": "80 g"
+                            "ingredient_id": "tomaat",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "200 g"
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 200
                         },
                         {
-                            "name": "Knoflook",
-                            "amount": "5 g"
+                            "ingredient_id": "knoflook",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Chilivlokken",
-                            "amount": "1 g"
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1
                         },
                         {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant zonder bulgur",
                     "macros": {
-                        "kcal": 356,
-                        "protein": 34,
-                        "fat": 17,
-                        "carbs": 14
+                        "kcal": 539.6,
+                        "protein": 38.9,
+                        "fat": 26.0,
+                        "carbs": 34.8,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Rundergehakt - Jumbo",
-                            "amount": "120 g"
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 120
                         },
                         {
-                            "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "100 g"
+                            "ingredient_id": "zwarte-bonen-blik",
+                            "amount_g": 50
                         },
                         {
-                            "name": "Kidneybonen",
-                            "amount": "60 g"
+                            "ingredient_id": "kidneybonen",
+                            "amount_g": 30
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "90 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 90
                         },
                         {
-                            "name": "Ui",
-                            "amount": "100 g"
+                            "ingredient_id": "ui",
+                            "amount_g": 70
                         },
                         {
-                            "name": "Tomaat",
-                            "amount": "70 g"
+                            "ingredient_id": "tomaat",
+                            "amount_g": 40
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "220 g"
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 150
                         },
                         {
-                            "name": "Knoflook",
-                            "amount": "5 g"
+                            "ingredient_id": "knoflook",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "6 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 6
                         },
                         {
-                            "name": "Chilivlokken",
-                            "amount": "1 g"
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1
                         },
                         {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2
                         }
                     ]
                 }
@@ -1759,102 +1810,107 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 700,
-                        "protein": 47,
-                        "fat": 13,
-                        "carbs": 93
+                        "kcal": 747.8,
+                        "protein": 57.2,
+                        "fat": 12.9,
+                        "carbs": 92.4,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Kipfilet",
-                            "amount": "130 g"
+                            "ingredient_id": "kipfilet",
+                            "amount_g": 130
                         },
                         {
-                            "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "85 g (droog)"
+                            "ingredient_id": "bulgur-ah",
+                            "amount_g": 85,
+                            "note": "droog"
                         },
                         {
-                            "name": "Taugé",
-                            "amount": "150 g"
+                            "ingredient_id": "tauge",
+                            "amount_g": 150
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "80 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Ui",
-                            "amount": "80 g"
+                            "ingredient_id": "ui",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Knoflook",
-                            "amount": "5 g"
+                            "ingredient_id": "knoflook",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "8 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 7
                         },
                         {
-                            "name": "Ketjap manis",
-                            "amount": "15 g"
+                            "ingredient_id": "ketjap-manis",
+                            "amount_g": 15
                         },
                         {
-                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "8 g"
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 8
                         },
                         {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2
                         },
                         {
-                            "name": "Gerookt paprikapoeder",
-                            "amount": "1 g"
+                            "ingredient_id": "paprika-gerookt",
+                            "amount_g": 1
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumeroerbak zonder bulgur",
                     "macros": {
-                        "kcal": 355,
-                        "protein": 42,
-                        "fat": 13,
-                        "carbs": 17
+                        "kcal": 405.3,
+                        "protein": 53.5,
+                        "fat": 12.5,
+                        "carbs": 16.8,
+                        "computed": false,
+                        "verified_date": "2026-04-04"
                     },
                     "ingredients": [
                         {
-                            "name": "Kipfilet",
-                            "amount": "150 g"
+                            "ingredient_id": "kipfilet",
+                            "amount_g": 150
                         },
                         {
-                            "name": "Taugé",
-                            "amount": "200 g"
+                            "ingredient_id": "tauge",
+                            "amount_g": 200
                         },
                         {
-                            "name": "Paprika",
-                            "amount": "80 g"
+                            "ingredient_id": "paprika",
+                            "amount_g": 80
                         },
                         {
-                            "name": "Ui",
-                            "amount": "50 g"
+                            "ingredient_id": "ui",
+                            "amount_g": 50
                         },
                         {
-                            "name": "Knoflook",
-                            "amount": "5 g"
+                            "ingredient_id": "knoflook",
+                            "amount_g": 5
                         },
                         {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "8 g"
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 7
                         },
                         {
-                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "6 g"
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 6
                         },
                         {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2
                         },
                         {
-                            "name": "Gerookt paprikapoeder",
-                            "amount": "1 g"
+                            "ingredient_id": "paprika-gerookt",
+                            "amount_g": 1
                         }
                     ]
                 }
@@ -2383,7 +2439,7 @@
                         {
                             "id": "gehakt4",
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "720 g"
+                            "amount": "680 g"
                         },
                         {
                             "id": "kip4",
@@ -2393,7 +2449,7 @@
                         {
                             "id": "ham4",
                             "name": "Tostiham - Jumbo",
-                            "amount": "465 g"
+                            "amount": "405 g"
                         },
                         {
                             "id": "ei4",
@@ -2403,7 +2459,7 @@
                         {
                             "id": "vloeibaar4",
                             "name": "Vloeibaar eiwit",
-                            "amount": "1020 g"
+                            "amount": "840 g"
                         }
                     ]
                 },
@@ -2433,12 +2489,12 @@
                         {
                             "id": "ui4",
                             "name": "Ui",
-                            "amount": "1090 g"
+                            "amount": "1000 g"
                         },
                         {
                             "id": "tomaat4",
                             "name": "Tomaat",
-                            "amount": "1380 g"
+                            "amount": "1140 g"
                         },
                         {
                             "id": "tauge4",
@@ -2468,7 +2524,7 @@
                         {
                             "id": "haver4",
                             "name": "Havervlokken",
-                            "amount": "167 g"
+                            "amount": "140 g"
                         }
                     ]
                 },
@@ -2478,17 +2534,17 @@
                         {
                             "id": "zwartebonen4",
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "1020 g"
+                            "amount": "870 g"
                         },
                         {
                             "id": "kidney4",
                             "name": "Kidneybonen",
-                            "amount": "180 g"
+                            "amount": "90 g"
                         },
                         {
                             "id": "passata4",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "1460 g"
+                            "amount": "1250 g"
                         }
                     ]
                 },
@@ -2508,7 +2564,7 @@
                         {
                             "id": "olijf4",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "115 g"
+                            "amount": "94 g"
                         },
                         {
                             "id": "komijn4",
@@ -2528,7 +2584,7 @@
                         {
                             "id": "kaneel4",
                             "name": "Kaneelpoeder",
-                            "amount": "7 g"
+                            "amount": "6 g"
                         }
                     ]
                 },
@@ -2553,7 +2609,7 @@
                         {
                             "id": "bos4",
                             "name": "Bosvruchten",
-                            "amount": "700 g"
+                            "amount": "580 g"
                         },
                         {
                             "id": "banaan4",

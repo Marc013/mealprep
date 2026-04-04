@@ -13,25 +13,25 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 - [ ] Skyr: 935 g
 - [ ] Halfvolle yoghurt: 1100 g
 - [ ] Eieren: 14 stuks
-- [ ] Vloeibaar eiwit: 1020 g
+- [ ] Vloeibaar eiwit: 840 g
 
 ## Vlees en eiwitbronnen
 
-- [ ] Rundergehakt - Jumbo: 720 g
+- [ ] Rundergehakt - Jumbo: 680 g
 - [ ] Kipfilet: 970 g
-- [ ] Tostiham - Jumbo: 465 g
+- [ ] Tostiham - Jumbo: 405 g
 
 ## Koolhydraten
 
 - [ ] Biologisch Volkoren bulgur - AH: 620 g (droog)
 - [ ] Volkoren brood: 320 g
-- [ ] Havervlokken: 167 g
+- [ ] Havervlokken: 140 g
 
 ## Groenten
 
 - [ ] Paprika: 1950 g
-- [ ] Ui: 1090 g
-- [ ] Tomaat: 1380 g
+- [ ] Ui: 1000 g
+- [ ] Tomaat: 1140 g
 - [ ] Taugé: 1200 g
 - [ ] Knoflook: 70 g
 
@@ -40,23 +40,23 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 - [ ] Appel: 7 stuks
 - [ ] Sinaasappel: 7 stuks
 - [ ] Banaan: 360 g
-- [ ] Bosvruchten: 700 g
+- [ ] Bosvruchten: 580 g
 
 ## Conserven en saus
 
-- [ ] Zwarte bonen (blik, uitgelekt): 1020 g
-- [ ] Kidneybonen: 180 g
-- [ ] Tomaten Gezeefd Passata - Jumbo: 1460 g
+- [ ] Zwarte bonen (blik, uitgelekt): 870 g
+- [ ] Kidneybonen: 90 g
+- [ ] Tomaten Gezeefd Passata - Jumbo: 1250 g
 - [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 50 g
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 115 g
+- [ ] Olijfolie Extra Vierge: 94 g
 - [ ] Ketjap manis: 60 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g
 - [ ] Gerookt paprikapoeder: 7 g
-- [ ] Kaneelpoeder: 7 g
+- [ ] Kaneelpoeder: 6 g
 - [ ] Rozijnen: 40 g
 - [ ] Honing: 20 g
 - [ ] 100% Pindakaas: 15 g
