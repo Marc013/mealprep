@@ -1476,16 +1476,16 @@
                     },
                     "ingredients": [
                         {
-                            "name": "Rundergehakt - Jumbo",
-                            "amount": "100 g",
-                            "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 100.0
-                        },
-                        {
                             "name": "Biologisch volkoren bulgur (AH)",
                             "amount": "63 g (droog)",
                             "ingredient_id": "bulgur-ah",
                             "amount_g": 63.0
+                        },
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "100 g",
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 100.0
                         },
                         {
                             "name": "Zwarte bonen (blik, uitgelekt)",
