@@ -3,6 +3,7 @@
 # Sauzen
 - Go-Tan Sweet chilli sauce
 - Kikkoman Natuurlijk Gebrouwen Sojasaus
+- Ketjap manis
 - Maggi
 - Jumbo Teriyaki Saus
 - Passata
@@ -45,8 +46,11 @@
 - Amsterdamse uien
 - Zilver uien
 - Oesterzwammen
+- Champignons
 - Tomaat
 - Paprika (rood/geel)
+- Courgette
+- Komkommer
 - Mais
 - Avocado
 - Kikkererwten

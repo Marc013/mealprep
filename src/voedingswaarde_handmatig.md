@@ -107,7 +107,7 @@
 
 | Voedingswaarden             | per 100 g |
 | :-------------------------- | :-------- |
-| Energie                     | 52q kcal  |
+| Energie                     | 52 kcal   |
 | Vetten                      | 0 g       |
 | waarvan verzadigde vetzuren | 0 g       |
 | Koolhydraten                | 4,0 g     |

@@ -119,6 +119,62 @@ const DataDerivations = {
         return { raw: amount };
     },
 
+    humanizeIngredientId(ingredientId) {
+        if (!ingredientId) return 'Onbekend ingrediënt';
+
+        const specialNames = {
+            'whey-protein-xxl': 'Perfect Whey Protein - XXL Nutrition',
+            'sojasaus-kikkoman': 'Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo',
+            'passata-jumbo': 'Tomaten Gezeefd Passata - Jumbo',
+            'gehakt-runder-jumbo': 'Rundergehakt - Jumbo',
+            'olijfolie-jumbo': 'Olijfolie Extra Vierge',
+            'kwark-mager-jumbo': 'Franse Kwark Mager - Jumbo',
+            'kwark-mager-milbona': 'Magere Franse Kwark (Milbona) - Lidl',
+            'italiaanse-kruiden-verstegen': 'Italiaanse gedroogde Kruiden - Verstegen',
+            'witte-rijst-droog': 'Witte rijst (droog)',
+            'kikkererwten-blik': 'Kikkererwten (blik, uitgelekt)',
+            'zwarte-bonen-blik': 'Zwarte bonen (blik, uitgelekt)',
+            'bosvruchten-diepvries-jumbo': 'Diepvries bosvruchten (Jumbo)',
+            'pindakaas-100percent': '100% Pindakaas'
+        };
+
+        if (specialNames[ingredientId]) {
+            return specialNames[ingredientId];
+        }
+
+        return ingredientId
+            .split('-')
+            .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+            .join(' ');
+    },
+
+    parseIngredient(ingredient) {
+        if (!ingredient) return null;
+
+        if (ingredient.name && ingredient.amount) {
+            const parsed = this.parseAmount(ingredient.amount);
+            return {
+                name: ingredient.name,
+                value: parsed.value,
+                unit: parsed.unit,
+                raw: parsed.raw
+            };
+        }
+
+        if (ingredient.ingredient_id && Number.isFinite(ingredient.amount_g)) {
+            const note = String(ingredient.note || '').toLowerCase();
+            const unit = note.includes('ml') ? 'ml' : 'g';
+            return {
+                name: this.humanizeIngredientId(ingredient.ingredient_id),
+                value: Number(ingredient.amount_g),
+                unit,
+                raw: null
+            };
+        }
+
+        return null;
+    },
+
     formatAmount(value, unit, rawValues) {
         if (unit === 'g droog') {
             return `${Utils.formatNumber(Math.round(value))} g droog`;
@@ -178,31 +234,31 @@ const DataDerivations = {
         const aggregated = new Map();
 
         const addIngredient = (ingredient, multiplier) => {
-            if (!ingredient?.name || ingredient.name === 'Water') {
+            const parsedIngredient = this.parseIngredient(ingredient);
+            if (!parsedIngredient || parsedIngredient.name === 'Water') {
                 return;
             }
 
-            const existing = aggregated.get(ingredient.name) || {
-                name: ingredient.name,
+            const existing = aggregated.get(parsedIngredient.name) || {
+                name: parsedIngredient.name,
                 value: 0,
                 unit: '',
                 rawValues: []
             };
 
-            const parsed = this.parseAmount(ingredient.amount);
-            if (typeof parsed.value === 'number' && parsed.unit) {
+            if (typeof parsedIngredient.value === 'number' && parsedIngredient.unit) {
                 if (!existing.unit) {
-                    existing.unit = parsed.unit;
+                    existing.unit = parsedIngredient.unit;
                 }
 
-                if (existing.unit === parsed.unit) {
-                    existing.value += parsed.value * multiplier;
+                if (existing.unit === parsedIngredient.unit) {
+                    existing.value += parsedIngredient.value * multiplier;
                 }
-            } else if (parsed.raw && !existing.rawValues.includes(parsed.raw)) {
-                existing.rawValues.push(parsed.raw);
+            } else if (parsedIngredient.raw && !existing.rawValues.includes(parsedIngredient.raw)) {
+                existing.rawValues.push(parsedIngredient.raw);
             }
 
-            aggregated.set(ingredient.name, existing);
+            aggregated.set(parsedIngredient.name, existing);
         };
 
         Object.entries(this.dayCounts).forEach(([dayType, count]) => {
@@ -331,6 +387,65 @@ const MealApp = {
 
     getCurrentPlan() {
         return this.data.weekplans[this.currentPlan];
+    },
+
+    buildIngredientLookup() {
+        if (this.ingredientNameById) return;
+
+        this.ingredientNameById = {
+            'whey-protein-xxl': 'Perfect Whey Protein - XXL Nutrition',
+            water: 'Water'
+        };
+
+        Object.values(this.data.meals || {}).forEach(meal => {
+            const collect = (ingredients = []) => {
+                ingredients.forEach(ing => {
+                    if (ing.ingredient_id && ing.name && !this.ingredientNameById[ing.ingredient_id]) {
+                        this.ingredientNameById[ing.ingredient_id] = ing.name;
+                    }
+                });
+            };
+
+            if (meal.variants) {
+                Object.values(meal.variants).forEach(variant => {
+                    collect(variant.ingredients);
+                    collect(variant.extraIngredients);
+                });
+                collect(meal.baseIngredients);
+            } else {
+                collect(meal.ingredients);
+            }
+        });
+    },
+
+    getIngredientDisplayName(ingredient) {
+        if (ingredient?.name) return ingredient.name;
+
+        const ingredientId = ingredient?.ingredient_id;
+        if (!ingredientId) return 'Onbekend ingrediënt';
+
+        this.buildIngredientLookup();
+        if (this.ingredientNameById[ingredientId]) {
+            return this.ingredientNameById[ingredientId];
+        }
+
+        return ingredientId
+            .split('-')
+            .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+            .join(' ');
+    },
+
+    getIngredientDisplayAmount(ingredient) {
+        if (ingredient?.amount) return ingredient.amount;
+
+        if (Number.isFinite(ingredient?.amount_g)) {
+            const amount = Number.isInteger(ingredient.amount_g)
+                ? String(ingredient.amount_g)
+                : ingredient.amount_g.toFixed(1);
+            return ingredient.note ? `${amount} g (${ingredient.note})` : `${amount} g`;
+        }
+
+        return 'n.v.t.';
     },
 
     render() {
@@ -524,8 +639,8 @@ const MealApp = {
         if (!ingredients) return '';
         return ingredients.map(ing => `
             <li class="ingredient-item ${isExtra ? 'extra' : ''}">
-                <span class="ingredient-name">${Utils.escape(ing.name)}</span>
-                <span class="ingredient-amount">${Utils.escape(ing.amount)}</span>
+                <span class="ingredient-name">${Utils.escape(this.getIngredientDisplayName(ing))}</span>
+                <span class="ingredient-amount">${Utils.escape(this.getIngredientDisplayAmount(ing))}</span>
             </li>
         `).join('');
     },
@@ -757,7 +872,10 @@ const ShoppingApp = {
         const container = document.getElementById('shopping-lists');
         if (!container || !this.data) return;
 
-        const categories = DataDerivations.calculateShopping(this.data, this.currentPlan);
+        let categories = DataDerivations.calculateShopping(this.data, this.currentPlan);
+        if (!categories.length) {
+            categories = this.data.shopping?.[this.currentPlan]?.categories || [];
+        }
         if (!categories.length) return;
 
         let totalItems = 0;

@@ -20,17 +20,17 @@
 
 ### Trainingsdag
 
-- Kcal: 2892
-- Eiwit: 223.5 g
-- Vet: 56.3 g
-- Koolhydraten: 353.3 g
+- Kcal: 2899.6
+- Eiwit: 226.7 g
+- Vet: 59.4 g
+- Koolhydraten: 337.8 g
 
 ### Rustdag
 
-- Kcal: 1744
-- Eiwit: 210.5 g
-- Vet: 52.3 g
-- Koolhydraten: 97.3 g
+- Kcal: 1839.1
+- Eiwit: 208.5 g
+- Vet: 60.6 g
+- Koolhydraten: 99.8 g
 
 ## Korte evaluatie
 

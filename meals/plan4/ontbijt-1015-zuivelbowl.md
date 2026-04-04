@@ -3,16 +3,16 @@
 ## Trainingsdag — Power Oats Bowl
 
 ### Macros per portie
-- Kcal: 502
-- Eiwitten: 34 g
-- Vetten: 6 g
-- Koolhydraten: 79 g
+- Kcal: 475.7
+- Eiwitten: 26.7 g
+- Vetten: 7.3 g
+- Koolhydraten: 74.9 g
 
 ### Ingredienten
 - 95 g Skyr
 - 200 g Halfvolle yoghurt
 - 100 g Bosvruchten
-- 38 g Havervlokken
+- 35 g Havervlokken
 - 90 g Banaan
 - 10 g Rozijnen
 - 5 g Honing
@@ -21,18 +21,18 @@
 ## Rustdag — Volume Zuivelbowl
 
 ### Macros per portie
-- Kcal: 249
-- Eiwitten: 26 g
-- Vetten: 5 g
-- Koolhydraten: 20 g
+- Kcal: 228.7
+- Eiwitten: 26.2 g
+- Vetten: 5.3 g
+- Koolhydraten: 18.0 g
 
 ### Ingredienten
 - 185 g Skyr
 - 100 g Halfvolle yoghurt
-- 100 g Bosvruchten
-- 5 g Havervlokken
+- 60 g Bosvruchten
+- 30 g Banaan
 - 5 g 100% Pindakaas
-- 1 g Kaneelpoeder
+- 0.5 g Kaneelpoeder
 
 ## Voorbereiding
 - Zet alle ingredienten in gramschaaltjes klaar.

@@ -5,10 +5,10 @@
 ## Trainingsdag
 
 ### Macros per portie
-- Kcal: 430
-- Eiwitten: 27 g
-- Vetten: 13 g
-- Koolhydraten: 45 g
+- Kcal: 565.2
+- Eiwitten: 56.9 g
+- Vetten: 16.7 g
+- Koolhydraten: 43.5 g
 
 ### Ingredienten
 - 2 stuks Eieren
@@ -17,23 +17,23 @@
 - 100 g Paprika
 - 100 g Tomaat
 - 80 g Volkoren brood
-- 3 g Olijfolie Extra Vierge
+- 1 g Olijfolie Extra Vierge
 
 ## Rustdag
 
 ### Macros per portie
-- Kcal: 250
-- Eiwitten: 28 g
-- Vetten: 11 g
-- Koolhydraten: 9 g
+- Kcal: 396.1
+- Eiwitten: 49.0 g
+- Vetten: 14.9 g
+- Koolhydraten: 13.1 g
 
 ### Ingredienten
 - 2 stuks Eieren
-- 180 g Vloeibaar eiwit
-- 75 g Tostiham - Jumbo
+- 120 g Vloeibaar eiwit
+- 55 g Tostiham - Jumbo
 - 120 g Paprika
 - 150 g Tomaat
-- 3 g Olijfolie Extra Vierge
+- 1 g Olijfolie Extra Vierge
 
 ## Voorbereiding
 - Snijd paprika en tomaat in blokjes.

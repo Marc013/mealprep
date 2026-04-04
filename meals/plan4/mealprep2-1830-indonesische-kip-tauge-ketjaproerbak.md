@@ -5,10 +5,10 @@
 ## Trainingsdag (met bulgur)
 
 ### Macros per portie
-- Kcal: 700
-- Eiwitten: 47 g
-- Vetten: 13 g
-- Koolhydraten: 93 g
+- Kcal: 747.8
+- Eiwitten: 57.2 g
+- Vetten: 12.9 g
+- Koolhydraten: 92.4 g
 
 ### Ingredienten
 - 130 g Kipfilet
@@ -17,7 +17,7 @@
 - 80 g Paprika
 - 80 g Ui
 - 5 g Knoflook
-- 8 g Olijfolie Extra Vierge
+- 7 g Olijfolie Extra Vierge
 - 15 g Ketjap manis
 - 8 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Komijnpoeder
@@ -26,10 +26,10 @@
 ## Rustdag (volumeroerbak zonder bulgur)
 
 ### Macros per portie
-- Kcal: 355
-- Eiwitten: 42 g
-- Vetten: 13 g
-- Koolhydraten: 17 g
+- Kcal: 405.3
+- Eiwitten: 53.5 g
+- Vetten: 12.5 g
+- Koolhydraten: 16.8 g
 
 ### Ingredienten
 - 150 g Kipfilet
@@ -37,7 +37,7 @@
 - 80 g Paprika
 - 50 g Ui
 - 5 g Knoflook
-- 8 g Olijfolie Extra Vierge
+- 7 g Olijfolie Extra Vierge
 - 6 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Komijnpoeder
 - 1 g Gerookt paprikapoeder

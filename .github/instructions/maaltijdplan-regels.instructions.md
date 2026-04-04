@@ -68,7 +68,7 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 ## Macro-validatie (verplicht na elke berekening)
 
 1. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
-2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `Macros_Dagtotalen.md`
+2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `promp.md` (en, indien aanwezig, de actieve `weekplans`-totalen in `docs/data/meals.json`)
 3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding van kcal, vet of koolhydraten
 4. Controleer macro-evenredigheid per maaltijd: geen extreme pieken tenzij expliciet functioneel onderbouwd
 

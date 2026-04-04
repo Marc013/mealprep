@@ -1,6 +1,6 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-03-26
+Laatst bijgewerkt: 2026-04-04
 
 ## Toegevoegd voor plan 3
 
@@ -113,3 +113,93 @@ Standaard portie gebruikt in plan 4: 150 g per stuk.
 | Vetten          | 0,5 g     |
 | Koolhydraten    | 20,0 g    |
 | Zout            | 0,3 g     |
+
+## Toegevoegd voor plan 1-3 migratie
+
+### Champignons
+
+- Bron: NEVO standaardwaarde champignons rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 22 kcal   |
+| Eiwitten        | 3,1 g     |
+| Vetten          | 0,3 g     |
+| Koolhydraten    | 0,3 g     |
+
+### Courgette
+
+- Bron: NEVO standaardwaarde courgette rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 17 kcal   |
+| Eiwitten        | 1,2 g     |
+| Vetten          | 0,3 g     |
+| Koolhydraten    | 2,2 g     |
+
+### Gemengde sla
+
+- Bron: NEVO standaardwaarde gemengde bladsla
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 17 kcal   |
+| Eiwitten        | 1,5 g     |
+| Vetten          | 0,2 g     |
+| Koolhydraten    | 2,5 g     |
+
+### Kaas 45+
+
+- Bron: NEVO standaardwaarde 48+/45+ harde kaas
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 356 kcal  |
+| Eiwitten        | 25,0 g    |
+| Vetten          | 27,0 g    |
+| Koolhydraten    | 0,1 g     |
+
+### Ketchup
+
+- Bron: NEVO standaardwaarde tomatenketchup
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 102 kcal  |
+| Eiwitten        | 1,3 g     |
+| Vetten          | 0,1 g     |
+| Koolhydraten    | 23,0 g    |
+
+### Mais
+
+- Bron: NEVO standaardwaarde maïs (gekookt/blik)
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 109 kcal  |
+| Eiwitten        | 3,4 g     |
+| Vetten          | 1,8 g     |
+| Koolhydraten    | 18,6 g    |
+
+### Varkenshaas
+
+- Bron: NEVO standaardwaarde varkenshaas mager
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 143 kcal  |
+| Eiwitten        | 22,0 g    |
+| Vetten          | 5,0 g     |
+| Koolhydraten    | 0,0 g     |
+
+### Zoete aardappel
+
+- Bron: NEVO standaardwaarde zoete aardappel rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 86 kcal   |
+| Eiwitten        | 1,6 g     |
+| Vetten          | 0,1 g     |
+| Koolhydraten    | 20,1 g    |
