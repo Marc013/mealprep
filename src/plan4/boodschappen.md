@@ -13,13 +13,13 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 - [ ] Skyr: 935 g
 - [ ] Halfvolle yoghurt: 1100 g
 - [ ] Eieren: 14 stuks
-- [ ] Vloeibaar eiwit: 840 g
+- [ ] Vloeibaar eiwit: 980 g
 
 ## Vlees en eiwitbronnen
 
 - [ ] Rundergehakt - Jumbo: 680 g
 - [ ] Kipfilet: 970 g
-- [ ] Tostiham - Jumbo: 405 g
+- [ ] Tostiham - Jumbo: 700 g
 
 ## Koolhydraten
 
@@ -29,10 +29,11 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Groenten
 
-- [ ] Paprika: 1950 g
+- [ ] Champignons: 675 g
+- [ ] Paprika: 1890 g
 - [ ] Ui: 1000 g
 - [ ] Tomaat: 1140 g
-- [ ] Taugé: 1200 g
+- [ ] Taugé: 525 g
 - [ ] Knoflook: 70 g
 
 ## Fruit
@@ -51,7 +52,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 94 g
+- [ ] Olijfolie Extra Vierge: 66 g
 - [ ] Ketjap manis: 60 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g

@@ -5,10 +5,10 @@
 ## Trainingsdag (met bulgur)
 
 ### Macros per portie
-- Kcal: 844.8
-- Eiwitten: 44.4 g
+- Kcal: 821.0
+- Eiwitten: 42.1 g
 - Vetten: 20.7 g
-- Koolhydraten: 109.8 g
+- Koolhydraten: 102.6 g
 
 ### Ingredienten
 - 80 g Rundergehakt - Jumbo
@@ -18,7 +18,7 @@
 - 80 g Tomaat
 - 200 g Tomaten Gezeefd Passata - Jumbo
 - 5 g Knoflook
-- 5 g Olijfolie Extra Vierge
+- 2 g Olijfolie Extra Vierge
 - 2 g Komijnpoeder
 - 1 g Chilivlokken
 - 60 g Biologisch Volkoren bulgur - AH (droog)
@@ -26,10 +26,10 @@
 ## Rustdag (volume, zonder bulgur)
 
 ### Macros per portie
-- Kcal: 543.0
-- Eiwitten: 38.3 g
+- Kcal: 515.0
+- Eiwitten: 33.3 g
 - Vetten: 26.2 g
-- Koolhydraten: 34.6 g
+- Koolhydraten: 29.9 g
 
 ### Ingredienten
 - 120 g Rundergehakt - Jumbo
@@ -40,7 +40,7 @@
 - 40 g Tomaat
 - 80 g Tomaten Gezeefd Passata - Jumbo
 - 5 g Knoflook
-- 6 g Olijfolie Extra Vierge
+- 2 g Olijfolie Extra Vierge
 - 2 g Komijnpoeder
 - 1 g Chilivlokken
 

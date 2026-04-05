@@ -176,16 +176,16 @@
             "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 2899.6,
-                    "protein": 226.7,
-                    "fat": 59.4,
-                    "carbs": 337.8
+                    "kcal": 2892.9,
+                    "protein": 227.4,
+                    "fat": 58.6,
+                    "carbs": 335.7
                 },
                 "rest": {
-                    "kcal": 1839.1,
-                    "protein": 208.5,
-                    "fat": 60.6,
-                    "carbs": 99.8
+                    "kcal": 1841.6,
+                    "protein": 209.6,
+                    "fat": 60.9,
+                    "carbs": 96.3
                 }
             },
             "schedule": [
@@ -225,9 +225,9 @@
             "time": "07:30",
             "macros": {
                 "kcal": 268,
-                "protein": 40,
+                "carbs": 19,
                 "fat": 3,
-                "carbs": 19
+                "protein": 40
             },
             "ingredients": [
                 {
@@ -256,9 +256,9 @@
             "time": "21:15",
             "macros": {
                 "kcal": 268,
-                "protein": 40,
+                "carbs": 19,
                 "fat": 3,
-                "carbs": 19
+                "protein": 40
             },
             "ingredients": [
                 {
@@ -290,9 +290,9 @@
                     "label": "Standaard",
                     "macros": {
                         "kcal": 266.0,
-                        "protein": 41.5,
-                        "fat": 1.8,
                         "carbs": 17.2,
+                        "fat": 1.8,
+                        "protein": 41.5,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -317,9 +317,9 @@
                     "label": "Standaard",
                     "macros": {
                         "kcal": 266.0,
-                        "protein": 41.5,
-                        "fat": 1.8,
                         "carbs": 17.2,
+                        "fat": 1.8,
+                        "protein": 41.5,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -358,9 +358,9 @@
                     "label": "Power Oats Bowl",
                     "macros": {
                         "kcal": 502,
-                        "protein": 34,
+                        "carbs": 79,
                         "fat": 6,
-                        "carbs": 79
+                        "protein": 34
                     },
                     "ingredients": [
                         {
@@ -417,9 +417,9 @@
                     "label": "Volume Zuivelbowl",
                     "macros": {
                         "kcal": 249,
-                        "protein": 26,
+                        "carbs": 20,
                         "fat": 5,
-                        "carbs": 20
+                        "protein": 26
                     },
                     "ingredients": [
                         {
@@ -478,9 +478,9 @@
                     "label": "Scramble + Brood",
                     "macros": {
                         "kcal": 581,
-                        "protein": 53,
+                        "carbs": 58,
                         "fat": 19,
-                        "carbs": 58
+                        "protein": 53
                     },
                     "ingredients": [
                         {
@@ -537,9 +537,9 @@
                     "label": "Warme Salade",
                     "macros": {
                         "kcal": 399,
-                        "protein": 36,
+                        "carbs": 14,
                         "fat": 23,
-                        "carbs": 14
+                        "protein": 36
                     },
                     "ingredients": [
                         {
@@ -616,9 +616,9 @@
                     "label": "Met witte rijst",
                     "macros": {
                         "kcal": 653,
-                        "protein": 49,
+                        "carbs": 99,
                         "fat": 8,
-                        "carbs": 99
+                        "protein": 49
                     },
                     "ingredients": [
                         {
@@ -693,9 +693,9 @@
                     "label": "Met bloemkoolrijst",
                     "macros": {
                         "kcal": 311,
-                        "protein": 31,
+                        "carbs": 29,
                         "fat": 7,
-                        "carbs": 29
+                        "protein": 31
                     },
                     "ingredients": [
                         {
@@ -779,9 +779,9 @@
                     "label": "Met zoete aardappel",
                     "macros": {
                         "kcal": 620,
-                        "protein": 61,
+                        "carbs": 74,
                         "fat": 11,
-                        "carbs": 74
+                        "protein": 61
                     },
                     "ingredients": [
                         {
@@ -874,9 +874,9 @@
                     "label": "Volume variant",
                     "macros": {
                         "kcal": 330,
-                        "protein": 34,
+                        "carbs": 36,
                         "fat": 6,
-                        "carbs": 36
+                        "protein": 34
                     },
                     "ingredients": [
                         {
@@ -980,9 +980,9 @@
             "time": "10:15",
             "macros": {
                 "kcal": 93,
-                "protein": 14.8,
+                "carbs": 7.3,
                 "fat": 0.2,
-                "carbs": 7.3
+                "protein": 14.8
             },
             "description": "Veel eiwit met weinig vet en gecontroleerde koolhydraten.",
             "ingredients": [
@@ -1016,9 +1016,9 @@
             "time": "13:00",
             "macros": {
                 "kcal": 196,
-                "protein": 12.3,
+                "carbs": 11.8,
                 "fat": 9.8,
-                "carbs": 11.8
+                "protein": 12.3
             },
             "description": "Snelle, hartige lunch met gecontroleerde koolhydraten.",
             "ingredients": [
@@ -1083,9 +1083,9 @@
                     "label": "Met bulgur",
                     "macros": {
                         "kcal": 1159,
-                        "protein": 42,
+                        "carbs": 169,
                         "fat": 28,
-                        "carbs": 169
+                        "protein": 42
                     },
                     "extraIngredients": [
                         {
@@ -1098,9 +1098,9 @@
                     "label": "Met bloemkoolrijst + ham",
                     "macros": {
                         "kcal": 560,
-                        "protein": 43,
+                        "carbs": 26,
                         "fat": 30,
-                        "carbs": 26
+                        "protein": 43
                     },
                     "extraIngredients": [
                         {
@@ -1170,9 +1170,9 @@
                     "label": "Met macaroni",
                     "macros": {
                         "kcal": 874,
-                        "protein": 35,
+                        "carbs": 153,
                         "fat": 11,
-                        "carbs": 153
+                        "protein": 35
                     },
                     "extraIngredients": [
                         {
@@ -1193,9 +1193,9 @@
                     "label": "Met bloemkoolrijst + avocado",
                     "macros": {
                         "kcal": 427,
-                        "protein": 34,
+                        "carbs": 17,
                         "fat": 23,
-                        "carbs": 17
+                        "protein": 34
                     },
                     "extraIngredients": [
                         {
@@ -1265,9 +1265,9 @@
                     "label": "Met banaan & honing",
                     "macros": {
                         "kcal": 325,
-                        "protein": 20.9,
+                        "carbs": 52.8,
                         "fat": 2.2,
-                        "carbs": 52.8
+                        "protein": 20.9
                     },
                     "ingredients": [
                         {
@@ -1312,9 +1312,9 @@
                     "label": "Hoog eiwit, laag KH",
                     "macros": {
                         "kcal": 204,
-                        "protein": 24.6,
+                        "carbs": 19.8,
                         "fat": 1.3,
-                        "carbs": 19.8
+                        "protein": 24.6
                     },
                     "ingredients": [
                         {
@@ -1361,9 +1361,9 @@
                     "label": "Met volkoren brood",
                     "macros": {
                         "kcal": 463,
-                        "protein": 32.6,
+                        "carbs": 46.2,
                         "fat": 14.7,
-                        "carbs": 46.2
+                        "protein": 32.6
                     },
                     "ingredients": [
                         {
@@ -1408,9 +1408,9 @@
                     "label": "Minder brood, extra ham",
                     "macros": {
                         "kcal": 333,
-                        "protein": 28.7,
+                        "carbs": 22.2,
                         "fat": 13.8,
-                        "carbs": 22.2
+                        "protein": 28.7
                     },
                     "ingredients": [
                         {
@@ -1470,9 +1470,9 @@
                     "label": "Met bulgur",
                     "macros": {
                         "kcal": 742,
-                        "protein": 36.7,
+                        "carbs": 89.1,
                         "fat": 22.2,
-                        "carbs": 89.1
+                        "protein": 36.7
                     },
                     "ingredients": [
                         {
@@ -1553,9 +1553,9 @@
                     "label": "Met bloemkoolrijst",
                     "macros": {
                         "kcal": 494,
-                        "protein": 32.9,
+                        "carbs": 31.4,
                         "fat": 23.3,
-                        "carbs": 31.4
+                        "protein": 32.9
                     },
                     "ingredients": [
                         {
@@ -1640,9 +1640,9 @@
                     "label": "Met witte rijst & kikkererwten",
                     "macros": {
                         "kcal": 705,
-                        "protein": 55.7,
+                        "carbs": 95.9,
                         "fat": 8.9,
-                        "carbs": 95.9
+                        "protein": 55.7
                     },
                     "ingredients": [
                         {
@@ -1717,9 +1717,9 @@
                     "label": "Met extra groenten, extra kip en extra volume",
                     "macros": {
                         "kcal": 314,
-                        "protein": 44.5,
+                        "carbs": 18.5,
                         "fat": 5.7,
-                        "carbs": 18.5
+                        "protein": 44.5
                     },
                     "ingredients": [
                         {
@@ -1798,9 +1798,9 @@
                     "label": "Power Oats Bowl",
                     "macros": {
                         "kcal": 475.7,
-                        "protein": 26.7,
-                        "fat": 7.3,
                         "carbs": 74.9,
+                        "fat": 7.3,
+                        "protein": 26.7,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -1843,9 +1843,9 @@
                     "label": "Volume Zuivelbowl",
                     "macros": {
                         "kcal": 228.7,
-                        "protein": 26.2,
-                        "fat": 5.3,
                         "carbs": 18.0,
+                        "fat": 5.3,
+                        "protein": 26.2,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -1893,10 +1893,10 @@
                 "training": {
                     "label": "Ei-Ham Skillet met brood",
                     "macros": {
-                        "kcal": 565.2,
-                        "protein": 56.9,
-                        "fat": 16.7,
-                        "carbs": 43.5,
+                        "kcal": 537,
+                        "carbs": 44.6,
+                        "fat": 14.7,
+                        "protein": 52.9,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -1908,11 +1908,11 @@
                         },
                         {
                             "ingredient_id": "vloeibaar-eiwit",
-                            "amount_g": 120
+                            "amount_g": 140
                         },
                         {
                             "ingredient_id": "tostiham-jumbo",
-                            "amount_g": 60
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "paprika",
@@ -1935,10 +1935,10 @@
                 "rest": {
                     "label": "Ei-Ham Groentepan",
                     "macros": {
-                        "kcal": 396.1,
-                        "protein": 49.0,
-                        "fat": 14.9,
+                        "kcal": 350,
                         "carbs": 13.1,
+                        "fat": 13.1,
+                        "protein": 44.9,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -1950,15 +1950,15 @@
                         },
                         {
                             "ingredient_id": "vloeibaar-eiwit",
-                            "amount_g": 120
+                            "amount_g": 140
                         },
                         {
                             "ingredient_id": "tostiham-jumbo",
-                            "amount_g": 55
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "paprika",
-                            "amount_g": 120
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "tomaat",
@@ -1988,10 +1988,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 844.8,
-                        "protein": 44.4,
+                        "kcal": 821.0,
+                        "carbs": 102.6,
                         "fat": 20.7,
-                        "carbs": 109.8,
+                        "protein": 42.1,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -2031,7 +2031,7 @@
                         },
                         {
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 5
+                            "amount_g": 2
                         },
                         {
                             "ingredient_id": "chilivlokken",
@@ -2046,10 +2046,10 @@
                 "rest": {
                     "label": "Volumevariant zonder bulgur",
                     "macros": {
-                        "kcal": 543.0,
-                        "protein": 38.3,
+                        "kcal": 515.0,
+                        "carbs": 29.9,
                         "fat": 26.2,
-                        "carbs": 34.6,
+                        "protein": 33.3,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -2088,7 +2088,7 @@
                         },
                         {
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 6
+                            "amount_g": 2
                         },
                         {
                             "ingredient_id": "chilivlokken",
@@ -2118,12 +2118,12 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 747.8,
-                        "protein": 57.2,
-                        "fat": 12.9,
-                        "carbs": 92.4,
+                        "kcal": 741.1,
+                        "carbs": 90.3,
+                        "fat": 12.1,
+                        "protein": 57.9,
                         "computed": false,
-                        "verified_date": "2026-04-04"
+                        "verified_date": "2026-04-05"
                     },
                     "ingredients": [
                         {
@@ -2137,7 +2137,11 @@
                         },
                         {
                             "ingredient_id": "tauge",
-                            "amount_g": 150
+                            "amount_g": 75
+                        },
+                        {
+                            "ingredient_id": "champignons",
+                            "amount_g": 75
                         },
                         {
                             "ingredient_id": "paprika",
@@ -2153,7 +2157,7 @@
                         },
                         {
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 7
+                            "amount_g": 6
                         },
                         {
                             "ingredient_id": "ketjap-manis",
@@ -2176,12 +2180,12 @@
                 "rest": {
                     "label": "Volumeroerbak zonder bulgur",
                     "macros": {
-                        "kcal": 405.3,
-                        "protein": 53.5,
-                        "fat": 12.5,
-                        "carbs": 16.8,
+                        "kcal": 407.8,
+                        "carbs": 13.3,
+                        "fat": 12.8,
+                        "protein": 54.6,
                         "computed": false,
-                        "verified_date": "2026-04-04"
+                        "verified_date": "2026-04-05"
                     },
                     "ingredients": [
                         {
@@ -2190,7 +2194,11 @@
                         },
                         {
                             "ingredient_id": "tauge",
-                            "amount_g": 200
+                            "amount_g": 75
+                        },
+                        {
+                            "ingredient_id": "champignons",
+                            "amount_g": 125
                         },
                         {
                             "ingredient_id": "paprika",
@@ -2225,8 +2233,8 @@
             },
             "preparation": [
                 "Snijd kip in reepjes en bak goudbruin in olijfolie op hoog vuur.",
-                "Voeg ui, paprika en knoflook toe en roerbak 3 minuten mee.",
-                "Voeg taugé toe en roerbak nog 2 minuten — taugé moet knapperig blijven.",
+                "Voeg ui, paprika, champignons en knoflook toe en roerbak 3-4 minuten mee.",
+                "Voeg taugé toe en roerbak nog 1-2 minuten — taugé moet knapperig blijven.",
                 "Blus af met ketjap manis en sojasaus, roer goed door.",
                 "Trainingsdag: serveer op gekookte bulgur. Rustdag: direct serveren zonder bulgur."
             ]
@@ -2757,7 +2765,7 @@
                         {
                             "id": "ham4",
                             "name": "Tostiham - Jumbo",
-                            "amount": "405 g"
+                            "amount": "700 g"
                         },
                         {
                             "id": "ei4",
@@ -2767,7 +2775,7 @@
                         {
                             "id": "vloeibaar4",
                             "name": "Vloeibaar eiwit",
-                            "amount": "840 g"
+                            "amount": "980 g"
                         }
                     ]
                 },
@@ -2790,9 +2798,14 @@
                     "name": "Groenten",
                     "items": [
                         {
+                            "id": "champ4",
+                            "name": "Champignons",
+                            "amount": "675 g"
+                        },
+                        {
                             "id": "paprika4",
                             "name": "Paprika",
-                            "amount": "1950 g"
+                            "amount": "1890 g"
                         },
                         {
                             "id": "ui4",
@@ -2807,7 +2820,7 @@
                         {
                             "id": "tauge4",
                             "name": "Taugé",
-                            "amount": "1200 g"
+                            "amount": "525 g"
                         },
                         {
                             "id": "knoflook4",
@@ -2872,7 +2885,7 @@
                         {
                             "id": "olijf4",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "94 g"
+                            "amount": "66 g"
                         },
                         {
                             "id": "komijn4",
