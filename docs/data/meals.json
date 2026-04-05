@@ -176,16 +176,16 @@
             "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 2892.9,
-                    "protein": 227.4,
-                    "fat": 58.6,
-                    "carbs": 335.7
+                    "kcal": 3070.7,
+                    "protein": 257.2,
+                    "fat": 57.0,
+                    "carbs": 346.1
                 },
                 "rest": {
-                    "kcal": 1841.6,
-                    "protein": 209.6,
-                    "fat": 60.9,
-                    "carbs": 96.3
+                    "kcal": 2008.7,
+                    "protein": 230.5,
+                    "fat": 58.0,
+                    "carbs": 121.1
                 }
             },
             "schedule": [
@@ -2118,17 +2118,17 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 741.1,
-                        "carbs": 90.3,
-                        "fat": 12.1,
-                        "protein": 57.9,
+                        "kcal": 703.0,
+                        "carbs": 87.8,
+                        "fat": 9.5,
+                        "protein": 54.0,
                         "computed": false,
                         "verified_date": "2026-04-05"
                     },
                     "ingredients": [
                         {
                             "ingredient_id": "kipfilet",
-                            "amount_g": 130
+                            "amount_g": 150
                         },
                         {
                             "ingredient_id": "bulgur-ah",
@@ -2141,15 +2141,15 @@
                         },
                         {
                             "ingredient_id": "champignons",
-                            "amount_g": 75
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "paprika",
-                            "amount_g": 80
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "ui",
-                            "amount_g": 80
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "knoflook",
@@ -2157,7 +2157,7 @@
                         },
                         {
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 6
+                            "amount_g": 4
                         },
                         {
                             "ingredient_id": "ketjap-manis",
@@ -2180,10 +2180,10 @@
                 "rest": {
                     "label": "Volumeroerbak zonder bulgur",
                     "macros": {
-                        "kcal": 407.8,
-                        "carbs": 13.3,
-                        "fat": 12.8,
-                        "protein": 54.6,
+                        "kcal": 381.0,
+                        "carbs": 23.9,
+                        "fat": 8.6,
+                        "protein": 44.6,
                         "computed": false,
                         "verified_date": "2026-04-05"
                     },
@@ -2202,11 +2202,11 @@
                         },
                         {
                             "ingredient_id": "paprika",
-                            "amount_g": 80
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "ui",
-                            "amount_g": 50
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "knoflook",
@@ -2214,7 +2214,11 @@
                         },
                         {
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 7
+                            "amount_g": 4
+                        },
+                        {
+                            "ingredient_id": "ketjap-manis",
+                            "amount_g": 15
                         },
                         {
                             "ingredient_id": "sojasaus-kikkoman",
@@ -2760,7 +2764,7 @@
                         {
                             "id": "kip4",
                             "name": "Kipfilet",
-                            "amount": "970 g"
+                            "amount": "1050 g"
                         },
                         {
                             "id": "ham4",
@@ -2800,17 +2804,17 @@
                         {
                             "id": "champ4",
                             "name": "Champignons",
-                            "amount": "675 g"
+                            "amount": "775 g"
                         },
                         {
                             "id": "paprika4",
                             "name": "Paprika",
-                            "amount": "1890 g"
+                            "amount": "2030 g"
                         },
                         {
                             "id": "ui4",
                             "name": "Ui",
-                            "amount": "1000 g"
+                            "amount": "1230 g"
                         },
                         {
                             "id": "tomaat4",
@@ -2880,12 +2884,12 @@
                         {
                             "id": "ketjap4",
                             "name": "Ketjap manis",
-                            "amount": "60 g"
+                            "amount": "105 g"
                         },
                         {
                             "id": "olijf4",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "66 g"
+                            "amount": "49 g"
                         },
                         {
                             "id": "komijn4",

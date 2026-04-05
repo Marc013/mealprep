@@ -18,7 +18,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 ## Vlees en eiwitbronnen
 
 - [ ] Rundergehakt - Jumbo: 680 g
-- [ ] Kipfilet: 970 g
+- [ ] Kipfilet: 1050 g
 - [ ] Tostiham - Jumbo: 700 g
 
 ## Koolhydraten
@@ -29,9 +29,9 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Groenten
 
-- [ ] Champignons: 675 g
-- [ ] Paprika: 1890 g
-- [ ] Ui: 1000 g
+- [ ] Champignons: 775 g
+- [ ] Paprika: 2030 g
+- [ ] Ui: 1230 g
 - [ ] Tomaat: 1140 g
 - [ ] Taugé: 525 g
 - [ ] Knoflook: 70 g
@@ -52,8 +52,8 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 66 g
-- [ ] Ketjap manis: 60 g
+- [ ] Olijfolie Extra Vierge: 49 g
+- [ ] Ketjap manis: 105 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g
 - [ ] Gerookt paprikapoeder: 7 g
