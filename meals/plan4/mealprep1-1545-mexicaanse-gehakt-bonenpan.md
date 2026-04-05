@@ -5,14 +5,14 @@
 ## Trainingsdag (met bulgur)
 
 ### Macros per portie
-- Kcal: 821.0
-- Eiwitten: 42.1 g
-- Vetten: 20.7 g
-- Koolhydraten: 102.6 g
+- Kcal: 730.0
+- Eiwitten: 36.5 g
+- Vetten: 19.7 g
+- Koolhydraten: 89.8 g
 
 ### Ingredienten
 - 80 g Rundergehakt - Jumbo
-- 180 g Zwarte bonen (blik, uitgelekt)
+- 100 g Zwarte bonen (blik, uitgelekt)
 - 90 g Paprika
 - 80 g Ui
 - 80 g Tomaat

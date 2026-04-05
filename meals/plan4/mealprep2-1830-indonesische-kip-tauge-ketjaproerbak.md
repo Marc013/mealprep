@@ -5,16 +5,16 @@
 ## Trainingsdag (met bulgur)
 
 ### Macros per portie
-- Kcal: 703.0
-- Eiwitten: 54.0 g
-- Vetten: 9.5 g
-- Koolhydraten: 87.8 g
+- Kcal: 600.0
+- Eiwitten: 50.5 g
+- Vetten: 9.1 g
+- Koolhydraten: 68.4 g
 
 ### Ingredienten
 - 150 g Kipfilet
-- 85 g Biologisch Volkoren bulgur - AH (droog)
+- 60 g Biologisch Volkoren bulgur - AH (droog)
 - 75 g Taugé
-- 100 g Champignons
+- 75 g Champignons
 - 100 g Paprika
 - 100 g Ui
 - 5 g Knoflook

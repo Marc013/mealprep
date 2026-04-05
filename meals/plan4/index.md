@@ -20,10 +20,10 @@
 
 ### Trainingsdag
 
-- Kcal: 3070.7
-- Eiwit: 257.2 g
-- Vet: 57.0 g
-- Koolhydraten: 346.1 g
+- Kcal: 2862.0
+- Eiwit: 248.9 g
+- Vet: 54.1 g
+- Koolhydraten: 306.8 g
 
 ### Rustdag
 
@@ -39,4 +39,4 @@
 - 15:45 bonenpan is aangepast naar meer bonen en minder paprika/tomaat voor meer verzadiging en vezels.
 - 18:30 roerbak houdt taugé strikt op maximaal 75 g per portie en gebruikt extra kip/groenten voor volume en smaak.
 - Rustdag 18:30 heeft geen bulgur, maar wel ketjap + sojasaus voor smaakbehoud.
-- Let op: met de huidige mealprep2-aanpassingen liggen dagtotalen boven de kcal-limiet en rustdag-koolhydraten boven target.
+- Let op: rustdag-koolhydraten (121.1 g) liggen iets boven het target van 100 g.

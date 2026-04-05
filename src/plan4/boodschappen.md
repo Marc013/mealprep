@@ -23,13 +23,13 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Koolhydraten
 
-- [ ] Biologisch Volkoren bulgur - AH: 580 g (droog)
+- [ ] Biologisch Volkoren bulgur - AH: 480 g (droog)
 - [ ] Volkoren brood: 320 g
 - [ ] Havervlokken: 140 g
 
 ## Groenten
 
-- [ ] Champignons: 775 g
+- [ ] Champignons: 675 g
 - [ ] Paprika: 2030 g
 - [ ] Ui: 1230 g
 - [ ] Tomaat: 1140 g
@@ -45,7 +45,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 
 ## Conserven en saus
 
-- [ ] Zwarte bonen (blik, uitgelekt): 870 g
+- [ ] Zwarte bonen (blik, uitgelekt): 550 g
 - [ ] Kidneybonen: 90 g
 - [ ] Tomaten Gezeefd Passata - Jumbo: 1040 g
 - [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 50 g
