@@ -176,10 +176,10 @@
             "description": "Sappige Mexicaanse gehakt-bonenpan en Indonesische kip-taugé ketjaproerbak met bulgur op trainingsdagen",
             "totals": {
                 "training": {
-                    "kcal": 3070.7,
-                    "protein": 257.2,
-                    "fat": 57.0,
-                    "carbs": 346.1
+                    "kcal": 2862.0,
+                    "protein": 248.9,
+                    "fat": 54.1,
+                    "carbs": 306.8
                 },
                 "rest": {
                     "kcal": 2008.7,
@@ -1797,12 +1797,12 @@
                 "training": {
                     "label": "Power Oats Bowl",
                     "macros": {
-                        "kcal": 475.7,
-                        "carbs": 74.9,
-                        "fat": 7.3,
-                        "protein": 26.7,
+                        "kcal": 461.0,
+                        "carbs": 67.8,
+                        "fat": 5.8,
+                        "protein": 27.5,
                         "computed": false,
-                        "verified_date": "2026-04-04"
+                        "verified_date": "2026-04-05"
                     },
                     "ingredients": [
                         {
@@ -1988,10 +1988,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 821.0,
-                        "carbs": 102.6,
-                        "fat": 20.7,
-                        "protein": 42.1,
+                        "kcal": 730.0,
+                        "carbs": 89.8,
+                        "fat": 19.7,
+                        "protein": 36.5,
                         "computed": false,
                         "verified_date": "2026-04-04"
                     },
@@ -2007,7 +2007,7 @@
                         },
                         {
                             "ingredient_id": "zwarte-bonen-blik",
-                            "amount_g": 180
+                            "amount_g": 100
                         },
                         {
                             "ingredient_id": "paprika",
@@ -2118,10 +2118,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 703.0,
-                        "carbs": 87.8,
-                        "fat": 9.5,
-                        "protein": 54.0,
+                        "kcal": 600.0,
+                        "carbs": 68.4,
+                        "fat": 9.1,
+                        "protein": 50.5,
                         "computed": false,
                         "verified_date": "2026-04-05"
                     },
@@ -2132,7 +2132,7 @@
                         },
                         {
                             "ingredient_id": "bulgur-ah",
-                            "amount_g": 85,
+                            "amount_g": 60,
                             "note": "droog"
                         },
                         {
@@ -2141,7 +2141,7 @@
                         },
                         {
                             "ingredient_id": "champignons",
-                            "amount_g": 100
+                            "amount_g": 75
                         },
                         {
                             "ingredient_id": "paprika",
