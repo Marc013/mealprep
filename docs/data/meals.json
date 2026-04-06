@@ -1842,12 +1842,12 @@
                 "rest": {
                     "label": "Volume Zuivelbowl",
                     "macros": {
-                        "kcal": 228.7,
-                        "carbs": 18.0,
-                        "fat": 5.3,
-                        "protein": 26.2,
+                        "kcal": 224.0,
+                        "carbs": 16.6,
+                        "fat": 4.3,
+                        "protein": 27.2,
                         "computed": false,
-                        "verified_date": "2026-04-04"
+                        "verified_date": "2026-04-06"
                     },
                     "ingredients": [
                         {
@@ -1863,16 +1863,12 @@
                             "amount_g": 60
                         },
                         {
-                            "ingredient_id": "havervlokken",
-                            "amount_g": 0
-                        },
-                        {
                             "ingredient_id": "pindakaas-100percent",
                             "amount_g": 5
                         },
                         {
                             "ingredient_id": "kaneelpoeder",
-                            "amount_g": 0.5
+                            "amount_g": 1
                         }
                     ]
                 }
@@ -2046,12 +2042,12 @@
                 "rest": {
                     "label": "Volumevariant zonder bulgur",
                     "macros": {
-                        "kcal": 515.0,
-                        "carbs": 29.9,
-                        "fat": 26.2,
-                        "protein": 33.3,
+                        "kcal": 422.0,
+                        "carbs": 25.5,
+                        "fat": 21.2,
+                        "protein": 27.0,
                         "computed": false,
-                        "verified_date": "2026-04-04"
+                        "verified_date": "2026-04-06"
                     },
                     "ingredients": [
                         {
@@ -2180,17 +2176,17 @@
                 "rest": {
                     "label": "Volumeroerbak zonder bulgur",
                     "macros": {
-                        "kcal": 381.0,
+                        "kcal": 351.0,
                         "carbs": 23.9,
-                        "fat": 8.6,
-                        "protein": 44.6,
+                        "fat": 8.1,
+                        "protein": 38.8,
                         "computed": false,
                         "verified_date": "2026-04-05"
                     },
                     "ingredients": [
                         {
                             "ingredient_id": "kipfilet",
-                            "amount_g": 150
+                            "amount_g": 125
                         },
                         {
                             "ingredient_id": "tauge",

@@ -5,48 +5,53 @@
 ## Trainingsdag (met bulgur)
 
 ### Macros per portie
-- Kcal: 730.0
+- Kcal: 730
 - Eiwitten: 36.5 g
 - Vetten: 19.7 g
 - Koolhydraten: 89.8 g
 
 ### Ingredienten
 - 80 g Rundergehakt - Jumbo
-- 100 g Zwarte bonen (blik, uitgelekt)
+- 60 g Bulgur - AH (droog)
+- 100 g Zwarte bonen (blik)
 - 90 g Paprika
 - 80 g Ui
 - 80 g Tomaat
 - 200 g Tomaten Gezeefd Passata - Jumbo
 - 5 g Knoflook
-- 2 g Olijfolie Extra Vierge
-- 2 g Komijnpoeder
+- 2 g Olijfolie - Jumbo
 - 1 g Chilivlokken
-- 60 g Biologisch Volkoren bulgur - AH (droog)
+- 2 g Komijnpoeder
 
 ## Rustdag (volume, zonder bulgur)
 
 ### Macros per portie
-- Kcal: 515.0
-- Eiwitten: 33.3 g
-- Vetten: 26.2 g
-- Koolhydraten: 29.9 g
+- Kcal: 422
+- Eiwitten: 27.0 g
+- Vetten: 21.2 g
+- Koolhydraten: 25.5 g
 
 ### Ingredienten
 - 120 g Rundergehakt - Jumbo
-- 50 g Zwarte bonen (blik, uitgelekt)
+- 50 g Zwarte bonen (blik)
 - 30 g Kidneybonen
 - 90 g Paprika
 - 70 g Ui
 - 40 g Tomaat
 - 80 g Tomaten Gezeefd Passata - Jumbo
 - 5 g Knoflook
-- 2 g Olijfolie Extra Vierge
-- 2 g Komijnpoeder
+- 2 g Olijfolie - Jumbo
 - 1 g Chilivlokken
+- 2 g Komijnpoeder
 
 ## Voorbereiding
-- Snijd alle groenten groot voor extra volume na opwarmen.
-- Kook bulgur apart.
+- Bak rundergehakt rul in olijfolie.
+- Voeg ui, paprika, tomaat en knoflook toe.
+
+## Bereiding
+1. Roer passata, bonen en kruiden erdoor en laat zacht sudderen.
+2. Voeg extra water toe als de saus te dik wordt, zodat de mealprep sappig blijft.
+3. Trainingsdag: kook bulgur apart en serveer erbij. Rustdag: serveer zonder bulgur.
 
 ## Bereiding
 1. Bak gehakt rul in olijfolie.

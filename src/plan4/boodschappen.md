@@ -18,7 +18,7 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 ## Vlees en eiwitbronnen
 
 - [ ] Rundergehakt - Jumbo: 680 g
-- [ ] Kipfilet: 1050 g
+- [ ] Kipfilet: 975 g
 - [ ] Tostiham - Jumbo: 700 g
 
 ## Koolhydraten
@@ -49,15 +49,15 @@ Uitgangspunt: 4 trainingsdagen en 3 rustdagen, inclusief vaste shakes om 07:30 e
 - [ ] Kidneybonen: 90 g
 - [ ] Tomaten Gezeefd Passata - Jumbo: 1040 g
 - [ ] Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: 50 g
+- [ ] Ketjap manis: 105 g
+- [ ] Olijfolie Extra Vierge: 49 g
 
 ## Kruiden en vetten
 
-- [ ] Olijfolie Extra Vierge: 49 g
-- [ ] Ketjap manis: 105 g
 - [ ] Komijnpoeder: 28 g
 - [ ] Chilivlokken: 7 g
 - [ ] Gerookt paprikapoeder: 7 g
-- [ ] Kaneelpoeder: 6 g
+- [ ] Kaneelpoeder: 7 g
 - [ ] Rozijnen: 40 g
 - [ ] Honing: 20 g
 - [ ] 100% Pindakaas: 15 g

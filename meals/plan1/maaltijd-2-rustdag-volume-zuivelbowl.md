@@ -7,10 +7,10 @@ title: "Volume Zuivelbowl — 10:15"
 **Rustdag** — wo, vr, zo
 
 <div class="macro-bar">
-  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">249</div></div>
-  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">26.1 g</div></div>
-  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">5.2 g</div></div>
-  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">20.2 g</div></div>
+  <div class="macro-badge kcal"><div class="label">Kcal</div><div class="value">224</div></div>
+  <div class="macro-badge protein"><div class="label">Eiwitten</div><div class="value">27.2 g</div></div>
+  <div class="macro-badge fat"><div class="label">Vetten</div><div class="value">4.3 g</div></div>
+  <div class="macro-badge carbs"><div class="label">Koolhydraten</div><div class="value">16.1 g</div></div>
 </div>
 
 ## Ingrediënten
@@ -20,7 +20,6 @@ title: "Volume Zuivelbowl — 10:15"
 | Skyr              |       185 g |
 | Halfvolle yoghurt |       100 g |
 | Bosvruchten       |       100 g |
-| Havervlokken      |         5 g |
 | 100% pindakaas    |         5 g |
 | Kaneel            |         1 g |
 

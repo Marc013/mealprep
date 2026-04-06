@@ -12,7 +12,7 @@
 - 95 g Skyr
 - 200 g Halfvolle yoghurt
 - 100 g Bosvruchten
-- 35 g Havervlokken
+- 38 g Havervlokken
 - 90 g Banaan
 - 10 g Rozijnen
 - 5 g Honing
@@ -21,18 +21,16 @@
 ## Rustdag — Volume Zuivelbowl
 
 ### Macros per portie
-- Kcal: 228.7
-- Eiwitten: 26.2 g
-- Vetten: 5.3 g
-- Koolhydraten: 18.0 g
+- Kcal: 204
+- Eiwitten: 24.6 g
+- Vetten: 1.3 g
+- Koolhydraten: 19.8 g
 
 ### Ingredienten
-- 185 g Skyr
-- 100 g Halfvolle yoghurt
-- 60 g Bosvruchten
-- 30 g Banaan
-- 5 g 100% Pindakaas
-- 0.5 g Kaneelpoeder
+- 220 g Skyr
+- 80 g Halfvolle yoghurt
+- 100 g Bosvruchten
+- 2 g Kaneelpoeder
 
 ## Voorbereiding
 - Zet alle ingredienten in gramschaaltjes klaar.
