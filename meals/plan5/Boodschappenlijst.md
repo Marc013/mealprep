@@ -15,8 +15,8 @@ Uitgangspunt:
 | Sinaasappel                                    |              6 stuks |
 | Franse Kwark Mager - Jumbo                     |                870 g |
 | Halfvolle yoghurt                              |               1020 g |
-| Diepvries bosvruchten (Jumbo)                  |                420 g |
-| Banaan                                         |                345 g |
+| Diepvries bosvruchten (Jumbo)                  |                450 g |
+| Banaan                                         |                255 g |
 | Havervlokken                                   |                 60 g |
 | Honing                                         |                 15 g |
 | 100% Pindakaas                                 |                  6 g |
@@ -24,9 +24,9 @@ Uitgangspunt:
 | Eieren                                         |             15 stuks |
 | Tostiham - Jumbo                               |                219 g |
 | Jumbo Gekookte Hamreepjes                      |                300 g |
-| Champignons                                    |               1935 g |
-| Prei                                           |               2070 g |
-| Ui (rauw)                                      |                840 g |
+| Champignons                                    |               1920 g |
+| Prei                                           |               1860 g |
+| Ui (rauw)                                      |                810 g |
 | Knoflook, rauw                                 |                 72 g |
 | Olijfolie Extra Vierge                         |                 78 g |
 | Volkoren brood                                 |                240 g |
@@ -36,7 +36,7 @@ Uitgangspunt:
 | Kerriepoeder                                   |                 24 g |
 | Kurkumapoeder                                  |                 24 g |
 | Biologisch Volkoren bulgur - AH                |                600 g |
-| Rundergehakt - Jumbo                           |                210 g |
+| Rundergehakt - Jumbo                           |                240 g |
 | Kikkererwten (blik, uitgelekt)                 |                120 g |
 | Chilivlokken                                   |                  6 g |
 | Zout                                           |           naar smaak |

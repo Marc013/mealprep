@@ -8,24 +8,24 @@ Deze eenpansmaaltijd heeft een warm Arabisch profiel door kerrie, kurkuma en chi
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Biologisch Volkoren bulgur - AH
-- Kcal: 748.8
-- Eiwitten: 34.3 g
-- Vetten: 15.0 g
-- Koolhydraten: 109.7 g
+- Kcal: 728.6
+- Eiwitten: 34.1 g
+- Vetten: 14.8 g
+- Koolhydraten: 105.0 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen extra zetmeelbron, volume uit groente
-- Kcal: 357.8
-- Eiwitten: 21.3 g
-- Vetten: 18.3 g
-- Koolhydraten: 22.4 g
+- Kcal: 348.1
+- Eiwitten: 20.1 g
+- Vetten: 21.5 g
+- Koolhydraten: 15.4 g
 
 ## Ingredienten per portie
 Basis trainingsdag:
 - 40 g Rundergehakt - Jumbo
 - 40 g Kikkererwten (blik, uitgelekt)
-- 220 g Prei
-- 100 g Champignons
+- 100 g Prei
+- 150 g Champignons
 - 90 g Ui (rauw)
 - 6 g Knoflook, rauw
 - 90 g Halfvolle yoghurt
@@ -39,9 +39,9 @@ Trainingsdag toevoeging per portie:
 - 100 g Biologisch Volkoren bulgur - AH
 
 Basis rustdag:
-- 30 g Rundergehakt - Jumbo
-- 270 g Prei
-- 245 g Champignons
+- 50 g Rundergehakt - Jumbo
+- 100 g Prei
+- 180 g Champignons
 - 30 g Ui (rauw)
 - 6 g Knoflook, rauw
 - 60 g Halfvolle yoghurt

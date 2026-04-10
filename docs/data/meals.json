@@ -227,16 +227,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2736.7,
-                    "protein": 189.7,
-                    "fat": 50.9,
-                    "carbs": 352.5
+                    "kcal": 2680.6,
+                    "protein": 188.32,
+                    "fat": 50.6,
+                    "carbs": 340.7
                 },
                 "rest": {
-                    "kcal": 1836.4,
-                    "protein": 189.9,
-                    "fat": 66.2,
-                    "carbs": 99.7
+                    "kcal": 1786.2,
+                    "protein": 189.4,
+                    "fat": 63.1,
+                    "carbs": 97.6
                 }
             },
             "schedule": [
@@ -2361,10 +2361,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 373.8,
-                        "carbs": 58.5,
+                        "kcal": 343.4,
+                        "carbs": 51.5,
                         "fat": 5.2,
-                        "protein": 21.0
+                        "protein": 20.7
                     },
                     "ingredients": [
                         {
@@ -2377,11 +2377,11 @@
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "120 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Banaan",
-                            "amount": "110 g"
+                            "amount": "60 g"
                         },
                         {
                             "name": "Havervlokken",
@@ -2400,10 +2400,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 178.8,
-                        "carbs": 17.4,
-                        "fat": 3.2,
-                        "protein": 19.5
+                        "kcal": 208.1,
+                        "carbs": 22.9,
+                        "fat": 3.4,
+                        "protein": 20.2
                     },
                     "ingredients": [
                         {
@@ -2416,11 +2416,7 @@
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "20 g"
-                        },
-                        {
-                            "name": "Banaan",
-                            "amount": "5 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Havervlokken",
@@ -2647,10 +2643,10 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 748.8,
-                        "carbs": 109.7,
-                        "fat": 15.0,
-                        "protein": 34.3
+                        "kcal": 728.6,
+                        "carbs": 105.0,
+                        "fat": 14.8,
+                        "protein": 34.1
                     },
                     "ingredients": [
                         {
@@ -2663,11 +2659,11 @@
                         },
                         {
                             "name": "Prei",
-                            "amount": "220 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "100 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Ui (rauw)",
@@ -2710,23 +2706,23 @@
                 "rest": {
                     "label": "Volumevariant zonder zetmeel",
                     "macros": {
-                        "kcal": 357.8,
-                        "carbs": 22.4,
-                        "fat": 18.3,
-                        "protein": 21.3
+                        "kcal": 348.1,
+                        "carbs": 15.4,
+                        "fat": 21.5,
+                        "protein": 20.1
                     },
                     "ingredients": [
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "30 g"
+                            "amount": "50 g"
                         },
                         {
                             "name": "Prei",
-                            "amount": "270 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "245 g"
+                            "amount": "180 g"
                         },
                         {
                             "name": "Ui (rauw)",
@@ -3569,17 +3565,17 @@
                         {
                             "id": "champ5",
                             "name": "Champignons",
-                            "amount": "1935 g"
+                            "amount": "1920 g"
                         },
                         {
                             "id": "prei5",
                             "name": "Prei",
-                            "amount": "2070 g"
+                            "amount": "1860 g"
                         },
                         {
                             "id": "ui5",
                             "name": "Ui (rauw)",
-                            "amount": "840 g"
+                            "amount": "810 g"
                         },
                         {
                             "id": "knoflook5",
@@ -3629,7 +3625,7 @@
                         {
                             "id": "gehakt5",
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "210 g"
+                            "amount": "240 g"
                         },
                         {
                             "id": "kikker5",
