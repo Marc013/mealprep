@@ -227,15 +227,15 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2686.6,
-                    "protein": 189.9,
-                    "fat": 43.5,
-                    "carbs": 355.8
+                    "kcal": 2742.5,
+                    "protein": 189.8,
+                    "fat": 44.3,
+                    "carbs": 368.5
                 },
                 "rest": {
-                    "kcal": 1815.3,
-                    "protein": 163.0,
-                    "fat": 76.3,
+                    "kcal": 1737.6,
+                    "protein": 188.9,
+                    "fat": 56.3,
                     "carbs": 99.8
                 }
             },
@@ -2356,20 +2356,20 @@
             "id": "ontbijt-plan5",
             "title": "Kwark Bosvruchten Bowl",
             "time": "10:15",
-            "description": "Verplichte 10:15-combinatie met kwark, halfvolle yoghurt, diepvries bosvruchten, banaan en kaneelpoeder.",
+            "description": "Verplichte 10:15-combinatie met kwark, halfvolle yoghurt, diepvries bosvruchten, banaan, kaneel en havervlokken; training met honing, rust met kleine 100% pindakaas-toevoeging.",
             "variants": {
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 317.9,
-                        "carbs": 45.8,
-                        "fat": 4.3,
-                        "protein": 21.1
+                        "kcal": 373.8,
+                        "carbs": 58.5,
+                        "fat": 5.2,
+                        "protein": 21.0
                     },
                     "ingredients": [
                         {
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "140 g"
+                            "amount": "110 g"
                         },
                         {
                             "name": "Halfvolle yoghurt",
@@ -2384,6 +2384,14 @@
                             "amount": "110 g"
                         },
                         {
+                            "name": "Havervlokken",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "5 g"
+                        },
+                        {
                             "name": "Kaneelpoeder",
                             "amount": "2 g"
                         }
@@ -2392,10 +2400,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 175.8,
-                        "carbs": 18.3,
-                        "fat": 2.3,
-                        "protein": 19.2
+                        "kcal": 178.8,
+                        "carbs": 17.4,
+                        "fat": 3.2,
+                        "protein": 19.5
                     },
                     "ingredients": [
                         {
@@ -2404,15 +2412,23 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "60 g"
-                        },
-                        {
-                            "name": "Diepvries bosvruchten (Jumbo)",
                             "amount": "40 g"
                         },
                         {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "20 g"
+                        },
+                        {
                             "name": "Banaan",
-                            "amount": "15 g"
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Havervlokken",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "100% Pindakaas",
+                            "amount": "2 g"
                         },
                         {
                             "name": "Kaneelpoeder",
@@ -2425,6 +2441,9 @@
                 "Weeg kwark en yoghurt direct in een kom af.",
                 "Voeg de bosvruchten toe en roer los door.",
                 "Snijd de banaan in plakjes en verdeel over de bowl.",
+                "Voeg havervlokken toe.",
+                "Trainingsdag: drizzle honing over de bowl.",
+                "Rustdag: verdeel 100% pindakaas in kleine toefjes.",
                 "Werk af met kaneelpoeder."
             ]
         },
@@ -2480,15 +2499,19 @@
                 "rest": {
                     "label": "Met avocado",
                     "macros": {
-                        "kcal": 437.2,
-                        "carbs": 10.3,
-                        "fat": 33.7,
-                        "protein": 17.8
+                        "kcal": 356.5,
+                        "carbs": 11.3,
+                        "fat": 12.8,
+                        "protein": 43.4
                     },
                     "ingredients": [
                         {
                             "name": "Tostiham - Jumbo",
                             "amount": "30 g"
+                        },
+                        {
+                            "name": "Coco Vite Vloeibaar Eiwit",
+                            "amount": "140 g"
                         },
                         {
                             "name": "Champignons",
@@ -2500,7 +2523,7 @@
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "25 g"
+                            "amount": "20 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -2508,7 +2531,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "8 g"
+                            "amount": "3 g"
                         },
                         {
                             "name": "Kaas 45+",
@@ -2516,17 +2539,18 @@
                         },
                         {
                             "name": "Avocado",
-                            "amount": "120 g"
+                            "amount": "30 g"
                         }
                     ]
                 }
             },
             "preparation": [
                 "Snijd champignons, courgette en ui in stukken of halve ringen.",
-                "Hak de knoflook fijn en weeg ham, kaas en vetbron af.",
+                "Hak de knoflook fijn en weeg ham, vloeibaar eiwit, kaas en vetbron af.",
                 "Bak ui en knoflook kort aan in olie.",
                 "Voeg champignons en courgette toe en bak gaar met beet.",
-                "Roer tostiham en kaas erdoor.",
+                "Roer tostiham en vloeibaar eiwit erdoor tot het eiwit net gestold is.",
+                "Roer daarna de kaas erdoor.",
                 "Trainingsdag: serveer met brood. Rustdag: werk af met avocado."
             ]
         },
@@ -3524,22 +3548,37 @@
                         {
                             "id": "kwark5",
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "960 g"
+                            "amount": "870 g"
                         },
                         {
                             "id": "yoghurt5",
                             "name": "Halfvolle yoghurt",
-                            "amount": "1080 g"
+                            "amount": "1020 g"
                         },
                         {
                             "id": "bos5",
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "480 g"
+                            "amount": "420 g"
                         },
                         {
                             "id": "banaan5",
                             "name": "Banaan",
-                            "amount": "375 g"
+                            "amount": "345 g"
+                        },
+                        {
+                            "id": "haver5",
+                            "name": "Havervlokken",
+                            "amount": "60 g"
+                        },
+                        {
+                            "id": "honing5",
+                            "name": "Honing",
+                            "amount": "15 g"
+                        },
+                        {
+                            "id": "pindakaas5",
+                            "name": "100% Pindakaas",
+                            "amount": "6 g"
                         },
                         {
                             "id": "kaneel5",
@@ -3550,6 +3589,11 @@
                             "id": "ham5",
                             "name": "Tostiham - Jumbo",
                             "amount": "180 g"
+                        },
+                        {
+                            "id": "eiwit5",
+                            "name": "Coco Vite Vloeibaar Eiwit",
+                            "amount": "420 g"
                         },
                         {
                             "id": "champ5",
@@ -3564,7 +3608,7 @@
                         {
                             "id": "ui5",
                             "name": "Ui (rauw)",
-                            "amount": "1005 g"
+                            "amount": "990 g"
                         },
                         {
                             "id": "knoflook5",
@@ -3574,7 +3618,7 @@
                         {
                             "id": "olijf5",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "117 g"
+                            "amount": "102 g"
                         },
                         {
                             "id": "kaas5",
@@ -3589,7 +3633,7 @@
                         {
                             "id": "avocado5",
                             "name": "Avocado",
-                            "amount": "360 g"
+                            "amount": "90 g"
                         },
                         {
                             "id": "varken5",

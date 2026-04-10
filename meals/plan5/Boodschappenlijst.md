@@ -13,20 +13,24 @@ Uitgangspunt:
 | Perfect Whey Protein - XXL Nutrition           |                600 g |
 | Appel                                          |              6 stuks |
 | Sinaasappel                                    |              6 stuks |
-| Franse Kwark Mager - Jumbo                     |                960 g |
-| Halfvolle yoghurt                              |               1080 g |
-| Diepvries bosvruchten (Jumbo)                  |                480 g |
-| Banaan                                         |                375 g |
+| Franse Kwark Mager - Jumbo                     |                870 g |
+| Halfvolle yoghurt                              |               1020 g |
+| Diepvries bosvruchten (Jumbo)                  |                420 g |
+| Banaan                                         |                345 g |
+| Havervlokken                                   |                 60 g |
+| Honing                                         |                 15 g |
+| 100% Pindakaas                                 |                  6 g |
 | Kaneelpoeder                                   |                 12 g |
 | Tostiham - Jumbo                               |                180 g |
+| Coco Vite Vloeibaar Eiwit                      |                420 g |
 | Champignons                                    |               3165 g |
 | Courgette                                      |               4260 g |
-| Ui (rauw)                                      |               1005 g |
+| Ui (rauw)                                      |                990 g |
 | Knoflook, rauw                                 |                 96 g |
-| Olijfolie Extra Vierge                         |                117 g |
+| Olijfolie Extra Vierge                         |                102 g |
 | Kaas 45+                                       |                 48 g |
 | Volkoren brood                                 |                360 g |
-| Avocado                                        |                360 g |
+| Avocado                                        |                 90 g |
 | Varkenshaas                                    |                270 g |
 | Teriyaki Saus - Jumbo                          |                 84 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                114 g |
