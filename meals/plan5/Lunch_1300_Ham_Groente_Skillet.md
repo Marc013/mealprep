@@ -8,22 +8,22 @@ Ultra-eenvoudig: 1 pan, maximaal 15 minuten van voorbereiding tot serveren. Geen
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 390.3
-- Eiwitten: 25.0 g
-- Vetten: 16.7 g
-- Koolhydraten: 32.9 g
+- Kcal: 385
+- Eiwitten: 27.6 g
+- Vetten: 14.2 g
+- Koolhydraten: 33.5 g
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 406.9
-- Eiwitten: 42.1 g
-- Vetten: 23.0 g
-- Koolhydraten: 2.7 g
+- Kcal: 381
+- Eiwitten: 44.1 g
+- Vetten: 21.1 g
+- Koolhydraten: 3.7 g
 
 ## Ingredienten per portie
 Trainingsdag:
 - 2 stuks Eieren (heel)
-- 33 g Tostiham - Jumbo
+- 50 g Tostiham - Jumbo
 - 80 g Volkoren brood
 - 3 g Olijfolie Extra Vierge
 

@@ -7,22 +7,22 @@
 Deze eenpansmaaltijd heeft een warm Arabisch profiel door kerrie, kurkuma en chili met een romige yoghurt-sojabasis die sappig blijft na opwarmen. Trainingsdag krijgt bulgur voor glycogeenaanvulling; rustdag houdt koolhydraten strak met hoog groentevolume.
 
 ## Trainingsdag-variant
-- Koolhydraatkeuze: 100 g Biologisch Volkoren bulgur - AH
-- Kcal: 728.6
-- Eiwitten: 34.1 g
-- Vetten: 14.8 g
-- Koolhydraten: 105.0 g
+- Koolhydraatkeuze: 90 g Biologisch Volkoren bulgur - AH
+- Kcal: 723
+- Eiwitten: 34.6 g
+- Vetten: 16.5 g
+- Koolhydraten: 98.9 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen extra zetmeelbron, volume uit groente
-- Kcal: 348.1
-- Eiwitten: 20.1 g
-- Vetten: 21.5 g
-- Koolhydraten: 15.4 g
+- Kcal: 343
+- Eiwitten: 22 g
+- Vetten: 17.6 g
+- Koolhydraten: 21.5 g
 
 ## Ingredienten per portie
 Basis trainingsdag:
-- 40 g Rundergehakt - Jumbo
+- 50 g Rundergehakt - Jumbo
 - 40 g Kikkererwten (blik, uitgelekt)
 - 100 g Prei
 - 150 g Champignons
@@ -36,16 +36,16 @@ Basis trainingsdag:
 - 2 g Kurkumapoeder
 
 Trainingsdag toevoeging per portie:
-- 100 g Biologisch Volkoren bulgur - AH
+- 90 g Biologisch Volkoren bulgur - AH
 
 Basis rustdag:
-- 50 g Rundergehakt - Jumbo
+- 60 g Rundergehakt - Jumbo
 - 100 g Prei
 - 180 g Champignons
-- 30 g Ui (rauw)
+- 60 g Ui (rauw)
 - 6 g Knoflook, rauw
 - 60 g Halfvolle yoghurt
-- 10 g Olijfolie Extra Vierge
+- 4 g Olijfolie Extra Vierge
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 1 g Chilivlokken
 - 2 g Kerriepoeder

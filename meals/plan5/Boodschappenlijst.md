@@ -15,28 +15,28 @@ Uitgangspunt:
 | Sinaasappel                                    |              6 stuks |
 | Franse Kwark Mager - Jumbo                     |                870 g |
 | Halfvolle yoghurt                              |               1020 g |
-| Diepvries bosvruchten (Jumbo)                  |                450 g |
-| Banaan                                         |                255 g |
-| Havervlokken                                   |                 60 g |
+| Diepvries bosvruchten (Jumbo)                  |                600 g |
+| Banaan                                         |                180 g |
+| Havervlokken                                   |                 90 g |
 | Honing                                         |                 15 g |
 | 100% Pindakaas                                 |                  6 g |
 | Kaneelpoeder                                   |                 12 g |
 | Eieren                                         |             15 stuks |
-| Tostiham - Jumbo                               |                219 g |
+| Tostiham - Jumbo                               |                270 g |
 | Jumbo Gekookte Hamreepjes                      |                300 g |
-| Champignons                                    |               1920 g |
-| Prei                                           |               1860 g |
-| Ui (rauw)                                      |                810 g |
+| Champignons                                    |               1815 g |
+| Prei                                           |               1200 g |
+| Ui (rauw)                                      |                960 g |
 | Knoflook, rauw                                 |                 72 g |
-| Olijfolie Extra Vierge                         |                 78 g |
+| Olijfolie Extra Vierge                         |                 54 g |
 | Volkoren brood                                 |                240 g |
-| Varkenshaas                                    |                369 g |
-| Teriyaki Saus - Jumbo                          |                153 g |
+| Varkenshaas                                    |                495 g |
+| Teriyaki Saus - Jumbo                          |                105 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                114 g |
 | Kerriepoeder                                   |                 24 g |
 | Kurkumapoeder                                  |                 24 g |
-| Biologisch Volkoren bulgur - AH                |                600 g |
-| Rundergehakt - Jumbo                           |                240 g |
+| Biologisch Volkoren bulgur - AH                |                570 g |
+| Rundergehakt - Jumbo                           |                330 g |
 | Kikkererwten (blik, uitgelekt)                 |                120 g |
 | Chilivlokken                                   |                  6 g |
 | Zout                                           |           naar smaak |

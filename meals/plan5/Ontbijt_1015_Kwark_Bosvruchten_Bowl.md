@@ -8,25 +8,25 @@ Deze bowl voldoet exact aan de verplichte 10:15-combinatie (kwark, halfvolle yog
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 343.4
-- Eiwitten: 20.7 g
-- Vetten: 5.2 g
-- Koolhydraten: 51.5 g
+- Kcal: 346
+- Eiwitten: 21.6 g
+- Vetten: 4.0 g
+- Koolhydraten: 51.8 g
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 208.1
-- Eiwitten: 20.2 g
-- Vetten: 3.4 g
-- Koolhydraten: 22.9 g
+- Kcal: 202
+- Eiwitten: 20.6 g
+- Vetten: 2.4 g
+- Koolhydraten: 21.1 g
 
 ## Ingredienten per portie
 Trainingsdag:
 - 110 g Franse Kwark Mager - Jumbo
 - 150 g Halfvolle yoghurt
-- 150 g Diepvries bosvruchten (Jumbo)
+- 100 g Diepvries bosvruchten (Jumbo)
 - 60 g Banaan
-- 15 g Havervlokken
+- 20 g Havervlokken
 - 5 g Honing
 - 2 g Kaneelpoeder
 
@@ -34,7 +34,7 @@ Rustdag:
 - 180 g Franse Kwark Mager - Jumbo
 - 40 g Halfvolle yoghurt
 - 100 g Diepvries bosvruchten (Jumbo)
-- 5 g Havervlokken
+- 10 g Havervlokken
 - 2 g 100% Pindakaas
 - 2 g Kaneelpoeder
 

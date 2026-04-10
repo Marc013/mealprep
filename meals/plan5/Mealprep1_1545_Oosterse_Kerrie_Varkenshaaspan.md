@@ -8,27 +8,27 @@ Dit is een uitgesproken oosters gekruide eenpansmaaltijd met kerrie, kurkuma, so
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Biologisch Volkoren bulgur - AH
-- Kcal: 683.3
-- Eiwitten: 29.6 g
-- Vetten: 7.9 g
-- Koolhydraten: 113.3 g
+- Kcal: 683
+- Eiwitten: 35.7 g
+- Vetten: 7.6 g
+- Koolhydraten: 106.7 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen extra zetmeelbron, volume uit groente
-- Kcal: 288.1
-- Eiwitten: 28.0 g
-- Vetten: 9.2 g
-- Koolhydraten: 18.6 g
+- Kcal: 275
+- Eiwitten: 26.5 g
+- Vetten: 6.7 g
+- Koolhydraten: 24.4 g
 
 ## Ingredienten per portie
 Basis trainingsdag:
-- 35 g Varkenshaas
-- 150 g Champignons
+- 75 g Varkenshaas
+- 125 g Champignons
 - 100 g Prei
 - 120 g Ui (rauw)
 - 6 g Knoflook, rauw
-- 4 g Olijfolie Extra Vierge
-- 38 g Teriyaki Saus - Jumbo
+- 3 g Olijfolie Extra Vierge
+- 20 g Teriyaki Saus - Jumbo
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
@@ -37,13 +37,13 @@ Trainingsdag toevoeging per portie:
 - 100 g Biologisch Volkoren bulgur - AH
 
 Basis rustdag:
-- 88 g Varkenshaas
+- 90 g Varkenshaas
 - 150 g Champignons
 - 100 g Prei
-- 40 g Ui (rauw)
+- 50 g Ui (rauw)
 - 6 g Knoflook, rauw
-- 4 g Olijfolie Extra Vierge
-- 13 g Teriyaki Saus - Jumbo
+- 3 g Olijfolie Extra Vierge
+- 15 g Teriyaki Saus - Jumbo
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
