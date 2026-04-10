@@ -54,9 +54,14 @@ const Utils = {
 };
 
 const DataDerivations = {
-    dayCounts: {
+    defaultDayCounts: {
         training: 4,
         rest: 3
+    },
+
+    getDayCounts(data, planId) {
+        const plan = data?.weekplans?.[planId];
+        return plan?.dayCounts || this.defaultDayCounts;
     },
 
     getMealMacros(meal, dayType) {
@@ -231,6 +236,7 @@ const DataDerivations = {
 
     calculateShopping(data, planId) {
         const plan = data.weekplans[planId];
+        const dayCounts = this.getDayCounts(data, planId);
         const aggregated = new Map();
 
         const addIngredient = (ingredient, multiplier) => {
@@ -261,7 +267,7 @@ const DataDerivations = {
             aggregated.set(parsedIngredient.name, existing);
         };
 
-        Object.entries(this.dayCounts).forEach(([dayType, count]) => {
+        Object.entries(dayCounts).forEach(([dayType, count]) => {
             plan.schedule.forEach(slot => {
                 const meal = data.meals[slot.meal];
                 if (!meal) return;
@@ -872,9 +878,9 @@ const ShoppingApp = {
         const container = document.getElementById('shopping-lists');
         if (!container || !this.data) return;
 
-        let categories = DataDerivations.calculateShopping(this.data, this.currentPlan);
+        let categories = this.data.shopping?.[this.currentPlan]?.categories || [];
         if (!categories.length) {
-            categories = this.data.shopping?.[this.currentPlan]?.categories || [];
+            categories = DataDerivations.calculateShopping(this.data, this.currentPlan);
         }
         if (!categories.length) return;
 

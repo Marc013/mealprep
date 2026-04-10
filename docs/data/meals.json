@@ -216,6 +216,57 @@
                     "fixed": true
                 }
             ]
+        },
+        "plan5": {
+            "id": "plan5",
+            "name": "Kerrie Varkenshaas & Arabische Gehaktpan",
+            "description": "Kruidig 6-daags schema met twee sappige eenpangerechten, zonder passata, komijn, paprika of tomaat.",
+            "dayCounts": {
+                "training": 3,
+                "rest": 3
+            },
+            "totals": {
+                "training": {
+                    "kcal": 2686.6,
+                    "protein": 189.9,
+                    "fat": 43.5,
+                    "carbs": 355.8
+                },
+                "rest": {
+                    "kcal": 1815.3,
+                    "protein": 163.0,
+                    "fat": 76.3,
+                    "carbs": 99.8
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend-plan5",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan5"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan5"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan5"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan5"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond-plan5",
+                    "fixed": true
+                }
+            ]
         }
     },
     "meals": {
@@ -2238,6 +2289,499 @@
                 "Blus af met ketjap manis en sojasaus, roer goed door.",
                 "Trainingsdag: serveer op gekookte bulgur. Rustdag: direct serveren zonder bulgur."
             ]
+        },
+        "shake-ochtend-plan5": {
+            "id": "shake-ochtend-plan5",
+            "title": "Whey Shake + Appel",
+            "time": "07:30",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Appel",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker of groot glas.",
+                "Voeg 300 ml koud water toe.",
+                "Schud krachtig tot volledig glad.",
+                "Eet de appel los bij de shake."
+            ]
+        },
+        "shake-avond-plan5": {
+            "id": "shake-avond-plan5",
+            "title": "Whey Shake + Sinaasappel",
+            "time": "21:15",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Sinaasappel",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker of groot glas.",
+                "Voeg 300 ml koud water toe.",
+                "Schud krachtig tot volledig glad.",
+                "Pel de sinaasappel en eet los bij de shake."
+            ]
+        },
+        "ontbijt-plan5": {
+            "id": "ontbijt-plan5",
+            "title": "Kwark Bosvruchten Bowl",
+            "time": "10:15",
+            "description": "Verplichte 10:15-combinatie met kwark, halfvolle yoghurt, diepvries bosvruchten, banaan en kaneelpoeder.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 317.9,
+                        "carbs": 45.8,
+                        "fat": 4.3,
+                        "protein": 21.1
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "140 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "110 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 175.8,
+                        "carbs": 18.3,
+                        "fat": 2.3,
+                        "protein": 19.2
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg kwark en yoghurt direct in een kom af.",
+                "Voeg de bosvruchten toe en roer los door.",
+                "Snijd de banaan in plakjes en verdeel over de bowl.",
+                "Werk af met kaneelpoeder."
+            ]
+        },
+        "lunch-plan5": {
+            "id": "lunch-plan5",
+            "title": "Ham Groente Skillet",
+            "time": "13:00",
+            "description": "Snelle 30-minuten lunch uit 1 pan; trainingsdag met brood, rustdag met avocado.",
+            "variants": {
+                "training": {
+                    "label": "Met volkoren brood",
+                    "macros": {
+                        "kcal": 447.3,
+                        "carbs": 60.3,
+                        "fat": 10.0,
+                        "protein": 26.4
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Tostiham - Jumbo",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "3 g"
+                        },
+                        {
+                            "name": "Kaas 45+",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "120 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Met avocado",
+                    "macros": {
+                        "kcal": 437.2,
+                        "carbs": 10.3,
+                        "fat": 33.7,
+                        "protein": 17.8
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Tostiham - Jumbo",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "25 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Kaas 45+",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Avocado",
+                            "amount": "120 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd champignons, courgette en ui in stukken of halve ringen.",
+                "Hak de knoflook fijn en weeg ham, kaas en vetbron af.",
+                "Bak ui en knoflook kort aan in olie.",
+                "Voeg champignons en courgette toe en bak gaar met beet.",
+                "Roer tostiham en kaas erdoor.",
+                "Trainingsdag: serveer met brood. Rustdag: werk af met avocado."
+            ]
+        },
+        "mealprep1-plan5": {
+            "id": "mealprep1-plan5",
+            "title": "Oosterse Kerrie Varkenshaaspan",
+            "time": "15:45",
+            "description": "Sappige kerrie-kurkumapan met varkenshaas, courgette en champignons; zonder tomaat of paprika.",
+            "variants": {
+                "training": {
+                    "label": "Met bulgur",
+                    "macros": {
+                        "kcal": 657.4,
+                        "carbs": 106.0,
+                        "fat": 8.1,
+                        "protein": 29.8
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Varkenshaas",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "175 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "28 g"
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Biologisch Volkoren bulgur - AH",
+                            "amount": "100 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Volumevariant zonder zetmeel",
+                    "macros": {
+                        "kcal": 334.2,
+                        "carbs": 15.0,
+                        "fat": 16.0,
+                        "protein": 26.9
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Varkenshaas",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "260 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "280 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "12 g"
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd varkenshaas in dunne reepjes en snijd de groenten grof.",
+                "Meng sojasaus, kerrie, kurkuma en voor training ook teriyaki met een klein scheutje water.",
+                "Bak het vlees kort aan in olie.",
+                "Voeg ui, knoflook, champignons en courgette toe en roerbak stevig.",
+                "Schenk de saus erbij en laat kort inkoken tot glanzend.",
+                "Trainingsdag: serveer met bulgur. Rustdag: direct portioneren zonder extra koolhydraatbron."
+            ]
+        },
+        "mealprep2-plan5": {
+            "id": "mealprep2-plan5",
+            "title": "Arabische Kurkuma Gehaktpan",
+            "time": "18:30",
+            "description": "Gekruide gehaktpan met yoghurt-sojabasis voor een rijke saus zonder te droog of te nat te worden.",
+            "variants": {
+                "training": {
+                    "label": "Met bulgur",
+                    "macros": {
+                        "kcal": 729.0,
+                        "carbs": 105.7,
+                        "fat": 15.0,
+                        "protein": 33.6
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Biologisch Volkoren bulgur - AH",
+                            "amount": "100 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Volumevariant zonder zetmeel",
+                    "macros": {
+                        "kcal": 333.1,
+                        "carbs": 18.1,
+                        "fat": 18.3,
+                        "protein": 20.1
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Courgette",
+                            "amount": "300 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Knoflook, rauw",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd alle groenten grof zodat ze na opwarmen structuur houden.",
+                "Meng yoghurt met sojasaus, chili, kerrie en kurkuma tot een gladde saus.",
+                "Bak gehakt rul in olie.",
+                "Voeg ui, knoflook, champignons en courgette toe en bak verder.",
+                "Voeg op trainingsdagen ook kikkererwten toe.",
+                "Roer de yoghurtsaus erdoor op laag vuur zodat de pan smeuïg blijft.",
+                "Trainingsdag: serveer met bulgur. Rustdag: direct portioneren zonder extra koolhydraatbron."
+            ]
         }
     },
     "shopping": {
@@ -2951,6 +3495,166 @@
                             "id": "pindakaas4",
                             "name": "100% Pindakaas",
                             "amount": "15 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        "plan5": {
+            "name": "Kerrie Varkenshaas & Arabische Gehaktpan",
+            "categories": [
+                {
+                    "name": "Jumbo / overig",
+                    "items": [
+                        {
+                            "id": "whey5",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "appel5",
+                            "name": "Appel",
+                            "amount": "6 stuks"
+                        },
+                        {
+                            "id": "sinaasappel5",
+                            "name": "Sinaasappel",
+                            "amount": "6 stuks"
+                        },
+                        {
+                            "id": "kwark5",
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "960 g"
+                        },
+                        {
+                            "id": "yoghurt5",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "1080 g"
+                        },
+                        {
+                            "id": "bos5",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "480 g"
+                        },
+                        {
+                            "id": "banaan5",
+                            "name": "Banaan",
+                            "amount": "375 g"
+                        },
+                        {
+                            "id": "kaneel5",
+                            "name": "Kaneelpoeder",
+                            "amount": "12 g"
+                        },
+                        {
+                            "id": "ham5",
+                            "name": "Tostiham - Jumbo",
+                            "amount": "180 g"
+                        },
+                        {
+                            "id": "champ5",
+                            "name": "Champignons",
+                            "amount": "3165 g"
+                        },
+                        {
+                            "id": "courg5",
+                            "name": "Courgette",
+                            "amount": "4260 g"
+                        },
+                        {
+                            "id": "ui5",
+                            "name": "Ui (rauw)",
+                            "amount": "1005 g"
+                        },
+                        {
+                            "id": "knoflook5",
+                            "name": "Knoflook, rauw",
+                            "amount": "96 g"
+                        },
+                        {
+                            "id": "olijf5",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "117 g"
+                        },
+                        {
+                            "id": "kaas5",
+                            "name": "Kaas 45+",
+                            "amount": "48 g"
+                        },
+                        {
+                            "id": "brood5",
+                            "name": "Volkoren brood",
+                            "amount": "360 g"
+                        },
+                        {
+                            "id": "avocado5",
+                            "name": "Avocado",
+                            "amount": "360 g"
+                        },
+                        {
+                            "id": "varken5",
+                            "name": "Varkenshaas",
+                            "amount": "270 g"
+                        },
+                        {
+                            "id": "teriyaki5",
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "84 g"
+                        },
+                        {
+                            "id": "soja5",
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "114 g"
+                        },
+                        {
+                            "id": "kerrie5",
+                            "name": "Kerriepoeder",
+                            "amount": "24 g"
+                        },
+                        {
+                            "id": "kurkuma5",
+                            "name": "Kurkumapoeder",
+                            "amount": "24 g"
+                        },
+                        {
+                            "id": "bulgur5",
+                            "name": "Biologisch Volkoren bulgur - AH",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "gehakt5",
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "210 g"
+                        },
+                        {
+                            "id": "kikker5",
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "chili5",
+                            "name": "Chilivlokken",
+                            "amount": "6 g"
+                        },
+                        {
+                            "id": "zout5",
+                            "name": "Zout",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "peper5",
+                            "name": "Peper",
+                            "amount": "naar smaak"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lidl",
+                    "items": [
+                        {
+                            "id": "lidl5",
+                            "name": "n.v.t.",
+                            "amount": "0 g"
                         }
                     ]
                 }
