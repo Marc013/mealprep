@@ -1,6 +1,6 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-04-10
+Laatst bijgewerkt: 2026-04-10 (plan 5 update: courgette vervangen door prei, nieuwe lunch)
 
 ## Toegevoegd voor plan 3
 
@@ -249,3 +249,38 @@ Standaard portie gebruikt in plan 4: 150 g per stuk.
 | Eiwitten        | 1,1 g     |
 | Vetten          | 0,1 g     |
 | Koolhydraten    | 9,0 g     |
+
+### Eieren (heel)
+
+- Bron: NEVO standaardwaarde ei heel rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 138 kcal  |
+| Eiwitten        | 10,4 g    |
+| Vetten          | 9,7 g     |
+| Koolhydraten    | 0,5 g     |
+
+Standaard portie gebruikt in plan 5: 2 stuks training (±120 g), 3 stuks rust (±180 g).
+
+### Jumbo Gekookte Hamreepjes
+
+- Bron: NEVO standaardwaarde gekookte magere ham (ter verificatie: https://www.jumbo.com/producten/jumbo-gekookte-hamreepjes-2-x-100-g-694180ZK)
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 95 kcal   |
+| Eiwitten        | 17,0 g    |
+| Vetten          | 2,0 g     |
+| Koolhydraten    | 0,5 g     |
+
+### Prei
+
+- Bron: NEVO standaardwaarde prei rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 26 kcal   |
+| Eiwitten        | 1,5 g     |
+| Vetten          | 0,3 g     |
+| Koolhydraten    | 4,0 g     |

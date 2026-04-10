@@ -21,16 +21,15 @@ Uitgangspunt:
 | Honing                                         |                 15 g |
 | 100% Pindakaas                                 |                  6 g |
 | Kaneelpoeder                                   |                 12 g |
-| Tostiham - Jumbo                               |                180 g |
-| Coco Vite Vloeibaar Eiwit                      |                420 g |
-| Champignons                                    |               3165 g |
-| Courgette                                      |               4260 g |
-| Ui (rauw)                                      |                990 g |
-| Knoflook, rauw                                 |                 96 g |
+| Eieren                                         |             15 stuks |
+| Tostiham - Jumbo                               |                219 g |
+| Jumbo Gekookte Hamreepjes                      |                300 g |
+| Champignons                                    |               2400 g |
+| Prei                                           |               2895 g |
+| Ui (rauw)                                      |                720 g |
+| Knoflook, rauw                                 |                 72 g |
 | Olijfolie Extra Vierge                         |                102 g |
-| Kaas 45+                                       |                 48 g |
-| Volkoren brood                                 |                360 g |
-| Avocado                                        |                 90 g |
+| Volkoren brood                                 |                240 g |
 | Varkenshaas                                    |                270 g |
 | Teriyaki Saus - Jumbo                          |                 84 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                114 g |

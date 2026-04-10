@@ -8,23 +8,23 @@ Deze eenpansmaaltijd heeft een warm Arabisch profiel door kerrie, kurkuma en chi
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Biologisch Volkoren bulgur - AH
-- Kcal: 729.0
-- Eiwitten: 33.6 g
+- Kcal: 748.8
+- Eiwitten: 34.3 g
 - Vetten: 15.0 g
-- Koolhydraten: 105.7 g
+- Koolhydraten: 109.7 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen extra zetmeelbron, volume uit groente
-- Kcal: 333.1
-- Eiwitten: 20.1 g
+- Kcal: 357.8
+- Eiwitten: 21.3 g
 - Vetten: 18.3 g
-- Koolhydraten: 18.1 g
+- Koolhydraten: 22.4 g
 
 ## Ingredienten per portie
 Basis trainingsdag:
 - 40 g Rundergehakt - Jumbo
 - 40 g Kikkererwten (blik, uitgelekt)
-- 220 g Courgette
+- 220 g Prei
 - 100 g Champignons
 - 90 g Ui (rauw)
 - 6 g Knoflook, rauw
@@ -40,8 +40,8 @@ Trainingsdag toevoeging per portie:
 
 Basis rustdag:
 - 30 g Rundergehakt - Jumbo
-- 300 g Courgette
-- 220 g Champignons
+- 270 g Prei
+- 245 g Champignons
 - 30 g Ui (rauw)
 - 6 g Knoflook, rauw
 - 60 g Halfvolle yoghurt
@@ -61,7 +61,7 @@ Rustdag toevoeging per portie:
 
 ## Bereiding
 1. Bak rundergehakt in olijfolie rul en licht gekaramelliseerd.
-2. Voeg ui en knoflook toe, daarna champignons en courgette; bak 6-8 minuten.
+2. Voeg ui en knoflook toe, daarna champignons en prei; bak 6-8 minuten.
 3. Voeg (trainingsdag) kikkererwten toe en verwarm kort mee.
 4. Zet het vuur lager, roer de yoghurtsaus erdoor en laat kort binden zonder hard te koken.
 5. Trainingsdag: serveer met gare bulgur.
@@ -75,7 +75,7 @@ Rustdag toevoeging per portie:
 Bronvolgorde toegepast via projectbronnen.
 - Rundergehakt - Jumbo: src/voedingswaarde_handmatig.md
 - Kikkererwten (blik, uitgelekt): src/ontbrekende_macros_lijst.md
-- Courgette: src/ontbrekende_macros_lijst.md
+- Prei: src/ontbrekende_macros_lijst.md
 - Champignons: src/ontbrekende_macros_lijst.md
 - Ui (rauw): src/ontbrekende_macros_lijst.md
 - Knoflook, rauw: src/voedingswaardetabel_referentie.md

@@ -1,71 +1,55 @@
-# Ham Groente Skillet
+# Spiegelei Ham Pan
 
 ## Tijdstip
 13:00 uur
 
 ## Waarom deze maaltijd past
-Deze lunch blijft praktisch: 1 pan, snelle snijhandeling en direct eten binnen 30 minuten totaal. De trainingsvariant gebruikt brood als eenvoudige koolhydraatopslag; de rustvariant verhoogt verzadiging met avocado en extra olijfolie zonder koolhydraatpiek.
+Ultra-eenvoudig: 1 pan, maximaal 15 minuten van voorbereiding tot serveren. Geen snijwerk nodig. De trainingsvariant voegt volkoren brood toe voor koolhydraten; de rustvariant stapelt meer ham voor extra eiwit zonder koolhydraatpiek.
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 447.3
-- Eiwitten: 26.4 g
-- Vetten: 10.0 g
-- Koolhydraten: 60.3 g
+- Kcal: 390.3
+- Eiwitten: 25.0 g
+- Vetten: 16.7 g
+- Koolhydraten: 32.9 g
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 356.5
-- Eiwitten: 43.4 g
-- Vetten: 12.8 g
-- Koolhydraten: 11.3 g
+- Kcal: 406.9
+- Eiwitten: 42.1 g
+- Vetten: 23.0 g
+- Koolhydraten: 2.7 g
 
 ## Ingredienten per portie
 Trainingsdag:
-- 30 g Tostiham - Jumbo
-- 150 g Champignons
-- 220 g Courgette
-- 70 g Ui (rauw)
-- 4 g Knoflook, rauw
+- 2 stuks Eieren (heel)
+- 33 g Tostiham - Jumbo
+- 80 g Volkoren brood
 - 3 g Olijfolie Extra Vierge
-- 8 g Kaas 45+
-- 120 g Volkoren brood
 
 Rustdag:
-- 30 g Tostiham - Jumbo
-- 140 g Coco Vite Vloeibaar Eiwit
-- 150 g Champignons
-- 180 g Courgette
-- 20 g Ui (rauw)
-- 4 g Knoflook, rauw
+- 3 stuks Eieren (heel)
+- 40 g Tostiham - Jumbo
+- 100 g Jumbo Gekookte Hamreepjes
 - 3 g Olijfolie Extra Vierge
-- 8 g Kaas 45+
-- 30 g Avocado
 
 ## Voorbereiding
-- Snijd champignons, courgette en ui in halve ringen.
-- Hak knoflook fijn.
-- Weeg ham, vloeibaar eiwit, kaas en olie af.
-- Leg trainingsdag brood of rustdag avocado direct klaar.
+- Leg eieren, ham en brood klaar op het aanrecht.
 
 ## Bereiding
-1. Verhit olie in een koekenpan en fruit ui en knoflook 1-2 minuten.
-2. Voeg champignons en courgette toe en bak 5-6 minuten tot beetgaar.
-3. Voeg tostiham en vloeibaar eiwit toe, roerbak tot het eiwit net gestold is.
-4. Roer de kaas erdoor.
-4. Trainingsdag: serveer met volkoren brood.
-5. Rustdag: serveer met in blokjes gesneden avocado bovenop de warme skillet.
+1. Verhit olie in een koekenpan op middelhoog vuur.
+2. Leg tostiham (en rustdag: ook gekookte hamreepjes) in de pan en bak 1–2 minuten.
+3. Schuif ham naar de rand en braak de eieren naast de ham.
+4. Bak de eieren als spiegeleieren in 3–4 minuten zonder omdraaien.
+5. Trainingsdag: serveer met volkoren brood.
+6. Rustdag: direct serveren.
 
 ## Macro-notitie
 Bronvolgorde toegepast via projectbronnen.
+- Eieren (heel): src/ontbrekende_macros_lijst.md (NEVO standaardwaarde)
 - Tostiham - Jumbo: src/voedingswaarde_handmatig.md
-- Champignons: src/ontbrekende_macros_lijst.md
-- Courgette: src/ontbrekende_macros_lijst.md
-- Ui (rauw): src/ontbrekende_macros_lijst.md
-- Knoflook, rauw: src/voedingswaardetabel_referentie.md
-- Olijfolie Extra Vierge: src/voedingswaarde_handmatig.md
-- Kaas 45+: src/ontbrekende_macros_lijst.md
+- Jumbo Gekookte Hamreepjes: src/ontbrekende_macros_lijst.md (NEVO standaardwaarde)
 - Volkoren brood: src/ontbrekende_macros_lijst.md
-- Avocado: src/voedingswaardetabel_referentie.md
-- Coco Vite Vloeibaar Eiwit: src/ingredients.json (projectdatabase)
-- Knoflook, rauw 4 g bijdrage: 5.6 kcal / 0.2 g E / 0.0 g V / 1.1 g KH
+- Olijfolie Extra Vierge: src/voedingswaarde_handmatig.md
+- Eieren 120 g bijdrage (training): 165.6 kcal / 12.5 g E / 11.6 g V / 0.6 g KH
+- Eieren 180 g bijdrage (rust): 248.4 kcal / 18.7 g E / 17.5 g V / 0.9 g KH
