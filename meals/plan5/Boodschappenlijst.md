@@ -24,14 +24,14 @@ Uitgangspunt:
 | Eieren                                         |             15 stuks |
 | Tostiham - Jumbo                               |                219 g |
 | Jumbo Gekookte Hamreepjes                      |                300 g |
-| Champignons                                    |               2400 g |
-| Prei                                           |               2895 g |
-| Ui (rauw)                                      |                720 g |
+| Champignons                                    |               1935 g |
+| Prei                                           |               2070 g |
+| Ui (rauw)                                      |                840 g |
 | Knoflook, rauw                                 |                 72 g |
-| Olijfolie Extra Vierge                         |                102 g |
+| Olijfolie Extra Vierge                         |                 78 g |
 | Volkoren brood                                 |                240 g |
-| Varkenshaas                                    |                270 g |
-| Teriyaki Saus - Jumbo                          |                 84 g |
+| Varkenshaas                                    |                369 g |
+| Teriyaki Saus - Jumbo                          |                153 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                114 g |
 | Kerriepoeder                                   |                 24 g |
 | Kurkumapoeder                                  |                 24 g |

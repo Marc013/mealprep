@@ -129,16 +129,16 @@
             "description": "Volumineuze Mexicaanse rundergehaktchili en Arabische kipfilet in passatasaus",
             "totals": {
                 "training": {
-                    "kcal": 2783,
-                    "protein": 220,
-                    "fat": 58,
-                    "carbs": 311
+                    "kcal": 2731.2,
+                    "protein": 188.9,
+                    "fat": 50.8,
+                    "carbs": 352.4
                 },
                 "rest": {
-                    "kcal": 1856,
-                    "protein": 207,
-                    "fat": 62,
-                    "carbs": 100
+                    "kcal": 1766.6,
+                    "protein": 189.9,
+                    "fat": 59.7,
+                    "carbs": 99.1
                 }
             },
             "schedule": [
@@ -227,16 +227,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2725.1,
-                    "protein": 189.8,
-                    "fat": 51.0,
-                    "carbs": 349.1
+                    "kcal": 2736.7,
+                    "protein": 189.7,
+                    "fat": 50.9,
+                    "carbs": 352.5
                 },
                 "rest": {
-                    "kcal": 1835.8,
+                    "kcal": 1836.4,
                     "protein": 189.9,
-                    "fat": 66.5,
-                    "carbs": 99.6
+                    "fat": 66.2,
+                    "carbs": 99.7
                 }
             },
             "schedule": [
@@ -2525,27 +2525,27 @@
                 "training": {
                     "label": "Met bulgur",
                     "macros": {
-                        "kcal": 677.2,
-                        "carbs": 110.0,
-                        "fat": 8.1,
-                        "protein": 30.5
+                        "kcal": 683.3,
+                        "carbs": 113.3,
+                        "fat": 7.9,
+                        "protein": 29.6
                     },
                     "ingredients": [
                         {
                             "name": "Varkenshaas",
-                            "amount": "30 g"
+                            "amount": "35 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "175 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Prei",
-                            "amount": "220 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "80 g"
+                            "amount": "120 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -2557,7 +2557,7 @@
                         },
                         {
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "28 g"
+                            "amount": "38 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -2580,23 +2580,23 @@
                 "rest": {
                     "label": "Volumevariant zonder zetmeel",
                     "macros": {
-                        "kcal": 357.3,
-                        "carbs": 19.1,
-                        "fat": 16.0,
+                        "kcal": 288.1,
+                        "carbs": 18.6,
+                        "fat": 9.2,
                         "protein": 28.0
                     },
                     "ingredients": [
                         {
                             "name": "Varkenshaas",
-                            "amount": "60 g"
+                            "amount": "88 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "280 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Prei",
-                            "amount": "255 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Ui (rauw)",
@@ -2608,7 +2608,11 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "12 g"
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "13 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3565,17 +3569,17 @@
                         {
                             "id": "champ5",
                             "name": "Champignons",
-                            "amount": "2400 g"
+                            "amount": "1935 g"
                         },
                         {
                             "id": "prei5",
                             "name": "Prei",
-                            "amount": "2895 g"
+                            "amount": "2070 g"
                         },
                         {
                             "id": "ui5",
                             "name": "Ui (rauw)",
-                            "amount": "720 g"
+                            "amount": "840 g"
                         },
                         {
                             "id": "knoflook5",
@@ -3585,7 +3589,7 @@
                         {
                             "id": "olijf5",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "102 g"
+                            "amount": "78 g"
                         },
                         {
                             "id": "brood5",
@@ -3595,12 +3599,12 @@
                         {
                             "id": "varken5",
                             "name": "Varkenshaas",
-                            "amount": "270 g"
+                            "amount": "369 g"
                         },
                         {
                             "id": "teriyaki5",
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "84 g"
+                            "amount": "153 g"
                         },
                         {
                             "id": "soja5",

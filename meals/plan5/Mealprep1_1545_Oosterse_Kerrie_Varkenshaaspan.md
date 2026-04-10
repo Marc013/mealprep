@@ -8,27 +8,27 @@ Dit is een uitgesproken oosters gekruide eenpansmaaltijd met kerrie, kurkuma, so
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Biologisch Volkoren bulgur - AH
-- Kcal: 677.2
-- Eiwitten: 30.5 g
-- Vetten: 8.1 g
-- Koolhydraten: 110.0 g
+- Kcal: 683.3
+- Eiwitten: 29.6 g
+- Vetten: 7.9 g
+- Koolhydraten: 113.3 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen extra zetmeelbron, volume uit groente
-- Kcal: 357.3
+- Kcal: 288.1
 - Eiwitten: 28.0 g
-- Vetten: 16.0 g
-- Koolhydraten: 19.1 g
+- Vetten: 9.2 g
+- Koolhydraten: 18.6 g
 
 ## Ingredienten per portie
 Basis trainingsdag:
-- 30 g Varkenshaas
-- 175 g Champignons
-- 220 g Prei
-- 80 g Ui (rauw)
+- 35 g Varkenshaas
+- 150 g Champignons
+- 100 g Prei
+- 120 g Ui (rauw)
 - 6 g Knoflook, rauw
 - 4 g Olijfolie Extra Vierge
-- 28 g Teriyaki Saus - Jumbo
+- 38 g Teriyaki Saus - Jumbo
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
@@ -37,12 +37,13 @@ Trainingsdag toevoeging per portie:
 - 100 g Biologisch Volkoren bulgur - AH
 
 Basis rustdag:
-- 60 g Varkenshaas
-- 280 g Champignons
-- 255 g Prei
+- 88 g Varkenshaas
+- 150 g Champignons
+- 100 g Prei
 - 40 g Ui (rauw)
 - 6 g Knoflook, rauw
-- 12 g Olijfolie Extra Vierge
+- 4 g Olijfolie Extra Vierge
+- 13 g Teriyaki Saus - Jumbo
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
@@ -52,7 +53,7 @@ Rustdag toevoeging per portie:
 
 ## Voorbereiding
 - Snijd varkenshaas in dunne reepjes.
-- Snijd prei in schuine ringen en champignons in kwarten voor extra textuur na opwarmen.
+- Snijd prei in schuine ringen en beperk prei bewust tot 100 g per portie; vul volume verder met champignons.
 - Meng sojasaus, teriyaki (alleen trainingsdag), kerrie en kurkuma met een klein scheutje water tot een dunne sausbasis.
 
 ## Bereiding
