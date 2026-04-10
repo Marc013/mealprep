@@ -1,6 +1,6 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-04-04
+Laatst bijgewerkt: 2026-04-10
 
 ## Toegevoegd voor plan 3
 
@@ -203,3 +203,49 @@ Standaard portie gebruikt in plan 4: 150 g per stuk.
 | Eiwitten        | 1,6 g     |
 | Vetten          | 0,1 g     |
 | Koolhydraten    | 20,1 g    |
+
+## Toegevoegd voor plan 5
+
+### Diepvries bosvruchten (Jumbo)
+
+- Bron: productetiket / bestaande projectdatabase
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 42 kcal   |
+| Eiwitten        | 0,9 g     |
+| Vetten          | 0,3 g     |
+| Koolhydraten    | 8,0 g     |
+
+### Kerriepoeder
+
+- Bron: NEVO standaardwaarde currypoeder
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 325 kcal  |
+| Eiwitten        | 12,7 g    |
+| Vetten          | 14,0 g    |
+| Koolhydraten    | 58,0 g    |
+
+### Kurkumapoeder
+
+- Bron: NEVO standaardwaarde kurkuma gemalen
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 312 kcal  |
+| Eiwitten        | 9,7 g     |
+| Vetten          | 3,3 g     |
+| Koolhydraten    | 67,0 g    |
+
+### Ui (rauw)
+
+- Bron: NEVO standaardwaarde ui rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 40 kcal   |
+| Eiwitten        | 1,1 g     |
+| Vetten          | 0,1 g     |
+| Koolhydraten    | 9,0 g     |
