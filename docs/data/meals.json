@@ -278,16 +278,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2813.7,
-                    "protein": 205.0,
-                    "fat": 42.4,
-                    "carbs": 379.1
+                    "kcal": 2835.4,
+                    "protein": 210.5,
+                    "fat": 42.0,
+                    "carbs": 380.1
                 },
                 "rest": {
-                    "kcal": 1869.7,
-                    "protein": 201.7,
-                    "fat": 65.3,
-                    "carbs": 89.6
+                    "kcal": 1864.8,
+                    "protein": 204.7,
+                    "fat": 64.0,
+                    "carbs": 90.2
                 }
             },
             "schedule": [
@@ -2967,36 +2967,36 @@
             "id": "lunch-plan6",
             "title": "Ham-Champignon Pan",
             "time": "13:00",
-            "description": "Snelle 1-pan lunch met passata-sojasaus, klaar binnen 30 minuten.",
+            "description": "Ultrasimpele 1-pan lunch met yoghurt-sojasaus, klaar binnen 30 minuten inclusief eten.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 523.4,
-                        "carbs": 66.3,
-                        "fat": 12.6,
-                        "protein": 29.4
+                        "kcal": 545.1,
+                        "carbs": 67.3,
+                        "fat": 12.2,
+                        "protein": 34.9
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
                             "amount": "300 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "40 g"
+                            "name": "Halfvolle yoghurt",
+                            "amount": "60 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "5 g"
+                            "amount": "6 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "10 g"
+                            "amount": "8 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -3007,31 +3007,43 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 300.4,
-                        "carbs": 5.5,
-                        "fat": 14.2,
-                        "protein": 28.7
+                        "kcal": 295.5,
+                        "carbs": 6.1,
+                        "fat": 12.9,
+                        "protein": 31.7
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "450 g"
+                            "amount": "350 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "60 g"
+                            "name": "Halfvolle yoghurt",
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "5 g"
+                            "amount": "6 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "12 g"
+                            "amount": "9 g"
+                        },
+                        {
+                            "name": "Extra champignons",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Extra halfvolle yoghurt",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Extra olijfolie",
+                            "amount": "1 g"
                         }
                     ]
                 }
@@ -3039,8 +3051,9 @@
             "preparation": [
                 "Snijd champignons en zet alle ingredienten klaar.",
                 "Kook op trainingsdagen rijst vooraf.",
-                "Bak champignons en ham, voeg passata en sojasaus toe voor een snelle saus.",
-                "Training: rijst omscheppen. Rust: extra champignons laten slinken voor volume."
+                "Roer yoghurt en sojasaus alvast tot een snelle saus.",
+                "Bak champignons en ham, voeg saus toe en warm kort door.",
+                "Training: rijst erdoor. Rust: extra champignons en yoghurt toevoegen voor volume."
             ]
         },
         "mealprep1-plan6": {
@@ -4197,7 +4210,7 @@
                         {
                             "id": "yoghurt6",
                             "name": "Halfvolle yoghurt",
-                            "amount": "1600 g"
+                            "amount": "2080 g"
                         },
                         {
                             "id": "kwark6",
@@ -4232,7 +4245,7 @@
                         {
                             "id": "ham6",
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "560 g"
+                            "amount": "700 g"
                         },
                         {
                             "id": "kip6",
@@ -4242,7 +4255,7 @@
                         {
                             "id": "champ6",
                             "name": "Champignons",
-                            "amount": "6830 g"
+                            "amount": "6530 g"
                         },
                         {
                             "id": "paprika6",
@@ -4265,14 +4278,9 @@
                             "amount": "84 g"
                         },
                         {
-                            "id": "passata6",
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "340 g"
-                        },
-                        {
                             "id": "soja6",
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "161 g"
+                            "amount": "168 g"
                         },
                         {
                             "id": "rijst6",
@@ -4282,7 +4290,7 @@
                         {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "209 g"
+                            "amount": "192 g"
                         },
                         {
                             "id": "teriyaki6",
