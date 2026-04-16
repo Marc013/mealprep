@@ -278,16 +278,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2835.4,
-                    "protein": 210.5,
-                    "fat": 42.0,
-                    "carbs": 380.1
+                    "kcal": 2871.6,
+                    "protein": 217.6,
+                    "fat": 41.0,
+                    "carbs": 385.0
                 },
                 "rest": {
-                    "kcal": 1864.8,
-                    "protein": 204.7,
-                    "fat": 64.0,
-                    "carbs": 90.2
+                    "kcal": 1859.5,
+                    "protein": 205.5,
+                    "fat": 62.6,
+                    "carbs": 91.3
                 }
             },
             "schedule": [
@@ -2967,20 +2967,20 @@
             "id": "lunch-plan6",
             "title": "Ham-Champignon Pan",
             "time": "13:00",
-            "description": "Ultrasimpele 1-pan lunch met yoghurt-sojasaus, klaar binnen 30 minuten inclusief eten.",
+            "description": "Ultrasimpele 1-pan lunch zonder rijst/pasta/bulgur, klaar binnen 30 minuten inclusief eten.",
             "variants": {
                 "training": {
-                    "label": "Rijstvariant",
+                    "label": "Broodvariant",
                     "macros": {
-                        "kcal": 545.1,
-                        "carbs": 67.3,
-                        "fat": 12.2,
-                        "protein": 34.9
+                        "kcal": 581.3,
+                        "carbs": 72.2,
+                        "fat": 11.2,
+                        "protein": 42.0
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "100 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Champignons",
@@ -2988,7 +2988,7 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "60 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -2996,21 +2996,21 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "8 g"
+                            "amount": "4 g"
                         },
                         {
-                            "name": "Witte rijst (droog)",
-                            "amount": "80 g"
+                            "name": "Volkoren brood",
+                            "amount": "170 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 295.5,
-                        "carbs": 6.1,
-                        "fat": 12.9,
-                        "protein": 31.7
+                        "kcal": 290.2,
+                        "carbs": 7.2,
+                        "fat": 11.5,
+                        "protein": 32.5
                     },
                     "ingredients": [
                         {
@@ -3023,7 +3023,7 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3031,29 +3031,17 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "9 g"
-                        },
-                        {
-                            "name": "Extra champignons",
-                            "amount": "50 g"
-                        },
-                        {
-                            "name": "Extra halfvolle yoghurt",
-                            "amount": "20 g"
-                        },
-                        {
-                            "name": "Extra olijfolie",
-                            "amount": "1 g"
+                            "amount": "7 g"
                         }
                     ]
                 }
             },
             "preparation": [
                 "Snijd champignons en zet alle ingredienten klaar.",
-                "Kook op trainingsdagen rijst vooraf.",
+                "Leg op trainingsdagen volkoren brood direct klaar.",
                 "Roer yoghurt en sojasaus alvast tot een snelle saus.",
                 "Bak champignons en ham, voeg saus toe en warm kort door.",
-                "Training: rijst erdoor. Rust: extra champignons en yoghurt toevoegen voor volume."
+                "Training: direct serveren met brood. Rust: direct serveren met extra volume uit champignons en yoghurt."
             ]
         },
         "mealprep1-plan6": {
@@ -4245,7 +4233,7 @@
                         {
                             "id": "ham6",
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "700 g"
+                            "amount": "620 g"
                         },
                         {
                             "id": "kip6",
@@ -4285,12 +4273,17 @@
                         {
                             "id": "rijst6",
                             "name": "Witte rijst (droog)",
-                            "amount": "1240 g"
+                            "amount": "920 g"
+                        },
+                        {
+                            "id": "brood6",
+                            "name": "Volkoren brood",
+                            "amount": "680 g"
                         },
                         {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "192 g"
+                            "amount": "170 g"
                         },
                         {
                             "id": "teriyaki6",

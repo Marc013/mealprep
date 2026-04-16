@@ -21,7 +21,7 @@ Uitgangspunt:
 | Rozijnen                                       |                 40 g |
 | Honing                                         |                 20 g |
 | 100% pindakaas naturel                         |                 45 g |
-| Jumbo Gekookte Hamreepjes                      |                700 g |
+| Jumbo Gekookte Hamreepjes                      |                620 g |
 | Kipfilet (rauw)                                |               1050 g |
 | Champignons                                    |               6530 g |
 | Paprika                                        |                910 g |
@@ -29,8 +29,9 @@ Uitgangspunt:
 | Ui (rauw)                                      |                140 g |
 | Knoflook, rauw                                 |                 84 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                168 g |
-| Witte rijst (droog)                            |               1240 g |
-| Olijfolie Extra Vierge                         |                192 g |
+| Witte rijst (droog)                            |                920 g |
+| Volkoren brood                                 |                680 g |
+| Olijfolie Extra Vierge                         |                170 g |
 | Teriyaki Saus - Jumbo                          |                 95 g |
 | Kerriepoeder                                   |                 14 g |
 | Kurkumapoeder                                  |                 14 g |
