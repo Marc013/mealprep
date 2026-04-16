@@ -270,24 +270,24 @@
         },
         "plan6": {
             "id": "plan6",
-            "name": "Mexicaanse & Arabische Kip",
-            "description": "Havermout-zuivel ontbijt, snelle ham-champignon lunch en twee sappige gekruide kippannen.",
+            "name": "Teriyaki & Romige Kerrie Kip",
+            "description": "Havermout-zuivel ontbijt, snelle ham-champignon lunch en twee nieuwe sappige oosterse kippannen.",
             "dayCounts": {
                 "training": 4,
                 "rest": 3
             },
             "totals": {
                 "training": {
-                    "kcal": 2854.9,
-                    "protein": 212.0,
-                    "fat": 48.2,
-                    "carbs": 367.9
+                    "kcal": 2813.7,
+                    "protein": 205.0,
+                    "fat": 42.4,
+                    "carbs": 379.1
                 },
                 "rest": {
-                    "kcal": 1850.3,
-                    "protein": 206.2,
-                    "fat": 57.5,
-                    "carbs": 94.4
+                    "kcal": 1869.7,
+                    "protein": 201.7,
+                    "fat": 65.3,
+                    "carbs": 89.6
                 }
             },
             "schedule": [
@@ -3045,42 +3045,42 @@
         },
         "mealprep1-plan6": {
             "id": "mealprep1-plan6",
-            "title": "Mexicaanse Kip Pan",
+            "title": "Oosterse Teriyaki Kippan",
             "time": "15:45",
-            "description": "Sterk gekruide Mexicaanse kip met passata en extra groentevolume op rustdagen.",
+            "description": "Sterk gekruide oosterse kip met teriyaki-sojasaus en veel groentevolume op rustdagen.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 701.6,
-                        "carbs": 95.9,
-                        "fat": 13.5,
-                        "protein": 42.5
+                        "kcal": 682.7,
+                        "carbs": 109.9,
+                        "fat": 8.6,
+                        "protein": 35.1
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "110 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
-                            "amount": "105 g"
+                            "amount": "120 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "200 g"
+                            "amount": "250 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "80 g"
-                        },
-                        {
-                            "name": "Ui (rauw)",
-                            "amount": "30 g"
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
                             "amount": "60 g"
+                        },
+                        {
+                            "name": "Prei",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "20 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3091,47 +3091,43 @@
                             "amount": "6 g"
                         },
                         {
-                            "name": "Chilipoeder (Chilivlokken)",
-                            "amount": "2 g"
-                        },
-                        {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
-                        },
-                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "10 g"
+                            "amount": "6 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 428.4,
-                        "carbs": 19.3,
-                        "fat": 16.6,
-                        "protein": 40.8
+                        "kcal": 409.0,
+                        "carbs": 16.6,
+                        "fat": 18.8,
+                        "protein": 35.2
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "110 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "350 g"
+                            "amount": "400 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "160 g"
+                            "amount": "60 g"
                         },
                         {
-                            "name": "Ui (rauw)",
-                            "amount": "30 g"
+                            "name": "Prei",
+                            "amount": "100 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "name": "Halfvolle yoghurt",
                             "amount": "80 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "5 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3142,49 +3138,42 @@
                             "amount": "6 g"
                         },
                         {
-                            "name": "Chilipoeder (Chilivlokken)",
-                            "amount": "2 g"
-                        },
-                        {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g"
-                        },
-                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "14 g"
+                            "amount": "16 g"
                         }
                     ]
                 }
             },
             "preparation": [
-                "Marineer kip met chili, komijn en knoflook.",
-                "Bak kip aan en voeg ui, paprika en champignons toe.",
-                "Roer passata en sojasaus erdoor tot een glanzende saus.",
-                "Training: serveren met rijst. Rust: extra groenten toevoegen voor volume."
+                "Snijd kip, champignons, paprika en prei.",
+                "Meng teriyaki, sojasaus en knoflook.",
+                "Bak kip en groenten krachtig in olie.",
+                "Voeg saus toe en laat glanzen.",
+                "Training: rijst erdoor. Rust: extra champignons, prei en yoghurt toevoegen voor volume en smeuigheid."
             ]
         },
         "mealprep2-plan6": {
             "id": "mealprep2-plan6",
-            "title": "Arabische Kip Pan",
+            "title": "Romige Kerrie Kippan",
             "time": "18:30",
-            "description": "Arabisch gekruide kip met komijn, kurkuma en kaneel in een sappige passata-basis.",
+            "description": "Romige kerrie-kurkuma kip met yoghurt-sojasaus en extra volume op rustdagen.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 695.7,
-                        "carbs": 106.2,
-                        "fat": 9.7,
-                        "protein": 39.4
+                        "kcal": 673.4,
+                        "carbs": 103.4,
+                        "fat": 8.8,
+                        "protein": 39.8
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "90 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
-                            "amount": "115 g"
+                            "amount": "110 g"
                         },
                         {
                             "name": "Prei",
@@ -3196,10 +3185,14 @@
                         },
                         {
                             "name": "Champignons",
-                            "amount": "200 g"
+                            "amount": "220 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "name": "Ui (rauw)",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
                             "amount": "80 g"
                         },
                         {
@@ -3211,7 +3204,7 @@
                             "amount": "6 g"
                         },
                         {
-                            "name": "Komijnpoeder",
+                            "name": "Kerriepoeder",
                             "amount": "2 g"
                         },
                         {
@@ -3219,27 +3212,23 @@
                             "amount": "2 g"
                         },
                         {
-                            "name": "Kaneelpoeder",
-                            "amount": "1 g"
-                        },
-                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "6 g"
+                            "amount": "4 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 379.7,
-                        "carbs": 20.4,
-                        "fat": 12.7,
-                        "protein": 36.7
+                        "kcal": 418.6,
+                        "carbs": 18.2,
+                        "fat": 18.3,
+                        "protein": 37.7
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "90 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Prei",
@@ -3247,15 +3236,19 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "120 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "350 g"
+                            "amount": "400 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "100 g"
+                            "name": "Ui (rauw)",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3266,7 +3259,7 @@
                             "amount": "6 g"
                         },
                         {
-                            "name": "Komijnpoeder",
+                            "name": "Kerriepoeder",
                             "amount": "2 g"
                         },
                         {
@@ -3274,22 +3267,18 @@
                             "amount": "2 g"
                         },
                         {
-                            "name": "Kaneelpoeder",
-                            "amount": "1 g"
-                        },
-                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "10 g"
+                            "amount": "15 g"
                         }
                     ]
                 }
             },
             "preparation": [
-                "Bak kip kort aan in olie.",
-                "Voeg prei, paprika en champignons toe en bak mee.",
-                "Voeg knoflook, komijn, kurkuma en kaneel toe.",
-                "Roer passata en sojasaus erdoor en laat sudderen.",
-                "Training: serveren met rijst. Rust: extra groentevolume zonder rijst."
+                "Snijd kip, ui, prei, paprika en champignons.",
+                "Roer yoghurt, sojasaus, knoflook, kerrie en kurkuma tot saus.",
+                "Bak kip en groenten kort aan.",
+                "Voeg de saus toe en laat zacht binden.",
+                "Training: serveer met rijst. Rust: extra champignons toevoegen voor volume."
             ]
         }
     },
@@ -4185,7 +4174,7 @@
             ]
         },
         "plan6": {
-            "name": "Mexicaanse & Arabische Kip",
+            "name": "Teriyaki & Romige Kerrie Kip",
             "categories": [
                 {
                     "name": "Jumbo / overig",
@@ -4208,7 +4197,7 @@
                         {
                             "id": "yoghurt6",
                             "name": "Halfvolle yoghurt",
-                            "amount": "800 g"
+                            "amount": "1600 g"
                         },
                         {
                             "id": "kwark6",
@@ -4248,27 +4237,27 @@
                         {
                             "id": "kip6",
                             "name": "Kipfilet (rauw)",
-                            "amount": "1400 g"
+                            "amount": "1050 g"
                         },
                         {
                             "id": "champ6",
                             "name": "Champignons",
-                            "amount": "6250 g"
+                            "amount": "6830 g"
                         },
                         {
                             "id": "paprika6",
                             "name": "Paprika",
-                            "amount": "1440 g"
+                            "amount": "910 g"
                         },
                         {
                             "id": "prei6",
                             "name": "Prei",
-                            "amount": "560 g"
+                            "amount": "1020 g"
                         },
                         {
                             "id": "ui6",
                             "name": "Ui (rauw)",
-                            "amount": "210 g"
+                            "amount": "140 g"
                         },
                         {
                             "id": "knoflook6",
@@ -4278,7 +4267,7 @@
                         {
                             "id": "passata6",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "1440 g"
+                            "amount": "340 g"
                         },
                         {
                             "id": "soja6",
@@ -4288,22 +4277,22 @@
                         {
                             "id": "rijst6",
                             "name": "Witte rijst (droog)",
-                            "amount": "1200 g"
+                            "amount": "1240 g"
                         },
                         {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "212 g"
+                            "amount": "209 g"
                         },
                         {
-                            "id": "chili6",
-                            "name": "Chilipoeder (Chilivlokken)",
+                            "id": "teriyaki6",
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "95 g"
+                        },
+                        {
+                            "id": "kerrie6",
+                            "name": "Kerriepoeder",
                             "amount": "14 g"
-                        },
-                        {
-                            "id": "komijn6",
-                            "name": "Komijnpoeder",
-                            "amount": "28 g"
                         },
                         {
                             "id": "kurkuma6",
@@ -4313,7 +4302,7 @@
                         {
                             "id": "kaneel6",
                             "name": "Kaneelpoeder",
-                            "amount": "21 g"
+                            "amount": "14 g"
                         },
                         {
                             "id": "zout6",

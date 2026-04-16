@@ -3,8 +3,8 @@
 Bestanden:
 - Ontbijt_1015_Havermout_Zuivel_Bowl.md
 - Lunch_1300_Ham_Champignon_Rijstpan.md
-- Mealprep1_1545_Mexicaanse_Kip_Sauspan.md
-- Mealprep2_1830_Arabische_Kip_Sauspan.md
+- Mealprep1_1545_Oosterse_Teriyaki_Kippan.md
+- Mealprep2_1830_Romige_Kerrie_Kippan.md
 - Macros_Dagtotalen.md
 - Boodschappenlijst.md
 
