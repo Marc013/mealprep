@@ -284,3 +284,60 @@ Standaard portie gebruikt in plan 5: 2 stuks training (Â±120 g), 3 stuks rust (Â
 | Eiwitten        | 1,5 g     |
 | Vetten          | 0,3 g     |
 | Koolhydraten    | 4,0 g     |
+
+## Toegevoegd voor plan 6
+
+### 100% pindakaas naturel
+
+- Bron: productetiket 100% pindakaas naturel / NEVO referentie pinda pasta
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 632 kcal  |
+| Eiwitten        | 28,0 g    |
+| Vetten          | 50,0 g    |
+| Koolhydraten    | 12,0 g    |
+
+### Havervlokken (Crownfield)
+
+- Bron: productetiket Crownfield havervlokken / NEVO referentie havermout
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 372 kcal  |
+| Eiwitten        | 13,0 g    |
+| Vetten          | 7,0 g     |
+| Koolhydraten    | 58,0 g    |
+
+### Honing
+
+- Bron: NEVO standaardwaarde honing
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 304 kcal  |
+| Eiwitten        | 0,3 g     |
+| Vetten          | 0,0 g     |
+| Koolhydraten    | 82,0 g    |
+
+### Kipfilet (rauw)
+
+- Bron: NEVO standaardwaarde kipfilet rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 110 kcal  |
+| Eiwitten        | 23,0 g    |
+| Vetten          | 1,5 g     |
+| Koolhydraten    | 0,0 g     |
+
+### Rozijnen
+
+- Bron: NEVO standaardwaarde rozijnen
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 299 kcal  |
+| Eiwitten        | 3,1 g     |
+| Vetten          | 0,5 g     |
+| Koolhydraten    | 79,0 g    |
