@@ -271,23 +271,23 @@
         "plan6": {
             "id": "plan6",
             "name": "Teriyaki & Romige Kerrie Kip",
-            "description": "Havermout-zuivel ontbijt, snelle ham-champignon lunch en twee nieuwe sappige oosterse kippannen.",
+            "description": "Havermout-zuivel ontbijt, natriumarme kip-champignon lunch en twee sappige oosterse kippannen.",
             "dayCounts": {
                 "training": 4,
                 "rest": 3
             },
             "totals": {
                 "training": {
-                    "kcal": 2871.6,
-                    "protein": 217.6,
-                    "fat": 41.0,
-                    "carbs": 385.0
+                    "kcal": 2897.1,
+                    "protein": 237.1,
+                    "fat": 42.9,
+                    "carbs": 364.6
                 },
                 "rest": {
-                    "kcal": 1859.5,
-                    "protein": 205.5,
-                    "fat": 62.6,
-                    "carbs": 91.3
+                    "kcal": 1867.7,
+                    "protein": 226.3,
+                    "fat": 52.6,
+                    "carbs": 94.4
                 }
             },
             "schedule": [
@@ -2965,22 +2965,26 @@
         },
         "lunch-plan6": {
             "id": "lunch-plan6",
-            "title": "Ham-Champignon Pan",
+            "title": "Natriumarme Kip-Champignon Snelpan",
             "time": "13:00",
-            "description": "Ultrasimpele 1-pan lunch zonder rijst/pasta/bulgur, klaar binnen 30 minuten inclusief eten.",
+            "description": "Snelle 1-pan lunch met dierlijk eiwit als basis en heel beperkte zoute smaakmakers.",
             "variants": {
                 "training": {
-                    "label": "Broodvariant",
+                    "label": "Haver-banaanvariant",
                     "macros": {
-                        "kcal": 581.3,
-                        "carbs": 72.2,
-                        "fat": 11.2,
-                        "protein": 42.0
+                        "kcal": 550.5,
+                        "carbs": 52.8,
+                        "fat": 11.6,
+                        "protein": 49.8
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "80 g"
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "120 g"
                         },
                         {
                             "name": "Champignons",
@@ -2992,30 +2996,42 @@
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "6 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
                             "amount": "4 g"
                         },
                         {
-                            "name": "Volkoren brood",
-                            "amount": "170 g"
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "35 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "5 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 290.2,
-                        "carbs": 7.2,
-                        "fat": 11.5,
-                        "protein": 32.5
+                        "kcal": 293.9,
+                        "carbs": 6.7,
+                        "fat": 8.3,
+                        "protein": 41.5
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "100 g"
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "120 g"
                         },
                         {
                             "name": "Champignons",
@@ -3023,11 +3039,11 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "100 g"
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "6 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
@@ -3037,31 +3053,31 @@
                 }
             },
             "preparation": [
-                "Snijd champignons en zet alle ingredienten klaar.",
-                "Leg op trainingsdagen volkoren brood direct klaar.",
-                "Roer yoghurt en sojasaus alvast tot een snelle saus.",
-                "Bak champignons en ham, voeg saus toe en warm kort door.",
-                "Training: direct serveren met brood. Rust: direct serveren met extra volume uit champignons en yoghurt."
+                "Snijd kip en champignons en zet alles klaar.",
+                "Roer yoghurt en 1 g sojasaus tot snelle saus.",
+                "Bak kip en champignons in olie, voeg ham kort toe en roer saus erdoor.",
+                "Training: serveer met havervlokken, banaan en honing.",
+                "Rust: voeg extra champignons en olie toe voor meer volume."
             ]
         },
         "mealprep1-plan6": {
             "id": "mealprep1-plan6",
             "title": "Oosterse Teriyaki Kippan",
             "time": "15:45",
-            "description": "Sterk gekruide oosterse kip met teriyaki-sojasaus en veel groentevolume op rustdagen.",
+            "description": "Oosterse kippan met minimale sojasaus, beperkte teriyaki en veel groentevolume.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 682.7,
-                        "carbs": 109.9,
-                        "fat": 8.6,
-                        "protein": 35.1
+                        "kcal": 727.8,
+                        "carbs": 110.2,
+                        "fat": 10.0,
+                        "protein": 42.2
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "70 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -3080,16 +3096,28 @@
                             "amount": "40 g"
                         },
                         {
-                            "name": "Teriyaki Saus - Jumbo",
-                            "amount": "20 g"
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "80 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "10 g"
+                            "amount": "1 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "7 g"
                         },
                         {
                             "name": "Knoflook, rauw",
                             "amount": "6 g"
+                        },
+                        {
+                            "name": "Chilipoeder (Chilivlokken)",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
@@ -3100,15 +3128,15 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 409.0,
-                        "carbs": 16.6,
-                        "fat": 18.8,
-                        "protein": 35.2
+                        "kcal": 424.3,
+                        "carbs": 21.5,
+                        "fat": 14.7,
+                        "protein": 42.5
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "70 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
@@ -3123,54 +3151,66 @@
                             "amount": "100 g"
                         },
                         {
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "80 g"
+                        },
+                        {
                             "name": "Halfvolle yoghurt",
                             "amount": "80 g"
                         },
                         {
-                            "name": "Teriyaki Saus - Jumbo",
-                            "amount": "5 g"
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "1 g"
                         },
                         {
-                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "10 g"
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "2 g"
                         },
                         {
                             "name": "Knoflook, rauw",
                             "amount": "6 g"
                         },
                         {
+                            "name": "Chilipoeder (Chilivlokken)",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g"
+                        },
+                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "16 g"
+                            "amount": "10 g"
                         }
                     ]
                 }
             },
             "preparation": [
                 "Snijd kip, champignons, paprika en prei.",
-                "Meng teriyaki, sojasaus en knoflook.",
+                "Meng passata met sojasaus, teriyaki en knoflook.",
                 "Bak kip en groenten krachtig in olie.",
-                "Voeg saus toe en laat glanzen.",
-                "Training: rijst erdoor. Rust: extra champignons, prei en yoghurt toevoegen voor volume en smeuigheid."
+                "Voeg saus en kruiden toe en laat kort inkoken.",
+                "Training: serveer met rijst. Rust: voeg extra champignons, prei en yoghurt toe voor volume en smeuigheid."
             ]
         },
         "mealprep2-plan6": {
             "id": "mealprep2-plan6",
             "title": "Romige Kerrie Kippan",
             "time": "18:30",
-            "description": "Romige kerrie-kurkuma kip met yoghurt-sojasaus en extra volume op rustdagen.",
+            "description": "Romige kerrie-kurkuma kip met yoghurtbasis en minimale sojasaus.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 673.4,
-                        "carbs": 103.4,
-                        "fat": 8.8,
-                        "protein": 39.8
+                        "kcal": 684.6,
+                        "carbs": 102.1,
+                        "fat": 8.9,
+                        "protein": 44.4
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -3198,7 +3238,7 @@
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "8 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3221,15 +3261,15 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 418.6,
-                        "carbs": 18.2,
-                        "fat": 18.3,
-                        "protein": 37.7
+                        "kcal": 407.8,
+                        "carbs": 16.9,
+                        "fat": 15.6,
+                        "protein": 42.2
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Prei",
@@ -3253,7 +3293,7 @@
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "8 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3269,7 +3309,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "15 g"
+                            "amount": "12 g"
                         }
                     ]
                 }
@@ -4193,12 +4233,12 @@
                         {
                             "id": "haver6",
                             "name": "Havervlokken (Crownfield)",
-                            "amount": "80 g"
+                            "amount": "220 g"
                         },
                         {
                             "id": "yoghurt6",
                             "name": "Halfvolle yoghurt",
-                            "amount": "2080 g"
+                            "amount": "2220 g"
                         },
                         {
                             "id": "kwark6",
@@ -4213,7 +4253,7 @@
                         {
                             "id": "banaan6",
                             "name": "Banaan",
-                            "amount": "320 g"
+                            "amount": "800 g"
                         },
                         {
                             "id": "rozijnen6",
@@ -4223,7 +4263,7 @@
                         {
                             "id": "honing6",
                             "name": "Honing",
-                            "amount": "20 g"
+                            "amount": "40 g"
                         },
                         {
                             "id": "pinda6",
@@ -4233,12 +4273,12 @@
                         {
                             "id": "ham6",
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "620 g"
+                            "amount": "140 g"
                         },
                         {
                             "id": "kip6",
                             "name": "Kipfilet (rauw)",
-                            "amount": "1050 g"
+                            "amount": "2240 g"
                         },
                         {
                             "id": "champ6",
@@ -4266,9 +4306,14 @@
                             "amount": "84 g"
                         },
                         {
+                            "id": "passata6",
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "560 g"
+                        },
+                        {
                             "id": "soja6",
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "168 g"
+                            "amount": "21 g"
                         },
                         {
                             "id": "rijst6",
@@ -4276,24 +4321,24 @@
                             "amount": "920 g"
                         },
                         {
-                            "id": "brood6",
-                            "name": "Volkoren brood",
-                            "amount": "680 g"
-                        },
-                        {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "170 g"
+                            "amount": "143 g"
                         },
                         {
                             "id": "teriyaki6",
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "95 g"
+                            "amount": "34 g"
+                        },
+                        {
+                            "id": "chili6",
+                            "name": "Chilipoeder (Chilivlokken)",
+                            "amount": "14 g"
                         },
                         {
                             "id": "kerrie6",
                             "name": "Kerriepoeder",
-                            "amount": "14 g"
+                            "amount": "28 g"
                         },
                         {
                             "id": "kurkuma6",

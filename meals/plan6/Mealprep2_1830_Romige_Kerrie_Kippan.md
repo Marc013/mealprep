@@ -8,26 +8,26 @@ Deze kippan gebruikt een romige kerrie-kurkuma basis met yoghurt en sojasaus, wa
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 110 g Witte rijst (droog)
-- Kcal: 673,4
-- Eiwitten: 39,8 g
-- Vetten: 8,8 g
-- Koolhydraten: 103,4 g
+- Kcal: 684,6
+- Eiwitten: 44,4 g
+- Vetten: 8,9 g
+- Koolhydraten: 102,1 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: extra champignons (geen rijst)
-- Kcal: 418,6
-- Eiwitten: 37,7 g
-- Vetten: 18,3 g
-- Koolhydraten: 18,2 g
+- Kcal: 407,8
+- Eiwitten: 42,2 g
+- Vetten: 15,6 g
+- Koolhydraten: 16,9 g
 
 ## Ingredienten per portie
-- 80 g Kipfilet (rauw)
+- 100 g Kipfilet (rauw)
 - 80 g Prei
 - 70 g Paprika
 - 220 g Champignons
 - 20 g Ui (rauw)
 - 80 g Halfvolle yoghurt
-- 8 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
+- 1 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 6 g Knoflook, rauw
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
@@ -39,7 +39,7 @@ Trainingsdag toevoeging per portie:
 
 Rustdag toevoeging per portie:
 - 180 g Champignons
-- 12 g Olijfolie Extra Vierge
+- 9 g Olijfolie Extra Vierge
 
 ## Voorbereiding
 - Snijd kipfilet in kleine blokjes.
