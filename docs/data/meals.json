@@ -278,16 +278,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2854.7,
-                    "protein": 226.2,
-                    "fat": 53.8,
-                    "carbs": 348.9
+                    "kcal": 2842.5,
+                    "protein": 225.6,
+                    "fat": 52.6,
+                    "carbs": 349.3
                 },
                 "rest": {
-                    "kcal": 1844.6,
-                    "protein": 207.2,
-                    "fat": 63.4,
-                    "carbs": 89.7
+                    "kcal": 1832.5,
+                    "protein": 206.7,
+                    "fat": 62.6,
+                    "carbs": 90.0
                 }
             },
             "schedule": [
@@ -2972,10 +2972,10 @@
                 "training": {
                     "label": "Trainingsvariant (met toast)",
                     "macros": {
-                        "kcal": 508.1,
-                        "carbs": 37.1,
-                        "fat": 22.5,
-                        "protein": 38.9
+                        "kcal": 495.9,
+                        "carbs": 37.5,
+                        "fat": 21.3,
+                        "protein": 38.3
                     },
                     "ingredients": [
                         {
@@ -2987,7 +2987,7 @@
                             "amount": "5 g"
                         },
                         {
-                            "name": "Jumbo Gekookte Hamreepjes",
+                            "name": "Tostiham - Jumbo",
                             "amount": "40 g"
                         },
                         {
@@ -3007,10 +3007,10 @@
                 "rest": {
                     "label": "Rustdagvariant (geen brood)",
                     "macros": {
-                        "kcal": 270.8,
-                        "carbs": 2.0,
-                        "fat": 19.1,
-                        "protein": 22.4
+                        "kcal": 258.7,
+                        "carbs": 2.3,
+                        "fat": 18.3,
+                        "protein": 21.9
                     },
                     "ingredients": [
                         {
@@ -3022,7 +3022,7 @@
                             "amount": "5 g"
                         },
                         {
-                            "name": "Jumbo Gekookte Hamreepjes",
+                            "name": "Tostiham - Jumbo",
                             "amount": "40 g"
                         },
                         {
@@ -4256,8 +4256,8 @@
                             "amount": "45 g"
                         },
                         {
-                            "id": "ham6",
-                            "name": "Jumbo Gekookte Hamreepjes",
+                            "id": "tostiham6",
+                            "name": "Tostiham - Jumbo",
                             "amount": "280 g"
                         },
                         {

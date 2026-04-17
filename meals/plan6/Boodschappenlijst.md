@@ -21,7 +21,7 @@ Uitgangspunt:
 | Rozijnen                                       |                 40 g |
 | Honing                                         |                 20 g |
 | 100% pindakaas naturel                         |                 45 g |
-| Jumbo Gekookte Hamreepjes                      |                280 g |
+| Tostiham - Jumbo                               |                280 g |
 | Volkoren brood                                 |                360 g |
 | Kaas 10+                                       |                100 g |
 | Augurken (zoetzuur)                            |                140 g |
