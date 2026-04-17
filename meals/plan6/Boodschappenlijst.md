@@ -46,6 +46,6 @@ Uitgangspunt:
 
 ## Lidl
 
-| Ingrediënt                    | Weektotaal (7 dagen) |
-| :---------------------------- | -------------------: |
-| Skyr naturel (Milbona) - Lidl |                450 g |
+| Ingrediënt                           | Weektotaal (7 dagen) |
+| :----------------------------------- | -------------------: |
+| Magere Franse Kwark (Milbona) - Lidl |                450 g |

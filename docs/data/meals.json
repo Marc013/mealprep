@@ -2939,7 +2939,7 @@
                     },
                     "ingredients": [
                         {
-                            "name": "Skyr naturel (Milbona) - Lidl",
+                            "name": "Magere Franse Kwark (Milbona) - Lidl",
                             "amount": "150 g"
                         },
                         {
@@ -4372,8 +4372,8 @@
                     "name": "Lidl",
                     "items": [
                         {
-                            "id": "skyr6",
-                            "name": "Skyr naturel (Milbona) - Lidl",
+                            "id": "kwark_lidl6",
+                            "name": "Magere Franse Kwark (Milbona) - Lidl",
                             "amount": "450 g"
                         }
                     ]

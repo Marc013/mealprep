@@ -40,7 +40,7 @@ Deze bowl levert op trainingsdagen gerichte koolhydraten voor prestaties en hers
 - Koolhydraten: 11,3 g
 
 ## Ingredienten per portie
-- 150 g Skyr naturel (Milbona) - Lidl
+- 150 g Magere Franse Kwark (Milbona) - Lidl
 - 30 g Diepvries bosvruchten (Jumbo)
 - 15 g 100% pindakaas naturel
 - 2 g Kaneelpoeder
@@ -50,7 +50,7 @@ Deze bowl levert op trainingsdagen gerichte koolhydraten voor prestaties en hers
 - Laat de bosvruchten kort ontdooien.
 
 ## Bereiding
-- Meng skyr en kaneelpoeder.
+- Meng kwark en kaneelpoeder.
 - Roer pindakaas erdoor voor extra romigheid.
 - Werk af met bosvruchten.
 
@@ -64,5 +64,5 @@ Bronnen per ingredient:
 - Rozijnen: src/ontbrekende_macros_lijst.md
 - Kaneelpoeder: src/voedingswaardetabel_referentie.md
 - Honing: src/ontbrekende_macros_lijst.md
-- Skyr naturel (Milbona) - Lidl: src/voedingswaarde_handmatig.md
+- Magere Franse Kwark (Milbona) - Lidl: src/voedingswaarde_handmatig.md
 - 100% pindakaas naturel: src/ontbrekende_macros_lijst.md
