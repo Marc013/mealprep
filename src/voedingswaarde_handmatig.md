@@ -60,17 +60,17 @@
 
 ### Kaas Extra Belegen 48+ - Jumbo
 
-- URL: https://www.jumbo.com/producten/jumbo-kaas-extra-belegen-48-stuk-525-g-223118BAK
+- URL: https://www.jumbo.com/producten/jumbo-kaas-extra-belegen-48-voordeelverpakking-stuk-900-g-743871DS
 
 | Voedingswaarden             | per 100 g  |
 | :-------------------------- | :--------- |
-| Energie                     | 325,0 kcal |
-| Vetten                      | 0,0 g      |
-| waarvan verzadigde vetzuren | 0,0 g      |
-| Koolhydraten                | 3,2 g      |
-| waarvan suikers             | 0,6 g      |
-| Eiwitten                    | 10,0 g     |
-| Zout                        | 16,9 g     |
+| Energie                     | 416,0 kcal |
+| Vetten                      | 34,0 g     |
+| waarvan verzadigde vetzuren | 24,0 g     |
+| Koolhydraten                | 0,0 g      |
+| waarvan suikers             | 0,0 g      |
+| Eiwitten                    | 26,0 g     |
+| Zout                        | 1,90 g     |
 
 ### Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 

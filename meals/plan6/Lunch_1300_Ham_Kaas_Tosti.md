@@ -9,26 +9,30 @@ Ultra-eenvoudige lunch: tosti-ijzer aanзetten, 2 minuten later spiegeleieren ba
 ## Macro's per portie
 
 ### Trainingsdag-variant
-- Kcal: 495,9
-- Eiwitten: 38,3 g
-- Vetten: 21,3 g
-- Koolhydraten: 37,5 g
+- Kcal: 495,0
+- Eiwitten: 35,9 g
+- Vetten: 22,2 g
+- Koolhydraten: 34,7 g
 
 ### Rustdag-variant
-- Kcal: 258,7
-- Eiwitten: 21,9 g
-- Vetten: 18,3 g
-- Koolhydraten: 2,3 g
+- Kcal: 250,0
+- Eiwitten: 21,2 g
+- Vetten: 17,2 g
+- Koolhydraten: 2,9 g
 
 ## Ingredienten per portie (basis — beide varianten)
 - 120 g Eieren (2 stuks)
-- 5 g Olijfolie Extra Vierge
 - 40 g Tostiham - Jumbo
 - 20 g Augurken (zoetzuur)
 
 Trainingsdag toevoeging per portie:
-- 90 g Volkoren brood (3 sneetjes)
-- 25 g Kaas 10+
+- 1 g Olijfolie Extra Vierge
+- 10 g Tostiham - Jumbo
+- 80 g Volkoren brood (3 sneetjes)
+- 20 g Kaas Extra Belegen 48+
+
+Rustdag toevoeging per portie:
+- 5 g Olijfolie Extra Vierge
 
 ## Voorbereiding
 - Haal brood, kaas, ham en augurken uit de koelkast en weeg af.
@@ -36,7 +40,7 @@ Trainingsdag toevoeging per portie:
 
 ## Bereiding
 1. Verhit tosti-ijzer (trainingsdag: beleg 1,5 sneetjes brood met hamreepjes en kaas, dek af, zet dicht en bak 3 minuten goudbruin).
-2. Verhit 5 g olijfolie in een kleine koekenpan.
+2. Verhit 1 g olijfolie in een kleine koekenpan (trainingsdag) of 5 g (rustdag).
 3. Breek 2 eieren in de pan, bak 3 tot 4 minuten op middelhoog vuur tot eiwitten gestold zijn (spiegelei).
 4. Serveer spiegelei op bord, tosti ernaast (trainingsdag), augurken ernaast.
 5. Rustdag: combineer spiegelei direct met ham op het bord, augurk erbij.
@@ -48,18 +52,18 @@ Bronnen per ingredient:
 - Eieren: src/ontbrekende_macros_lijst.md (147 kcal, 12,7 g P, 10,4 g V, 0,6 g KH per 100 g)
   — 120 g = 176,4 kcal, 15,2 g P, 12,5 g V, 0,7 g KH
 - Olijfolie Extra Vierge: src/voedingswaarde_handmatig.md (823 kcal, 91,4 g V per 100 g)
-  — 5 g = 41,2 kcal, 0 g P, 4,6 g V, 0 g KH
+  — 1 g = 8,2 kcal, 0 g P, 0,9 g V, 0 g KH
 - Tostiham - Jumbo: src/voedingswaarde_handmatig.md (97 kcal, 16,1 g P, 2,1 g V, 3,3 g KH, 1,78 g zout per 100 g)
-  — 40 g = 38,8 kcal, 6,4 g P, 0,8 g V, 1,3 g KH
+  — 50 g = 48,5 kcal, 8,1 g P, 1,1 g V, 1,7 g KH
 - Augurken (zoetzuur): src/ontbrekende_macros_lijst.md (12 kcal, 0,7 g P, 0,1 g V, 1,7 g KH per 100 g)
   — 20 g = 2,4 kcal, 0,1 g P, 0,0 g V, 0,3 g KH
 - Volkoren brood: src/ontbrekende_macros_lijst.md (210 kcal, 9,0 g P, 2,0 g V, 39,0 g KH per 100 g)
-  — 90 g = 189,0 kcal, 8,1 g P, 1,8 g V, 35,1 g KH
-- Kaas 10+: src/voedingswaardetabel_referentie.md (193 kcal, 33,5 g P, 6,5 g V, 0,0 g KH per 100 g)
-  — 25 g = 48,3 kcal, 8,4 g P, 1,6 g V, 0,0 g KH
+  — 80 g = 168,0 kcal, 7,2 g P, 1,6 g V, 31,2 g KH
+- Kaas Extra Belegen 48+ - Jumbo: src/voedingswaarde_handmatig.md (416 kcal, 26,0 g P, 34,0 g V, 0,0 g KH per 100 g)
+  — 20 g = 83,2 kcal, 5,2 g P, 6,8 g V, 0,0 g KH
 
 Natrium-inschatting lunch:
-- 40 g tostiham: 1,78 g zout × 0,4 = 0,71 g zout
+- 50 g tostiham: 1,78 g zout × 0,5 = 0,89 g zout
 - 20 g augurk: circa 0,4 g zout
 - 2 eieren: circa 0,18 g zout
-- Totaal lunch: circa 1,3 g zout — ruim binnen dagbudget van 2,4 g (verder gereduceerd vs. voorheen)
+- Totaal lunch: circa 1,5 g zout (trainingsdag hoger door extra ham/kaas)

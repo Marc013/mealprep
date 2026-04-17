@@ -1,4 +1,4 @@
-# Romige Kerrie Kippan
+# Romige Kip-Kerrie
 
 ## Tijdstip
 18:30 uur
@@ -7,39 +7,37 @@
 Deze kippan gebruikt een romige kerrie-kurkuma basis met yoghurt en sojasaus, waardoor de maaltijd veel smaak heeft zonder droog te worden. De rustdag-variant verhoogt volume fors met extra champignons.
 
 ## Trainingsdag-variant
-- Koolhydraatkeuze: 110 g Witte rijst (droog)
-- Kcal: 682,2
-- Eiwitten: 45,5 g
-- Vetten: 9,0 g
-- Koolhydraten: 99,5 g
+- Koolhydraatkeuze: 85 g Witte rijst (droog)
+- Kcal: 672,0
+- Eiwitten: 49,7 g
+- Vetten: 9,5 g
+- Koolhydraten: 92,9 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: extra champignons (geen rijst)
-- Kcal: 405,4
-- Eiwitten: 43,3 g
-- Vetten: 15,7 g
-- Koolhydraten: 14,3 g
+- Kcal: 399,0
+- Eiwitten: 50,8 g
+- Vetten: 0,0 g
+- Koolhydraten: 24,3 g
 
 ## Ingredienten per portie
-- 100 g Kipfilet (rauw)
-- 80 g Spinazie (rauw)
-- 70 g Paprika
-- 220 g Champignons
-- 20 g Ui (rauw)
-- 80 g Halfvolle yoghurt
-- 1 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
+- 125 g Kipfilet (rauw)
+- 100 g Spinazie (rauw)
+- 100 g Paprika
+- 200 g Champignons
+- 75 g Ui (rauw)
+- 100 g Halfvolle yoghurt
+- 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 6 g Knoflook, rauw
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
-- 3 g Olijfolie Extra Vierge
+- 4 g Olijfolie Extra Vierge
 
 Trainingsdag toevoeging per portie:
-- 110 g Witte rijst (droog)
-- 1 g Olijfolie Extra Vierge
+- 85 g Witte rijst (droog)
 
 Rustdag toevoeging per portie:
-- 180 g Champignons
-- 9 g Olijfolie Extra Vierge
+- 25 g extra kipfilet (boven trainingsvariant)
 
 ## Voorbereiding
 - Snijd kipfilet in kleine blokjes.
@@ -52,8 +50,8 @@ Rustdag toevoeging per portie:
 - Voeg ui, paprika en champignons toe en bak 5 minuten.
 - Voeg spinazie toe en roer tot geslonken (circa 1 minuut).
 - Giet de yoghurtsaus erbij en laat op laag vuur 3-4 minuten binden.
-- Trainingsdag: schep rijst en extra olie erdoor en warm 2 minuten mee.
-- Rustdag: voeg extra champignons en olie toe en laat 5 minuten stoven voor maximale portie-omvang.
+- Trainingsdag: serveer met rijst.
+- Rustdag: serveer zonder rijst.
 
 ## Opwarmadvies
 - Verwarm afgedekt 2-3 minuten in magnetron op 700W.

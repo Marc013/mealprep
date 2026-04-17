@@ -8,14 +8,14 @@ Deze bowl levert op trainingsdagen gerichte koolhydraten voor prestaties en hers
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 399,2
-- Eiwitten: 21,7 g
-- Vetten: 6,4 g
-- Koolhydraten: 61,5 g
+- Kcal: 396,0
+- Eiwitten: 21,5 g
+- Vetten: 4,3 g
+- Koolhydraten: 64,2 g
 
 ## Ingredienten per portie
 - 20 g Havervlokken (Crownfield)
-- 200 g Halfvolle yoghurt
+- 160 g Halfvolle yoghurt
 - 100 g Franse Kwark Mager - Jumbo
 - 80 g Diepvries bosvruchten (Jumbo)
 - 80 g Banaan
@@ -34,13 +34,13 @@ Deze bowl levert op trainingsdagen gerichte koolhydraten voor prestaties en hers
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 206,7
-- Eiwitten: 21,1 g
-- Vetten: 8,0 g
-- Koolhydraten: 11,3 g
+- Kcal: 205,0
+- Eiwitten: 20,3 g
+- Vetten: 7,3 g
+- Koolhydraten: 13,7 g
 
 ## Ingredienten per portie
-- 150 g Magere Franse Kwark (Milbona) - Lidl
+- 180 g Magere Franse Kwark (Milbona) - Lidl
 - 30 g Diepvries bosvruchten (Jumbo)
 - 15 g 100% pindakaas naturel
 - 2 g Kaneelpoeder

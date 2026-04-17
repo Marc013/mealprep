@@ -278,16 +278,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2844.2,
-                    "protein": 227.2,
-                    "fat": 52.6,
-                    "carbs": 347.7
+                    "kcal": 2827.0,
+                    "protein": 234.3,
+                    "fat": 49.9,
+                    "carbs": 345.3
                 },
                 "rest": {
-                    "kcal": 1843.2,
-                    "protein": 208.0,
-                    "fat": 62.6,
-                    "carbs": 90.5
+                    "kcal": 1794.0,
+                    "protein": 218.5,
+                    "fat": 37.7,
+                    "carbs": 115.6
                 }
             },
             "schedule": [
@@ -2889,10 +2889,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 399.2,
-                        "carbs": 61.5,
-                        "fat": 6.4,
-                        "protein": 21.7
+                        "kcal": 396.0,
+                        "carbs": 64.2,
+                        "fat": 4.3,
+                        "protein": 21.5
                     },
                     "ingredients": [
                         {
@@ -2901,7 +2901,7 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "200 g"
+                            "amount": "160 g"
                         },
                         {
                             "name": "Franse Kwark Mager - Jumbo",
@@ -2932,15 +2932,15 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 206.7,
-                        "carbs": 11.3,
-                        "fat": 8.0,
-                        "protein": 21.1
+                        "kcal": 205.0,
+                        "carbs": 13.7,
+                        "fat": 7.3,
+                        "protein": 20.3
                     },
                     "ingredients": [
                         {
                             "name": "Magere Franse Kwark (Milbona) - Lidl",
-                            "amount": "150 g"
+                            "amount": "180 g"
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
@@ -2972,10 +2972,10 @@
                 "training": {
                     "label": "Trainingsvariant (met toast)",
                     "macros": {
-                        "kcal": 495.9,
-                        "carbs": 37.5,
-                        "fat": 21.3,
-                        "protein": 38.3
+                        "kcal": 495.0,
+                        "carbs": 34.7,
+                        "fat": 22.2,
+                        "protein": 35.9
                     },
                     "ingredients": [
                         {
@@ -2984,11 +2984,11 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g"
+                            "amount": "1 g"
                         },
                         {
                             "name": "Tostiham - Jumbo",
-                            "amount": "40 g"
+                            "amount": "50 g"
                         },
                         {
                             "name": "Augurken (zoetzuur)",
@@ -2996,21 +2996,21 @@
                         },
                         {
                             "name": "Volkoren brood",
-                            "amount": "90 g"
+                            "amount": "80 g"
                         },
                         {
-                            "name": "Kaas 10+",
-                            "amount": "25 g"
+                            "name": "Kaas Extra Belegen 48+",
+                            "amount": "20 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Rustdagvariant (geen brood)",
                     "macros": {
-                        "kcal": 258.7,
-                        "carbs": 2.3,
-                        "fat": 18.3,
-                        "protein": 21.9
+                        "kcal": 250.0,
+                        "carbs": 2.9,
+                        "fat": 17.2,
+                        "protein": 21.2
                     },
                     "ingredients": [
                         {
@@ -3042,30 +3042,30 @@
         },
         "mealprep1-plan6": {
             "id": "mealprep1-plan6",
-            "title": "Oosterse Teriyaki Kippan",
+            "title": "Kip Teriyaki",
             "time": "15:45",
-            "description": "Oosterse kippan met minimale sojasaus, beperkte teriyaki en veel groentevolume.",
+            "description": "Kip Teriyaki met sojasaus, teriyaki en veel groentevolume.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 731.9,
-                        "carbs": 111.2,
-                        "fat": 9.9,
-                        "protein": 42.7
+                        "kcal": 729.0,
+                        "carbs": 115.5,
+                        "fat": 7.9,
+                        "protein": 48.2
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "100 g"
+                            "amount": "130 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
-                            "amount": "120 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "250 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Paprika",
@@ -3073,19 +3073,23 @@
                         },
                         {
                             "name": "Wortel",
-                            "amount": "40 g"
+                            "amount": "75 g"
                         },
                         {
                             "name": "Tomaat, rauw",
                             "amount": "150 g"
                         },
                         {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "100 g"
+                        },
+                        {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
+                            "amount": "10 g"
                         },
                         {
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "7 g"
+                            "amount": "20 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3101,26 +3105,26 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "6 g"
+                            "amount": "2 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 437.4,
-                        "carbs": 24.6,
-                        "fat": 14.6,
-                        "protein": 42.7
+                        "kcal": 405.0,
+                        "carbs": 36.7,
+                        "fat": 7.2,
+                        "protein": 47.2
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "100 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "400 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Paprika",
@@ -3136,15 +3140,15 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
+                            "amount": "10 g"
                         },
                         {
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "2 g"
+                            "amount": "20 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3160,7 +3164,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "10 g"
+                            "amount": "2 g"
                         }
                     ]
                 }
@@ -3175,50 +3179,50 @@
         },
         "mealprep2-plan6": {
             "id": "mealprep2-plan6",
-            "title": "Romige Kerrie Kippan",
+            "title": "Romige Kip-Kerrie",
             "time": "18:30",
-            "description": "Romige kerrie-kurkuma kip met yoghurtbasis en minimale sojasaus.",
+            "description": "Romige kerrie-kurkuma kip met yoghurtbasis en sojasaus.",
             "variants": {
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 682.2,
-                        "carbs": 99.5,
-                        "fat": 9.0,
-                        "protein": 45.5
+                        "kcal": 672.0,
+                        "carbs": 92.9,
+                        "fat": 9.5,
+                        "protein": 49.7
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "100 g"
+                            "amount": "125 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
-                            "amount": "110 g"
+                            "amount": "85 g"
                         },
                         {
                             "name": "Spinazie (rauw)",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "70 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "220 g"
+                            "amount": "200 g"
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "20 g"
+                            "amount": "75 g"
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
+                            "amount": "10 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3241,39 +3245,39 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 405.4,
-                        "carbs": 14.3,
-                        "fat": 15.7,
-                        "protein": 43.3
+                        "kcal": 399.0,
+                        "carbs": 24.3,
+                        "fat": 0.0,
+                        "protein": 50.8
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "100 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Spinazie (rauw)",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Paprika",
-                            "amount": "70 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Champignons",
-                            "amount": "400 g"
+                            "amount": "200 g"
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "20 g"
+                            "amount": "75 g"
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
+                            "amount": "10 g"
                         },
                         {
                             "name": "Knoflook, rauw",
@@ -3289,7 +3293,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "12 g"
+                            "amount": "4 g"
                         }
                     ]
                 }
@@ -4224,7 +4228,7 @@
                         {
                             "id": "yoghurt6",
                             "name": "Halfvolle yoghurt",
-                            "amount": "1600 g"
+                            "amount": "2040 g"
                         },
                         {
                             "id": "kwark6",
@@ -4259,17 +4263,17 @@
                         {
                             "id": "tostiham6",
                             "name": "Tostiham - Jumbo",
-                            "amount": "280 g"
+                            "amount": "320 g"
                         },
                         {
                             "id": "brood6",
                             "name": "Volkoren brood",
-                            "amount": "360 g"
+                            "amount": "320 g"
                         },
                         {
                             "id": "kaas6",
-                            "name": "Kaas 10+",
-                            "amount": "100 g"
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "80 g"
                         },
                         {
                             "id": "augurk6",
@@ -4279,27 +4283,27 @@
                         {
                             "id": "kip6",
                             "name": "Kipfilet (rauw)",
-                            "amount": "1400 g"
+                            "amount": "1470 g"
                         },
                         {
                             "id": "champ6",
                             "name": "Champignons",
-                            "amount": "4280 g"
+                            "amount": "2000 g"
                         },
                         {
                             "id": "paprika6",
                             "name": "Paprika",
-                            "amount": "910 g"
+                            "amount": "1120 g"
                         },
                         {
                             "id": "wortel6",
                             "name": "Wortel",
-                            "amount": "460 g"
+                            "amount": "600 g"
                         },
                         {
                             "id": "spinazie6",
                             "name": "Spinazie (rauw)",
-                            "amount": "560 g"
+                            "amount": "700 g"
                         },
                         {
                             "id": "tomaat6",
@@ -4309,7 +4313,7 @@
                         {
                             "id": "ui6",
                             "name": "Ui (rauw)",
-                            "amount": "140 g"
+                            "amount": "525 g"
                         },
                         {
                             "id": "knoflook6",
@@ -4319,22 +4323,22 @@
                         {
                             "id": "soja6",
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "14 g"
+                            "amount": "140 g"
                         },
                         {
                             "id": "rijst6",
                             "name": "Witte rijst (droog)",
-                            "amount": "920 g"
+                            "amount": "740 g"
                         },
                         {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "141 g"
+                            "amount": "61 g"
                         },
                         {
                             "id": "teriyaki6",
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "34 g"
+                            "amount": "140 g"
                         },
                         {
                             "id": "chili6",
@@ -4374,7 +4378,7 @@
                         {
                             "id": "kwark_lidl6",
                             "name": "Magere Franse Kwark (Milbona) - Lidl",
-                            "amount": "450 g"
+                            "amount": "540 g"
                         }
                     ]
                 }

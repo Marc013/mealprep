@@ -10,6 +10,7 @@ Bestanden:
 
 Kernpunten:
 - Lunch (13:00): Ham-Kaas Tosti met Spiegelei — 10 minuten, geen kip, geen rijst
-- Twee uitgesproken gekruide eenpansgerechten met sauscomponent
+- Mealprep 1: Kip Teriyaki
+- Mealprep 2: Romige Kip-Kerrie
 - Rustdagvarianten met extra volume voor hongercontrole
 - Dagkcal blijven onder de opgegeven maxima
