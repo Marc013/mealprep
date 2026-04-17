@@ -286,7 +286,7 @@
                 "rest": {
                     "kcal": 1794.0,
                     "protein": 218.5,
-                    "fat": 37.7,
+                    "fat": 46.7,
                     "carbs": 115.6
                 }
             },
@@ -3247,7 +3247,7 @@
                     "macros": {
                         "kcal": 399.0,
                         "carbs": 24.3,
-                        "fat": 0.0,
+                        "fat": 9.0,
                         "protein": 50.8
                     },
                     "ingredients": [

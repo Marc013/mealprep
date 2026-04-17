@@ -17,7 +17,7 @@ Deze kippan gebruikt een romige kerrie-kurkuma basis met yoghurt en sojasaus, wa
 - Koolhydraatkeuze: extra champignons (geen rijst)
 - Kcal: 399,0
 - Eiwitten: 50,8 g
-- Vetten: 0,0 g
+- Vetten: 9,0 g
 - Koolhydraten: 24,3 g
 
 ## Ingredienten per portie

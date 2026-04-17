@@ -28,9 +28,9 @@ Rustdag totaal (streef 1880/190/80/100):
 | Ontbijt            |  205,0 |         20,3 |        7,3 |             13,7 |
 | Lunch              |  250,0 |         21,2 |       17,2 |              2,9 |
 | Mealprep 1 rust    |  405,0 |         47,2 |        7,2 |             36,7 |
-| Mealprep 2 rust    |  399,0 |         50,8 |        0,0 |             24,3 |
-| **Totaal rustdag** | 1794,0 |        218,5 |       37,7 |            115,6 |
-- Afwijking t.o.v. streef: -86,0 kcal, +28,5 g P, -42,3 g V, +15,6 g KH
+| Mealprep 2 rust    |  399,0 |         50,8 |        9,0 |             24,3 |
+| **Totaal rustdag** | 1794,0 |        218,5 |       46,7 |            115,6 |
+- Afwijking t.o.v. streef: -86,0 kcal, +28,5 g P, -33,3 g V, +15,6 g KH
 
 ## Natrium-inschatting (dag)
 - Trainingsdag: circa 2,8 tot 3,4 g natrium
@@ -64,15 +64,15 @@ Rustdag:
 | Ontbijt       |                   205,0 |       20,3 |        7,3 |       13,7 |
 | Lunch         |                   250,0 |       21,2 |       17,2 |        2,9 |
 | Mealprep 1    |                   405,0 |       47,2 |        7,2 |       36,7 |
-| Mealprep 2    |                   399,0 |       50,8 |        0,0 |       24,3 |
+| Mealprep 2    |                   399,0 |       50,8 |        9,0 |       24,3 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **1794,0** |  **218,5** |   **37,7** |  **115,6** |
+| **TOTAAL**    |              **1794,0** |  **218,5** |   **46,7** |  **115,6** |
 | Streef        |                    1880 |        190 |         80 |        100 |
-| **Afwijking** |                   -86,0 |      +28,5 |      -42,3 |      +15,6 |
+| **Afwijking** |                   -86,0 |      +28,5 |      -33,3 |      +15,6 |
 
 Weekcontrole (4 trainingsdagen + 3 rustdagen):
 - Kcal: 16690,0 (onder weekmaximum 17240)
 - Eiwitten: 1592,7 g (bewust boven target voor verzadiging en praktische uitvoerbaarheid)
-- Vetten: 312,7 g (onder weekmaximum 480)
+- Vetten: 339,7 g (onder weekmaximum 480)
 - Koolhydraten: 1728,0 g (onder weekmaximum 1900)
