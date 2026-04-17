@@ -278,16 +278,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2842.5,
-                    "protein": 225.6,
+                    "kcal": 2844.2,
+                    "protein": 227.2,
                     "fat": 52.6,
-                    "carbs": 349.3
+                    "carbs": 347.7
                 },
                 "rest": {
-                    "kcal": 1832.5,
-                    "protein": 206.7,
+                    "kcal": 1843.2,
+                    "protein": 208.0,
                     "fat": 62.6,
-                    "carbs": 90.0
+                    "carbs": 90.5
                 }
             },
             "schedule": [
@@ -3049,10 +3049,10 @@
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 727.8,
-                        "carbs": 110.2,
-                        "fat": 10.0,
-                        "protein": 42.2
+                        "kcal": 731.9,
+                        "carbs": 111.2,
+                        "fat": 9.9,
+                        "protein": 42.7
                     },
                     "ingredients": [
                         {
@@ -3072,12 +3072,12 @@
                             "amount": "60 g"
                         },
                         {
-                            "name": "Prei",
+                            "name": "Wortel",
                             "amount": "40 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "80 g"
+                            "name": "Tomaat, rauw",
+                            "amount": "150 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -3108,10 +3108,10 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 424.3,
-                        "carbs": 21.5,
-                        "fat": 14.7,
-                        "protein": 42.5
+                        "kcal": 437.4,
+                        "carbs": 24.6,
+                        "fat": 14.6,
+                        "protein": 42.7
                     },
                     "ingredients": [
                         {
@@ -3127,12 +3127,12 @@
                             "amount": "60 g"
                         },
                         {
-                            "name": "Prei",
+                            "name": "Wortel",
                             "amount": "100 g"
                         },
                         {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "80 g"
+                            "name": "Tomaat, rauw",
+                            "amount": "150 g"
                         },
                         {
                             "name": "Halfvolle yoghurt",
@@ -3166,11 +3166,11 @@
                 }
             },
             "preparation": [
-                "Snijd kip, champignons, paprika en prei.",
-                "Meng passata met sojasaus, teriyaki en knoflook.",
+                "Snijd kip, champignons, paprika en wortel.",
+                "Halveer tomaten en zet klaar met sojasaus, teriyaki en knoflook.",
                 "Bak kip en groenten krachtig in olie.",
-                "Voeg saus en kruiden toe en laat kort inkoken.",
-                "Training: serveer met rijst. Rust: voeg extra champignons, prei en yoghurt toe voor volume en smeuigheid."
+                "Voeg tomaten en saus toe en laat 3-4 min zacht worden.",
+                "Training: serveer met rijst. Rust: voeg extra champignons, wortel en yoghurt toe voor volume en smeuigheid."
             ]
         },
         "mealprep2-plan6": {
@@ -3182,10 +3182,10 @@
                 "training": {
                     "label": "Rijstvariant",
                     "macros": {
-                        "kcal": 684.6,
-                        "carbs": 102.1,
-                        "fat": 8.9,
-                        "protein": 44.4
+                        "kcal": 682.2,
+                        "carbs": 99.5,
+                        "fat": 9.0,
+                        "protein": 45.5
                     },
                     "ingredients": [
                         {
@@ -3197,7 +3197,7 @@
                             "amount": "110 g"
                         },
                         {
-                            "name": "Prei",
+                            "name": "Spinazie (rauw)",
                             "amount": "80 g"
                         },
                         {
@@ -3241,10 +3241,10 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 407.8,
-                        "carbs": 16.9,
-                        "fat": 15.6,
-                        "protein": 42.2
+                        "kcal": 405.4,
+                        "carbs": 14.3,
+                        "fat": 15.7,
+                        "protein": 43.3
                     },
                     "ingredients": [
                         {
@@ -3252,7 +3252,7 @@
                             "amount": "100 g"
                         },
                         {
-                            "name": "Prei",
+                            "name": "Spinazie (rauw)",
                             "amount": "80 g"
                         },
                         {
@@ -3295,9 +3295,10 @@
                 }
             },
             "preparation": [
-                "Snijd kip, ui, prei, paprika en champignons.",
+                "Snijd kip, ui, paprika en champignons.",
                 "Roer yoghurt, sojasaus, knoflook, kerrie en kurkuma tot saus.",
                 "Bak kip en groenten kort aan.",
+                "Voeg spinazie toe en roer tot geslonken (±1 min).",
                 "Voeg de saus toe en laat zacht binden.",
                 "Training: serveer met rijst. Rust: extra champignons toevoegen voor volume."
             ]
@@ -4291,9 +4292,19 @@
                             "amount": "910 g"
                         },
                         {
-                            "id": "prei6",
-                            "name": "Prei",
-                            "amount": "1020 g"
+                            "id": "wortel6",
+                            "name": "Wortel",
+                            "amount": "460 g"
+                        },
+                        {
+                            "id": "spinazie6",
+                            "name": "Spinazie (rauw)",
+                            "amount": "560 g"
+                        },
+                        {
+                            "id": "tomaat6",
+                            "name": "Tomaat, rauw",
+                            "amount": "1050 g"
                         },
                         {
                             "id": "ui6",
@@ -4304,11 +4315,6 @@
                             "id": "knoflook6",
                             "name": "Knoflook, rauw",
                             "amount": "84 g"
-                        },
-                        {
-                            "id": "passata6",
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "560 g"
                         },
                         {
                             "id": "soja6",

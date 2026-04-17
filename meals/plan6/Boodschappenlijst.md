@@ -28,10 +28,11 @@ Uitgangspunt:
 | Kipfilet (rauw)                                |               1400 g |
 | Champignons                                    |               4280 g |
 | Paprika                                        |                910 g |
-| Prei                                           |               1020 g |
+| Wortel                                         |                460 g |
+| Spinazie (rauw)                                |                560 g |
+| Tomaat, rauw                                   |               1050 g |
 | Ui (rauw)                                      |                140 g |
 | Knoflook, rauw                                 |                 84 g |
-| Tomaten Gezeefd Passata - Jumbo                |                560 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                 14 g |
 | Witte rijst (droog)                            |                920 g |
 | Olijfolie Extra Vierge                         |                141 g |

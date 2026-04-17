@@ -1,6 +1,6 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-04-17 (plan 6 update: nieuwe lunch Ham-Spiegelei — eieren en augurken toegevoegd)
+Laatst bijgewerkt: 2026-04-17 (plan 6 update: prei vervangen door wortel/spinazie, passata vervangen door tomaat rauw; wortel en spinazie NEVO-waarden toegevoegd)
 
 ## Toegevoegd voor plan 3
 
@@ -312,6 +312,28 @@ Standaard portie gebruikt in plan 5: 2 stuks training (±120 g), 3 stuks rust (�
 | Koolhydraten    | 4,0 g     |
 
 ## Toegevoegd voor plan 6
+
+### Spinazie (rauw)
+
+- Bron: NEVO standaardwaarde spinazie rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 23 kcal   |
+| Eiwitten        | 2,9 g     |
+| Vetten          | 0,4 g     |
+| Koolhydraten    | 0,8 g     |
+
+### Wortel
+
+- Bron: NEVO standaardwaarde wortel rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 41 kcal   |
+| Eiwitten        | 1,0 g     |
+| Vetten          | 0,2 g     |
+| Koolhydraten    | 7,5 g     |
 
 ### 100% pindakaas naturel
 

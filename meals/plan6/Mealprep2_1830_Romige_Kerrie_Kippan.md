@@ -8,21 +8,21 @@ Deze kippan gebruikt een romige kerrie-kurkuma basis met yoghurt en sojasaus, wa
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 110 g Witte rijst (droog)
-- Kcal: 684,6
-- Eiwitten: 44,4 g
-- Vetten: 8,9 g
-- Koolhydraten: 102,1 g
+- Kcal: 682,2
+- Eiwitten: 45,5 g
+- Vetten: 9,0 g
+- Koolhydraten: 99,5 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: extra champignons (geen rijst)
-- Kcal: 407,8
-- Eiwitten: 42,2 g
-- Vetten: 15,6 g
-- Koolhydraten: 16,9 g
+- Kcal: 405,4
+- Eiwitten: 43,3 g
+- Vetten: 15,7 g
+- Koolhydraten: 14,3 g
 
 ## Ingredienten per portie
 - 100 g Kipfilet (rauw)
-- 80 g Prei
+- 80 g Spinazie (rauw)
 - 70 g Paprika
 - 220 g Champignons
 - 20 g Ui (rauw)
@@ -43,13 +43,14 @@ Rustdag toevoeging per portie:
 
 ## Voorbereiding
 - Snijd kipfilet in kleine blokjes.
-- Snijd prei, paprika, ui en champignons.
+- Snijd paprika, ui en champignons.
 - Meng yoghurt, sojasaus, knoflook, kerriepoeder en kurkumapoeder tot saus.
 - Kook op trainingsdagen de rijst vooraf.
 
 ## Bereiding
 - Verhit olijfolie en bak kipfilet kort rondom aan.
-- Voeg ui, prei, paprika en champignons toe en bak 5 minuten.
+- Voeg ui, paprika en champignons toe en bak 5 minuten.
+- Voeg spinazie toe en roer tot geslonken (circa 1 minuut).
 - Giet de yoghurtsaus erbij en laat op laag vuur 3-4 minuten binden.
 - Trainingsdag: schep rijst en extra olie erdoor en warm 2 minuten mee.
 - Rustdag: voeg extra champignons en olie toe en laat 5 minuten stoven voor maximale portie-omvang.
@@ -62,7 +63,7 @@ Rustdag toevoeging per portie:
 Bronnen per ingredient:
 - Kipfilet (rauw): src/ontbrekende_macros_lijst.md
 - Ui (rauw): src/ontbrekende_macros_lijst.md
-- Prei: src/ontbrekende_macros_lijst.md
+- Spinazie (rauw): src/ontbrekende_macros_lijst.md
 - Paprika: src/voedingswaardetabel_referentie.md
 - Champignons: src/ontbrekende_macros_lijst.md
 - Halfvolle yoghurt: src/ontbrekende_macros_lijst.md
