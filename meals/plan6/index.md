@@ -2,14 +2,14 @@
 
 Bestanden:
 - Ontbijt_1015_Havermout_Zuivel_Bowl.md
-- Lunch_1300_Kip_Champignon_Snelpan.md
+- Lunch_1300_Ham_Kaas_Tosti.md
 - Mealprep1_1545_Oosterse_Teriyaki_Kippan.md
 - Mealprep2_1830_Romige_Kerrie_Kippan.md
 - Macros_Dagtotalen.md
 - Boodschappenlijst.md
 
 Kernpunten:
-- Geen courgette en geen aubergine
+- Lunch (13:00): Ham-Kaas Tosti met Spiegelei — 10 minuten, geen kip, geen rijst
 - Twee uitgesproken gekruide eenpansgerechten met sauscomponent
 - Rustdagvarianten met extra volume voor hongercontrole
 - Dagkcal blijven onder de opgegeven maxima

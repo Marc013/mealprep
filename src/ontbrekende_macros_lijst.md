@@ -1,8 +1,34 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-04-10 (plan 5 update: courgette vervangen door prei, nieuwe lunch)
+Laatst bijgewerkt: 2026-04-17 (plan 6 update: nieuwe lunch Ham-Spiegelei — eieren en augurken toegevoegd)
 
 ## Toegevoegd voor plan 3
+
+### Augurken (zoetzuur, ingemaakte)
+
+- Bron: NEVO standaardwaarde augurken ingemaakte
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 12 kcal   |
+| Eiwitten        | 0,7 g     |
+| Vetten          | 0,1 g     |
+| Koolhydraten    | 1,7 g     |
+| Zout            | 2,0 g     |
+
+### Eieren (kip, heel, rauw)
+
+- Bron: NEVO standaardwaarde kippenei heel rauw
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 147 kcal  |
+| Eiwitten        | 12,7 g    |
+| Vetten          | 10,4 g    |
+| Koolhydraten    | 0,6 g     |
+| Zout            | 0,3 g     |
+
+Standaard portie: 1 ei = 60 g (zonder schaal)
 
 ### Go-Tan Sweet Chilli Sauce
 

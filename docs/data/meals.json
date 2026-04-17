@@ -271,23 +271,23 @@
         "plan6": {
             "id": "plan6",
             "name": "Teriyaki & Romige Kerrie Kip",
-            "description": "Havermout-zuivel ontbijt, natriumarme kip-champignon lunch en twee sappige oosterse kippannen.",
+            "description": "Havermout-zuivel ontbijt, eenvoudige ham-spiegelei lunch en twee sappige oosterse kippannen.",
             "dayCounts": {
                 "training": 4,
                 "rest": 3
             },
             "totals": {
                 "training": {
-                    "kcal": 2897.1,
-                    "protein": 237.1,
-                    "fat": 42.9,
-                    "carbs": 364.6
+                    "kcal": 2854.7,
+                    "protein": 226.2,
+                    "fat": 53.8,
+                    "carbs": 348.9
                 },
                 "rest": {
-                    "kcal": 1867.7,
-                    "protein": 226.3,
-                    "fat": 52.6,
-                    "carbs": 94.4
+                    "kcal": 1844.6,
+                    "protein": 207.2,
+                    "fat": 63.4,
+                    "carbs": 89.7
                 }
             },
             "schedule": [
@@ -2965,99 +2965,79 @@
         },
         "lunch-plan6": {
             "id": "lunch-plan6",
-            "title": "Natriumarme Kip-Champignon Snelpan",
+            "title": "Ham-Kaas Tosti met Spiegelei",
             "time": "13:00",
-            "description": "Snelle 1-pan lunch met dierlijk eiwit als basis en heel beperkte zoute smaakmakers.",
+            "description": "Ultra-eenvoudige lunch in 10 minuten: tosti-ijzer + koekenpan, geen kip. Training voegt ham-kaas tosti toe; rustdag is puur spiegelei met ham en augurk.",
             "variants": {
                 "training": {
-                    "label": "Haver-banaanvariant",
+                    "label": "Trainingsvariant (met toast)",
                     "macros": {
-                        "kcal": 550.5,
-                        "carbs": 52.8,
-                        "fat": 11.6,
-                        "protein": 49.8
+                        "kcal": 508.1,
+                        "carbs": 37.1,
+                        "fat": 22.5,
+                        "protein": 38.9
                     },
                     "ingredients": [
                         {
-                            "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "20 g"
-                        },
-                        {
-                            "name": "Kipfilet (rauw)",
+                            "name": "Eieren (2 stuks)",
                             "amount": "120 g"
-                        },
-                        {
-                            "name": "Champignons",
-                            "amount": "300 g"
-                        },
-                        {
-                            "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
-                        },
-                        {
-                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "4 g"
-                        },
-                        {
-                            "name": "Havervlokken (Crownfield)",
-                            "amount": "35 g"
-                        },
-                        {
-                            "name": "Banaan",
-                            "amount": "120 g"
-                        },
-                        {
-                            "name": "Honing",
                             "amount": "5 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur)",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "Kaas 10+",
+                            "amount": "25 g"
                         }
                     ]
                 },
                 "rest": {
-                    "label": "Volumevariant",
+                    "label": "Rustdagvariant (geen brood)",
                     "macros": {
-                        "kcal": 293.9,
-                        "carbs": 6.7,
-                        "fat": 8.3,
-                        "protein": 41.5
+                        "kcal": 270.8,
+                        "carbs": 2.0,
+                        "fat": 19.1,
+                        "protein": 22.4
                     },
                     "ingredients": [
                         {
-                            "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "20 g"
-                        },
-                        {
-                            "name": "Kipfilet (rauw)",
+                            "name": "Eieren (2 stuks)",
                             "amount": "120 g"
                         },
                         {
-                            "name": "Champignons",
-                            "amount": "350 g"
-                        },
-                        {
-                            "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
-                        },
-                        {
-                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "1 g"
-                        },
-                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "7 g"
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur)",
+                            "amount": "20 g"
                         }
                     ]
                 }
             },
             "preparation": [
-                "Snijd kip en champignons en zet alles klaar.",
-                "Roer yoghurt en 1 g sojasaus tot snelle saus.",
-                "Bak kip en champignons in olie, voeg ham kort toe en roer saus erdoor.",
-                "Training: serveer met havervlokken, banaan en honing.",
-                "Rust: voeg extra champignons en olie toe voor meer volume."
+                "Zet tosti-ijzer aan (trainingsdag), verwarmingstijd ~2 minuten.",
+                "Verhit 5 g olijfolie in koekenpan, bak 2 spiegeleieren 3-4 min op middelhoog vuur.",
+                "Training: beleg 3 sneetjes brood met ham en kaas, bak 3 min in tosti-ijzer goudbruin.",
+                "Rustdag: combineer spiegelei met ham op bord.",
+                "Serveer met augurken ernaast. Klaar in 10 minuten."
             ]
         },
         "mealprep1-plan6": {
@@ -4231,14 +4211,19 @@
                             "amount": "14 stuks"
                         },
                         {
+                            "id": "eieren6",
+                            "name": "Eieren",
+                            "amount": "14 stuks"
+                        },
+                        {
                             "id": "haver6",
                             "name": "Havervlokken (Crownfield)",
-                            "amount": "220 g"
+                            "amount": "80 g"
                         },
                         {
                             "id": "yoghurt6",
                             "name": "Halfvolle yoghurt",
-                            "amount": "2220 g"
+                            "amount": "1600 g"
                         },
                         {
                             "id": "kwark6",
@@ -4253,7 +4238,7 @@
                         {
                             "id": "banaan6",
                             "name": "Banaan",
-                            "amount": "800 g"
+                            "amount": "320 g"
                         },
                         {
                             "id": "rozijnen6",
@@ -4263,7 +4248,7 @@
                         {
                             "id": "honing6",
                             "name": "Honing",
-                            "amount": "40 g"
+                            "amount": "20 g"
                         },
                         {
                             "id": "pinda6",
@@ -4273,17 +4258,32 @@
                         {
                             "id": "ham6",
                             "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "280 g"
+                        },
+                        {
+                            "id": "brood6",
+                            "name": "Volkoren brood",
+                            "amount": "360 g"
+                        },
+                        {
+                            "id": "kaas6",
+                            "name": "Kaas 10+",
+                            "amount": "100 g"
+                        },
+                        {
+                            "id": "augurk6",
+                            "name": "Augurken (zoetzuur)",
                             "amount": "140 g"
                         },
                         {
                             "id": "kip6",
                             "name": "Kipfilet (rauw)",
-                            "amount": "2240 g"
+                            "amount": "1400 g"
                         },
                         {
                             "id": "champ6",
                             "name": "Champignons",
-                            "amount": "6530 g"
+                            "amount": "4280 g"
                         },
                         {
                             "id": "paprika6",
@@ -4313,7 +4313,7 @@
                         {
                             "id": "soja6",
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
-                            "amount": "21 g"
+                            "amount": "14 g"
                         },
                         {
                             "id": "rijst6",
@@ -4323,7 +4323,7 @@
                         {
                             "id": "olie6",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "143 g"
+                            "amount": "141 g"
                         },
                         {
                             "id": "teriyaki6",
