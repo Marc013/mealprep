@@ -27,7 +27,7 @@ Uitgangspunt:
 | Augurken (zoetzuur)                            |                350 g |
 | Jumbo Gerookte Kipfilet                        |                850 g |
 | Grand'Italia Fusilli Volkoren (droog)          |                400 g |
-| Cherry tomaten                                 |                840 g |
+| Tomaat, rauw                                   |                840 g |
 | Rode ui                                        |                410 g |
 | Selderij, bleek, rauw                          |                840 g |
 | Radijs                                         |                700 g |
@@ -36,7 +36,7 @@ Uitgangspunt:
 | Jumbo Pesto alla Genovese                      |                 64 g |
 | Jumbo Rund Mager Gehakt                        |                830 g |
 | Honig Macaroni Original (droog)                |                400 g |
-| Ui                                             |                440 g |
+| Ui (rauw)                                      |                440 g |
 | Paprika                                        |                960 g |
 | Champignons                                    |                700 g |
 | Prei                                           |                640 g |

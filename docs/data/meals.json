@@ -3427,10 +3427,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 446.3,
-                        "carbs": 66.9,
-                        "fat": 5.9,
-                        "protein": 29.7
+                        "kcal": 398,
+                        "carbs": 62.8,
+                        "fat": 3.1,
+                        "protein": 26.4
                     },
                     "ingredients": [
                         {
@@ -3455,7 +3455,7 @@
                         },
                         {
                             "name": "Rozijnen",
-                            "amount": "10 g"
+                            "amount": "20 g"
                         },
                         {
                             "name": "Honing",
@@ -3470,10 +3470,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 266.2,
-                        "carbs": 20.5,
-                        "fat": 7.7,
-                        "protein": 27.0
+                        "kcal": 269,
+                        "carbs": 22.9,
+                        "fat": 6.8,
+                        "protein": 27.9
                     },
                     "ingredients": [
                         {
@@ -3518,10 +3518,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 412.2,
-                        "carbs": 42.2,
-                        "fat": 13.9,
-                        "protein": 29.2
+                        "kcal": 413,
+                        "carbs": 40.77,
+                        "fat": 13.2,
+                        "protein": 28.4
                     },
                     "ingredients": [
                         {
@@ -3538,7 +3538,7 @@
                         },
                         {
                             "name": "Volkoren brood",
-                            "amount": "100 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Augurken (zoetzuur)",
@@ -3553,10 +3553,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 350.0,
-                        "carbs": 3.9,
-                        "fat": 22.6,
-                        "protein": 32.1
+                        "kcal": 44.0,
+                        "carbs": 5.7,
+                        "fat": 21.7,
+                        "protein": 31.1
                     },
                     "ingredients": [
                         {
@@ -3597,10 +3597,10 @@
                 "training": {
                     "label": "Fusillivariant",
                     "macros": {
-                        "kcal": 647.7,
-                        "carbs": 83.0,
-                        "fat": 12.5,
-                        "protein": 43.5
+                        "kcal": 642,
+                        "carbs": 94.9,
+                        "fat": 11.4,
+                        "protein": 46.1
                     },
                     "ingredients": [
                         {
@@ -3644,10 +3644,10 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 325.8,
-                        "carbs": 17.9,
-                        "fat": 10.0,
-                        "protein": 39.1
+                        "kcal": 322,
+                        "carbs": 19.9,
+                        "fat": 9,
+                        "protein": 43.1
                     },
                     "ingredients": [
                         {
@@ -3700,10 +3700,10 @@
                 "training": {
                     "label": "Macaronivariant",
                     "macros": {
-                        "kcal": 760.6,
-                        "carbs": 100.6,
-                        "fat": 19.4,
-                        "protein": 39.0
+                        "kcal": 758,
+                        "carbs": 98.9,
+                        "fat": 18.5,
+                        "protein": 39.4
                     },
                     "ingredients": [
                         {
@@ -3747,10 +3747,10 @@
                 "rest": {
                     "label": "Volumevariant",
                     "macros": {
-                        "kcal": 390.2,
-                        "carbs": 18.0,
-                        "fat": 20.4,
-                        "protein": 30.0
+                        "kcal": 387,
+                        "carbs": 16.5,
+                        "fat": 19.6,
+                        "protein": 30.6
                     },
                     "ingredients": [
                         {

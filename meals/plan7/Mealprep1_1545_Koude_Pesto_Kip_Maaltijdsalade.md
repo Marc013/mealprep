@@ -8,21 +8,21 @@ Dit gerecht is een koude maaltijdsalade met pesto-kwarksaus en veel groentevolum
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Grand'Italia Fusilli Volkoren (droog)
-- Kcal: 647,7
-- Eiwitten: 43,5 g
-- Vetten: 12,5 g
-- Koolhydraten: 83,0 g
+- Kcal: 642
+- Eiwitten: 46,1 g
+- Vetten: 11,4 g
+- Koolhydraten: 94,9 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen pasta, extra groentevolume
-- Kcal: 325,8
-- Eiwitten: 39,1 g
-- Vetten: 10,0 g
-- Koolhydraten: 17,9 g
+- Kcal: 322
+- Eiwitten: 43,1 g
+- Vetten: 9 g
+- Koolhydraten: 19,9 g
 
 ## Ingredienten per portie
 - 100 g Jumbo Gerookte Kipfilet
-- 120 g Cherry tomaten
+- 120 g Tomaat, rauw
 - 80 g Rode ui
 - 120 g Selderij, bleek, rauw
 - 100 g Radijs
@@ -35,7 +35,7 @@ Trainingsdag toevoeging per portie:
 
 Rustdag aanpassing per portie:
 - 150 g Jumbo Gerookte Kipfilet
-- 120 g Cherry tomaten
+- 120 g Tomaat, rauw
 - 30 g Rode ui
 - 120 g Selderij, bleek, rauw
 - 100 g Radijs

@@ -8,21 +8,21 @@ Sterk gekruide eenpansmaaltijd met sauscomponent via Hela Kruiden Ketchup Curry 
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: 100 g Honig Macaroni Original (droog)
-- Kcal: 760,6
-- Eiwitten: 39,0 g
-- Vetten: 19,4 g
-- Koolhydraten: 100,6 g
+- Kcal: 758
+- Eiwitten: 39,4 g
+- Vetten: 18,5 g
+- Koolhydraten: 98,9 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: geen macaroni, volume uit groente
-- Kcal: 390,2
-- Eiwitten: 30,0 g
-- Vetten: 20,4 g
-- Koolhydraten: 18,0 g
+- Kcal: 387
+- Eiwitten: 30,6 g
+- Vetten: 19,6 g
+- Koolhydraten: 16,5 g
 
 ## Ingredienten per portie
 - 110 g Jumbo Rund Mager Gehakt
-- 80 g Ui
+- 80 g Ui (rauw)
 - 150 g Paprika
 - 100 g Champignons
 - 100 g Prei
@@ -35,7 +35,7 @@ Trainingsdag toevoeging per portie:
 
 Rustdag aanpassing per portie:
 - 130 g Jumbo Rund Mager Gehakt
-- 40 g Ui
+- 40 g Ui (rauw)
 - 120 g Paprika
 - 100 g Champignons
 - 80 g Prei

@@ -8,10 +8,10 @@ Deze lunch is zeer eenvoudig en volledig binnen 30 minuten te bereiden en te ete
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 412,2
-- Eiwitten: 29,2 g
-- Vetten: 13,9 g
-- Koolhydraten: 42,2 g
+- Kcal: 413
+- Eiwitten: 28,4 g
+- Vetten: 13,2 g
+- Koolhydraten: 40,77 g
 
 ## Ingredienten per portie
 - 60 g Eieren (spiegelei)
@@ -34,10 +34,10 @@ Totale tijd: ongeveer 10-12 minuten.
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 350,0
-- Eiwitten: 32,1 g
-- Vetten: 22,6 g
-- Koolhydraten: 3,9 g
+- Kcal: 44,0
+- Eiwitten: 31,1 g
+- Vetten: 21,7 g
+- Koolhydraten: 5,7 g
 
 ## Ingredienten per portie
 - 120 g Eieren (2 stuks)
