@@ -318,6 +318,57 @@
                     "fixed": true
                 }
             ]
+        },
+        "plan7": {
+            "id": "plan7",
+            "name": "Pesto-Kip Salade & Macaroni Rundergehakt",
+            "description": "Skyr-havermout ontbijt, snelle spiegelei-lunch en twee mealprep-gerechten met sauscomponent.",
+            "dayCounts": {
+                "training": 4,
+                "rest": 3
+            },
+            "totals": {
+                "training": {
+                    "kcal": 2801.8,
+                    "protein": 220.4,
+                    "fat": 57.7,
+                    "carbs": 330.7
+                },
+                "rest": {
+                    "kcal": 1867.2,
+                    "protein": 207.2,
+                    "fat": 66.7,
+                    "carbs": 98.3
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend-plan7",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan7"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan7"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan7"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan7"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond-plan7",
+                    "fixed": true
+                }
+            ]
         }
     },
     "meals": {
@@ -3306,6 +3357,443 @@
                 "Voeg de saus toe en laat zacht binden.",
                 "Training: serveer met rijst. Rust: extra champignons toevoegen voor volume."
             ]
+        },
+        "shake-ochtend-plan7": {
+            "id": "shake-ochtend-plan7",
+            "title": "Whey Shake + Appel",
+            "time": "07:30",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Appel",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker.",
+                "Voeg 300 ml koud water toe en schud krachtig.",
+                "Drink direct en eet de appel erbij."
+            ]
+        },
+        "shake-avond-plan7": {
+            "id": "shake-avond-plan7",
+            "title": "Whey Shake + Appel",
+            "time": "21:15",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Appel",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker.",
+                "Voeg 300 ml koud water toe en schud krachtig.",
+                "Drink direct en eet de appel erbij."
+            ]
+        },
+        "ontbijt-plan7": {
+            "id": "ontbijt-plan7",
+            "title": "Skyr Havermout Bowl",
+            "time": "10:15",
+            "description": "Verplichte 10:15-combinatie met skyr of kwark, halfvolle yoghurt, bosvruchten, banaan en kaneel.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 446.3,
+                        "carbs": 66.9,
+                        "fat": 5.9,
+                        "protein": 29.7
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Rozijnen",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 266.2,
+                        "carbs": 20.5,
+                        "fat": 7.7,
+                        "protein": 27.0
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "100% pindakaas naturel",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg alle ingredienten af en laat bosvruchten kort ontdooien.",
+                "Meng skyr en yoghurt in een kom.",
+                "Voeg havervlokken, kaneel, fruit en toppings toe."
+            ]
+        },
+        "lunch-plan7": {
+            "id": "lunch-plan7",
+            "title": "Spiegelei met Ham en Kaas",
+            "time": "13:00",
+            "description": "Ultra-eenvoudige lunch die in ongeveer 10-12 minuten klaar is.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 412.2,
+                        "carbs": 42.2,
+                        "fat": 13.9,
+                        "protein": 29.2
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (2 stuks)",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Tostiham - Jumbo",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur)",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "1 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 350.0,
+                        "carbs": 3.9,
+                        "fat": 22.6,
+                        "protein": 32.1
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (2 stuks)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Tostiham - Jumbo",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur)",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg alle ingredienten exact af.",
+                "Bak het spiegelei en verwarm ham kort mee.",
+                "Training: serveer met brood. Rust: zonder brood."
+            ]
+        },
+        "mealprep1-plan7": {
+            "id": "mealprep1-plan7",
+            "title": "Koude Pesto-Kip maaltijdsalade",
+            "time": "15:45",
+            "description": "Koude maaltijdsalade op basis van pesto-kip met kwarksaus en hoog groentevolume.",
+            "variants": {
+                "training": {
+                    "label": "Fusillivariant",
+                    "macros": {
+                        "kcal": 647.7,
+                        "carbs": 83.0,
+                        "fat": 12.5,
+                        "protein": 43.5
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Grand'Italia Fusilli Volkoren (droog)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Tomaat, rauw",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Rode ui",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Selderij, bleek, rauw",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Radijs",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Jumbo Pesto alla Genovese",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Avocado",
+                            "amount": "15 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Volumevariant",
+                    "macros": {
+                        "kcal": 325.8,
+                        "carbs": 17.9,
+                        "fat": 10.0,
+                        "protein": 39.1
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Tomaat, rauw",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Rode ui",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Selderij, bleek, rauw",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Radijs",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Jumbo Pesto alla Genovese",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Avocado",
+                            "amount": "20 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd groenten en kip, meng kwark met pesto.",
+                "Kook fusilli op trainingsdagen en laat afkoelen.",
+                "Meng alles koud. Training: voeg fusilli toe. Rust: serveer zonder fusilli."
+            ]
+        },
+        "mealprep2-plan7": {
+            "id": "mealprep2-plan7",
+            "title": "Macaroni Rundergehakt",
+            "time": "18:30",
+            "description": "Sterk gekruide eenpansmaaltijd met sauscomponent via Hela en Maggi.",
+            "variants": {
+                "training": {
+                    "label": "Macaronivariant",
+                    "macros": {
+                        "kcal": 760.6,
+                        "carbs": 100.6,
+                        "fat": 19.4,
+                        "protein": 39.0
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Rund Mager Gehakt",
+                            "amount": "110 g"
+                        },
+                        {
+                            "name": "Honig Macaroni Original (droog)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Prei",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Verstegen Kruidenmix voor Macaroni & Spaghetti",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Hela Kruiden Ketchup Curry 30% minder suiker",
+                            "amount": "45 g"
+                        },
+                        {
+                            "name": "MAGGI Aroma Smaakverfijner",
+                            "amount": "5 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Volumevariant",
+                    "macros": {
+                        "kcal": 390.2,
+                        "carbs": 18.0,
+                        "fat": 20.4,
+                        "protein": 30.0
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Rund Mager Gehakt",
+                            "amount": "130 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Prei",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Verstegen Kruidenmix voor Macaroni & Spaghetti",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Hela Kruiden Ketchup Curry 30% minder suiker",
+                            "amount": "12 g"
+                        },
+                        {
+                            "name": "MAGGI Aroma Smaakverfijner",
+                            "amount": "4 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd ui, paprika, champignons en prei.",
+                "Bak gehakt rul, voeg groenten toe en bak door.",
+                "Voeg kruidenmix, Hela en Maggi toe tot een glanzende saus.",
+                "Training: meng met gekookte macaroni. Rust: serveer zonder macaroni."
+            ]
         }
     },
     "shopping": {
@@ -4379,6 +4867,211 @@
                             "id": "kwark_lidl6",
                             "name": "Magere Franse Kwark (Milbona) - Lidl",
                             "amount": "540 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        "plan7": {
+            "name": "Pesto Kip & Mager Gehakt Macaroni",
+            "categories": [
+                {
+                    "name": "Jumbo / overig",
+                    "items": [
+                        {
+                            "id": "whey7",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "appel7",
+                            "name": "Appel",
+                            "amount": "14 stuks"
+                        },
+                        {
+                            "id": "skyr7",
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "1140 g"
+                        },
+                        {
+                            "id": "yoghurt7",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "900 g"
+                        },
+                        {
+                            "id": "bos7",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "410 g"
+                        },
+                        {
+                            "id": "banaan7",
+                            "name": "Banaan",
+                            "amount": "380 g"
+                        },
+                        {
+                            "id": "haver7",
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "rozijnen7",
+                            "name": "Rozijnen",
+                            "amount": "40 g"
+                        },
+                        {
+                            "id": "honing7",
+                            "name": "Honing",
+                            "amount": "20 g"
+                        },
+                        {
+                            "id": "pinda7",
+                            "name": "100% pindakaas naturel",
+                            "amount": "30 g"
+                        },
+                        {
+                            "id": "eieren7",
+                            "name": "Eieren",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "tostiham7",
+                            "name": "Tostiham - Jumbo",
+                            "amount": "450 g"
+                        },
+                        {
+                            "id": "kaas7",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "100 g"
+                        },
+                        {
+                            "id": "brood7",
+                            "name": "Volkoren brood",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "augurk7",
+                            "name": "Augurken (zoetzuur)",
+                            "amount": "350 g"
+                        },
+                        {
+                            "id": "kip_gerookt7",
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "850 g"
+                        },
+                        {
+                            "id": "fusilli7",
+                            "name": "Grand'Italia Fusilli Volkoren (droog)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "tomaat7",
+                            "name": "Tomaat, rauw",
+                            "amount": "840 g"
+                        },
+                        {
+                            "id": "rode_ui7",
+                            "name": "Rode ui",
+                            "amount": "410 g"
+                        },
+                        {
+                            "id": "bleekselderij7",
+                            "name": "Selderij, bleek, rauw",
+                            "amount": "840 g"
+                        },
+                        {
+                            "id": "radijs7",
+                            "name": "Radijs",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "avocado7",
+                            "name": "Avocado",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "kwark7",
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "560 g"
+                        },
+                        {
+                            "id": "pesto7",
+                            "name": "Jumbo Pesto alla Genovese",
+                            "amount": "64 g"
+                        },
+                        {
+                            "id": "gehakt7",
+                            "name": "Jumbo Rund Mager Gehakt",
+                            "amount": "830 g"
+                        },
+                        {
+                            "id": "macaroni7",
+                            "name": "Honig Macaroni Original (droog)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "ui7",
+                            "name": "Ui (rauw)",
+                            "amount": "440 g"
+                        },
+                        {
+                            "id": "paprika7",
+                            "name": "Paprika",
+                            "amount": "960 g"
+                        },
+                        {
+                            "id": "champignons7",
+                            "name": "Champignons",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "prei7",
+                            "name": "Prei",
+                            "amount": "640 g"
+                        },
+                        {
+                            "id": "kruidenmix7",
+                            "name": "Verstegen Kruidenmix voor Macaroni & Spaghetti",
+                            "amount": "56 g"
+                        },
+                        {
+                            "id": "hela7",
+                            "name": "Hela Kruiden Ketchup Curry 30% minder suiker",
+                            "amount": "216 g"
+                        },
+                        {
+                            "id": "maggi7",
+                            "name": "MAGGI Aroma Smaakverfijner",
+                            "amount": "32 g"
+                        },
+                        {
+                            "id": "kaneel7",
+                            "name": "Kaneelpoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "olie7",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "10 g"
+                        },
+                        {
+                            "id": "zout7",
+                            "name": "Zout",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "peper7",
+                            "name": "Peper",
+                            "amount": "naar smaak"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lidl",
+                    "items": [
+                        {
+                            "id": "lidl7",
+                            "name": "n.v.t.",
+                            "amount": "0 g"
                         }
                     ]
                 }

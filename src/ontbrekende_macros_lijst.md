@@ -1,6 +1,6 @@
 # Lijst ontbrekende macrobronnen
 
-Laatst bijgewerkt: 2026-04-17 (plan 6 update: prei vervangen door wortel/spinazie, passata vervangen door tomaat rauw; wortel en spinazie NEVO-waarden toegevoegd)
+Laatst bijgewerkt: 2026-04-24 (plan 7 update: nieuwe bronnen toegevoegd voor skyr, gerookte kipfilet, fusilli, pesto, rund mager gehakt, macaroni, kruidenmix, ketchup curry, rode ui, selderij en radijs)
 
 ## Toegevoegd voor plan 3
 
@@ -389,3 +389,134 @@ Standaard portie gebruikt in plan 5: 2 stuks training (Â±120 g), 3 stuks rust (Â
 | Eiwitten        | 3,1 g     |
 | Vetten          | 0,5 g     |
 | Koolhydraten    | 79,0 g    |
+
+## Toegevoegd voor plan 7
+
+### Grand'Italia Fusilli Volkoren
+
+- Bron: https://www.jumbo.com/producten/grand-italia-fusilli-volkoren-500-g-207384STK
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 352 kcal  |
+| Eiwitten        | 13,0 g    |
+| Vetten          | 3,3 g     |
+| Koolhydraten    | 63,0 g    |
+| Zout            | 0,01 g    |
+
+### Hela Kruiden Ketchup Curry 30% minder suiker
+
+- Bron: https://www.jumbo.com/producten/hela-kruiden-ketchup-curry-30-minder-suiker-800-ml-615965FLS
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 106 kcal  |
+| Eiwitten        | 0,8 g     |
+| Vetten          | 0,3 g     |
+| Koolhydraten    | 24,1 g    |
+| Zout            | 2,20 g    |
+
+### Honig Macaroni Original
+
+- Bron: https://www.jumbo.com/producten/honig-macaroni-original-1kg-646509DS
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 346 kcal  |
+| Eiwitten        | 11,0 g    |
+| Vetten          | 1,5 g     |
+| Koolhydraten    | 70,0 g    |
+| Zout            | 0,03 g    |
+
+### Jumbo Gerookte Kipfilet
+
+- Bron: https://www.jumbo.com/producten/jumbo-gerookte-kipfilet-ca-330-g-700194KGR
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 93 kcal   |
+| Eiwitten        | 18,4 g    |
+| Vetten          | 1,6 g     |
+| Koolhydraten    | 1,2 g     |
+| Zout            | 1,18 g    |
+
+### Jumbo Pesto alla Genovese
+
+- Bron: https://www.jumbo.com/producten/jumbo-pesto-alla-genovese-190-g-347554POT
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 365 kcal  |
+| Eiwitten        | 4,1 g     |
+| Vetten          | 35,9 g    |
+| Koolhydraten    | 4,8 g     |
+| Zout            | 1,92 g    |
+
+### Jumbo Rund Mager Gehakt
+
+- Bron: https://www.jumbo.com/producten/jumbo-rund-mager-gehakt-400-g-716180TRA
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 201 kcal  |
+| Eiwitten        | 17,5 g    |
+| Vetten          | 14,6 g    |
+| Koolhydraten    | 0,0 g     |
+| Zout            | 0,22 g    |
+
+### Jumbo Skyr IJslandse Stijl Naturel
+
+- Bron: https://www.jumbo.com/producten/jumbo-skyr-ijslandse-stijl-naturel-500-g-556763CUP
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 62 kcal   |
+| Eiwitten        | 11,0 g    |
+| Vetten          | 0,2 g     |
+| Koolhydraten    | 4,0 g     |
+| Zout            | 0,10 g    |
+
+### Radijs
+
+- Bron: https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=790
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 18 kcal   |
+| Eiwitten        | 1,0 g     |
+| Vetten          | 0,2 g     |
+| Koolhydraten    | 2,5 g     |
+
+### Rode ui
+
+- Bron: https://mobiel.voedingscentrum.nl/nl/service/vraag-en-antwoord/gezonde-voeding-en-voedingsstoffen/hoeveel-calorieen-zitten-erin-/caloriechecker/rode-ui.aspx
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 37 kcal   |
+| Eiwitten        | 1,3 g     |
+| Vetten          | 0,4 g     |
+| Koolhydraten    | 5,6 g     |
+
+### Selderij, bleek, rauw
+
+- Bron: https://www.voedingswaardetabel.nl/voedingswaarde/voedingsmiddel/?id=850
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 17 kcal   |
+| Eiwitten        | 0,7 g     |
+| Vetten          | 0,1 g     |
+| Koolhydraten    | 3,5 g     |
+
+### Verstegen Kruidenmix voor Macaroni & Spaghetti
+
+- Bron: https://www.jumbo.com/producten/verstegen-kruidenmix-voor-macaroni-spaghetti-35-g-203700ZK
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 254 kcal  |
+| Eiwitten        | 10,0 g    |
+| Vetten          | 4,3 g     |
+| Koolhydraten    | 35,4 g    |
+| Zout            | 21,6 g    |
