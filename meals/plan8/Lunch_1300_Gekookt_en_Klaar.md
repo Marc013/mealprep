@@ -8,16 +8,16 @@ Deze lunch is extreem simpel en snel: gekookte eieren met brood, ham, kaas en ee
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 328,1
-- Eiwitten: 23,7 g
-- Vetten: 17,0 g
+- Kcal: 334,1
+- Eiwitten: 23,8 g
+- Vetten: 17,7 g
 - Koolhydraten: 15,7 g
 
 ## Ingredienten per portie
 - 2 eieren (M) (100 g)
 - 45 g Jumbo Gekookte Hamreepjes
 - 1 boterham Volkoren brood (35 g)
-- 10 g Kaas 45+
+- 10 g Kaas Extra Belegen 48+ - Jumbo
 - 12 g Remia mayolijn - Jumbo
 
 ## Voorbereiding
@@ -33,15 +33,15 @@ Totale tijd: ongeveer 15-20 minuten.
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 266,2
-- Eiwitten: 25,6 g
-- Vetten: 16,3 g
+- Kcal: 278,2
+- Eiwitten: 25,8 g
+- Vetten: 17,7 g
 - Koolhydraten: 0,8 g
 
 ## Ingredienten per portie
 - 2 eieren (M) (100 g)
 - 60 g Jumbo Gekookte Hamreepjes
-- 20 g Kaas 45+
+- 20 g Kaas Extra Belegen 48+ - Jumbo
 
 ## Voorbereiding
 - Kook de eieren hard (7-8 minuten) en koel kort terug.
@@ -56,6 +56,6 @@ Totale tijd: ongeveer 10-12 minuten.
 Bronnen per ingredient:
 - Eieren (heel): src/ontbrekende_macros_lijst.md
 - Jumbo Gekookte Hamreepjes: src/ontbrekende_macros_lijst.md
-- Kaas 45+: src/ontbrekende_macros_lijst.md
+- Kaas Extra Belegen 48+ - Jumbo: src/voedingswaarde_handmatig.md
 - Volkoren brood: src/ontbrekende_macros_lijst.md
 - Remia mayolijn - Jumbo: src/voedingswaarde_handmatig.md

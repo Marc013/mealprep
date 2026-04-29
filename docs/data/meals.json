@@ -380,15 +380,15 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2804.8,
-                    "protein": 211.4,
-                    "fat": 60.0,
+                    "kcal": 2802.6,
+                    "protein": 211.5,
+                    "fat": 59.8,
                     "carbs": 326.9
                 },
                 "rest": {
-                    "kcal": 1839.7,
-                    "protein": 218.3,
-                    "fat": 56.3,
+                    "kcal": 1851.7,
+                    "protein": 218.5,
+                    "fat": 57.7,
                     "carbs": 95.3
                 }
             },
@@ -4007,10 +4007,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 328.1,
+                        "kcal": 334.1,
                         "carbs": 15.7,
-                        "fat": 17.0,
-                        "protein": 23.7
+                        "fat": 17.7,
+                        "protein": 23.8
                     },
                     "ingredients": [
                         {
@@ -4026,7 +4026,7 @@
                             "amount": "35 g"
                         },
                         {
-                            "name": "Kaas 45+",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
                             "amount": "10 g"
                         },
                         {
@@ -4038,10 +4038,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 266.2,
+                        "kcal": 278.2,
                         "carbs": 0.8,
-                        "fat": 16.3,
-                        "protein": 25.6
+                        "fat": 17.7,
+                        "protein": 25.8
                     },
                     "ingredients": [
                         {
@@ -4053,7 +4053,7 @@
                             "amount": "60 g"
                         },
                         {
-                            "name": "Kaas 45+",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
                             "amount": "20 g"
                         }
                     ]
@@ -4200,9 +4200,9 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 793.3,
+                        "kcal": 785.1,
                         "carbs": 124.6,
-                        "fat": 9.6,
+                        "fat": 8.7,
                         "protein": 43.3
                     },
                     "ingredients": [
@@ -4256,7 +4256,7 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "4 g"
+                            "amount": "3 g"
                         }
                     ]
                 },
@@ -5674,7 +5674,7 @@
                         },
                         {
                             "id": "kaas8",
-                            "name": "Kaas 45+",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
                             "amount": "100 g"
                         },
                         {
@@ -5750,7 +5750,7 @@
                         {
                             "id": "olie8",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "61 g"
+                            "amount": "57 g"
                         },
                         {
                             "id": "chili8",

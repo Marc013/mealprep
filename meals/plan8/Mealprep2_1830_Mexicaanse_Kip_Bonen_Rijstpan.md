@@ -8,9 +8,9 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 793,3
+- Kcal: 785,1
 - Eiwitten: 43,3 g
-- Vetten: 9,6 g
+- Vetten: 8,7 g
 - Koolhydraten: 124,6 g
 
 ## Ingredienten per portie
@@ -26,7 +26,7 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 - 125 g Tomaten Gezeefd Passata - Jumbo
 - 2 g Chilipoeder (Chilivlokken)
 - 2 g Komijnpoeder
-- 4 g Olijfolie Extra Vierge
+- 3 g Olijfolie Extra Vierge
 
 ## Voorbereiding
 - Kook de rijst vooraf gaar.
