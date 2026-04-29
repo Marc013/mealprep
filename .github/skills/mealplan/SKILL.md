@@ -22,7 +22,7 @@ Deze skill verwacht de volgende bestanden in je project:
 | Bestand | Doel | Template |
 |---------|------|----------|
 | `promp.md` | Dagmacro's, shake-definitie, eettijden | [config-template.md](./assets/config-template.md) |
-| `src/Ingredienten.md` | Beschikbare ingrediënten | Lijst met producten |
+| `src/Ingredienten.md` | Voorkeursingrediënten | Lijst met producten (niet exclusief) |
 | `src/voedingswaardetabel_referentie.md` | Voedingswaarden bron 1 | Macro's per 100g |
 | `src/voedingswaarde_handmatig.md` | Voedingswaarden bron 2 | Aanvullende waarden |
 | `src/ontbrekende_macros_lijst.md` | Cache voor opgehaalde waarden | Leeg starten |
@@ -33,7 +33,7 @@ Deze skill verwacht de volgende bestanden in je project:
 
 ```
 promp.md → dagmacro's en constraints
-src/Ingredienten.md → beschikbare producten
+src/Ingredienten.md → voorkeursproducten (niet exclusief)
 ```
 
 ### 2. Bereken macro-ruimte
@@ -42,7 +42,15 @@ Shake-blok is vast (zie [macro-regels.md](./references/macro-regels.md)):
 - Trek shake-macros af van dagtotaal
 - Restant verdelen over 4 maaltijden
 
-### 3. Ontwerp maaltijden
+### 3. Hard-limit realisme checks (Verbetering 5)
+
+Voordat recepten finaal worden, valideer:
+- **Geen symbolische porties**: Hoeveelheden < 50g per ingredient (behalve kruiden/oliën) alleen als micro-impact onderbouwd. Voorbeeld: 3g rijst in rijstdis → vervang door 70g+ of verwijder.
+- **Hele eenheden**: Werk met hele eieren (~50g M-ei), hele boterhammen (35g), hele bonen-maten. Fractie alleen gerechtvaardigd.
+- **User-caps permanent**: Zodra gebruiker zegt "max 100g champignons", dit handhaven in alle toekomstige varianten tenzij expliciet opgeheven.
+- **Macrogrenzen nul-tolerantie**: kcal, vet, KH mogen dagmax niet overschrijden; corrigeer altijd.
+
+### 4. Ontwerp maaltijden
 
 | Maaltijd | Tijdstip | Type |
 |----------|----------|------|
@@ -64,6 +72,7 @@ Kwaliteitsfocus tijdens ontwerp:
 - Maximaliseer praktische uitvoerbaarheid en verzadiging zonder macrogrenzen te schenden.
 - Gebruik gecontroleerde flexibiliteit in gramhoeveelheden wanneer dit smaak, textuur of mealprep-kwaliteit verbetert.
 - Vermijd onnodige rigiditeit die plannen theoretisch correct maar praktisch zwakker maakt.
+- Conflictregel: bij botsing tussen oude voorbeeldhoeveelheden en praktische receptkwaliteit, volg de praktisch betere variant zolang kcal, vet en koolhydraten onder de dagmaxima blijven.
 
 ### 4. Bereken macro's per ingredient
 
@@ -72,12 +81,19 @@ Voedingswaarden opzoeken in volgorde:
 2. `src/voedingswaarde_handmatig.md`
 3. https://www.voedingswaardetabel.nl/ → opslaan in `src/ontbrekende_macros_lijst.md`
 
+Ingrediëntenbeleid:
+- Ingrediënten buiten `src/Ingredienten.md` zijn toegestaan als dit receptkwaliteit of macrobalans verbetert.
+- Gebruik altijd de officiële productnaam uit de gebruikte macrobron.
+- Staat een nieuw ingrediënt niet in de twee bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en gebruik het daarna in recepten.
+
 ### 5. Valideer dagtotalen
 
 - Dagmacro's zijn **strikte bovengrenzen**
 - Benader target zo dicht mogelijk; kleine afwijking is toegestaan
 - Eiwit iets boven target is acceptabel als dit functioneel is voor verzadiging/uitvoerbaarheid, maar vermijd structureel grote overschrijding
 - Valideer ook evenredige macroverdeling over maaltijden
+- Valideer consistentie tussen ingrediëntenlijst en tekst: alles in Voorbereiding/Bereiding staat ook in ingrediënten met gramhoeveelheid, behalve expliciet optionele toevoegingen
+- Bij gebruikersfeedback op een bestaande maaltijd: werk verplicht in volgorde receptaanpassing -> maaltijdmacro's -> `Macros_Dagtotalen.md` -> `Boodschappenlijst.md` -> korte validatiesamenvatting
 - Corrigeer porties indien nodig
 - Geen overschrijdingen publiceren
 

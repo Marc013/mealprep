@@ -520,3 +520,14 @@ Standaard portie gebruikt in plan 5: 2 stuks training (Â±120 g), 3 stuks rust (Â
 | Vetten          | 4,3 g     |
 | Koolhydraten    | 35,4 g    |
 | Zout            | 21,6 g    |
+
+### Conimex Kruidenmix voor Nasi Speciaal
+
+- Bron: productetiket Conimex Kruidenmix voor Nasi Speciaal
+
+| Voedingswaarden | per 100 g |
+| :-------------- | :-------- |
+| Energie         | 254 kcal  |
+| Eiwitten        | 10,0 g    |
+| Vetten          | 4,3 g     |
+| Koolhydraten    | 35,4 g    |

@@ -15,7 +15,7 @@ Lees altijd de mealplan skill voordat je begint:
 Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap:
 
 - `promp.md` — dagmacro's, shake-definitie en eettijden (configuratie)
-- `src/Ingredienten.md` — beschikbare ingrediënten (primaire bron)
+- `src/Ingredienten.md` — voorkeursingrediënten (primaire bron, niet exclusief)
 - `src/voedingswaardetabel_referentie.md` — voedingswaarden bron 1
 - `src/voedingswaarde_handmatig.md` — voedingswaarden bron 2
 - `src/ontbrekende_macros_lijst.md` — eerder opgehaalde ontbrekende waarden
@@ -25,7 +25,7 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 
 1. Bereken de bijdrage van de 2 vaste shake-momenten (zie `promp.md`)
 2. Bepaal hoeveel macro-ruimte resteert voor de 4 uit te werken maaltijden
-3. Analyseer `src/Ingredienten.md` — selecteer ingrediënten geschikt voor 2 mealprep-basisgerechten
+3. Analyseer `src/Ingredienten.md` — selecteer ingrediënten geschikt voor 2 mealprep-basisgerechten, aangevuld met andere ingrediënten indien nodig
 4. Kies 2 mealprep-gerechten, elk met trainingsdag-variant en rustdag-variant
 5. Ontwerp 1 ontbijt en 1 lunch die de resterende macro-ruimte logisch opvullen
 6. Onderbouw kort de nutritionele en praktische keuzes per gerecht
@@ -36,6 +36,16 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 11. Sla nieuw opgehaalde voedingswaarden op in `src/ontbrekende_macros_lijst.md` (alfabetisch)
 
 Aanvullende harde uitvoeringsregels:
+- Ingrediënten buiten `src/Ingredienten.md` zijn toegestaan, mits officiële productnaam en macrobron conform bronvolgorde worden gebruikt.
+- Ontbreekt een nieuw ingrediënt in beide bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en reken daarna pas door.
+- Bij conflict tussen oude voorbeeldhoeveelheden en praktische receptkwaliteit (smaak, textuur, uitvoerbaarheid), krijgt praktische receptkwaliteit voorrang zolang dagmaxima voor kcal, vet en koolhydraten niet worden overschreden.
+- Consistentiecheck verplicht: elk ingrediënt dat in Voorbereiding/Bereiding genoemd wordt, staat ook in de ingrediëntenlijst met gramhoeveelheid, behalve als het expliciet als optionele toevoeging is gemarkeerd.
+- Bij gebruikersfeedback op één maaltijd geldt verplichte updatevolgorde: (1) receptaanpassing, (2) herberekening maaltijdmacro's, (3) update `Macros_Dagtotalen.md`, (4) update `Boodschappenlijst.md`, (5) korte validatie-output met daggrenzen.
+- **Verbetering 5 — Hard-limit realisme checks**:
+  - Geen symbolische porties: minimale werkzame hoeveelheid per ingredient of verwijderen.
+  - Hele eenheden standaard (hele eieren, hele boterhammen 35g, hele bonen/groenten).
+  - Gebruiker-gespecificeerde ingredient-caps (bijv. "max 100g champignons") worden permanent voor toekomstige plannen.
+  - Macrogrenzen (kcal, vet, KH) zijn absolute bovengrenzen; nooit overschrijden.
 - Verdeel macro's per dag zo evenredig mogelijk over de 4 hoofdmaaltijden.
 - Rustdagmaaltijden maximaliseren volume/verzadiging (veel groente/vezels/vocht, lage energiedichtheid).
 - 10:15 bevat verplicht: kwark of skyr (niet beide), halfvolle yoghurt, diepvries bosvruchten (Jumbo), banaan, kaneelpoeder; optioneel 100% pindakaas naturel en/of honing.

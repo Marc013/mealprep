@@ -42,14 +42,35 @@ Zie [.github/skills/README.md](.github/skills/README.md) voor volledige document
 - Stuur op maximale outputkwaliteit: macro-correctheid, praktische uitvoerbaarheid, smaakbehoud na opwarming en heldere instructies.
 - Gebruik gecontroleerde flexibiliteit: strikt op macrogrenzen, flexibel in kleine gram-finetuning voor betere maaltijdkwaliteit.
 - Vermijd over-rigide plannen die theoretisch kloppen maar in de praktijk minder haalbaar of minder smakelijk zijn.
+- Conflictregel: bij botsing tussen receptkwaliteit/realistische porties en oude voorbeeldhoeveelheden, kies de praktisch uitvoerbare optie zolang kcal, vet en koolhydraten de dagmaxima niet overschrijden.
+- Consistentieregel: alles wat in Voorbereiding/Bereiding wordt genoemd, moet in de ingrediëntenlijst staan met gramhoeveelheid, tenzij expliciet als "optioneel" gemarkeerd.
+
+Wijzigingslogica bij gebruikersfeedback (verplicht):
+- 1) Pas eerst de gevraagde receptbeperking of ingrediëntwijziging toe.
+- 2) Herbereken direct de macro's per aangepaste maaltijd.
+- 3) Update daarna `Macros_Dagtotalen.md`.
+- 4) Synchroniseer daarna `Boodschappenlijst.md`.
+- 5) Geef afsluitend een korte validatiesamenvatting met dagtotalen en grenscheck.
+
+## Hard-limit realisme checks (Verbetering 5)
+
+- **Geen symbolische porties**: Als een ingredient in een recept opgenomen is, gebruik alleen realistische hoeveelheden. Voorbeeld: 3g rijst in een rijstgerecht is onmogelijk; vervang door minimale werkzame portie (min. 50g droge rijst voor rijstdis) of vervang ingredient geheel.
+- **Hele eenheden prioriteit**: Werk standaard met hele eenheden (hele eieren, hele boterhammen à 35g, hele bananen, hele porties ingrediënten). Fractionale hoeveelheden alleen als praktisch gerechtvaardigd (bijv. halve paprika na snijden).
+- **Gebruiker-gespecificeerde ingredient-caps worden permanent**: Caps als "max 100g champignons", "max 125g passata", "max 35g pindakaas" gelden voor alle toekomstige recepten in dezelfde en volgende plannen tenzij expliciet aangepast door gebruiker.
+- **Nul-tolerantie op macrogrenzen**: Dagmaxima voor kcal, vet en koolhydraten zijn absolute bovengrenzen. Hard-limit checks voorkomen symbolische/onrealistische porties die micro-impact hebben maar nutteloos zijn.
 
 ## Bronbestanden
 
 | Bestand                                  | Doel                                   |
 | :--------------------------------------- | :------------------------------------- |
 | `promp.md`                               | Dagmacro's, shake-definitie, eettijden |
-| `src/Ingredienten.md`                    | Beschikbare ingrediënten               |
+| `src/Ingredienten.md`                    | Voorkeursingrediënten (niet exclusief) |
 | `src/voedingswaardetabel_referentie.md`  | Voedingswaarden bron 1                 |
 | `src/voedingswaarde_handmatig.md`        | Voedingswaarden bron 2                 |
 | `src/ontbrekende_macros_lijst.md`        | Nieuw opgehaalde waarden (persistent)  |
 | `src/Bloemkoolrijst_Jumbo.md`            | Productwaarden bloemkoolrijst          |
+
+Toelichting ingredientgebruik:
+- Ingredienten buiten `src/Ingredienten.md` zijn toegestaan.
+- Voorwaarde: gebruik officiële productnaam + macrobron volgens de vaste bronvolgorde.
+- Als een ingredient nog ontbreekt in beide bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en gebruik het daarna.
