@@ -49,7 +49,7 @@ Totale tijd: ongeveer 15-20 minuten.
 
 ## Bereiding
 - Pel de eieren en halveer ze.
-- Serveer met ham, kaas en Remia mayolijn als dip.
+- Serveer met ham en kaas.
 
 Totale tijd: ongeveer 10-12 minuten.
 ## Macro-notitie

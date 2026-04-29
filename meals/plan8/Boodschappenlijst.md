@@ -26,13 +26,13 @@ Uitgangspunt:
 | Volkoren brood (1 snede = 35g)                 |                140 g |
 | Remia mayolijn - Jumbo                         |                 48 g |
 | Kipfilet (rauw)                                |               1250 g |
-| Witte rijst (droog)                            |                571 g |
+| Witte rijst (droog)                            |                580 g |
 | Paprika                                        |               1400 g |
 | Champignons                                    |               1910 g |
 | Ui (rauw)                                      |                615 g |
 | Knoflook, rauw                                 |                 96 g |
 | Wortel                                         |                320 g |
-| Zwarte bonen (blik, uitgelekt)                 |                325 g |
+| Zwarte bonen (blik, uitgelekt)                 |                765 g |
 | Kikkererwten (blik, uitgelekt)                 |                230 g |
 | Tomaten Gezeefd Passata - Jumbo                |                875 g |
 | Mais                                           |                160 g |

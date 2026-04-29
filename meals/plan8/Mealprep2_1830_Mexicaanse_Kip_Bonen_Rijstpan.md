@@ -8,10 +8,10 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 693,2
-- Eiwitten: 35,9 g
-- Vetten: 9,0 g
-- Koolhydraten: 110,4 g
+- Kcal: 793,3
+- Eiwitten: 43,3 g
+- Vetten: 9,6 g
+- Koolhydraten: 124,6 g
 
 ## Ingredienten per portie
 - 60 g Kipfilet (rauw)
@@ -20,7 +20,7 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 - 100 g Champignons
 - 70 g Ui (rauw)
 - 6 g Knoflook, rauw
-- 70 g Zwarte bonen (blik, uitgelekt)
+- 180 g Zwarte bonen (blik, uitgelekt)
 - 50 g Kikkererwten (blik, uitgelekt)
 - 40 g Mais
 - 125 g Tomaten Gezeefd Passata - Jumbo

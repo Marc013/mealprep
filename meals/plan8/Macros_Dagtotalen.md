@@ -17,9 +17,9 @@ Trainingsdag totaal (streef 2900/190/60/400):
 | Ontbijt                 |  398,0 |         26,4 |        3,1 |             62,8 |
 | Lunch                   |  328,1 |         23,7 |       17,0 |             15,7 |
 | Mealprep 1 training     |  750,4 |         39,0 |       24,4 |             85,8 |
-| Mealprep 2 training     |  693,2 |         35,9 |        9,0 |            110,4 |
-| **Totaal trainingsdag** | 2704,7 |        204,0 |       59,4 |            312,7 |
-- Afwijking t.o.v. streef: -195,3 kcal, +14,0 g P, -0,6 g V, -87,3 g KH
+| Mealprep 2 training     |  793,3 |         43,3 |        9,6 |            124,6 |
+| **Totaal trainingsdag** | 2804,8 |        211,4 |       60,0 |            326,9 |
+- Afwijking t.o.v. streef: -95,2 kcal, +21,4 g P, +0,0 g V, -73,1 g KH
 
 Rustdag totaal (streef 1880/190/80/100):
 | Eetmoment          |   Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
@@ -43,12 +43,12 @@ Trainingsdag:
 | Ontbijt       |                   398,0 |       26,4 |        3,1 |       62,8 |
 | Lunch         |                   328,1 |       23,7 |       17,0 |       15,7 |
 | Mealprep 1    |                   750,4 |       39,0 |       24,4 |       85,8 |
-| Mealprep 2    |                   693,2 |       35,9 |        9,0 |      110,4 |
+| Mealprep 2    |                   793,3 |       43,3 |        9,6 |      124,6 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **2704,7** |  **204,0** |   **59,4** |  **312,7** |
+| **TOTAAL**    |              **2804,8** |  **211,4** |   **60,0** |  **326,9** |
 | Streef        |                    2900 |        190 |         60 |        400 |
-| **Afwijking** |                  -195,3 |      +14,0 |       -0,6 |      -87,3 |
+| **Afwijking** |                   -95,2 |      +21,4 |       +0,0 |      -73,1 |
 
 Rustdag:
 
@@ -67,10 +67,10 @@ Rustdag:
 | **Afwijking** |                   -40,3 |      +28,3 |      -23,7 |       -4,7 |
 
 Weekcontrole (4 trainingsdagen + 3 rustdagen):
-- Kcal: 16925,3 (onder weekmaximum 17240) ✅
-- Eiwitten: 1500,8 g (licht boven target, functioneel voor verzadiging en praktische uitvoerbaarheid) ✓
-- Vetten: 399,6 g (onder weekmaximum 480) ✅
-- Koolhydraten: 1531,7 g (onder weekmaximum 1900) ✅
+- Kcal: 16738,3 (onder weekmaximum 17240) ✅
+- Eiwitten: 1500,5 g (boven target toegestaan voor verzadiging en praktische uitvoerbaarheid) ✓
+- Vetten: 408,9 g (onder weekmaximum 480) ✅
+- Koolhydraten: 1593,5 g (onder weekmaximum 1900) ✅
 
 ## Kwaliteitsscore (interne eindcheck)
 1. Macro-nauwkeurigheid en grensbewaking: geen overschrijding van kcal, vet of koolhydraten op dagbasis.
