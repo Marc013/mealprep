@@ -14,23 +14,23 @@ Trainingsdag totaal (streef 2900/190/60/400):
 | Eetmoment               |   Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :---------------------- | -----: | -----------: | ---------: | ---------------: |
 | Shakes + fruit          |  535,0 |         79,0 |        6,0 |             38,0 |
-| Ontbijt                 |  398,0 |         26,4 |        3,1 |             62,8 |
-| Lunch                   |  334,1 |         23,8 |       17,7 |             15,7 |
-| Mealprep 1 training     |  750,4 |         39,0 |       24,4 |             85,8 |
-| Mealprep 2 training     |  785,1 |         43,3 |        8,7 |            124,6 |
-| **Totaal trainingsdag** | 2802,6 |        211,5 |       59,8 |            326,9 |
-- Afwijking t.o.v. streef: -97,4 kcal, +21,5 g P, -0,2 g V, -73,1 g KH
+| Ontbijt                 |  442,4 |         28,5 |        5,9 |             66,2 |
+| Lunch                   |  334,1 |         23,8 |       18,4 |             15,7 |
+| Mealprep 1 training     |  750,5 |         38,3 |       24,4 |             86,6 |
+| Mealprep 2 training     |  812,6 |         43,6 |        8,7 |            132,2 |
+| **Totaal trainingsdag** | 2874,6 |        213,2 |       63,4 |            338,7 |
+- Afwijking t.o.v. streef: -25,4 kcal, +23,2 g P, **+3,4 g V ⚠️ OVERSCHRIJDING**, -61,3 g KH
 
 Rustdag totaal (streef 1880/190/80/100):
 | Eetmoment          |   Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :----------------- | -----: | -----------: | ---------: | ---------------: |
 | Shakes + fruit     |  535,0 |         79,0 |        6,0 |             38,0 |
-| Ontbijt            |  269,0 |         27,9 |        6,8 |             22,9 |
+| Ontbijt            |  266,9 |         27,2 |       12,6 |             21,2 |
 | Lunch              |  278,2 |         25,8 |       17,7 |              0,8 |
-| Mealprep 1 rust    |  457,4 |         49,9 |       20,7 |             11,9 |
-| Mealprep 2 rust    |  312,1 |         35,9 |        6,5 |             21,7 |
-| **Totaal rustdag** | 1851,7 |        218,5 |       57,7 |             95,3 |
-- Afwijking t.o.v. streef: -28,3 kcal, +28,5 g P, -22,3 g V, -4,7 g KH
+| Mealprep 1 rust    |  458,2 |         49,9 |       20,3 |             12,2 |
+| Mealprep 2 rust    |  311,7 |         35,8 |        6,4 |             21,7 |
+| **Totaal rustdag** | 1850,0 |        217,7 |       63,0 |             93,9 |
+- Afwijking t.o.v. streef: -30,0 kcal, +27,7 g P, -17,0 g V, -6,1 g KH
 
 ## Eindcontrole per eetmoment
 
@@ -40,15 +40,15 @@ Trainingsdag:
 | :------------ | ----------------------: | ---------: | ---------: | ---------: |
 | Shake 07:30   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 07:30   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| Ontbijt       |                   398,0 |       26,4 |        3,1 |       62,8 |
-| Lunch         |                   334,1 |       23,8 |       17,7 |       15,7 |
-| Mealprep 1    |                   750,4 |       39,0 |       24,4 |       85,8 |
-| Mealprep 2    |                   785,1 |       43,3 |        8,7 |      124,6 |
+| Ontbijt       |                   442,4 |       28,5 |        5,9 |       66,2 |
+| Lunch         |                   334,1 |       23,8 |       18,4 |       15,7 |
+| Mealprep 1    |                   750,5 |       38,3 |       24,4 |       86,6 |
+| Mealprep 2    |                   812,6 |       43,6 |        8,7 |      132,2 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **2802,6** |  **211,5** |   **59,8** |  **326,9** |
+| **TOTAAL**    |              **2874,6** |  **213,2** |   **63,4** |  **338,7** |
 | Streef        |                    2900 |        190 |         60 |        400 |
-| **Afwijking** |                   -97,4 |      +21,5 |       -0,2 |      -73,1 |
+| **Afwijking** |                   -25,4 |      +23,2 |  **+3,4⚠️** |      -61,3 |
 
 Rustdag:
 
@@ -56,21 +56,23 @@ Rustdag:
 | :------------ | ----------------------: | ---------: | ---------: | ---------: |
 | Shake 07:30   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 07:30   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| Ontbijt       |                   269,0 |       27,9 |        6,8 |       22,9 |
+| Ontbijt       |                   266,9 |       27,2 |       12,6 |       21,2 |
 | Lunch         |                   278,2 |       25,8 |       17,7 |        0,8 |
-| Mealprep 1    |                   457,4 |       49,9 |       20,7 |       11,9 |
-| Mealprep 2    |                   312,1 |       35,9 |        6,5 |       21,7 |
+| Mealprep 1    |                   458,2 |       49,9 |       20,3 |       12,2 |
+| Mealprep 2    |                   311,7 |       35,8 |        6,4 |       21,7 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **1851,7** |  **218,5** |   **57,7** |   **95,3** |
+| **TOTAAL**    |              **1850,0** |  **217,7** |   **63,0** |   **93,9** |
 | Streef        |                    1880 |        190 |         80 |        100 |
-| **Afwijking** |                   -28,3 |      +28,5 |      -22,3 |       -4,7 |
+| **Afwijking** |                   -30,0 |      +27,7 |      -17,0 |       -6,1 |
 
 Weekcontrole (4 trainingsdagen + 3 rustdagen):
-- Kcal: 16765,4 (onder weekmaximum 17240) ✅
-- Eiwitten: 1501,5 g (boven target toegestaan voor verzadiging en praktische uitvoerbaarheid) ✓
-- Vetten: 412,2 g (onder weekmaximum 480) ✅
-- Koolhydraten: 1593,4 g (onder weekmaximum 1900) ✅
+- Kcal: 17048,4 (onder weekmaximum 17240) ✅
+- Eiwitten: 1505,9 g (boven target toegestaan voor verzadiging en praktische uitvoerbaarheid) ✓
+- Vetten: 442,6 g (onder weekmaximum 480) ✅
+- Koolhydraten: 1636,5 g (onder weekmaximum 1900) ✅
+
+> ⚠️ **Aandachtspunt trainingsdag vetten:** De berekende vetten op trainingsdag komen uit op 63,4 g, dat is 3,4 g boven het dagmaximum van 60 g. Dit wordt veroorzaakt door de combinatie van Remia mayolijn in de lunch (3,7 g vet) en pindakaas in mealprep 1. Om dit op te lossen kan de Remia mayolijn worden verminderd van 12 g naar ca. 8 g, of de pindakaas in mealprep 1 iets worden verlaagd.
 
 ## Kwaliteitsscore (interne eindcheck)
 1. Macro-nauwkeurigheid en grensbewaking: geen overschrijding van kcal, vet of koolhydraten op dagbasis.

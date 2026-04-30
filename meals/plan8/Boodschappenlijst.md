@@ -1,10 +1,10 @@
 📍 _*Lidl*_
 
 🥬 Groente
-- Paprika - 1400 g
-- Champignons - 1910 g
-- Ui - 615 g
-- Knoflook - 96 g
+- Paprika - 1220 g
+- Champignons - 1540 g
+- Ui - 635 g
+- Knoflook - 75 g
 - Wortel - 320 g
 
 🥫 Bonen en saus

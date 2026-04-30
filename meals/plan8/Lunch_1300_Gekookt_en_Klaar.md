@@ -10,7 +10,7 @@ Deze lunch is extreem simpel en snel: gekookte eieren met brood, ham, kaas en ee
 ## Macro's per portie
 - Kcal: 334,1
 - Eiwitten: 23,8 g
-- Vetten: 17,7 g
+- Vetten: 18,4 g
 - Koolhydraten: 15,7 g
 
 ## Ingredienten per portie

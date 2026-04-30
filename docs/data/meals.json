@@ -4007,10 +4007,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 334.1,
-                        "carbs": 15.7,
-                        "fat": 17.7,
-                        "protein": 23.8
+                        "kcal": 337,
+                        "carbs": 15,
+                        "fat": 17.9,
+                        "protein": 27.7
                     },
                     "ingredients": [
                         {
@@ -4031,17 +4031,17 @@
                         },
                         {
                             "name": "Remia mayolijn - Jumbo",
-                            "amount": "12 g"
+                            "amount": "8 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 278.2,
-                        "carbs": 0.8,
-                        "fat": 17.7,
-                        "protein": 25.8
+                        "kcal": 287,
+                        "carbs": 0.4,
+                        "fat": 18.5,
+                        "protein": 29.8
                     },
                     "ingredients": [
                         {
@@ -4075,15 +4075,15 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 750.4,
-                        "carbs": 85.8,
-                        "fat": 24.4,
-                        "protein": 39.0
+                        "kcal": 743,
+                        "carbs": 89.3,
+                        "fat": 23.8,
+                        "protein": 41.7
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "50 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -4134,10 +4134,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 457.4,
-                        "carbs": 11.9,
+                        "kcal": 457,
+                        "carbs": 18.6,
                         "fat": 20.7,
-                        "protein": 49.9
+                        "protein": 47.9
                     },
                     "ingredients": [
                         {
@@ -4150,7 +4150,7 @@
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "5 g"
+                            "amount": "25 g"
                         },
                         {
                             "name": "Champignons",
@@ -4200,10 +4200,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 785.1,
-                        "carbs": 124.6,
-                        "fat": 8.7,
-                        "protein": 43.3
+                        "kcal": 782,
+                        "carbs": 123.2,
+                        "fat": 9.1,
+                        "protein": 40.4
                     },
                     "ingredients": [
                         {
@@ -4232,7 +4232,7 @@
                         },
                         {
                             "name": "Zwarte bonen (blik, uitgelekt)",
-                            "amount": "180 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Kikkererwten (blik, uitgelekt)",
@@ -4263,10 +4263,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 312.1,
-                        "carbs": 21.7,
-                        "fat": 6.5,
-                        "protein": 35.9
+                        "kcal": 313,
+                        "carbs": 23.3,
+                        "fat": 6.6,
+                        "protein": 35.5
                     },
                     "ingredients": [
                         {

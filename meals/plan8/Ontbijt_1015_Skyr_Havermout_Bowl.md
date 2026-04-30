@@ -8,10 +8,10 @@ Deze bowl voldoet aan alle verplichte 10:15-componenten en combineert snelle koo
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 398
-- Eiwitten: 26,4 g
-- Vetten: 3,1 g
-- Koolhydraten: 62,8 g
+- Kcal: 442,4
+- Eiwitten: 28,5 g
+- Vetten: 5,9 g
+- Koolhydraten: 66,2 g
 
 ## Ingredienten per portie
 - 150 g Jumbo Skyr IJslandse Stijl Naturel
@@ -34,10 +34,10 @@ Deze bowl voldoet aan alle verplichte 10:15-componenten en combineert snelle koo
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 269
-- Eiwitten: 27,9 g
-- Vetten: 6,8 g
-- Koolhydraten: 22,9 g
+- Kcal: 266,9
+- Eiwitten: 27,2 g
+- Vetten: 12,6 g
+- Koolhydraten: 21,2 g
 
 ## Ingredienten per portie
 - 180 g Jumbo Skyr IJslandse Stijl Naturel

@@ -8,10 +8,10 @@ Dit is een snelle eenpans nasi met een romige satesauscomponent op basis van pin
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 750,4
-- Eiwitten: 39,0 g
+- Kcal: 750,5
+- Eiwitten: 38,3 g
 - Vetten: 24,4 g
-- Koolhydraten: 85,8 g
+- Koolhydraten: 86,6 g
 
 ## Ingredienten per portie
 - 50 g Kipfilet (rauw)
@@ -43,10 +43,10 @@ Dit is een snelle eenpans nasi met een romige satesauscomponent op basis van pin
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 457,4
+- Kcal: 458,2
 - Eiwitten: 49,9 g
-- Vetten: 20,7 g
-- Koolhydraten: 11,9 g
+- Vetten: 20,3 g
+- Koolhydraten: 12,2 g
 
 ## Ingredienten per portie
 - 150 g Kipfilet (rauw)

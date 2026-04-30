@@ -8,10 +8,10 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 785,1
-- Eiwitten: 43,3 g
+- Kcal: 812,6
+- Eiwitten: 43,6 g
 - Vetten: 8,7 g
-- Koolhydraten: 124,6 g
+- Koolhydraten: 132,2 g
 
 ## Ingredienten per portie
 - 60 g Kipfilet (rauw)
@@ -43,9 +43,9 @@ Dit gerecht bevat kipfilet, paprika, champignons, ui, knoflook, verschillende so
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 312,1
-- Eiwitten: 35,9 g
-- Vetten: 6,5 g
+- Kcal: 311,7
+- Eiwitten: 35,8 g
+- Vetten: 6,4 g
 - Koolhydraten: 21,7 g
 
 ## Ingredienten per portie
