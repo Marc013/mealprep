@@ -66,5 +66,4 @@
 ## Macro-notitie
 
 **Bronnen:**
-- [ingredient]: `voedingswaardetabel_referentie.md`
-- [ingredient]: `voedingswaarde_handmatig.md`
+- [ingredient]: `src/ingredients.json`

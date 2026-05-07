@@ -94,13 +94,14 @@ Boodschappenlijst.md
 
 Voordat je de skill gebruikt, maak deze bestanden aan:
 
-| Bestand                                 | Beschrijving                                                                                      |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| `promp.md`                              | Dagmacro's en configuratie (template: [config-template.md](./mealplan/assets/config-template.md)) |
-| `src/Ingredienten.md`                   | Lijst beschikbare ingrediënten                                                                    |
-| `src/voedingswaardetabel_referentie.md` | Voedingswaarden database                                                                          |
-| `src/voedingswaarde_handmatig.md`       | Aanvullende voedingswaarden                                                                       |
-| `src/ontbrekende_macros_lijst.md`       | Cache (leeg starten)                                                                              |
+| Bestand                | Beschrijving                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| `promp.md`             | Dagmacro's en configuratie (template: [config-template.md](./mealplan/assets/config-template.md)) |
+| `src/Ingredienten.md`  | Lijst beschikbare ingrediënten                                                                    |
+| `src/ingredients.json` | Geconsolideerde voedingswaarden (inclusief aanvullingen en cache)                                 |
+
+Onderhoudsregel voor `src/ingredients.json`: houd dit bestand up-to-date, alfabetisch gesorteerd op ingredientnaam (`name`) en met correcte metadata (`last_updated`, `total_ingredients`).
+Valideer wijzigingen met: `pwsh -NoProfile -File .github/scripts/validate-ingredients-json.ps1`.
 
 ### Gebruik
 

@@ -23,9 +23,7 @@ Deze skill verwacht de volgende bestanden in je project:
 |---------|------|----------|
 | `promp.md` | Dagmacro's, shake-definitie, eettijden | [config-template.md](./assets/config-template.md) |
 | `src/Ingredienten.md` | Voorkeursingrediënten | Lijst met producten (niet exclusief) |
-| `src/voedingswaardetabel_referentie.md` | Voedingswaarden bron 1 | Macro's per 100g |
-| `src/voedingswaarde_handmatig.md` | Voedingswaarden bron 2 | Aanvullende waarden |
-| `src/ontbrekende_macros_lijst.md` | Cache voor opgehaalde waarden | Leeg starten |
+| `src/ingredients.json` | Geconsolideerde voedingswaarden | Macro's per 100g + aanvullingen |
 
 ## Procedure
 
@@ -77,14 +75,15 @@ Kwaliteitsfocus tijdens ontwerp:
 ### 4. Bereken macro's per ingredient
 
 Voedingswaarden opzoeken in volgorde:
-1. `src/voedingswaardetabel_referentie.md`
-2. `src/voedingswaarde_handmatig.md`
-3. https://www.voedingswaardetabel.nl/ → opslaan in `src/ontbrekende_macros_lijst.md`
+1. `src/ingredients.json`
+2. https://www.voedingswaardetabel.nl/ → opslaan in `src/ingredients.json`
 
 Ingrediëntenbeleid:
 - Ingrediënten buiten `src/Ingredienten.md` zijn toegestaan als dit receptkwaliteit of macrobalans verbetert.
 - Gebruik altijd de officiële productnaam uit de gebruikte macrobron.
-- Staat een nieuw ingrediënt niet in de twee bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en gebruik het daarna in recepten.
+- Staat een nieuw ingrediënt niet in `src/ingredients.json`, voeg het eerst toe aan `src/ingredients.json` en gebruik het daarna in recepten.
+- Houd `src/ingredients.json` altijd netjes: up-to-date, alfabetisch gesorteerd op `name`, en met bijgewerkte metadata (`last_updated`, `total_ingredients`).
+- Valideer na elke wijziging aan `src/ingredients.json` met: `pwsh -NoProfile -File .github/scripts/validate-ingredients-json.ps1`.
 
 ### 5. Valideer dagtotalen
 

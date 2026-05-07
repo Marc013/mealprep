@@ -6,10 +6,9 @@ Harde constraints voor mealplan-generatie.
 
 **Verplichte volgorde:**
 
-1. Zoek in `src/voedingswaardetabel_referentie.md`
-2. Zoek in `src/voedingswaarde_handmatig.md`
-3. Pas ingredientnaam aan naar **officiële naam** uit bronbestand
-4. **Alleen als ontbrekend**: ophalen via https://www.voedingswaardetabel.nl/ → opslaan in `src/ontbrekende_macros_lijst.md` (alfabetisch, geen dubbelen)
+1. Zoek in `src/ingredients.json`
+2. Pas ingredientnaam aan naar **officiële naam** uit `src/ingredients.json`
+3. **Alleen als ontbrekend**: ophalen via https://www.voedingswaardetabel.nl/ → opslaan in `src/ingredients.json` (geen dubbelen)
 
 ## Ingrediëntregels
 
@@ -19,6 +18,11 @@ Harde constraints voor mealplan-generatie.
 | Officiële productnaam  | Naam uit `src/` bronbestanden                                      |
 | Kruiden meerekenen     | `2 g Italiaanse kruiden = 5,1 kcal / 0,3 g P / 0,1 g V / 0,3 g KH` |
 | Zout en peper          | "naar smaak" (verwaarloosbaar)                                     |
+
+Aanvullend voor `src/ingredients.json`:
+- Altijd up-to-date houden bij nieuwe ingrediënten of aangepaste macro's.
+- `ingredients` alfabetisch sorteren op `name`.
+- Metadata actueel houden: `last_updated` en `total_ingredients`.
 
 ## Macro-limieten
 

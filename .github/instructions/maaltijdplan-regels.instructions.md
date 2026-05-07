@@ -8,17 +8,17 @@ description: "Use when creating, editing or validating meal plan markdown files.
 
 ## Voedingswaarde-opzoekingsvolgorde (verplicht, exacte volgorde)
 
-1. Zoek het ingredient in `src/voedingswaardetabel_referentie.md`
-2. Zoek het ingredient in `src/voedingswaarde_handmatig.md`
-3. Pas de ingredientnaam aan naar de **officiële naam** uit dat bronbestand
-4. **Alleen als het ingredient in beide bestanden ontbreekt**: ophalen via https://www.voedingswaardetabel.nl/ en opslaan in `src/ontbrekende_macros_lijst.md` (alfabetisch gesorteerd, geen dubbelen)
+1. Zoek het ingredient in `src/ingredients.json`
+2. Pas de ingredientnaam aan naar de **officiële naam** uit `src/ingredients.json`
+3. **Alleen als het ingredient ontbreekt**: ophalen via https://www.voedingswaardetabel.nl/ en opslaan in `src/ingredients.json` (geen dubbelen)
 
 ## Ingrediëntregels
 
 - Elke ingredient heeft een **exacte gramhoeveelheid** — ook smaakmakers, olie en gedroogde kruiden
 - Gebruik altijd de **officiële productnaam** zoals die voorkomt in de `src/` bronbestanden
 - Ingrediënten buiten `src/Ingredienten.md` zijn toegestaan; `src/Ingredienten.md` is een voorkeurslijst en geen exclusieve beperking
-- Voor nieuwe ingrediënten geldt: eerst macrobron bepalen via de vaste bronvolgorde; ontbreekt het ingrediënt in beide bronbestanden, voeg het toe aan `src/ontbrekende_macros_lijst.md` vóór gebruik in recepten
+- Voor nieuwe ingrediënten geldt: eerst macrobron bepalen via de vaste bronvolgorde; ontbreekt het ingrediënt in `src/ingredients.json`, voeg het toe aan `src/ingredients.json` vóór gebruik in recepten
+- Houd `src/ingredients.json` netjes: up-to-date, `ingredients` alfabetisch op `name`, en metadata (`last_updated`, `total_ingredients`) actueel
 - Bereken de macrobijdrage van kruiden en smaakmakers altijd expliciet mee (bijv. 2 g Italiaanse kruiden = 5,1 kcal / 0,3 g P / 0,1 g V / 0,3 g KH)
 - Zout en peper mogen als "naar smaak" vermeld worden — macrobijdrage verwaarloosbaar
 

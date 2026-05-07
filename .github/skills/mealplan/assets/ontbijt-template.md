@@ -36,6 +36,5 @@
 [Bronvermelding per ingredient. Bij kruiden: exacte gramhoeveelheid + macrobijdrage vermelden.]
 
 **Bronnen:**
-- [ingredient]: `voedingswaardetabel_referentie.md`
-- [ingredient]: `voedingswaarde_handmatig.md`
+- [ingredient]: `src/ingredients.json`
 - [kruiden]: X g = Y kcal / Z g P / ... 

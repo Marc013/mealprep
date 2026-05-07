@@ -24,7 +24,7 @@ Zie [.github/skills/README.md](.github/skills/README.md) voor volledige document
 - Benader dagtargets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan. Grote afwijkingen vermijden.
 - Eiwit mag beperkt boven target uitkomen wanneer dit praktisch nut heeft (verzadiging/uitvoerbaarheid), maar niet structureel extreem boven target.
 - Verdeel macro's evenredig over de dag; voorkom dat 1 maaltijd disproportioneel veel van 1 macro bevat.
-- Voedingswaarden opzoeken in volgorde: `src/voedingswaardetabel_referentie.md` → `src/voedingswaarde_handmatig.md` → https://www.voedingswaardetabel.nl/
+- Voedingswaarden opzoeken in volgorde: `src/ingredients.json` → https://www.voedingswaardetabel.nl/ (bij ontbreken eerst toevoegen aan `src/ingredients.json`)
 - Gebruik altijd de **officiële productnaam** uit de bronbestanden.
 - Elke ingredient heeft een **exacte gramhoeveelheid** — ook smaakmakers en kruiden.
 - Geen vis, zeevruchten, orgaanvlees of omelet.
@@ -65,12 +65,18 @@ Wijzigingslogica bij gebruikersfeedback (verplicht):
 | :--------------------------------------- | :------------------------------------- |
 | `promp.md`                               | Dagmacro's, shake-definitie, eettijden |
 | `src/Ingredienten.md`                    | Voorkeursingrediënten (niet exclusief) |
-| `src/voedingswaardetabel_referentie.md`  | Voedingswaarden bron 1                 |
-| `src/voedingswaarde_handmatig.md`        | Voedingswaarden bron 2                 |
-| `src/ontbrekende_macros_lijst.md`        | Nieuw opgehaalde waarden (persistent)  |
+| `src/ingredients.json`                   | Geconsolideerde voedingswaarden        |
 | `src/Bloemkoolrijst_Jumbo.md`            | Productwaarden bloemkoolrijst          |
 
 Toelichting ingredientgebruik:
 - Ingredienten buiten `src/Ingredienten.md` zijn toegestaan.
 - Voorwaarde: gebruik officiële productnaam + macrobron volgens de vaste bronvolgorde.
-- Als een ingredient nog ontbreekt in beide bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en gebruik het daarna.
+- Als een ingredient nog ontbreekt in `src/ingredients.json`, voeg het eerst toe aan `src/ingredients.json` en gebruik het daarna.
+
+Onderhoud `src/ingredients.json` (verplicht):
+- Volg aanvullend de checklist in `.github/instructions/ingredients-json-onderhoud.instructions.md`.
+- Valideer na elke wijziging met: `pwsh -NoProfile -File .github/scripts/validate-ingredients-json.ps1`.
+- Houd het bestand altijd up-to-date bij nieuwe ingrediënten of macro-correcties.
+- Houd `ingredients` alfabetisch gesorteerd op `name`.
+- Houd records geordend en consistent in veldvolgorde: `id`, `name`, `category`, `unit`, `macros_per_100g`, `sourcing`.
+- Werk metadata direct bij: `last_updated` en `total_ingredients` moeten altijd kloppen met de actuele inhoud.

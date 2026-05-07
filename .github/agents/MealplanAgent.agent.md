@@ -16,9 +16,7 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 
 - `promp.md` — dagmacro's, shake-definitie en eettijden (configuratie)
 - `src/Ingredienten.md` — voorkeursingrediënten (primaire bron, niet exclusief)
-- `src/voedingswaardetabel_referentie.md` — voedingswaarden bron 1
-- `src/voedingswaarde_handmatig.md` — voedingswaarden bron 2
-- `src/ontbrekende_macros_lijst.md` — eerder opgehaalde ontbrekende waarden
+- `src/ingredients.json` — geconsolideerde voedingswaarden (inclusief eerder opgehaalde waarden)
 - `.github/instructions/maaltijdplan-regels.instructions.md` — harde regels en constraints
 
 ## Werkwijze (verplichte volgorde)
@@ -33,11 +31,13 @@ Lees altijd deze bestanden in voordat je begint — gebruik het read-gereedschap
 8. Controleer dat dagdoelen niet worden overschreden; corrigeer porties waar nodig
 9. Schrijf de 4 maaltijdbestanden en `Macros_Dagtotalen.md`
 10. Schrijf `Boodschappenlijst.md`
-11. Sla nieuw opgehaalde voedingswaarden op in `src/ontbrekende_macros_lijst.md` (alfabetisch)
+11. Sla nieuw opgehaalde voedingswaarden op in `src/ingredients.json`
 
 Aanvullende harde uitvoeringsregels:
 - Ingrediënten buiten `src/Ingredienten.md` zijn toegestaan, mits officiële productnaam en macrobron conform bronvolgorde worden gebruikt.
-- Ontbreekt een nieuw ingrediënt in beide bronbestanden, voeg het eerst toe aan `src/ontbrekende_macros_lijst.md` en reken daarna pas door.
+- Ontbreekt een nieuw ingrediënt in `src/ingredients.json`, voeg het eerst toe aan `src/ingredients.json` en reken daarna pas door.
+- Onderhoud `src/ingredients.json` verplicht: houd het bestand up-to-date, houd `ingredients` alfabetisch op `name`, en houd `last_updated` + `total_ingredients` in sync.
+- Na elke wijziging in `src/ingredients.json` verplicht valideren met: `pwsh -NoProfile -File .github/scripts/validate-ingredients-json.ps1`.
 - Bij conflict tussen oude voorbeeldhoeveelheden en praktische receptkwaliteit (smaak, textuur, uitvoerbaarheid), krijgt praktische receptkwaliteit voorrang zolang dagmaxima voor kcal, vet en koolhydraten niet worden overschreden.
 - Consistentiecheck verplicht: elk ingrediënt dat in Voorbereiding/Bereiding genoemd wordt, staat ook in de ingrediëntenlijst met gramhoeveelheid, behalve als het expliciet als optionele toevoeging is gemarkeerd.
 - Bij gebruikersfeedback op één maaltijd geldt verplichte updatevolgorde: (1) receptaanpassing, (2) herberekening maaltijdmacro's, (3) update `Macros_Dagtotalen.md`, (4) update `Boodschappenlijst.md`, (5) korte validatie-output met daggrenzen.
