@@ -14,9 +14,9 @@ Uitgangspunt:
 | Appel (voor shakes)                   |              5 stuks |
 | Banaan (voor shakes)                  |              5 stuks |
 | Peer (voor shakes)                    |              4 stuks |
-| Jumbo Skyr IJslandse Stijl Naturel    |               1140 g |
+| Franse Kwark Mager - Jumbo            |               1140 g |
 | Halfvolle yoghurt                     |                900 g |
-| Diepvries bosvruchten (Jumbo)         |                590 g |
+| Diepvries bosvruchten (Jumbo)         |                440 g |
 | Banaan (voor ontbijt)                 |                320 g |
 | Havervlokken (Crownfield)             |                120 g |
 | Rozijnen                              |                 40 g |

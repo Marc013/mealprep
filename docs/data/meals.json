@@ -431,16 +431,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2823.6,
-                    "protein": 225.4,
-                    "fat": 46.1,
-                    "carbs": 354.2
+                    "kcal": 2819.1,
+                    "protein": 222.4,
+                    "fat": 46.6,
+                    "carbs": 354.8
                 },
                 "rest": {
-                    "kcal": 1825.5,
-                    "protein": 219.6,
-                    "fat": 54.4,
-                    "carbs": 103.2
+                    "kcal": 1799.1,
+                    "protein": 215.5,
+                    "fat": 49.8,
+                    "carbs": 99.9
                 }
             },
             "schedule": [
@@ -4444,14 +4444,14 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 442.4,
-                        "carbs": 66.2,
-                        "fat": 5.9,
-                        "protein": 28.5
+                        "kcal": 437.9,
+                        "carbs": 66.8,
+                        "fat": 6.4,
+                        "protein": 25.5
                     },
                     "ingredients": [
                         {
-                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "name": "Franse Kwark Mager - Jumbo",
                             "amount": "150 g"
                         },
                         {
@@ -4487,14 +4487,14 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 274.9,
-                        "carbs": 22.2,
-                        "fat": 12.7,
-                        "protein": 27.5
+                        "kcal": 248.5,
+                        "carbs": 18.9,
+                        "fat": 8.1,
+                        "protein": 23.4
                     },
                     "ingredients": [
                         {
-                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "name": "Franse Kwark Mager - Jumbo",
                             "amount": "180 g"
                         },
                         {
@@ -4503,7 +4503,7 @@
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "90 g"
+                            "amount": "40 g"
                         },
                         {
                             "name": "100% pindakaas naturel",
@@ -6326,8 +6326,8 @@
                             "amount": "4 stuks"
                         },
                         {
-                            "id": "skyr9",
-                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "id": "kwark9",
+                            "name": "Franse Kwark Mager - Jumbo",
                             "amount": "1140 g"
                         },
                         {
@@ -6338,7 +6338,7 @@
                         {
                             "id": "bos9",
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "590 g"
+                            "amount": "440 g"
                         },
                         {
                             "id": "banaan-ontbijt9",

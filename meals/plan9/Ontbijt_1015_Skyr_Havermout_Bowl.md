@@ -4,17 +4,17 @@
 10:15 uur
 
 ## Waarom deze maaltijd past
-Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch mealprep-proof. De trainingsdag levert extra koolhydraten voor prestaties, terwijl de rustdagvariant bewust de banaan weglaat en 90 g diepvries bosvruchten gebruikt voor volume en smaak.
+Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch mealprep-proof. De trainingsdag levert extra koolhydraten voor prestaties, terwijl de rustdagvariant bewust de banaan weglaat en de bosvruchten verlaagt om binnen de daggrenzen te blijven.
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 442,4
-- Eiwitten: 28,5 g
-- Vetten: 5,9 g
-- Koolhydraten: 66,2 g
+- Kcal: 437,9
+- Eiwitten: 25,5 g
+- Vetten: 6,4 g
+- Koolhydraten: 66,8 g
 
 ## Ingredienten per portie
-- 150 g Jumbo Skyr IJslandse Stijl Naturel
+- 150 g Franse Kwark Mager - Jumbo
 - 150 g Halfvolle yoghurt
 - 80 g Diepvries bosvruchten (Jumbo)
 - 80 g Banaan
@@ -34,15 +34,15 @@ Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch meal
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 274,9
-- Eiwitten: 27,5 g
-- Vetten: 12,7 g
-- Koolhydraten: 22,2 g
+- Kcal: 248,5
+- Eiwitten: 23,4 g
+- Vetten: 8,1 g
+- Koolhydraten: 18,9 g
 
 ## Ingredienten per portie
-- 180 g Jumbo Skyr IJslandse Stijl Naturel
+- 180 g Franse Kwark Mager - Jumbo
 - 100 g Halfvolle yoghurt
-- 90 g Diepvries bosvruchten (Jumbo)
+- 40 g Diepvries bosvruchten (Jumbo)
 - 10 g 100% pindakaas naturel
 - 2 g Kaneelpoeder
 
@@ -51,13 +51,13 @@ Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch meal
 - Laat de bosvruchten kort ontdooien.
 
 ## Bereiding
-- Meng skyr, halfvolle yoghurt en kaneel tot een gladde basis.
+- Meng kwark, halfvolle yoghurt en kaneel tot een gladde basis.
 - Werk af met de bosvruchten.
 - Lepel de pindakaas eroverheen voor extra romigheid en verzadiging.
 
 ## Macro-notitie
 Bronnen per ingredient:
-- Jumbo Skyr IJslandse Stijl Naturel: src/ingredients.json
+- Franse Kwark Mager - Jumbo: src/ingredients.json
 - Halfvolle yoghurt: src/ingredients.json
 - Diepvries bosvruchten (Jumbo): src/ingredients.json
 - Banaan: src/ingredients.json
