@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-07",
-  "total_ingredients": 78,
+  "last_updated": "2026-05-08",
+  "total_ingredients": 84,
   "ingredients": [
     {
       "id": "pindakaas-100percent",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "id": "bosui",
+      "name": "Bosui",
+      "category": "vegetable",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 30.0,
+        "protein": 1.8,
+        "fat": 0.2,
+        "carbs": 4.8
+      },
+      "sourcing": {
+        "store": "n.v.t.",
+        "availability": true
+      }
+    },
+    {
       "id": "champignons",
       "name": "Champignons",
       "category": "vegetable",
@@ -160,6 +176,22 @@
       },
       "sourcing": {
         "store": "Jumbo",
+        "availability": true
+      }
+    },
+    {
+      "id": "chinese-kool",
+      "name": "Chinese kool",
+      "category": "vegetable",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 14.0,
+        "protein": 1.2,
+        "fat": 0.2,
+        "carbs": 1.5
+      },
+      "sourcing": {
+        "store": "n.v.t.",
         "availability": true
       }
     },
@@ -301,6 +333,22 @@
         "protein": 1.0,
         "fat": 0.0,
         "carbs": 4.5
+      },
+      "sourcing": {
+        "store": "Jumbo",
+        "availability": true
+      }
+    },
+    {
+      "id": "go-tan-egg-noodles-bio-organic",
+      "name": "Go-Tan Egg Noodles Bio Organic",
+      "category": "carbs",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 356.0,
+        "protein": 12.0,
+        "fat": 2.0,
+        "carbs": 70.0
       },
       "sourcing": {
         "store": "Jumbo",
@@ -452,6 +500,22 @@
       }
     },
     {
+      "id": "jumbo-edamamebonen",
+      "name": "Jumbo Edamamebonen",
+      "category": "legume",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 122.0,
+        "protein": 11.5,
+        "fat": 5.2,
+        "carbs": 3.3
+      },
+      "sourcing": {
+        "store": "Jumbo",
+        "availability": true
+      }
+    },
+    {
       "id": "jumbo-gekookte-hamreepjes",
       "name": "Jumbo Gekookte Hamreepjes",
       "category": "protein",
@@ -477,6 +541,22 @@
         "protein": 18.4,
         "fat": 1.6,
         "carbs": 1.2
+      },
+      "sourcing": {
+        "store": "Jumbo",
+        "availability": true
+      }
+    },
+    {
+      "id": "jumbo-milde-satesaus",
+      "name": "Jumbo Milde Satesaus",
+      "category": "sauce",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 194.0,
+        "protein": 4.3,
+        "fat": 12.0,
+        "carbs": 16.0
       },
       "sourcing": {
         "store": "Jumbo",
@@ -960,6 +1040,22 @@
       },
       "sourcing": {
         "store": "n.v.t.",
+        "availability": true
+      }
+    },
+    {
+      "id": "sesamzaad-jumbo",
+      "name": "Sesamzaad - Jumbo",
+      "category": "spice",
+      "unit": "g",
+      "macros_per_100g": {
+        "kcal": 578.0,
+        "protein": 17.7,
+        "fat": 50.0,
+        "carbs": 12.0
+      },
+      "sourcing": {
+        "store": "Jumbo",
         "availability": true
       }
     },
