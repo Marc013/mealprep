@@ -420,6 +420,57 @@
                     "fixed": true
                 }
             ]
+        },
+        "plan9": {
+            "id": "plan9",
+            "name": "Nasi Satesaus + Teriyaki Egg Noodles",
+            "description": "Skyr-havermout ontbijt, snelle 13:00 lunch en twee oosterse mealprep-gerechten met sauscomponent.",
+            "dayCounts": {
+                "training": 4,
+                "rest": 3
+            },
+            "totals": {
+                "training": {
+                    "kcal": 2893.6,
+                    "protein": 222.7,
+                    "fat": 46.4,
+                    "carbs": 373.2
+                },
+                "rest": {
+                    "kcal": 1826.9,
+                    "protein": 216.0,
+                    "fat": 59.5,
+                    "carbs": 99.9
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend-plan9",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan9"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan9"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan9"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan9"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond-plan9",
+                    "fixed": true
+                }
+            ]
         }
     },
     "meals": {
@@ -4323,6 +4374,458 @@
                 "Voeg passata en bonen toe en laat pruttelen tot natte saus.",
                 "Training: rijst erdoor; rust: zonder rijst en met extra kip."
             ]
+        },
+        "shake-ochtend-plan9": {
+            "id": "shake-ochtend-plan9",
+            "title": "Whey Shake + Fruit",
+            "time": "07:30",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Fruit (appel, banaan of peer)",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker.",
+                "Voeg 300 ml koud water toe en schud krachtig.",
+                "Drink direct en eet 1 stuk fruit erbij (appel, banaan of peer)."
+            ]
+        },
+        "shake-avond-plan9": {
+            "id": "shake-avond-plan9",
+            "title": "Whey Shake + Fruit",
+            "time": "21:15",
+            "macros": {
+                "kcal": 267.5,
+                "carbs": 19.0,
+                "fat": 3.0,
+                "protein": 39.5
+            },
+            "ingredients": [
+                {
+                    "name": "Perfect Whey Protein - XXL Nutrition",
+                    "amount": "50 g"
+                },
+                {
+                    "name": "Water",
+                    "amount": "300 ml"
+                },
+                {
+                    "name": "Fruit (appel, banaan of peer)",
+                    "amount": "1 stuk"
+                }
+            ],
+            "preparation": [
+                "Doe 50 g whey in een shaker.",
+                "Voeg 300 ml koud water toe en schud krachtig.",
+                "Drink direct en eet 1 stuk fruit erbij (appel, banaan of peer)."
+            ]
+        },
+        "ontbijt-plan9": {
+            "id": "ontbijt-plan9",
+            "title": "Skyr Havermout Bowl",
+            "time": "10:15",
+            "description": "Vaste 10:15-structuur met skyr of kwark, halfvolle yoghurt, bosvruchten, kaneel en optionele toevoegingen.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 442.4,
+                        "carbs": 66.2,
+                        "fat": 5.9,
+                        "protein": 28.5
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Banaan",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Rozijnen",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 274.9,
+                        "carbs": 22.2,
+                        "fat": 12.7,
+                        "protein": 27.5
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "100% pindakaas naturel",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg alle ingredienten exact af.",
+                "Laat de bosvruchten 5 minuten ontdooien.",
+                "Meng skyr en halfvolle yoghurt in een kom.",
+                "Roer havervlokken, kaneel en honing erdoor.",
+                "Voeg bosvruchten, banaan en rozijnen toe (training) of werk af met pindakaas (rust)."
+            ]
+        },
+        "lunch-plan9": {
+            "id": "lunch-plan9",
+            "title": "Spiegelei Ham Kaas Augurk",
+            "time": "13:00",
+            "description": "Eenvoudige 30-minuten lunch met minimale kookstappen; trainingsdag met brood en rustdag low-carb.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 389.1,
+                        "carbs": 42.4,
+                        "fat": 11.8,
+                        "protein": 27.3
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (kip, heel, rauw)",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "105 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur, ingemaakte)",
+                            "amount": "50 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 306.3,
+                        "carbs": 2.3,
+                        "fat": 18.7,
+                        "protein": 30.4
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (kip, heel, rauw)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Augurken (zoetzuur, ingemaakte)",
+                            "amount": "80 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg alle ingredienten exact af.",
+                "Verwarm een anti-aanbakpan op middelhoog vuur.",
+                "Bak 1 spiegelei (training) of 2 spiegeleieren (rust) gaar.",
+                "Training: beleg brood met ham en kaas en serveer met augurk.",
+                "Rust: serveer spiegeleieren met ham, kaas en augurk."
+            ]
+        },
+        "mealprep1-plan9": {
+            "id": "mealprep1-plan9",
+            "title": "Snelle Kip Nasi met Satesaus",
+            "time": "15:45",
+            "description": "Sterk gekruide oosterse eenpan met Jumbo Milde Satesaus als sauscomponent.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 728.9,
+                        "carbs": 110.0,
+                        "fat": 12.4,
+                        "protein": 37.9
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "Witte rijst (droog)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "70 g"
+                        },
+                        {
+                            "name": "Wortel",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "2 g"
+                        },
+                        {
+                            "name": "Conimex Kruidenmix voor Nasi Speciaal",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Jumbo Milde Satesaus",
+                            "amount": "60 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 370.0,
+                        "carbs": 17.3,
+                        "fat": 13.7,
+                        "protein": 38.5
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "130 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Wortel",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Conimex Kruidenmix voor Nasi Speciaal",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Jumbo Milde Satesaus",
+                            "amount": "45 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Kook voor de trainingsvariant de rijst vooraf gaar.",
+                "Snijd kipfilet, ui, paprika, champignons, wortel en knoflook.",
+                "Weeg alle ingredienten exact af.",
+                "Bak kip kort aan, voeg groenten toe en roerbak 5-6 minuten.",
+                "Voeg kruidenmix toe, daarna trainingsrijst en tot slot satesaus om te binden."
+            ]
+        },
+        "mealprep2-plan9": {
+            "id": "mealprep2-plan9",
+            "title": "Teriyaki Kip Egg Noodles Pan",
+            "time": "18:30",
+            "description": "Opwarmvriendelijke oosterse eenpan met teriyaki, noodles en veel groentevolume.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 798.2,
+                        "carbs": 116.6,
+                        "fat": 10.3,
+                        "protein": 50.0
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "90 g"
+                        },
+                        {
+                            "name": "Go-Tan Egg Noodles Bio Organic",
+                            "amount": "125 g"
+                        },
+                        {
+                            "name": "Chinese kool",
+                            "amount": "200 g"
+                        },
+                        {
+                            "name": "Wortel",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Jumbo Edamamebonen",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "6 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Bosui",
+                            "amount": "25 g"
+                        },
+                        {
+                            "name": "Sesamzaad - Jumbo",
+                            "amount": "3 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 340.7,
+                        "carbs": 20.1,
+                        "fat": 8.4,
+                        "protein": 40.6
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Go-Tan Egg Noodles Bio Organic",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Chinese kool",
+                            "amount": "250 g"
+                        },
+                        {
+                            "name": "Wortel",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Jumbo Edamamebonen",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "4 g"
+                        },
+                        {
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Bosui",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Sesamzaad - Jumbo",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd kipfilet, Chinese kool, wortel, bosui en knoflook.",
+                "Kook de egg noodles kort voor volgens verpakking en giet af.",
+                "Bak kipfilet kort aan in een hete pan.",
+                "Voeg knoflook, Chinese kool, wortel en edamame toe en roerbak 4-5 minuten.",
+                "Voeg teriyakisaus en chilivlokken toe, daarna noodles, en werk af met bosui en sesamzaad."
+            ]
         }
     },
     "shopping": {
@@ -5790,6 +6293,211 @@
                         {
                             "id": "lidl8",
                             "name": "n.v.t.",
+                            "amount": "0 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        "plan9": {
+            "name": "Nasi Satesaus + Teriyaki Egg Noodles",
+            "categories": [
+                {
+                    "name": "Jumbo / overig",
+                    "items": [
+                        {
+                            "id": "whey9",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "appel9",
+                            "name": "Appel (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "banaan-shake9",
+                            "name": "Banaan (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "peer9",
+                            "name": "Peer (voor shakes)",
+                            "amount": "4 stuks"
+                        },
+                        {
+                            "id": "skyr9",
+                            "name": "Jumbo Skyr IJslandse Stijl Naturel",
+                            "amount": "1140 g"
+                        },
+                        {
+                            "id": "yoghurt9",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "900 g"
+                        },
+                        {
+                            "id": "bos9",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "590 g"
+                        },
+                        {
+                            "id": "banaan-ontbijt9",
+                            "name": "Banaan (voor ontbijt)",
+                            "amount": "320 g"
+                        },
+                        {
+                            "id": "haver9",
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "rozijnen9",
+                            "name": "Rozijnen",
+                            "amount": "40 g"
+                        },
+                        {
+                            "id": "honing9",
+                            "name": "Honing",
+                            "amount": "20 g"
+                        },
+                        {
+                            "id": "kaneel9",
+                            "name": "Kaneelpoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "pinda9",
+                            "name": "100% pindakaas naturel",
+                            "amount": "30 g"
+                        },
+                        {
+                            "id": "eieren9",
+                            "name": "Eieren (kip, heel, rauw)",
+                            "amount": "500 g"
+                        },
+                        {
+                            "id": "ham9",
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "410 g"
+                        },
+                        {
+                            "id": "brood9",
+                            "name": "Volkoren brood",
+                            "amount": "420 g"
+                        },
+                        {
+                            "id": "kaas9",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "100 g"
+                        },
+                        {
+                            "id": "augurk9",
+                            "name": "Augurken (zoetzuur, ingemaakte)",
+                            "amount": "440 g"
+                        },
+                        {
+                            "id": "kip9",
+                            "name": "Kipfilet (rauw)",
+                            "amount": "1470 g"
+                        },
+                        {
+                            "id": "rijst9",
+                            "name": "Witte rijst (droog)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "paprika9",
+                            "name": "Paprika",
+                            "amount": "550 g"
+                        },
+                        {
+                            "id": "ui9",
+                            "name": "Ui (rauw)",
+                            "amount": "295 g"
+                        },
+                        {
+                            "id": "wortel9",
+                            "name": "Wortel",
+                            "amount": "850 g"
+                        },
+                        {
+                            "id": "champignons9",
+                            "name": "Champignons",
+                            "amount": "930 g"
+                        },
+                        {
+                            "id": "sate9",
+                            "name": "Jumbo Milde Satesaus",
+                            "amount": "375 g"
+                        },
+                        {
+                            "id": "knoflook9",
+                            "name": "Knoflook",
+                            "amount": "72 g"
+                        },
+                        {
+                            "id": "olie9",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "26 g"
+                        },
+                        {
+                            "id": "nasi9",
+                            "name": "Conimex Kruidenmix voor Nasi Speciaal",
+                            "amount": "64 g"
+                        },
+                        {
+                            "id": "noodles9",
+                            "name": "Go-Tan Egg Noodles Bio Organic",
+                            "amount": "530 g"
+                        },
+                        {
+                            "id": "chinese-kool9",
+                            "name": "Chinese kool",
+                            "amount": "1550 g"
+                        },
+                        {
+                            "id": "edamame9",
+                            "name": "Jumbo Edamamebonen",
+                            "amount": "500 g"
+                        },
+                        {
+                            "id": "teriyaki9",
+                            "name": "Teriyaki Saus - Jumbo",
+                            "amount": "135 g"
+                        },
+                        {
+                            "id": "bosui9",
+                            "name": "Bosui",
+                            "amount": "145 g"
+                        },
+                        {
+                            "id": "sesam9",
+                            "name": "Sesamzaad - Jumbo",
+                            "amount": "27 g"
+                        },
+                        {
+                            "id": "chili9",
+                            "name": "Chilivlokken",
+                            "amount": "7 g"
+                        },
+                        {
+                            "id": "zout9",
+                            "name": "Zout",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "peper9",
+                            "name": "Peper",
+                            "amount": "naar smaak"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lidl",
+                    "items": [
+                        {
+                            "id": "lidl9",
+                            "name": "Geen verplichte Lidl-producten in dit schema",
                             "amount": "0 g"
                         }
                     ]
