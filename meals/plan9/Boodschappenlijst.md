@@ -28,7 +28,7 @@ Uitgangspunt:
 | Volkoren brood                        |                420 g |
 | Kaas Extra Belegen 48+ - Jumbo        |                100 g |
 | Augurken (zoetzuur, ingemaakte)       |                440 g |
-| Kipfilet (rauw)                       |               1470 g |
+| Kipfilet (rauw)                       |               1590 g |
 | Witte rijst (droog)                   |                400 g |
 | Paprika                               |                550 g |
 | Ui (rauw)                             |                295 g |
@@ -38,8 +38,8 @@ Uitgangspunt:
 | Knoflook                              |                 72 g |
 | Olijfolie Extra Vierge                |                 26 g |
 | Conimex Kruidenmix voor Nasi Speciaal |                 64 g |
-| Go-Tan Egg Noodles Bio Organic        |                530 g |
-| Chinese kool                          |               1550 g |
+| Go-Tan Egg Noodles Bio Organic        |                460 g |
+| Chinese kool                          |                775 g |
 | Jumbo Edamamebonen                    |                500 g |
 | Teriyaki Saus - Jumbo                 |                135 g |
 | Bosui                                 |                145 g |

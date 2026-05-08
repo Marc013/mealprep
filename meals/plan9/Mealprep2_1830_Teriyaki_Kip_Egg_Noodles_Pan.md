@@ -8,10 +8,10 @@ Dit nieuwe gerecht gebruikt exact de gevraagde ingredienten en blijft een natte,
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: Go-Tan Egg Noodles Bio Organic
-- Kcal: 798,2
-- Eiwitten: 50,0 g
-- Vetten: 10,3 g
-- Koolhydraten: 116,6 g
+- Kcal: 728,2
+- Eiwitten: 52,7 g
+- Vetten: 10,1 g
+- Koolhydraten: 97,6 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: Sterk verlaagde Egg Noodles-portie
@@ -21,9 +21,9 @@ Dit nieuwe gerecht gebruikt exact de gevraagde ingredienten en blijft een natte,
 - Koolhydraten: 20,1 g
 
 ## Trainingsdag ingredienten per portie
-- 90 g Kipfilet (rauw)
-- 125 g Go-Tan Egg Noodles Bio Organic
-- 200 g Chinese kool
+- 120 g Kipfilet (rauw)
+- 100 g Go-Tan Egg Noodles Bio Organic
+- 100 g Chinese kool
 - 80 g Wortel
 - 80 g Jumbo Edamamebonen
 - 6 g Knoflook
@@ -34,12 +34,12 @@ Dit nieuwe gerecht gebruikt exact de gevraagde ingredienten en blijft een natte,
 
 ## Rustdag ingredienten per portie
 - 120 g Kipfilet (rauw)
-- 10 g Go-Tan Egg Noodles Bio Organic
-- 250 g Chinese kool
+- 15 g Go-Tan Egg Noodles Bio Organic
+- 125 g Chinese kool
 - 30 g Wortel
 - 60 g Jumbo Edamamebonen
 - 4 g Knoflook
-- 5 g Teriyaki Saus - Jumbo
+- 8 g Teriyaki Saus - Jumbo
 - 15 g Bosui
 - 5 g Sesamzaad - Jumbo
 - 1 g Chilivlokken
