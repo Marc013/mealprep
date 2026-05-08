@@ -4,19 +4,40 @@ Deze workspace bevat mealprep-maaltijdplannen voor krachtsport en training.
 
 ## Slash commands
 
-| Command | Beschrijving |
-|---------|--------------|
-| `/mealplan-genereren` | Genereer een nieuw maaltijdplan met macro's |
-| `/github-pages-scaffold` | Genereer een GitHub Pages website |
+| Command | Beschrijving | Wanneer gebruiken |
+|---------|--------------|-------------------|
+| `/mealplan-genereren` | Genereer een volledig nieuw weekschema met macro's | Nieuw plan aanmaken |
+| `/maaltijd-aanpassen` | Pas een maaltijd aan op basis van feedback | Recept wijzigen, ingredient vervangen, portie aanpassen |
+| `/plan-valideren` | Valideer macro's, dagtotalen en consistentie van een plan | Kwaliteitscheck op een bestaand plan |
+| `/ingredient-toevoegen` | Voeg een nieuw product toe aan ingredients.json | Nieuw product opzoeken en registreren |
+| `/website-bijwerken` | Sync de GitHub Pages website met de nieuwste plandata | Na elke planwijziging de site vernieuwen |
+| `/github-pages-scaffold` | Genereer een GitHub Pages website | Eerste opzet van de website |
+
+## Agents
+
+| Agent | Beschrijving |
+|-------|--------------|
+| `MealplanAgent` | Genereert en beheert mealplannen, berekent macro's, valideert grenzen |
+| `GitHubPagesAgent` | Scaffoldt en beheert de statische GitHub Pages website |
 
 ## Skills
 
 | Skill | Locatie | Beschrijving |
 |-------|---------|--------------|
-| `github-pages` | `.github/skills/github-pages/` | Scaffold statische websites met industrial design |
 | `mealplan` | `.github/skills/mealplan/` | Mealprep-plannen met macro-tracking |
+| `github-pages` | `.github/skills/github-pages/` | Scaffold statische websites met industrial design |
 
 Zie [.github/skills/README.md](.github/skills/README.md) voor volledige documentatie en voorbeelden.
+
+## Snelgids: welk commando gebruik ik?
+
+```
+Nieuw plan nodig?          → /mealplan-genereren
+Maaltijd aanpassen?        → /maaltijd-aanpassen  [wat + welke maaltijd]
+Plan controleren?          → /plan-valideren
+Nieuw product toevoegen?   → /ingredient-toevoegen [productnaam]
+Website vernieuwen?        → /website-bijwerken
+```
 
 ## Vaste regels (altijd van toepassing)
 
