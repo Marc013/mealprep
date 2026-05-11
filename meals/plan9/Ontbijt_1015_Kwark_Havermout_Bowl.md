@@ -1,23 +1,23 @@
-# Skyr Havermout Bowl
+# Kwark Havermout Bowl
 
 ## Tijdstip
 10:15 uur
 
 ## Waarom deze maaltijd past
-Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch mealprep-proof. De trainingsdag levert extra koolhydraten voor prestaties, terwijl de rustdagvariant bewust de banaan weglaat en de bosvruchten verlaagt om binnen de daggrenzen te blijven.
+Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch mealprep-proof. De trainingsdag levert extra koolhydraten voor prestaties, terwijl de rustdagvariant bewust de banaan weglaat en extra verzadiging geeft via kwark, yoghurt en bosvruchten.
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 437,9
-- Eiwitten: 25,5 g
-- Vetten: 6,4 g
-- Koolhydraten: 66,8 g
+- Kcal: 435,0
+- Eiwitten: 26,7 g
+- Vetten: 4,8 g
+- Koolhydraten: 67,1 g
 
 ## Ingredienten per portie
 - 150 g Franse Kwark Mager - Jumbo
 - 150 g Halfvolle yoghurt
 - 80 g Diepvries bosvruchten (Jumbo)
-- 80 g Banaan
+- 65 g Banaan
 - 30 g Havervlokken (Crownfield)
 - 10 g Rozijnen
 - 5 g Honing
@@ -28,21 +28,21 @@ Deze bowl blijft exact in lijn met je vaste 10:15-structuur en is praktisch meal
 - Laat de bosvruchten 5 minuten ontdooien voor een betere textuur.
 
 ## Bereiding
-- Meng skyr en halfvolle yoghurt in een kom.
+- Meng kwark en halfvolle yoghurt in een kom.
 - Roer havervlokken, kaneel en honing erdoor.
 - Voeg bosvruchten, banaan en rozijnen toe en schep kort om.
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 248,5
-- Eiwitten: 23,4 g
-- Vetten: 8,1 g
-- Koolhydraten: 18,9 g
+- Kcal: 247,0
+- Eiwitten: 24,5 g
+- Vetten: 6,4 g
+- Koolhydraten: 20,2 g
 
 ## Ingredienten per portie
 - 180 g Franse Kwark Mager - Jumbo
 - 100 g Halfvolle yoghurt
-- 40 g Diepvries bosvruchten (Jumbo)
+- 85 g Diepvries bosvruchten (Jumbo)
 - 10 g 100% pindakaas naturel
 - 2 g Kaneelpoeder
 

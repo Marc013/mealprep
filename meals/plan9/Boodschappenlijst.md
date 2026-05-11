@@ -16,17 +16,17 @@ Uitgangspunt:
 | Peer (voor shakes)                    |              4 stuks |
 | Franse Kwark Mager - Jumbo            |               1140 g |
 | Halfvolle yoghurt                     |                900 g |
-| Diepvries bosvruchten (Jumbo)         |                440 g |
-| Banaan (voor ontbijt)                 |                320 g |
+| Diepvries bosvruchten (Jumbo)         |                575 g |
+| Banaan (voor ontbijt)                 |                260 g |
 | Havervlokken (Crownfield)             |                120 g |
 | Rozijnen                              |                 40 g |
 | Honing                                |                 20 g |
 | Kaneelpoeder                          |                 14 g |
 | 100% pindakaas naturel                |                 30 g |
 | Eieren (kip, heel, rauw)              |                500 g |
-| Jumbo Gekookte Hamreepjes             |                410 g |
-| Volkoren brood                        |                420 g |
-| Kaas Extra Belegen 48+ - Jumbo        |                100 g |
+| Jumbo Gekookte Hamreepjes             |                490 g |
+| Volkoren brood                        |                280 g |
+| Kaas Extra Belegen 48+ - Jumbo        |                120 g |
 | Augurken (zoetzuur, ingemaakte)       |                440 g |
 | Kipfilet (rauw)                       |               1590 g |
 | Witte rijst (droog)                   |                400 g |
@@ -34,14 +34,14 @@ Uitgangspunt:
 | Ui (rauw)                             |                295 g |
 | Wortel                                |                850 g |
 | Champignons                           |                930 g |
-| Jumbo Milde Satesaus                  |                375 g |
+| Jumbo Milde Satesaus                  |                305 g |
 | Knoflook                              |                 72 g |
 | Olijfolie Extra Vierge                |                 26 g |
 | Conimex Kruidenmix voor Nasi Speciaal |                 64 g |
-| Go-Tan Egg Noodles Bio Organic        |                460 g |
+| Go-Tan Egg Noodles Bio Organic        |                445 g |
 | Chinese kool                          |                775 g |
 | Jumbo Edamamebonen                    |                500 g |
-| Teriyaki Saus - Jumbo                 |                135 g |
+| Teriyaki Saus - Jumbo                 |                144 g |
 | Bosui                                 |                145 g |
 | Sesamzaad - Jumbo                     |                 27 g |
 | Chilivlokken                          |                  7 g |

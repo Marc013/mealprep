@@ -8,16 +8,16 @@ Deze lunch is nieuw, simpel en snel: bakken, beleggen, eten. Door de minimale ko
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 389,1
-- Eiwitten: 27,3 g
-- Vetten: 11,8 g
-- Koolhydraten: 42,4 g
+- Kcal: 387,0
+- Eiwitten: 31,3 g
+- Vetten: 13,8 g
+- Koolhydraten: 30,9 g
 
 ## Ingredienten per portie
 - 1 ei (M) (50 g) Eieren (kip, heel, rauw)
-- 50 g Jumbo Gekookte Hamreepjes
-- 3 boterhammen Volkoren brood (105 g)
-- 10 g Kaas Extra Belegen 48+ - Jumbo
+- 70 g Jumbo Gekookte Hamreepjes
+- 2 boterhammen Volkoren brood (70 g)
+- 15 g Kaas Extra Belegen 48+ - Jumbo
 - 50 g Augurken (zoetzuur, ingemaakte)
 
 ## Voorbereiding

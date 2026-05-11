@@ -8,17 +8,17 @@ Dit nieuwe gerecht gebruikt exact de gevraagde ingredienten en blijft een natte,
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: Go-Tan Egg Noodles Bio Organic
-- Kcal: 728,2
-- Eiwitten: 52,7 g
-- Vetten: 10,1 g
-- Koolhydraten: 97,6 g
+- Kcal: 786,0
+- Eiwitten: 56,3 g
+- Vetten: 13,8 g
+- Koolhydraten: 108,5 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: Sterk verlaagde Egg Noodles-portie
-- Kcal: 340,7
-- Eiwitten: 40,6 g
-- Vetten: 8,4 g
-- Koolhydraten: 20,1 g
+- Kcal: 406,0
+- Eiwitten: 43,2 g
+- Vetten: 11,8 g
+- Koolhydraten: 32,5 g
 
 ## Trainingsdag ingredienten per portie
 - 120 g Kipfilet (rauw)

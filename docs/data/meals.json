@@ -423,24 +423,24 @@
         },
         "plan9": {
             "id": "plan9",
-            "name": "Nasi Satesaus + Teriyaki Egg Noodles",
-            "description": "Skyr-havermout ontbijt, snelle 13:00 lunch en twee oosterse mealprep-gerechten met sauscomponent.",
+            "name": "Nasi Sate + Teriyaki Egg Noodles",
+            "description": "Kwark-havermout ontbijt, snelle 13:00 lunch en twee oosterse mealprep-gerechten met sauscomponent.",
             "dayCounts": {
                 "training": 4,
                 "rest": 3
             },
             "totals": {
                 "training": {
-                    "kcal": 2819.1,
-                    "protein": 222.4,
-                    "fat": 46.6,
-                    "carbs": 354.8
+                    "kcal": 2869,
+                    "protein": 229.2,
+                    "fat": 50.7,
+                    "carbs": 358.6
                 },
                 "rest": {
-                    "kcal": 1799.1,
-                    "protein": 215.5,
-                    "fat": 49.8,
-                    "carbs": 99.9
+                    "kcal": 1855.3,
+                    "protein": 214.1,
+                    "fat": 56.5,
+                    "carbs": 113.8
                 }
             },
             "schedule": [
@@ -4437,17 +4437,17 @@
         },
         "ontbijt-plan9": {
             "id": "ontbijt-plan9",
-            "title": "Skyr Havermout Bowl",
+            "title": "Kwark Havermout Bowl",
             "time": "10:15",
-            "description": "Vaste 10:15-structuur met skyr of kwark, halfvolle yoghurt, bosvruchten, kaneel en optionele toevoegingen.",
+            "description": "Vaste 10:15-structuur met kwark, halfvolle yoghurt, bosvruchten, kaneel en optionele toevoegingen.",
             "variants": {
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 437.9,
-                        "carbs": 66.8,
-                        "fat": 6.4,
-                        "protein": 25.5
+                        "kcal": 435,
+                        "carbs": 67.1,
+                        "fat": 4.8,
+                        "protein": 26.7
                     },
                     "ingredients": [
                         {
@@ -4464,7 +4464,7 @@
                         },
                         {
                             "name": "Banaan",
-                            "amount": "80 g"
+                            "amount": "65 g"
                         },
                         {
                             "name": "Havervlokken (Crownfield)",
@@ -4487,10 +4487,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 248.5,
-                        "carbs": 18.9,
-                        "fat": 8.1,
-                        "protein": 23.4
+                        "kcal": 247,
+                        "carbs": 20.2,
+                        "fat": 6.4,
+                        "protein": 24.5
                     },
                     "ingredients": [
                         {
@@ -4503,7 +4503,7 @@
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "40 g"
+                            "amount": "85 g"
                         },
                         {
                             "name": "100% pindakaas naturel",
@@ -4519,7 +4519,7 @@
             "preparation": [
                 "Weeg alle ingredienten exact af.",
                 "Laat de bosvruchten 5 minuten ontdooien.",
-                "Meng skyr en halfvolle yoghurt in een kom.",
+                "Meng kwark en halfvolle yoghurt in een kom.",
                 "Roer havervlokken, kaneel en honing erdoor.",
                 "Voeg bosvruchten, banaan en rozijnen toe (training) of werk af met pindakaas (rust)."
             ]
@@ -4533,10 +4533,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 389.1,
-                        "carbs": 42.4,
-                        "fat": 11.8,
-                        "protein": 27.3
+                        "kcal": 387,
+                        "carbs": 30.9,
+                        "fat": 13.8,
+                        "protein": 31.3
                     },
                     "ingredients": [
                         {
@@ -4545,15 +4545,15 @@
                         },
                         {
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "50 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Volkoren brood",
-                            "amount": "105 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Kaas Extra Belegen 48+ - Jumbo",
-                            "amount": "10 g"
+                            "amount": "15 g"
                         },
                         {
                             "name": "Augurken (zoetzuur, ingemaakte)",
@@ -4599,17 +4599,17 @@
         },
         "mealprep1-plan9": {
             "id": "mealprep1-plan9",
-            "title": "Snelle Kip Nasi met Satesaus",
+            "title": "Nasi Sate",
             "time": "15:45",
-            "description": "Sterk gekruide oosterse eenpan met Jumbo Milde Satesaus als sauscomponent.",
+            "description": "Sterk gekruide oosterse eenpan met Jumbo Milde Satesaus.",
             "variants": {
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 728.9,
-                        "carbs": 110.0,
-                        "fat": 12.4,
-                        "protein": 37.9
+                        "kcal": 726,
+                        "carbs": 114.1,
+                        "fat": 12.3,
+                        "protein": 35.9
                     },
                     "ingredients": [
                         {
@@ -4650,17 +4650,17 @@
                         },
                         {
                             "name": "Jumbo Milde Satesaus",
-                            "amount": "60 g"
+                            "amount": "50 g"
                         }
                     ]
                 },
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 370.0,
-                        "carbs": 17.3,
-                        "fat": 13.7,
-                        "protein": 38.5
+                        "kcal": 361,
+                        "carbs": 20.8,
+                        "fat": 13.6,
+                        "protein": 37
                     },
                     "ingredients": [
                         {
@@ -4697,7 +4697,7 @@
                         },
                         {
                             "name": "Jumbo Milde Satesaus",
-                            "amount": "45 g"
+                            "amount": "35 g"
                         }
                     ]
                 }
@@ -4719,10 +4719,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 728.2,
-                        "carbs": 97.6,
-                        "fat": 10.1,
-                        "protein": 52.7
+                        "kcal": 786,
+                        "carbs": 108.5,
+                        "fat": 13.8,
+                        "protein": 56.3
                     },
                     "ingredients": [
                         {
@@ -4770,10 +4770,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 339.4,
-                        "carbs": 23.4,
-                        "fat": 5.0,
-                        "protein": 43.6
+                        "kcal": 406,
+                        "carbs": 32.5,
+                        "fat": 11.8,
+                        "protein": 43.2
                     },
                     "ingredients": [
                         {
@@ -6300,7 +6300,7 @@
             ]
         },
         "plan9": {
-            "name": "Nasi Satesaus + Teriyaki Egg Noodles",
+            "name": "Nasi Sate + Teriyaki Egg Noodles",
             "categories": [
                 {
                     "name": "Jumbo / overig",
@@ -6338,12 +6338,12 @@
                         {
                             "id": "bos9",
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "440 g"
+                            "amount": "575 g"
                         },
                         {
                             "id": "banaan-ontbijt9",
                             "name": "Banaan (voor ontbijt)",
-                            "amount": "320 g"
+                            "amount": "260 g"
                         },
                         {
                             "id": "haver9",
@@ -6378,17 +6378,17 @@
                         {
                             "id": "ham9",
                             "name": "Jumbo Gekookte Hamreepjes",
-                            "amount": "410 g"
+                            "amount": "490 g"
                         },
                         {
                             "id": "brood9",
                             "name": "Volkoren brood",
-                            "amount": "420 g"
+                            "amount": "280 g"
                         },
                         {
                             "id": "kaas9",
                             "name": "Kaas Extra Belegen 48+ - Jumbo",
-                            "amount": "100 g"
+                            "amount": "120 g"
                         },
                         {
                             "id": "augurk9",
@@ -6428,7 +6428,7 @@
                         {
                             "id": "sate9",
                             "name": "Jumbo Milde Satesaus",
-                            "amount": "375 g"
+                            "amount": "305 g"
                         },
                         {
                             "id": "knoflook9",
@@ -6448,7 +6448,7 @@
                         {
                             "id": "noodles9",
                             "name": "Go-Tan Egg Noodles Bio Organic",
-                            "amount": "460 g"
+                            "amount": "445 g"
                         },
                         {
                             "id": "chinese-kool9",
@@ -6463,7 +6463,7 @@
                         {
                             "id": "teriyaki9",
                             "name": "Teriyaki Saus - Jumbo",
-                            "amount": "135 g"
+                            "amount": "144 g"
                         },
                         {
                             "id": "bosui9",

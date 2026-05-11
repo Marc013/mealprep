@@ -1,4 +1,4 @@
-# Snelle Kip Nasi met Satesaus
+# Nasi Sate
 
 ## Tijdstip
 15:45 uur
@@ -8,17 +8,17 @@ Dit gerecht blijft nagenoeg gelijk aan plan 8, maar de saus is aangepast naar Ju
 
 ## Trainingsdag-variant
 - Koolhydraatkeuze: Witte rijst (droog)
-- Kcal: 728,9
-- Eiwitten: 37,9 g
-- Vetten: 12,4 g
-- Koolhydraten: 110,0 g
+- Kcal: 726,0
+- Eiwitten: 35,9 g
+- Vetten: 12,3 g
+- Koolhydraten: 114,1 g
 
 ## Rustdag-variant
 - Koolhydraatkeuze: Geen losse rijst, lage-KH groentevariant
-- Kcal: 370,0
-- Eiwitten: 38,5 g
-- Vetten: 13,7 g
-- Koolhydraten: 17,3 g
+- Kcal: 361,0
+- Eiwitten: 37,0 g
+- Vetten: 13,6 g
+- Koolhydraten: 20,8 g
 
 ## Trainingsdag ingredienten per portie
 - 90 g Kipfilet (rauw)
@@ -30,7 +30,7 @@ Dit gerecht blijft nagenoeg gelijk aan plan 8, maar de saus is aangepast naar Ju
 - 6 g Knoflook
 - 2 g Olijfolie Extra Vierge
 - 10 g Conimex Kruidenmix voor Nasi Speciaal
-- 60 g Jumbo Milde Satesaus
+- 50 g Jumbo Milde Satesaus
 
 ## Rustdag ingredienten per portie
 - 130 g Kipfilet (rauw)
@@ -41,7 +41,7 @@ Dit gerecht blijft nagenoeg gelijk aan plan 8, maar de saus is aangepast naar Ju
 - 4 g Knoflook
 - 6 g Olijfolie Extra Vierge
 - 8 g Conimex Kruidenmix voor Nasi Speciaal
-- 45 g Jumbo Milde Satesaus
+- 35 g Jumbo Milde Satesaus
 
 ## Voorbereiding
 - Kook voor de trainingsdag de rijst vooraf gaar.

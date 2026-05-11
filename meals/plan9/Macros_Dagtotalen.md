@@ -15,23 +15,23 @@ Trainingsdag totaal (streef 2900/190/60/400):
 | Eetmoment               |   Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :---------------------- | -----: | -----------: | ---------: | ---------------: |
 | Shakes + fruit          |  535,0 |         79,0 |        6,0 |             38,0 |
-| Ontbijt                 |  437,9 |         25,5 |        6,4 |             66,8 |
-| Lunch                   |  389,1 |         27,3 |       11,8 |             42,4 |
-| Mealprep 1 training     |  728,9 |         37,9 |       12,4 |            110,0 |
-| Mealprep 2 training     |  728,2 |         52,7 |       10,1 |             97,6 |
-| **Totaal trainingsdag** | 2819,1 |        222,4 |       46,6 |            354,8 |
-- Afwijking t.o.v. streef: -80,9 kcal, +32,4 g P, -13,4 g V, -45,2 g KH
+| Ontbijt                 |  435,0 |         26,7 |        4,8 |             67,1 |
+| Lunch                   |  387,0 |         31,3 |       13,8 |             30,9 |
+| Mealprep 1 training     |  726,0 |         35,9 |       12,3 |            114,1 |
+| Mealprep 2 training     |  786,0 |         56,3 |       13,8 |            108,5 |
+| **Totaal trainingsdag** | 2869,0 |        229,2 |       50,7 |            358,6 |
+- Afwijking t.o.v. streef: -31,0 kcal, +39,2 g P, -9,3 g V, -41,4 g KH
 
 Rustdag totaal (streef 1880/190/80/100):
 | Eetmoment          |   Kcal | Eiwitten (g) | Vetten (g) | Koolhydraten (g) |
 | :----------------- | -----: | -----------: | ---------: | ---------------: |
 | Shakes + fruit     |  535,0 |         79,0 |        6,0 |             38,0 |
-| Ontbijt            |  248,5 |         23,4 |        8,1 |             18,9 |
+| Ontbijt            |  247,0 |         24,5 |        6,4 |             20,2 |
 | Lunch              |  306,3 |         30,4 |       18,7 |              2,3 |
-| Mealprep 1 rust    |  370,0 |         38,5 |       13,7 |             17,3 |
-| Mealprep 2 rust    |  339,4 |         43,6 |        5,0 |             23,4 |
-| **Totaal rustdag** | 1799,1 |        215,5 |       49,8 |             99,9 |
-- Afwijking t.o.v. streef: -80,9 kcal, +25,5 g P, -30,2 g V, -0,1 g KH
+| Mealprep 1 rust    |  361,0 |         37,0 |       13,6 |             20,8 |
+| Mealprep 2 rust    |  406,0 |         43,2 |       11,8 |             32,5 |
+| **Totaal rustdag** | 1855,3 |        214,1 |       56,5 |            113,8 |
+- Afwijking t.o.v. streef: -24,7 kcal, +24,1 g P, -23,5 g V, +13,8 g KH
 
 ## Eindcontrole per eetmoment
 
@@ -41,15 +41,15 @@ Trainingsdag:
 | :------------ | ----------------------: | ---------: | ---------: | ---------: |
 | Shake 07:30   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 07:30   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| Ontbijt       |                   437,9 |       25,5 |        6,4 |       66,8 |
-| Lunch         |                   389,1 |       27,3 |       11,8 |       42,4 |
-| Mealprep 1    |                   728,9 |       37,9 |       12,4 |      110,0 |
-| Mealprep 2    |                   728,2 |       52,7 |       10,1 |       97,6 |
+| Ontbijt       |                   435,0 |       26,7 |        4,8 |       67,1 |
+| Lunch         |                   387,0 |       31,3 |       13,8 |       30,9 |
+| Mealprep 1    |                   726,0 |       35,9 |       12,3 |      114,1 |
+| Mealprep 2    |                   786,0 |       56,3 |       13,8 |      108,5 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **2819,1** |  **222,4** |   **46,6** |  **354,8** |
+| **TOTAAL**    |              **2869,0** |  **229,2** |   **50,7** |  **358,6** |
 | Streef        |                    2900 |        190 |         60 |        400 |
-| **Afwijking** |                   -80,9 |      +32,4 |      -13,4 |      -45,2 |
+| **Afwijking** |                   -31,0 |      +39,2 |       -9,3 |      -41,4 |
 
 Rustdag:
 
@@ -57,17 +57,17 @@ Rustdag:
 | :------------ | ----------------------: | ---------: | ---------: | ---------: |
 | Shake 07:30   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 07:30   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| Ontbijt       |                   248,5 |       23,4 |        8,1 |       18,9 |
+| Ontbijt       |                   247,0 |       24,5 |        6,4 |       20,2 |
 | Lunch         |                   306,3 |       30,4 |       18,7 |        2,3 |
-| Mealprep 1    |                   370,0 |       38,5 |       13,7 |       17,3 |
-| Mealprep 2    |                   339,4 |       43,6 |        5,0 |       23,4 |
+| Mealprep 1    |                   361,0 |       37,0 |       13,6 |       20,8 |
+| Mealprep 2    |                   406,0 |       43,2 |       11,8 |       32,5 |
 | Shake 21:15   |                   267,5 |       39,5 |        3,0 |       19,0 |
 | Fruit 21:15   | inbegrepen in shakeblok | inbegrepen | inbegrepen | inbegrepen |
-| **TOTAAL**    |              **1799,1** |  **215,5** |   **49,8** |   **99,9** |
+| **TOTAAL**    |              **1855,3** |  **214,1** |   **56,5** |  **113,8** |
 | Streef        |                    1880 |        190 |         80 |        100 |
-| **Afwijking** |                   -80,9 |      +25,5 |      -30,2 |       -0,1 |
+| **Afwijking** |                   -24,7 |      +24,1 |      -23,5 |      +13,8 |
 
 Validatie grenscheck:
 - Trainingsdag: kcal, vet en koolhydraten blijven onder de harde maxima.
-- Rustdag: kcal, vet en koolhydraten blijven onder de harde maxima.
+- Rustdag: koolhydraten overschrijden de harde maxima met 13,8 g.
 - Eiwit ligt boven target maar is functioneel voor verzadiging en uitvoerbaarheid.
