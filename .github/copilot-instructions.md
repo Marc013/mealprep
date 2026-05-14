@@ -2,6 +2,28 @@
 
 Deze workspace bevat mealprep-maaltijdplannen voor krachtsport en training.
 
+## Automatische activatie (geen handmatige AI-instructie nodig)
+
+Gebruik deze regels standaard, ook zonder slash command:
+
+- Bij wijzigingen in `meals/plan*/`:
+	- Pas altijd ook `Macros_Dagtotalen.md` en `Boodschappenlijst.md` aan binnen hetzelfde plan.
+	- Synchroniseer daarna altijd `docs/data/meals.json` voor hetzelfde plan.
+	- Valideer daarna altijd UI op `docs/index.html`, `docs/macros.html` en `docs/shopping.html`.
+- Bij wijzigingen in `docs/data/meals.json`:
+	- Behandel de actuele plan-data als bron voor UI-weergave.
+	- Synchroniseer afgeleide markdownbestanden in `meals/plan*/` zodat alles consistent blijft.
+- Bij wijzigingen in `src/ingredients.json`:
+	- Volg verplicht de onderhoudsinstructie en draai validatie-script.
+
+Voer deze workflow proactief uit; wacht niet op een extra gebruikersprompt.
+
+## Source-of-truth en synchronisatie
+
+- Voor website-output geldt: `docs/data/meals.json` is leidend voor wat in de UI verschijnt.
+- Voor plan-documentatie geldt: mealbestanden + `Macros_Dagtotalen.md` + `Boodschappenlijst.md` moeten numeriek en inhoudelijk overeenkomen met de actieve planblokken in `docs/data/meals.json`.
+- Corrigeer inconsistenties direct in alle gekoppelde bestanden binnen dezelfde wijzigingsronde.
+
 ## Slash commands
 
 | Command | Beschrijving | Wanneer gebruiken |

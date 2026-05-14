@@ -1,5 +1,6 @@
 ---
 description: "Use when creating, editing or validating meal plan markdown files. Hard constraints for macro limits, nutrition source lookup, ingredient naming, macro validation and mealprep requirements. Keywords: maaltijdplan, mealprep, macro's berekenen, ingredienten, voedingswaarden, weekschema."
+applyTo: "meals/**/*.md"
 ---
 
 # Maaltijdplan — kwaliteitsregels met strikte macrogrenzen
@@ -22,18 +23,18 @@ description: "Use when creating, editing or validating meal plan markdown files.
 - Bereken de macrobijdrage van kruiden en smaakmakers altijd expliciet mee (bijv. 2 g Italiaanse kruiden = 5,1 kcal / 0,3 g P / 0,1 g V / 0,3 g KH)
 - Zout en peper mogen als "naar smaak" vermeld worden — macrobijdrage verwaarloosbaar
 
-## Macro-limieten (strikte bovengrenzen — nooit overschrijden)
+## Macro-limieten (strikte bovengrenzen voor kcal/vet/KH)
 
-De dagmacro's zijn **strikte maxima**.
+De dagmacro's voor **kcal, vet en koolhydraten** zijn **strikte maxima**.
 Daarnaast geldt: benader targets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan, maar grote afwijkingen niet.
-Eiwit mag beperkt boven target uitkomen als dit de praktische uitvoerbaarheid en verzadiging duidelijk verbetert, maar voorkom structurele grote overschrijdingen.
+Eiwit is een functioneel doel (geen harde bovengrens) en mag beperkt boven target uitkomen als dit praktische uitvoerbaarheid en verzadiging verbetert.
 
 Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet / 38 g KH**
 
 | Dag          |  Kcal | Eiwit | Vet  | Koolhydraten |
 | :----------- | ----: | ----: | ---: | -----------: |
-| Trainingsdag | 2900  | 190 g | 60 g |        400 g |
-| Rustdag      | 1880  | 190 g | 80 g |        100 g |
+| Trainingsdag | 2900  | 190 g (target) | 60 g |        400 g |
+| Rustdag      | 1880  | 190 g (target) | 80 g |        100 g |
 
 ## Verboden (niet toegestaan)
 

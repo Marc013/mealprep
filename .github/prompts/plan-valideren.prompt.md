@@ -18,8 +18,8 @@ Controleer voor elke maaltijd (Ontbijt, Lunch, Mealprep1 trainingsdag, Mealprep1
 ### 2. Dagtotalen (trainingsdag en rustdag)
 Controleer `Macros_Dagtotalen.md`:
 - Shake-blok correct meegeteld? (535 kcal / 79 g eiwit / 6 g vet / 38 g KH)
-- Trainingsdag binnen: kcal ≤ 2900, eiwit ≤ 190 g, vet ≤ 60 g, KH ≤ 400 g?
-- Rustdag binnen: kcal ≤ 1880, eiwit ≤ 190 g, vet ≤ 80 g, KH ≤ 100 g?
+- Trainingsdag binnen: kcal ≤ 2900, vet ≤ 60 g, KH ≤ 400 g? (eiwit = target 190 g, beperkte overschrijding toegestaan)
+- Rustdag binnen: kcal ≤ 1880, vet ≤ 80 g, KH ≤ 100 g? (eiwit = target 190 g, beperkte overschrijding toegestaan)
 - Zijn de totalen de som van de losse maaltijden + shakeblok?
 
 ### 3. Ingrediëntconsistentie

@@ -26,7 +26,7 @@ Gebruik exact dit formaat en deze veldvolgorde:
 
 ```json
 {
-  "id": <volgende_vrije_id>,
+  "id": "<kebab-case-slug>",
   "name": "<officiële productnaam>",
   "category": "<categorie>",
   "unit": "g",
@@ -38,14 +38,14 @@ Gebruik exact dit formaat en deze veldvolgorde:
   },
   "sourcing": {
     "store": "<Jumbo|Lidl|XXL Nutrition|overig>",
-    "availability": "<omschrijving>"
+    "availability": true
   }
 }
 ```
 
 ### 4. Invoegen op alfabetische positie
 - Voeg het nieuwe record in op de correcte alfabetische positie op `name`
-- Geef het de volgende sequentiële `id` (hoger dan het huidige maximum)
+- Gebruik een unieke, stabiele slug-id in kebab-case op basis van productnaam
 
 ### 5. Metadata bijwerken
 - Verhoog `total_ingredients` met 1

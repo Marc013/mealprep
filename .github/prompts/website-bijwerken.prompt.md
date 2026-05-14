@@ -13,24 +13,16 @@ Synchroniseer de GitHub Pages website met de meest recente plandata.
 - Kijk welk plan de meest recente map is in `meals/` (hoogste plannummer)
 - Lees de maaltijdbestanden uit dat plan
 
-### 2. Genereer docs/data/meals.json
-Maak een nieuw `meals.json` op basis van de maaltijdbestanden:
-- Parseer macro's uit de header-tabellen van elk maaltijdbestand
-- Onderscheid trainingsdag en rustdag varianten
-- Voeg shakeblok toe als vast element (535 kcal / 79g eiwit / 6g vet / 38g KH)
-- Bereken en voeg dagtotalen toe per dagtype
+### 2. Synchroniseer docs/data/meals.json
+Werk de **bestaande** `docs/data/meals.json` bij binnen het huidige repositorieschema:
+- Update `weekplans.planX.totals`
+- Update `meals.[meal-id-planX]` varianten en ingrediënten
+- Update `shopping.planX`
+- Behoud alle andere plannen en sleutelstructuren ongewijzigd
 
-Verwacht JSON-schema:
-```json
-{
-  "plan": "planX",
-  "generated": "YYYY-MM-DD",
-  "days": {
-    "trainingsdag": { "totals": {...}, "meals": [...] },
-    "rustdag": { "totals": {...}, "meals": [...] }
-  }
-}
-```
+Belangrijk:
+- **Niet** vervangen door een vereenvoudigd alternatief JSON-schema
+- Compatibiliteit met bestaande `docs/app.js` runtime moet behouden blijven
 
 ### 3. Valideer de website
 - Controleer dat `docs/index.html`, `docs/macros.html` en `docs/shopping.html` de nieuwe data correct laden
