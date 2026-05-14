@@ -471,6 +471,57 @@
                     "fixed": true
                 }
             ]
+        },
+        "plan10": {
+            "id": "plan10",
+            "name": "Maaltijdsalade + Gele Curry Balletjes",
+            "description": "Plan 10 met vaste shake- en ontbijt/lunchblokken plus twee nieuwe mealprep-gerechten met training- en rustvarianten.",
+            "dayCounts": {
+                "training": 4,
+                "rest": 3
+            },
+            "totals": {
+                "training": {
+                    "kcal": 2724.0,
+                    "protein": 225.5,
+                    "fat": 55.1,
+                    "carbs": 312.1
+                },
+                "rest": {
+                    "kcal": 1736.0,
+                    "protein": 219.5,
+                    "fat": 46.1,
+                    "carbs": 100.4
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend-plan9",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan10"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan10"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan10"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan10"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond-plan9",
+                    "fixed": true
+                }
+            ]
         }
     },
     "meals": {
@@ -4826,6 +4877,356 @@
                 "Voeg knoflook, Chinese kool, wortel en edamame toe en roerbak 4-5 minuten.",
                 "Voeg teriyakisaus en chilivlokken toe, daarna noodles, en werk af met bosui en sesamzaad."
             ]
+        },
+        "ontbijt-plan10": {
+            "id": "ontbijt-plan10",
+            "title": "Kwark Havermout Bowl",
+            "time": "10:15",
+            "description": "Basis met Franse mager kwark in plaats van Skyr.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 409,
+                        "carbs": 54.8,
+                        "fat": 4.6,
+                        "protein": 29.6
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Rozijnen",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Honing",
+                            "amount": "5 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 224,
+                        "carbs": 21.4,
+                        "fat": 1.9,
+                        "protein": 26.6
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "94 g"
+                        },
+                        {
+                            "name": "Kaneelpoeder",
+                            "amount": "2 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Weeg alle ingredienten exact af.",
+                "Meng kwark en yoghurt.",
+                "Voeg bosvruchten toe.",
+                "Werk af met kaneel."
+            ]
+        },
+        "lunch-plan10": {
+            "id": "lunch-plan10",
+            "title": "Gekookt & Klaar",
+            "time": "13:00",
+            "description": "Snelle 13:00-lunch zoals overgenomen uit plan 8.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 337,
+                        "carbs": 15,
+                        "fat": 17.9,
+                        "protein": 27.7
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (M)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "45 g"
+                        },
+                        {
+                            "name": "Volkoren brood",
+                            "amount": "35 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "10 g"
+                        },
+                        {
+                            "name": "Remia mayolijn - Jumbo",
+                            "amount": "8 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 287,
+                        "carbs": 0.4,
+                        "fat": 18.5,
+                        "protein": 29.8
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Eieren (M)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "60 g"
+                        },
+                        {
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "20 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Kook de eieren hard.",
+                "Trainingsdag: serveer met brood, ham, kaas en mayolijn.",
+                "Rustdag: serveer met ham en kaas."
+            ]
+        },
+        "mealprep1-plan10": {
+            "id": "mealprep1-plan10",
+            "title": "Maaltijdsalade Krieltjes Gerookte Kip",
+            "time": "15:45",
+            "description": "Frisse maar vullende maaltijdsalade met krieltjes, zoetzuur en gerookte kip.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 626,
+                        "carbs": 97.7,
+                        "fat": 6.8,
+                        "protein": 40.2
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Krieltjes",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Jumbo Zoetzuur Augurken",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Jumbo Zoetzuur Zilver Uitjes",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Jumbo Maiskorrels",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "IJsbergsla",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Komkommer",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Zandvliet Gerookte Kipfilet",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "40 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 384,
+                        "carbs": 34.2,
+                        "fat": 7.3,
+                        "protein": 43.4
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Krieltjes",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "IJsbergsla",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Komkommer",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Zandvliet Gerookte Kipfilet",
+                            "amount": "200 g"
+                        },
+                        {
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "20 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Kook de krieltjes in 12-15 minuten gaar in ruim water met een snuf zout.",
+                "Spoel de maiskorrels af en laat goed uitlekken.",
+                "Snijd paprika, ijsbergsla, tomaat en komkommer in hapklare stukken.",
+                "Snijd de gerookte kipfilet in repen.",
+                "Meng alles luchtig met de dressing en breng op smaak met peper, dille en gerookt paprikapoeder."
+            ]
+        },
+        "mealprep2-plan10": {
+            "id": "mealprep2-plan10",
+            "title": "Gele Curry Kip-Kalkoen Balletjes",
+            "time": "18:30",
+            "description": "Gele curry-eenpan met kip-kalkoenballetjes, kokosmelk en limoensap.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 817,
+                        "carbs": 106.6,
+                        "fat": 19.8,
+                        "protein": 49
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Kip-Kalkoen Gehakt",
+                            "amount": "170 g"
+                        },
+                        {
+                            "name": "Jumbo Boemboe Gele Curry",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "8 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Courgette geel",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Jumbo Kokosmelk Romig",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Limoensap",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Witte rijst (droog)",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "3 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 306,
+                        "carbs": 6.4,
+                        "fat": 12.4,
+                        "protein": 40.7
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Kip-Kalkoen Gehakt",
+                            "amount": "180 g"
+                        },
+                        {
+                            "name": "Jumbo Boemboe Gele Curry",
+                            "amount": "20 g"
+                        },
+                        {
+                            "name": "Courgette geel",
+                            "amount": "25 g"
+                        },
+                        {
+                            "name": "Jumbo Kokosmelk Romig",
+                            "amount": "15 g"
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "3 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Meng het gehakt met een deel van de boemboe en draai er balletjes van circa 3 cm van.",
+                "Bak de balletjes rondom goudbruin in een diepe pan met olijfolie.",
+                "Trainingsvariant: voeg ui, knoflook, paprika en courgette toe en roerbak enkele minuten.",
+                "Rustvariant: voeg alleen courgette toe en roerbak kort (zonder ui, paprika en knoflook).",
+                "Voeg resterende boemboe en kokosmelk toe en laat zachtjes pruttelen.",
+                "Training: serveer met witte rijst. Rust: serveer zonder rijst."
+            ]
         }
     },
     "shopping": {
@@ -6497,6 +6898,231 @@
                     "items": [
                         {
                             "id": "lidl9",
+                            "name": "Geen verplichte Lidl-producten in dit schema",
+                            "amount": "0 g"
+                        }
+                    ]
+                }
+            ]
+        },
+        "plan10": {
+            "name": "Maaltijdsalade + Gele Curry Balletjes",
+            "categories": [
+                {
+                    "name": "Jumbo / overig",
+                    "items": [
+                        {
+                            "id": "whey10",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "appel10",
+                            "name": "Appel (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "banaan-shake10",
+                            "name": "Banaan (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "peer10",
+                            "name": "Peer (voor shakes)",
+                            "amount": "4 stuks"
+                        },
+                        {
+                            "id": "kwark10",
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "1380 g"
+                        },
+                        {
+                            "id": "yoghurt10",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "900 g"
+                        },
+                        {
+                            "id": "bos10",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "1002 g"
+                        },
+                        {
+                            "id": "haver10",
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "rozijnen10",
+                            "name": "Rozijnen",
+                            "amount": "40 g"
+                        },
+                        {
+                            "id": "honing10",
+                            "name": "Honing",
+                            "amount": "20 g"
+                        },
+                        {
+                            "id": "kaneel10",
+                            "name": "Kaneelpoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "eieren10",
+                            "name": "Eieren (M)",
+                            "amount": "14 stuks"
+                        },
+                        {
+                            "id": "ham10",
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "360 g"
+                        },
+                        {
+                            "id": "brood10",
+                            "name": "Volkoren brood",
+                            "amount": "140 g"
+                        },
+                        {
+                            "id": "kaas10",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "100 g"
+                        },
+                        {
+                            "id": "mayo10",
+                            "name": "Remia mayolijn - Jumbo",
+                            "amount": "48 g"
+                        },
+                        {
+                            "id": "krieltjes10",
+                            "name": "Jumbo Krieltjes",
+                            "amount": "690 g"
+                        },
+                        {
+                            "id": "augurken10",
+                            "name": "Jumbo Zoetzuur Augurken",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "zilver10",
+                            "name": "Jumbo Zoetzuur Zilver Uitjes",
+                            "amount": "320 g"
+                        },
+                        {
+                            "id": "mais10",
+                            "name": "Jumbo Maiskorrels",
+                            "amount": "320 g"
+                        },
+                        {
+                            "id": "paprika10",
+                            "name": "Paprika",
+                            "amount": "1040 g"
+                        },
+                        {
+                            "id": "ijsberg10",
+                            "name": "IJsbergsla",
+                            "amount": "1140 g"
+                        },
+                        {
+                            "id": "tomaat10",
+                            "name": "Tomaat",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "komkommer10",
+                            "name": "Komkommer",
+                            "amount": "840 g"
+                        },
+                        {
+                            "id": "kipgerookt10",
+                            "name": "Zandvliet Gerookte Kipfilet",
+                            "amount": "1200 g"
+                        },
+                        {
+                            "id": "crema10",
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "220 g"
+                        },
+                        {
+                            "id": "gehakt10",
+                            "name": "Jumbo Kip-Kalkoen Gehakt",
+                            "amount": "1220 g"
+                        },
+                        {
+                            "id": "boemboe10",
+                            "name": "Jumbo Boemboe Gele Curry",
+                            "amount": "180 g"
+                        },
+                        {
+                            "id": "ui10",
+                            "name": "Ui (rauw)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "knoflook10",
+                            "name": "Knoflook",
+                            "amount": "32 g"
+                        },
+                        {
+                            "id": "courgette10",
+                            "name": "Courgette geel",
+                            "amount": "375 g"
+                        },
+                        {
+                            "id": "kokos10",
+                            "name": "Jumbo Kokosmelk Romig",
+                            "amount": "245 g"
+                        },
+                        {
+                            "id": "limoen10",
+                            "name": "Limoensap",
+                            "amount": "60 g"
+                        },
+                        {
+                            "id": "rijst10",
+                            "name": "Witte rijst (droog)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "olie10",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "21 g"
+                        },
+                        {
+                            "id": "zout10",
+                            "name": "Zout",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "peper10",
+                            "name": "Zwarte peper",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "paprika-poeder10",
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "dille10",
+                            "name": "Dille",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "kurkuma10",
+                            "name": "Extra kurkuma",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "chili10",
+                            "name": "Chilivlokken",
+                            "amount": "naar smaak"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lidl",
+                    "items": [
+                        {
+                            "id": "lidl10",
                             "name": "Geen verplichte Lidl-producten in dit schema",
                             "amount": "0 g"
                         }

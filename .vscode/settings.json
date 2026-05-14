@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "Move-Item": true,
+        "/^Set-Location 'c:\\\\Git\\\\prive\\\\mealprep'; pwsh -NoProfile -File \\.github/scripts/validate-ingredients-json\\.ps1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
