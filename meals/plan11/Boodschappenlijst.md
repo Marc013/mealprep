@@ -14,8 +14,8 @@ Uitgangspunt:
 | Banaan (voor shakes)                           |              5 stuks |
 | Peer (voor shakes)                             |              4 stuks |
 | Franse Kwark Mager - Jumbo                     |               1380 g |
-| Halfvolle yoghurt                              |               1280 g |
-| Diepvries bosvruchten (Jumbo)                  |               1002 g |
+| Halfvolle yoghurt                              |               1040 g |
+| Diepvries bosvruchten (Jumbo)                  |               1020 g |
 | Havervlokken (Crownfield)                      |                120 g |
 | Rozijnen                                       |                 40 g |
 | Honing                                         |                 20 g |
@@ -27,8 +27,8 @@ Uitgangspunt:
 | Remia mayolijn - Jumbo                         |                 32 g |
 | Jumbo Kip-Kalkoen Gehakt                       |               1220 g |
 | Jumbo Boemboe Gele Curry                       |                180 g |
-| Kipfilet (rauw)                                |                650 g |
-| Ui (rauw)                                      |                695 g |
+| Kipfilet (rauw)                                |                810 g |
+| Ui (rauw)                                      |                755 g |
 | Knoflook                                       |                 68 g |
 | Paprika                                        |                920 g |
 | Courgette geel                                 |                375 g |

@@ -533,16 +533,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2848.5,
-                    "protein": 223.6,
-                    "fat": 72.7,
-                    "carbs": 301.0
+                    "kcal": 2841.0,
+                    "protein": 227.0,
+                    "fat": 72.1,
+                    "carbs": 303.7
                 },
                 "rest": {
-                    "kcal": 1810.2,
-                    "protein": 226.0,
-                    "fat": 59.1,
-                    "carbs": 78.4
+                    "kcal": 1809.0,
+                    "protein": 224.0,
+                    "fat": 59.5,
+                    "carbs": 84.8
                 }
             },
             "schedule": [
@@ -5343,7 +5343,7 @@
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "94 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Kaneelpoeder",
@@ -5533,15 +5533,15 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 750.5,
-                        "carbs": 86.6,
-                        "fat": 24.4,
-                        "protein": 38.3
+                        "kcal": 743,
+                        "carbs": 89.3,
+                        "fat": 23.8,
+                        "protein": 41.7
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "50 g"
+                            "amount": "90 g"
                         },
                         {
                             "name": "Witte rijst (droog)",
@@ -5569,7 +5569,7 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "80 g"
+                            "amount": "20 g"
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -5592,10 +5592,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 458.2,
-                        "carbs": 12.2,
-                        "fat": 20.3,
-                        "protein": 49.9
+                        "kcal": 457,
+                        "carbs": 18.6,
+                        "fat": 20.7,
+                        "protein": 47.9
                     },
                     "ingredients": [
                         {
@@ -5608,7 +5608,7 @@
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "5 g"
+                            "amount": "25 g"
                         },
                         {
                             "name": "Champignons",
@@ -7585,12 +7585,12 @@
                         {
                             "id": "yoghurt11",
                             "name": "Halfvolle yoghurt",
-                            "amount": "1280 g"
+                            "amount": "1040 g"
                         },
                         {
                             "id": "bos11",
                             "name": "Diepvries bosvruchten (Jumbo)",
-                            "amount": "1002 g"
+                            "amount": "1020 g"
                         },
                         {
                             "id": "haver11",
@@ -7650,12 +7650,12 @@
                         {
                             "id": "kip11",
                             "name": "Kipfilet (rauw)",
-                            "amount": "650 g"
+                            "amount": "810 g"
                         },
                         {
                             "id": "ui11",
                             "name": "Ui (rauw)",
-                            "amount": "695 g"
+                            "amount": "755 g"
                         },
                         {
                             "id": "knoflook11",

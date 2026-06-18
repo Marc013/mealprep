@@ -26,10 +26,10 @@ Gebruikte varianten voor de berekening:
 | Ontbijt 10:15           |  409,0 |         29,6 |        4,6 |             54,8 |
 | Lunch 13:00             |  337,0 |         27,7 |       17,9 |             15,0 |
 | Mealprep 1 (15:45)      |  817,0 |         49,0 |       19,8 |            106,6 |
-| Mealprep 2 (18:30)      |  750,5 |         38,3 |       24,4 |             86,6 |
-| **Totaal trainingsdag** | 2848,5 |        223,6 |       72,7 |            301,0 |
+| Mealprep 2 (18:30)      |  743,0 |         41,7 |       23,8 |             89,3 |
+| **Totaal trainingsdag** | 2841,0 |        227,0 |       72,1 |            303,7 |
 | Maximum trainingsdag    | 2900,0 |        190,0 |       60,0 |            400,0 |
-| **Afwijking**           |  -51,5 |        +33,6 |      +12,7 |            -99,0 |
+| **Afwijking**           |  -59,0 |        +37,0 |      +12,1 |            -96,3 |
 
 ## Rustdag totaal
 Gebruikte varianten voor de berekening:
@@ -44,16 +44,16 @@ Gebruikte varianten voor de berekening:
 | Ontbijt 10:15      |  224,0 |         26,6 |        1,9 |             21,4 |
 | Lunch 13:00        |  287,0 |         29,8 |       18,5 |              0,4 |
 | Mealprep 1 (15:45) |  306,0 |         40,7 |       12,4 |              6,4 |
-| Mealprep 2 (18:30) |  458,2 |         49,9 |       20,3 |             12,2 |
-| **Totaal rustdag** | 1810,2 |        226,0 |       59,1 |             78,4 |
+| Mealprep 2 (18:30) |  457,0 |         47,9 |       20,7 |             18,6 |
+| **Totaal rustdag** | 1809,0 |        224,0 |       59,5 |             84,8 |
 | Maximum rustdag    | 1880,0 |        190,0 |       80,0 |            100,0 |
-| **Afwijking**      |  -69,8 |        +36,0 |      -20,9 |            -21,6 |
+| **Afwijking**      |  -71,0 |        +34,0 |      -20,5 |            -15,2 |
 
 ## Validatie grenscheck
-- Trainingsdag: kcal en koolhydraten blijven onder de maxima; **vet overschrijdt het maximum met +12,7 g** (72,7 vs 60,0). Dit komt door de exacte overname van bestaande maaltijden zonder aanpassing.
+- Trainingsdag: kcal en koolhydraten blijven onder de maxima; **vet overschrijdt het maximum met +12,1 g** (72,1 vs 60,0). Dit komt door de exacte overname van bestaande maaltijden.
 - Rustdag: kcal, vet en koolhydraten blijven onder de maxima.
 - Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging.
-- Maaltijden zijn op verzoek exact overgenomen; macrobeoordeling en eventuele bijstelling volgt later door gebruiker.
+- Correcties verwerkt: nasi-macro's gelijkgetrokken met plan 8 (eiwit 341,7 g gecorrigeerd naar 41,7 g als kennelijke typefout), ontbijt-rustvariant bosvruchten 94 -> 100 g, nasi kipfilet en ui bijgewerkt.
 
 ## Bronnotitie
 - Maaltijdmacro's exact overgenomen uit de bronplannen (plan 8 en plan 10).

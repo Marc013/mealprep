@@ -41,7 +41,7 @@ Deze bowl voldoet aan alle verplichte 10:15-componenten met Franse mager kwark a
 ## Ingredienten per portie
 - 220 g Franse Kwark Mager - Jumbo
 - 100 g Halfvolle yoghurt
-- 94 g Diepvries bosvruchten (Jumbo)
+- 100 g Diepvries bosvruchten (Jumbo)
 - 2 g Kaneelpoeder
 
 ## Voorbereiding

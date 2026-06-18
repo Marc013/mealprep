@@ -8,20 +8,20 @@ Dit is een snelle eenpans nasi met een romige satesauscomponent op basis van pin
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 750,5
-- Eiwitten: 38,3 g
-- Vetten: 24,4 g
-- Koolhydraten: 86,6 g
+- Kcal: 743,0
+- Eiwitten: 41,7 g
+- Vetten: 23,8 g
+- Koolhydraten: 89,3 g
 
 ## Ingredienten per portie
-- 50 g Kipfilet (rauw)
+- 90 g Kipfilet (rauw)
 - 70 g Witte rijst (droog)
 - 100 g Paprika
 - 70 g Ui (rauw)
 - 80 g Wortel
 - 120 g Champignons
 - 35 g 100% pindakaas naturel
-- 80 g Halfvolle yoghurt
+- 20 g Halfvolle yoghurt
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 6 g Knoflook, rauw
 - 3 g Olijfolie Extra Vierge
@@ -43,15 +43,15 @@ Dit is een snelle eenpans nasi met een romige satesauscomponent op basis van pin
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 458,2
-- Eiwitten: 49,9 g
-- Vetten: 20,3 g
-- Koolhydraten: 12,2 g
+- Kcal: 457,0
+- Eiwitten: 47,9 g
+- Vetten: 20,7 g
+- Koolhydraten: 18,6 g
 
 ## Ingredienten per portie
 - 150 g Kipfilet (rauw)
 - 40 g Paprika
-- 5 g Ui (rauw)
+- 25 g Ui (rauw)
 - 120 g Champignons
 - 30 g 100% pindakaas naturel
 - 20 g Halfvolle yoghurt
