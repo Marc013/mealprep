@@ -25,11 +25,11 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit          |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15           |  409,0 |         29,6 |        4,6 |             54,8 |
 | Lunch 13:00             |  337,0 |         27,7 |       17,9 |             15,0 |
-| Mealprep 1 (15:45)      |  733,3 |         38,5 |       19,1 |             93,3 |
-| Mealprep 2 (18:30)      |  626,1 |         41,9 |        6,9 |             96,2 |
-| **Totaal trainingsdag** | 2640,4 |        216,7 |       54,5 |            297,3 |
+| Mealprep 1 (15:45)      |  872,0 |         40,0 |       28,0 |            106,0 |
+| Mealprep 2 (18:30)      |  658,0 |         50,0 |        8,0 |             93,0 |
+| **Totaal trainingsdag** | 2811,0 |        226,3 |       64,5 |            306,8 |
 | Maximum trainingsdag    | 2900,0 |        190,0 |       60,0 |            400,0 |
-| **Afwijking**           | -259,6 |        +26,7 |       -5,5 |           -102,7 |
+| **Afwijking**           |  -89,0 |        +36,3 |       +4,5 |            -93,2 |
 
 ## Rustdag totaal
 Gebruikte varianten voor de berekening:
@@ -43,15 +43,15 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit     |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15      |  224,0 |         26,6 |        1,9 |             21,4 |
 | Lunch 13:00        |  287,0 |         29,8 |       18,5 |              0,4 |
-| Mealprep 1 (15:45) |  407,4 |         37,4 |       25,3 |              5,3 |
+| Mealprep 1 (15:45) |  405,0 |         26,7 |       26,1 |             14,6 |
 | Mealprep 2 (18:30) |  384,0 |         43,4 |        7,3 |             34,2 |
-| **Totaal rustdag** | 1837,4 |        216,2 |       59,0 |             99,3 |
+| **Totaal rustdag** | 1835,0 |        205,5 |       59,8 |            108,6 |
 | Maximum rustdag    | 1880,0 |        190,0 |       80,0 |            100,0 |
-| **Afwijking**      |  -42,6 |        +26,2 |      -21,0 |             -0,7 |
+| **Afwijking**      |  -45,0 |        +15,5 |      -20,2 |             +8,6 |
 
 ## Validatie grenscheck
-- Trainingsdag: kcal, vet en koolhydraten blijven onder de maxima.
-- Rustdag: kcal, vet en koolhydraten blijven onder de maxima; koolhydraten blijven met 99,3 g net onder de harde grens van 100 g.
+- Trainingsdag: kcal en koolhydraten blijven onder de maxima; **vet overschrijdt het maximum met +4,5 g** (64,5 vs 60,0).
+- Rustdag: kcal en vet blijven onder de maxima; **koolhydraten overschrijden het maximum met +8,6 g** (108,6 vs 100,0). Maaltijden zijn niet aangepast op verzoek.
 - Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging.
 - De chili houdt zich aan de caps voor paprika, ui, tomaat en Tomaten Gezeefd Passata - Jumbo.
 - De maaltijdsalade houdt zich aan maximaal 50 g Jumbo Zoetzuur Augurken per portie.

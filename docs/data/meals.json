@@ -584,16 +584,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2640.4,
-                    "protein": 216.7,
-                    "fat": 54.5,
-                    "carbs": 297.3
+                    "kcal": 2811.0,
+                    "protein": 226.3,
+                    "fat": 64.5,
+                    "carbs": 306.8
                 },
                 "rest": {
-                    "kcal": 1837.4,
-                    "protein": 216.2,
-                    "fat": 59.0,
-                    "carbs": 99.3
+                    "kcal": 1835.0,
+                    "protein": 205.5,
+                    "fat": 59.8,
+                    "carbs": 108.6
                 }
             },
             "schedule": [
@@ -5390,7 +5390,7 @@
                         },
                         {
                             "name": "Halfvolle yoghurt",
-                            "amount": "100 g"
+                            "amount": "120 g"
                         },
                         {
                             "name": "Diepvries bosvruchten (Jumbo)",
@@ -5707,25 +5707,25 @@
             "description": "Aangepast uit plan 3: paprika, ui, tomaat en passata begrensd; trainingsvariant vult calorieverlies aan met Go-Tan Sweet Chilli Sauce.",
             "variants": {
                 "training": {
-                    "label": "Met bulgur",
+                    "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 733.3,
-                        "carbs": 93.3,
-                        "fat": 19.1,
-                        "protein": 38.5
+                        "kcal": 872,
+                        "carbs": 106,
+                        "fat": 28,
+                        "protein": 40
                     },
                     "ingredients": [
                         {
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "63 g (droog)",
+                            "amount": "75 g (droog)",
                             "ingredient_id": "bulgur-ah",
-                            "amount_g": 63.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "100 g",
+                            "amount": "125 g",
                             "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 100.0
+                            "amount_g": 125.0
                         },
                         {
                             "name": "Zwarte bonen (blik, uitgelekt)",
@@ -5759,9 +5759,9 @@
                         },
                         {
                             "name": "Go-Tan Sweet Chilli Sauce",
-                            "amount": "67 g",
+                            "amount": "60 g",
                             "ingredient_id": "sweet-chilli-gotan",
-                            "amount_g": 67.0
+                            "amount_g": 60.0
                         },
                         {
                             "name": "Knoflook",
@@ -5790,31 +5790,31 @@
                     ]
                 },
                 "rest": {
-                    "label": "Koolhydraatarme chili",
+                    "label": "Rustvariant",
                     "macros": {
-                        "kcal": 407.4,
-                        "carbs": 5.3,
-                        "fat": 25.3,
-                        "protein": 37.4
+                        "kcal": 405,
+                        "carbs": 14.6,
+                        "fat": 26.1,
+                        "protein": 26.7
                     },
                     "ingredients": [
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "150 g",
+                            "amount": "130 g",
                             "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 150.0
+                            "amount_g": 130.0
                         },
                         {
                             "name": "Paprika",
-                            "amount": "20 g",
+                            "amount": "30 g",
                             "ingredient_id": "paprika",
-                            "amount_g": 20.0
+                            "amount_g": 30.0
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "10 g",
+                            "amount": "30 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 10.0
+                            "amount_g": 30.0
                         },
                         {
                             "name": "Tomaat",
@@ -5824,15 +5824,15 @@
                         },
                         {
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "20 g",
+                            "amount": "30 g",
                             "ingredient_id": "passata-jumbo",
-                            "amount_g": 20.0
+                            "amount_g": 30.0
                         },
                         {
                             "name": "Go-Tan Sweet Chilli Sauce",
-                            "amount": "2 g",
+                            "amount": "15 g",
                             "ingredient_id": "sweet-chilli-gotan",
-                            "amount_g": 2.0
+                            "amount_g": 15.0
                         },
                         {
                             "name": "Knoflook",
@@ -5848,9 +5848,9 @@
                         },
                         {
                             "name": "Chilivlokken",
-                            "amount": "0,5 g",
+                            "amount": "1 g",
                             "ingredient_id": "chilivlokken",
-                            "amount_g": 0.5
+                            "amount_g": 1.0
                         },
                         {
                             "name": "Komijnpoeder",
@@ -5878,10 +5878,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 626.1,
-                        "carbs": 96.2,
-                        "fat": 6.9,
-                        "protein": 41.9
+                        "kcal": 658,
+                        "carbs": 93,
+                        "fat": 8,
+                        "protein": 50
                     },
                     "ingredients": [
                         {
@@ -5890,11 +5890,11 @@
                         },
                         {
                             "name": "Jumbo Zoetzuur Augurken",
-                            "amount": "50 g"
+                            "amount": "75 g"
                         },
                         {
                             "name": "Jumbo Zoetzuur Zilver Uitjes",
-                            "amount": "80 g"
+                            "amount": "50 g"
                         },
                         {
                             "name": "Jumbo Maiskorrels",
@@ -5906,7 +5906,7 @@
                         },
                         {
                             "name": "IJsbergsla",
-                            "amount": "120 g"
+                            "amount": "150 g"
                         },
                         {
                             "name": "Tomaat",
@@ -5918,7 +5918,7 @@
                         },
                         {
                             "name": "Jumbo Gerookte Kipfilet",
-                            "amount": "163 g"
+                            "amount": "200 g"
                         },
                         {
                             "name": "Jumbo Biologisch Dressing Crema di Balsamico",
@@ -8110,7 +8110,7 @@
                         {
                             "id": "yoghurt12",
                             "name": "Halfvolle yoghurt",
-                            "amount": "1040 g"
+                            "amount": "960 g"
                         },
                         {
                             "id": "bos12",
@@ -8165,12 +8165,12 @@
                         {
                             "id": "rundergehakt12",
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "850 g"
+                            "amount": "890 g"
                         },
                         {
                             "id": "bulgur12",
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "252 g"
+                            "amount": "300 g"
                         },
                         {
                             "id": "zwartebonen12",
@@ -8180,12 +8180,12 @@
                         {
                             "id": "paprika12",
                             "name": "Paprika",
-                            "amount": "900 g"
+                            "amount": "930 g"
                         },
                         {
                             "id": "ui12",
                             "name": "Ui (rauw)",
-                            "amount": "230 g"
+                            "amount": "290 g"
                         },
                         {
                             "id": "tomaat12",
@@ -8195,12 +8195,12 @@
                         {
                             "id": "passata12",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "360 g"
+                            "amount": "390 g"
                         },
                         {
                             "id": "sweetchilli12",
                             "name": "Go-Tan Sweet Chilli Sauce",
-                            "amount": "274 g"
+                            "amount": "285 g"
                         },
                         {
                             "id": "knoflook12",
@@ -8215,7 +8215,7 @@
                         {
                             "id": "chili12",
                             "name": "Chilivlokken",
-                            "amount": "5,5 g"
+                            "amount": "7 g"
                         },
                         {
                             "id": "komijn12",
@@ -8230,12 +8230,12 @@
                         {
                             "id": "augurken12",
                             "name": "Jumbo Zoetzuur Augurken",
-                            "amount": "200 g"
+                            "amount": "300 g"
                         },
                         {
                             "id": "zilveruitjes12",
                             "name": "Jumbo Zoetzuur Zilver Uitjes",
-                            "amount": "320 g"
+                            "amount": "200 g"
                         },
                         {
                             "id": "mais12",
@@ -8245,7 +8245,7 @@
                         {
                             "id": "ijsbergsla12",
                             "name": "IJsbergsla",
-                            "amount": "1140 g"
+                            "amount": "1260 g"
                         },
                         {
                             "id": "komkommer12",
@@ -8255,7 +8255,7 @@
                         {
                             "id": "gerooktekip12",
                             "name": "Jumbo Gerookte Kipfilet",
-                            "amount": "1252 g"
+                            "amount": "1400 g"
                         },
                         {
                             "id": "balsamico12",

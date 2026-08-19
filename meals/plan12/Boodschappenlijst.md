@@ -14,7 +14,7 @@ Uitgangspunt:
 | Banaan (voor shakes)                         |              5 stuks |
 | Peer (voor shakes)                           |              4 stuks |
 | Franse Kwark Mager - Jumbo                   |               1380 g |
-| Halfvolle yoghurt                            |               1040 g |
+| Halfvolle yoghurt                            |                960 g |
 | Diepvries bosvruchten (Jumbo)                |               1020 g |
 | Havervlokken (Crownfield)                    |                120 g |
 | Rozijnen                                     |                 40 g |
@@ -25,25 +25,25 @@ Uitgangspunt:
 | Volkoren brood                               |                140 g |
 | Kaas Extra Belegen 48+ - Jumbo               |                100 g |
 | Remia mayolijn - Jumbo                       |                 32 g |
-| Rundergehakt - Jumbo                         |                850 g |
-| Biologisch Volkoren bulgur - AH              |                252 g |
+| Rundergehakt - Jumbo                         |                890 g |
+| Biologisch Volkoren bulgur - AH              |                300 g |
 | Zwarte bonen (blik, uitgelekt)               |                200 g |
-| Paprika                                      |                900 g |
-| Ui (rauw)                                    |                230 g |
+| Paprika                                      |                930 g |
+| Ui (rauw)                                    |                290 g |
 | Tomaat                                       |                860 g |
-| Tomaten Gezeefd Passata - Jumbo              |                360 g |
-| Go-Tan Sweet Chilli Sauce                    |                274 g |
+| Tomaten Gezeefd Passata - Jumbo              |                390 g |
+| Go-Tan Sweet Chilli Sauce                    |                285 g |
 | Knoflook                                     |                 26 g |
 | Olijfolie Extra Vierge                       |                  7 g |
-| Chilivlokken                                 |                5,5 g |
+| Chilivlokken                                 |                  7 g |
 | Komijnpoeder                                 |                 11 g |
 | Jumbo Krieltjes                              |                690 g |
-| Jumbo Zoetzuur Augurken                      |                200 g |
-| Jumbo Zoetzuur Zilver Uitjes                 |                320 g |
+| Jumbo Zoetzuur Augurken                      |                300 g |
+| Jumbo Zoetzuur Zilver Uitjes                 |                200 g |
 | Jumbo Maiskorrels                            |                320 g |
-| IJsbergsla                                   |               1140 g |
+| IJsbergsla                                   |               1260 g |
 | Komkommer                                    |                840 g |
-| Jumbo Gerookte Kipfilet                      |               1252 g |
+| Jumbo Gerookte Kipfilet                      |               1400 g |
 | Jumbo Biologisch Dressing Crema di Balsamico |                220 g |
 | Zout                                         |           naar smaak |
 | Zwarte peper                                 |           naar smaak |
