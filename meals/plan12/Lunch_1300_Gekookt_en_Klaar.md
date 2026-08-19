@@ -1,0 +1,61 @@
+# Gekookt & Klaar
+
+## Tijdstip
+13:00 uur
+
+## Waarom deze maaltijd past
+Deze lunch is extreem simpel en snel: gekookte eieren met brood, ham, kaas en een kleine hoeveelheid Remia mayolijn. Geen rijst en geen wokstap, zodat je dit betrouwbaar binnen 15-20 minuten redt inclusief eten.
+
+## Trainingsdag-variant
+## Macro's per portie
+- Kcal: 337,0
+- Eiwitten: 27,7 g
+- Vetten: 17,9 g
+- Koolhydraten: 15,0 g
+
+## Ingredienten per portie
+- 2 eieren (M) (100 g)
+- 45 g Jumbo Gekookte Hamreepjes
+- 1 boterham Volkoren brood (35 g)
+- 10 g Kaas Extra Belegen 48+ - Jumbo
+- 8 g Remia mayolijn - Jumbo
+
+## Voorbereiding
+- Kook de eieren hard (7-8 minuten) en laat kort schrikken onder koud water.
+- Weeg alle ingredienten exact af.
+
+## Bereiding
+- Pel de eieren en halveer ze.
+- Beleg het brood met ham en kaas.
+- Serveer de gekookte eieren ernaast met de Remia mayolijn als dip.
+
+Totale tijd: ongeveer 15-20 minuten.
+
+## Rustdag-variant
+## Macro's per portie
+- Kcal: 287,0
+- Eiwitten: 29,8 g
+- Vetten: 18,5 g
+- Koolhydraten: 0,4 g
+
+## Ingredienten per portie
+- 2 eieren (M) (100 g)
+- 60 g Jumbo Gekookte Hamreepjes
+- 20 g Kaas Extra Belegen 48+ - Jumbo
+
+## Voorbereiding
+- Kook de eieren hard (7-8 minuten) en koel kort terug.
+- Weeg alle ingredienten exact af.
+
+## Bereiding
+- Pel de eieren en halveer ze.
+- Serveer met ham en kaas.
+
+Totale tijd: ongeveer 10-12 minuten.
+## Macro-notitie
+Bronnen per ingredient:
+- Eieren (heel): src/ingredients.json
+- Jumbo Gekookte Hamreepjes: src/ingredients.json
+- Kaas Extra Belegen 48+ - Jumbo: src/ingredients.json
+- Volkoren brood: src/ingredients.json
+- Remia mayolijn - Jumbo: src/ingredients.json
