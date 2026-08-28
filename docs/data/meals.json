@@ -584,16 +584,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2804.4,
-                    "protein": 242.5,
-                    "fat": 60.0,
-                    "carbs": 299.5
+                    "kcal": 2805.0,
+                    "protein": 244.7,
+                    "fat": 60.5,
+                    "carbs": 305.1
                 },
                 "rest": {
-                    "kcal": 1803.8,
-                    "protein": 215.3,
-                    "fat": 64.5,
-                    "carbs": 79.4
+                    "kcal": 1797.0,
+                    "protein": 221.9,
+                    "fat": 59.6,
+                    "carbs": 87.7
                 }
             },
             "schedule": [
@@ -5709,10 +5709,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 977.7,
-                        "carbs": 131.9,
-                        "fat": 16.8,
-                        "protein": 68.3
+                        "kcal": 978,
+                        "carbs": 128.3,
+                        "fat": 18.5,
+                        "protein": 66.8
                     },
                     "ingredients": [
                         {
@@ -5761,7 +5761,7 @@
                             "name": "Kikkererwten (blik, uitgelekt)",
                             "amount": "100 g",
                             "ingredient_id": "kikkererwten-blik",
-                            "amount_g": 100.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Limoensap",
@@ -5842,10 +5842,10 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 545.7,
-                        "carbs": 59.8,
-                        "fat": 14.7,
-                        "protein": 37.9
+                        "kcal": 546,
+                        "carbs": 69,
+                        "fat": 13.5,
+                        "protein": 41.6
                     },
                     "ingredients": [
                         {
@@ -5854,7 +5854,7 @@
                         },
                         {
                             "name": "Grand'Italia Fusilli Volkoren (droog)",
-                            "amount": "75 g"
+                            "amount": "70 g"
                         },
                         {
                             "name": "Tomaat, rauw",
@@ -5889,10 +5889,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 451.8,
-                        "carbs": 13.2,
-                        "fat": 25.7,
-                        "protein": 39.2
+                        "kcal": 445,
+                        "carbs": 21.5,
+                        "fat": 20.8,
+                        "protein": 45.8
                     },
                     "ingredients": [
                         {
@@ -5917,7 +5917,7 @@
                         },
                         {
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "80 g"
+                            "amount": "100 g"
                         },
                         {
                             "name": "Jumbo Pesto alla Genovese",
@@ -5925,7 +5925,7 @@
                         },
                         {
                             "name": "Avocado",
-                            "amount": "75 g"
+                            "amount": "55 g"
                         }
                     ]
                 }
@@ -8068,7 +8068,7 @@
                         {
                             "id": "kwark12",
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "1940 g"
+                            "amount": "2000 g"
                         },
                         {
                             "id": "yoghurt12",
@@ -8138,7 +8138,7 @@
                         {
                             "id": "kikkererwten12",
                             "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "400 g"
+                            "amount": "300 g"
                         },
                         {
                             "id": "ui12",
@@ -8188,7 +8188,7 @@
                         {
                             "id": "fusilli12",
                             "name": "Grand'Italia Fusilli Volkoren (droog)",
-                            "amount": "300 g"
+                            "amount": "280 g"
                         },
                         {
                             "id": "tomaat12",
@@ -8218,7 +8218,7 @@
                         {
                             "id": "avocado12",
                             "name": "Avocado",
-                            "amount": "285 g"
+                            "amount": "225 g"
                         },
                         {
                             "id": "zout12",

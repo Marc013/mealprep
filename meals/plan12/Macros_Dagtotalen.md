@@ -25,11 +25,11 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit          |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15           |  409,0 |         29,6 |        4,6 |             54,8 |
 | Lunch 13:00             |  337,0 |         27,7 |       17,9 |             15,0 |
-| Mealprep 1 (15:45)      |  977,7 |         68,3 |       16,8 |            131,9 |
-| Mealprep 2 (18:30)      |  545,7 |         37,9 |       14,7 |             59,8 |
-| **Totaal trainingsdag** | 2804,4 |        242,5 |       60,0 |            299,5 |
+| Mealprep 1 (15:45)      |  978,0 |         66,8 |       18,5 |            128,3 |
+| Mealprep 2 (18:30)      |  546,0 |         41,6 |       13,5 |             69,0 |
+| **Totaal trainingsdag** | 2805,0 |        244,7 |       60,5 |            305,1 |
 | Maximum trainingsdag    | 2900,0 |        190,0 |       60,0 |            400,0 |
-| **Minimumcheck**        |   +4,4 |        +52,5 |        0,0 |           -100,5 |
+| **Minimumcheck**        |   +5,0 |        +54,7 |       +0,5 |            -94,9 |
 
 ## Rustdag totaal
 Gebruikte varianten voor de berekening:
@@ -44,14 +44,14 @@ Gebruikte varianten voor de berekening:
 | Ontbijt 10:15      |  224,0 |         26,6 |        1,9 |             21,4 |
 | Lunch 13:00        |  287,0 |         29,8 |       18,5 |              0,4 |
 | Mealprep 1 (15:45) |  306,0 |         40,7 |       12,4 |              6,4 |
-| Mealprep 2 (18:30) |  451,8 |         39,2 |       25,7 |             13,2 |
-| **Totaal rustdag** | 1803,8 |        215,3 |       64,5 |             79,4 |
+| Mealprep 2 (18:30) |  445,0 |         45,8 |       20,8 |             21,5 |
+| **Totaal rustdag** | 1797,0 |        221,9 |       59,6 |             87,7 |
 | Maximum rustdag    | 1880,0 |        190,0 |       80,0 |            100,0 |
-| **Minimumcheck**   |   +3,8 |        +25,3 |      -15,5 |            -20,6 |
+| **Minimumcheck**   |   -3,0 |        +31,9 |      -20,4 |            -12,3 |
 
 ## Validatie grenscheck
-- Trainingsdag: kcal voldoet aan het minimum; kcal, vet en koolhydraten blijven onder de maxima.
-- Rustdag: kcal voldoet aan het minimum; kcal, vet en koolhydraten blijven onder de maxima.
+- Trainingsdag: kcal voldoet aan het minimum; vet overschrijdt de huidige maximumwaarde met 0,5 g.
+- Rustdag: kcal ligt 3,0 kcal onder het minimum; vet en koolhydraten blijven onder de maxima.
 - Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging.
 - De pestosalade houdt zich aan de opgegeven caps en gebruikt 20 g pesto in de trainingsvariant en 25 g in de rustvariant. De rustvariant bevat 75 g avocado voor extra kcal en verzadiging.
 

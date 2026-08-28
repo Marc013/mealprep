@@ -13,7 +13,7 @@ Uitgangspunt:
 | Appel (voor shakes)                   |              5 stuks |
 | Banaan (voor shakes)                  |              5 stuks |
 | Peer (voor shakes)                    |              4 stuks |
-| Franse Kwark Mager - Jumbo            |               1940 g |
+| Franse Kwark Mager - Jumbo            |               2000 g |
 | Halfvolle yoghurt                     |                960 g |
 | Diepvries bosvruchten (Jumbo)         |               1020 g |
 | Havervlokken (Crownfield)             |                120 g |
@@ -36,14 +36,14 @@ Uitgangspunt:
 | Witte rijst (droog)                   |                400 g |
 | Olijfolie Extra Vierge                |                 13 g |
 | Jumbo Gerookte Kipfilet               |                850 g |
-| Grand'Italia Fusilli Volkoren (droog) |                300 g |
-| Kikkererwten (blik, uitgelekt)        |                400 g |
+| Grand'Italia Fusilli Volkoren (droog) |                280 g |
+| Kikkererwten (blik, uitgelekt)        |                300 g |
 | Tomaat, rauw                          |                840 g |
 | Rode ui                               |                290 g |
 | Selderij, bleek, rauw                 |                525 g |
 | Radijs                                |                350 g |
 | Jumbo Pesto alla Genovese             |                155 g |
-| Avocado                               |                285 g |
+| Avocado                               |                225 g |
 | Zout                                  |           naar smaak |
 | Zwarte peper                          |           naar smaak |
 | Dille                                 |           naar smaak |

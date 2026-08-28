@@ -8,14 +8,14 @@ Deze maaltijdsalade komt uit plan 7 en combineert gerookte kip, volkoren fusilli
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 545,7
-- Eiwitten: 37,9 g
-- Vetten: 14,7 g
-- Koolhydraten: 59,8 g
+- Kcal: 546,0
+- Eiwitten: 41,6 g
+- Vetten: 13,5 g
+- Koolhydraten: 69,0 g
 
 ## Ingredienten per portie
 - 100 g Jumbo Gerookte Kipfilet
-- 75 g Grand'Italia Fusilli Volkoren (droog)
+- 70 g Grand'Italia Fusilli Volkoren (droog)
 - 120 g Tomaat, rauw
 - 50 g Rode ui
 - 75 g Selderij, bleek, rauw
@@ -37,10 +37,10 @@ Deze maaltijdsalade komt uit plan 7 en combineert gerookte kip, volkoren fusilli
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 451,8
-- Eiwitten: 39,2 g
-- Vetten: 25,7 g
-- Koolhydraten: 13,2 g
+- Kcal: 445,0
+- Eiwitten: 45,8 g
+- Vetten: 20,8 g
+- Koolhydraten: 21,5 g
 
 ## Ingredienten per portie
 - 150 g Jumbo Gerookte Kipfilet
@@ -48,9 +48,9 @@ Deze maaltijdsalade komt uit plan 7 en combineert gerookte kip, volkoren fusilli
 - 30 g Rode ui
 - 75 g Selderij, bleek, rauw
 - 50 g Radijs
-- 80 g Franse Kwark Mager - Jumbo
+- 100 g Franse Kwark Mager - Jumbo
 - 25 g Jumbo Pesto alla Genovese
-- 75 g Avocado
+- 55 g Avocado
 
 ## Voorbereiding
 - Snijd tomaat, rode ui, bleekselderij, radijs en avocado.

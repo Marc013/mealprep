@@ -8,10 +8,10 @@ Deze curry komt uit plan 11 en gebruikt kip-kalkoenballetjes met een romige gele
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 977,7
-- Eiwitten: 68,3 g
-- Vetten: 16,8 g
-- Koolhydraten: 131,9 g
+- Kcal: 978,0
+- Eiwitten: 66,8 g
+- Vetten: 18,5 g
+- Koolhydraten: 128,3 g
 
 ## Ingredienten per portie
 - 220 g Jumbo Kip-Kalkoen Gehakt
@@ -21,7 +21,7 @@ Deze curry komt uit plan 11 en gebruikt kip-kalkoenballetjes met een romige gele
 - 150 g Paprika
 - 150 g Courgette
 - 20 g Jumbo Kokosmelk Romig
-- 100 g Kikkererwten (blik, uitgelekt)
+- 75 g Kikkererwten (blik, uitgelekt)
 - 15 g Limoensap
 - 100 g Witte rijst (droog)
 - 1 g Olijfolie Extra Vierge
