@@ -8,19 +8,20 @@ Deze curry komt uit plan 11 en gebruikt kip-kalkoenballetjes met een romige gele
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 767,1
-- Eiwitten: 48,7 g
-- Vetten: 14,6 g
-- Koolhydraten: 106,2 g
+- Kcal: 977,7
+- Eiwitten: 68,3 g
+- Vetten: 16,8 g
+- Koolhydraten: 131,9 g
 
 ## Ingredienten per portie
-- 170 g Jumbo Kip-Kalkoen Gehakt
+- 220 g Jumbo Kip-Kalkoen Gehakt
 - 30 g Jumbo Boemboe Gele Curry
-- 100 g Ui (rauw)
+- 150 g Ui (rauw)
 - 8 g Knoflook
-- 100 g Paprika
-- 75 g Courgette
-- 30 g Jumbo Kokosmelk Romig
+- 150 g Paprika
+- 150 g Courgette
+- 20 g Jumbo Kokosmelk Romig
+- 100 g Kikkererwten (blik, uitgelekt)
 - 15 g Limoensap
 - 100 g Witte rijst (droog)
 - 1 g Olijfolie Extra Vierge
@@ -31,9 +32,9 @@ Deze curry komt uit plan 11 en gebruikt kip-kalkoenballetjes met een romige gele
 - Kook de rijst volgens de verpakking.
 
 ## Bereiding
-- Verhit de olijfolie in een diepe pan en bak de balletjes rondom goudbruin.
+- Bak de balletjes in een goede antiaanbakpan rondom goudbruin.
 - Voeg ui en knoflook toe en bak 2 minuten mee. Voeg paprika en courgette toe en roerbak 4-5 minuten.
-- Roer de boemboe erdoor, schenk kokosmelk en limoensap erbij en laat 4-5 minuten zacht pruttelen.
+- Roer de boemboe erdoor, schenk kokosmelk en limoensap erbij en laat 4-5 minuten zacht pruttelen. Voeg de kikkererwten de laatste 2 minuten toe.
 - Serveer met de gare rijst of houd de rijst apart bij mealprep.
 
 ## Rustdag-variant
@@ -72,6 +73,7 @@ Bronnen per ingredient:
 - Paprika: src/ingredients.json
 - Courgette: src/ingredients.json
 - Jumbo Kokosmelk Romig: src/ingredients.json
+- Kikkererwten (blik, uitgelekt): src/ingredients.json
 - Limoensap: src/ingredients.json
 - Witte rijst: src/ingredients.json
 - Olijfolie Extra Vierge: src/ingredients.json

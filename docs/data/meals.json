@@ -584,16 +584,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2593.8,
-                    "protein": 222.9,
-                    "fat": 57.8,
-                    "carbs": 273.8
+                    "kcal": 2804.4,
+                    "protein": 242.5,
+                    "fat": 60.0,
+                    "carbs": 299.5
                 },
                 "rest": {
-                    "kcal": 1700.4,
-                    "protein": 213.9,
-                    "fat": 54.5,
-                    "carbs": 78.6
+                    "kcal": 1803.8,
+                    "protein": 215.3,
+                    "fat": 64.5,
+                    "carbs": 79.4
                 }
             },
             "schedule": [
@@ -787,7 +787,7 @@
                             "name": "Bosvruchten",
                             "amount": "100 g",
                             "ingredient_id": "bosvruchten-diepvries-jumbo",
-                            "amount_g": 100.0
+                            "amount_g": 160.0
                         },
                         {
                             "name": "Havervlokken",
@@ -5709,17 +5709,17 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 767.1,
-                        "carbs": 106.2,
-                        "fat": 14.6,
-                        "protein": 48.7
+                        "kcal": 977.7,
+                        "carbs": 131.9,
+                        "fat": 16.8,
+                        "protein": 68.3
                     },
                     "ingredients": [
                         {
                             "name": "Jumbo Kip-Kalkoen Gehakt",
-                            "amount": "170 g",
+                            "amount": "220 g",
                             "ingredient_id": "jumbo-kip-kalkoen-gehakt",
-                            "amount_g": 170.0
+                            "amount_g": 220.0
                         },
                         {
                             "name": "Jumbo Boemboe Gele Curry",
@@ -5729,9 +5729,9 @@
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "100 g",
+                            "amount": "150 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 100.0
+                            "amount_g": 150.0
                         },
                         {
                             "name": "Knoflook",
@@ -5741,21 +5741,27 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "100 g",
+                            "amount": "150 g",
                             "ingredient_id": "paprika",
-                            "amount_g": 100.0
+                            "amount_g": 150.0
                         },
                         {
                             "name": "Courgette",
-                            "amount": "75 g",
+                            "amount": "150 g",
                             "ingredient_id": "courgette",
-                            "amount_g": 75.0
+                            "amount_g": 150.0
                         },
                         {
                             "name": "Jumbo Kokosmelk Romig",
-                            "amount": "30 g",
+                            "amount": "20 g",
                             "ingredient_id": "jumbo-kokosmelk-romig",
-                            "amount_g": 30.0
+                            "amount_g": 20.0
+                        },
+                        {
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "100 g",
+                            "ingredient_id": "kikkererwten-blik",
+                            "amount_g": 100.0
                         },
                         {
                             "name": "Limoensap",
@@ -5883,10 +5889,10 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 348.4,
-                        "carbs": 12.4,
-                        "fat": 15.7,
-                        "protein": 37.8
+                        "kcal": 451.8,
+                        "carbs": 13.2,
+                        "fat": 25.7,
+                        "protein": 39.2
                     },
                     "ingredients": [
                         {
@@ -5919,7 +5925,7 @@
                         },
                         {
                             "name": "Avocado",
-                            "amount": "20 g"
+                            "amount": "75 g"
                         }
                     ]
                 }
@@ -8122,7 +8128,7 @@
                         {
                             "id": "kipkalkoen12",
                             "name": "Jumbo Kip-Kalkoen Gehakt",
-                            "amount": "1220 g"
+                            "amount": "1420 g"
                         },
                         {
                             "id": "boemboe12",
@@ -8130,9 +8136,14 @@
                             "amount": "180 g"
                         },
                         {
+                            "id": "kikkererwten12",
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "400 g"
+                        },
+                        {
                             "id": "ui12",
                             "name": "Ui (rauw)",
-                            "amount": "400 g"
+                            "amount": "600 g"
                         },
                         {
                             "id": "knoflook12",
@@ -8142,17 +8153,17 @@
                         {
                             "id": "paprika12",
                             "name": "Paprika",
-                            "amount": "400 g"
+                            "amount": "600 g"
                         },
                         {
                             "id": "courgette12",
                             "name": "Courgette",
-                            "amount": "375 g"
+                            "amount": "675 g"
                         },
                         {
                             "id": "kokosmelk12",
                             "name": "Jumbo Kokosmelk Romig",
-                            "amount": "165 g"
+                            "amount": "125 g"
                         },
                         {
                             "id": "limoen12",
@@ -8207,7 +8218,7 @@
                         {
                             "id": "avocado12",
                             "name": "Avocado",
-                            "amount": "120 g"
+                            "amount": "285 g"
                         },
                         {
                             "id": "zout12",

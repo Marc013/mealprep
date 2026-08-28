@@ -23,7 +23,7 @@ _7 dagen: 4 trainingsdagen + 3 rustdagen_
 
 🥩 *Vlees & eiwit*
 - Jumbo Gekookte Hamreepjes — 360 g
-- Jumbo Kip-Kalkoen Gehakt — 1220 g
+- Jumbo Kip-Kalkoen Gehakt — 1420 g
 - Jumbo Gerookte Kipfilet — 850 g
 
 🍞 *Brood & kaas*
@@ -32,21 +32,22 @@ _7 dagen: 4 trainingsdagen + 3 rustdagen_
 - Remia mayolijn - Jumbo — 32 g
 
 🥕 *Groenten & salade*
-- Ui (rauw) — 400 g
+- Ui (rauw) — 600 g
 - Knoflook — 32 g
-- Paprika — 400 g
-- Courgette — 375 g
+- Paprika — 600 g
+- Courgette — 675 g
 - Tomaat, rauw — 840 g
 - Rode ui — 290 g
 - Selderij, bleek, rauw — 525 g
 - Radijs — 350 g
-- Avocado — 120 g
+- Avocado — 285 g
 
 🍚 *Koolhydraten & sauzen*
 - Witte rijst (droog) — 400 g
 - Grand'Italia Fusilli Volkoren (droog) — 300 g
+- Kikkererwten (blik, uitgelekt) — 400 g
 - Jumbo Boemboe Gele Curry — 180 g
-- Jumbo Kokosmelk Romig — 165 g
+- Jumbo Kokosmelk Romig — 125 g
 - Limoensap — 60 g
 - Jumbo Pesto alla Genovese — 155 g
 - Olijfolie Extra Vierge — 13 g

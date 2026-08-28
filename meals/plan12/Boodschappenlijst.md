@@ -25,24 +25,25 @@ Uitgangspunt:
 | Volkoren brood                        |                140 g |
 | Kaas Extra Belegen 48+ - Jumbo        |                100 g |
 | Remia mayolijn - Jumbo                |                 32 g |
-| Jumbo Kip-Kalkoen Gehakt              |               1220 g |
+| Jumbo Kip-Kalkoen Gehakt              |               1420 g |
 | Jumbo Boemboe Gele Curry              |                180 g |
-| Ui (rauw)                             |                400 g |
+| Ui (rauw)                             |                600 g |
 | Knoflook                              |                 32 g |
-| Paprika                               |                400 g |
-| Courgette                             |                375 g |
-| Jumbo Kokosmelk Romig                 |                165 g |
+| Paprika                               |                600 g |
+| Courgette                             |                675 g |
+| Jumbo Kokosmelk Romig                 |                125 g |
 | Limoensap                             |                 60 g |
 | Witte rijst (droog)                   |                400 g |
 | Olijfolie Extra Vierge                |                 13 g |
 | Jumbo Gerookte Kipfilet               |                850 g |
 | Grand'Italia Fusilli Volkoren (droog) |                300 g |
+| Kikkererwten (blik, uitgelekt)        |                400 g |
 | Tomaat, rauw                          |                840 g |
 | Rode ui                               |                290 g |
 | Selderij, bleek, rauw                 |                525 g |
 | Radijs                                |                350 g |
 | Jumbo Pesto alla Genovese             |                155 g |
-| Avocado                               |                120 g |
+| Avocado                               |                285 g |
 | Zout                                  |           naar smaak |
 | Zwarte peper                          |           naar smaak |
 | Dille                                 |           naar smaak |
