@@ -25,7 +25,7 @@ Uitgangspunt:
 | Volkoren brood                       |                140 g |
 | Kaas Extra Belegen 48+ - Jumbo       |                100 g |
 | Remia mayolijn - Jumbo               |                 32 g |
-| Jumbo Kip-Kalkoen Gehakt             |               1310 g |
+| Rundergehakt - Jumbo                 |                700 g |
 | Ui (rauw)                            |                990 g |
 | Knoflook                             |                 68 g |
 | Paprika                              |                840 g |
@@ -35,7 +35,7 @@ Uitgangspunt:
 | Komijnpoeder                         |                 32 g |
 | Gerookt paprikapoeder                |                 14 g |
 | Limoensap                            |                160 g |
-| Olijfolie Extra Vierge               |                113 g |
+| Olijfolie Extra Vierge               |                 71 g |
 | Witte rijst (droog)                  |                440 g |
 | Kipfilet (rauw)                      |               1100 g |
 | Kikkererwten (blik, uitgelekt)       |                720 g |

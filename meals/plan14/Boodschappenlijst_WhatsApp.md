@@ -30,7 +30,7 @@
 
 🥩 *Vlees & eiwit*
 - Jumbo Gekookte Hamreepjes — 360 g
-- Jumbo Kip-Kalkoen Gehakt — 1310 g
+- Rundergehakt - Jumbo — 700 g
 - Kipfilet (rauw) — 1100 g
 
 🍚 *Koolhydraten & sauzen*

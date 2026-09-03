@@ -4,17 +4,17 @@
 15:45 uur
 
 ## Waarom dit gerecht past
-Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-kurkumasaus (kurkuma, komijn en kaneel). De trainingsvariant wordt geserveerd met witte rijst; de rustdagvariant blijft zonder rijst voor een lage koolhydraatbelasting en extra volume uit groente.
+Een Arabisch gekruide eenpansgerecht met rundergehakt in een warme tomaten-kurkumasaus (kurkuma, komijn en kaneel). De trainingsvariant wordt geserveerd met witte rijst; de rustdagvariant blijft zonder rijst voor een lage koolhydraatbelasting en extra volume uit groente. De olijfolie is beperkt omdat rundergehakt zelf al vet inbrengt.
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 862,6
-- Eiwitten: 57,4 g
-- Vetten: 13,9 g
-- Koolhydraten: 122,6 g
+- Kcal: 836,9
+- Eiwitten: 38,4 g
+- Vetten: 20,6 g
+- Koolhydraten: 120,6 g
 
 ## Ingredienten per portie
-- 200 g Jumbo Kip-Kalkoen Gehakt
+- 100 g Rundergehakt - Jumbo
 - 100 g Ui (rauw)
 - 8 g Knoflook
 - 150 g Paprika
@@ -24,7 +24,7 @@ Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-
 - 3 g Komijnpoeder
 - 2 g Kaneelpoeder
 - 15 g Limoensap
-- 5 g Olijfolie Extra Vierge
+- 2 g Olijfolie Extra Vierge
 - 110 g Witte rijst (droog)
 
 ## Voorbereiding
@@ -33,7 +33,7 @@ Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-
 - Meng kurkuma, komijn en kaneel vooraf tot een kruidenmix.
 
 ## Bereiding
-- Verhit de olijfolie in een grote pan en bak het gehakt rul en goudbruin.
+- Verhit de olijfolie in een grote pan en bak het rundergehakt rul en goudbruin.
 - Voeg ui en knoflook toe en fruit 2 minuten. Voeg paprika toe en bak 3-4 minuten mee.
 - Roer de kruidenmix erdoor en bak 1 minuut mee tot de geur vrijkomt.
 - Voeg tomaat en passata toe en laat 6-8 minuten sudderen tot een dikke saus.
@@ -41,13 +41,13 @@ Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 433,4
-- Eiwitten: 40,0 g
-- Vetten: 20,3 g
-- Koolhydraten: 20,3 g
+- Kcal: 387,0
+- Eiwitten: 27,4 g
+- Vetten: 21,6 g
+- Koolhydraten: 18,6 g
 
 ## Ingredienten per portie
-- 170 g Jumbo Kip-Kalkoen Gehakt
+- 100 g Rundergehakt - Jumbo
 - 60 g Ui (rauw)
 - 80 g Paprika
 - 80 g Tomaat, rauw
@@ -56,14 +56,14 @@ Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-
 - 2 g Komijnpoeder
 - 2 g Kaneelpoeder
 - 10 g Limoensap
-- 15 g Olijfolie Extra Vierge
+- 5 g Olijfolie Extra Vierge
 
 ## Voorbereiding
 - Snijd ui, paprika en tomaat.
 - Meng kurkuma, komijn en kaneel vooraf tot een kruidenmix.
 
 ## Bereiding
-- Verhit de olijfolie in een pan en bak het gehakt rul en goudbruin.
+- Verhit de olijfolie in een pan en bak het rundergehakt rul en goudbruin.
 - Voeg ui toe en fruit 2 minuten. Voeg paprika toe en bak 3-4 minuten mee.
 - Roer de kruidenmix erdoor en bak 1 minuut mee.
 - Voeg tomaat en passata toe en laat 6-8 minuten inkoken tot een compacte saus.
@@ -75,7 +75,7 @@ Een Arabisch gekruide eenpansgerecht met kip-kalkoengehakt in een warme tomaten-
 
 ## Macro-notitie
 Bronnen per ingredient:
-- Jumbo Kip-Kalkoen Gehakt: src/ingredients.json
+- Rundergehakt - Jumbo: src/ingredients.json
 - Ui (rauw): src/ingredients.json
 - Knoflook: src/ingredients.json
 - Paprika: src/ingredients.json

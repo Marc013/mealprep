@@ -25,11 +25,11 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit           |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15            |  409,0 |         29,6 |        4,6 |             54,8 |
 | Lunch 13:00              |  337,0 |         27,7 |       17,9 |             15,0 |
-| Mealprep 1 (15:45)       |  862,6 |         57,4 |       13,9 |            122,6 |
+| Mealprep 1 (15:45)       |  836,9 |         38,4 |       20,6 |            120,6 |
 | Mealprep 2 (18:30)       |  746,1 |         60,8 |       10,3 |             93,3 |
-| **Totaal trainingsdag**  | 2889,7 |        254,5 |       52,7 |            323,7 |
+| **Totaal trainingsdag**  | 2864,0 |        235,5 |       59,4 |            321,7 |
 | Maximum trainingsdag     | 2900,0 |        190,0 |       60,0 |            400,0 |
-| **Marge t.o.v. maximum** |  -10,3 |        +64,5 |       -7,3 |            -76,3 |
+| **Marge t.o.v. maximum** |  -36,0 |        +45,5 |       -0,6 |            -78,3 |
 
 ## Rustdag totaal
 Gebruikte varianten voor de berekening:
@@ -43,19 +43,19 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit           |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15            |  224,0 |         26,6 |        1,9 |             21,4 |
 | Lunch 13:00              |  287,0 |         29,8 |       18,5 |              0,4 |
-| Mealprep 1 (15:45)       |  433,4 |         40,0 |       20,3 |             20,3 |
+| Mealprep 1 (15:45)       |  387,0 |         27,4 |       21,6 |             18,6 |
 | Mealprep 2 (18:30)       |  371,8 |         37,4 |       14,8 |             19,8 |
-| **Totaal rustdag**       | 1851,2 |        212,8 |       61,5 |             99,9 |
+| **Totaal rustdag**       | 1804,8 |        200,2 |       62,8 |             98,2 |
 | Maximum rustdag          | 1880,0 |        190,0 |       80,0 |            100,0 |
-| **Marge t.o.v. maximum** |  -28,8 |        +22,8 |      -18,5 |             -0,1 |
+| **Marge t.o.v. maximum** |  -75,2 |        +10,2 |      -17,2 |             -1,8 |
 
 ## Validatie grenscheck
-- ✅ Trainingsdag: kcal, vet en koolhydraten blijven ruim onder de maxima (geen enkele overschrijding, in tegenstelling tot plan 13 waar vet met 0,5 g werd overschreden).
-- ✅ Rustdag: kcal en vet blijven onder de maxima; koolhydraten liggen nagenoeg exact op het maximum (99,9 van 100 g).
-- Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging en vergelijkbaar met de overschrijding in plan 13 (niet structureel extremer).
-- De twee nieuwe mealprep-maaltijden liggen macrotechnisch dicht bij elkaar: trainingsdag 862,6 vs 746,1 kcal (verschil 116,5 kcal) en rustdag 433,4 vs 371,8 kcal (verschil 61,6 kcal). Dit is een aanzienlijk kleiner verschil dan in plan 13 (978 vs 546 kcal en 306 vs 445 kcal).
+- ✅ Trainingsdag: kcal, vet en koolhydraten blijven onder de maxima (vet zit met 59,4 g nét onder de grens van 60 g).
+- ✅ Rustdag: kcal en vet blijven onder de maxima; koolhydraten liggen dicht bij het maximum (98,2 van 100 g).
+- Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging.
+- De twee nieuwe mealprep-maaltijden liggen macrotechnisch dicht bij elkaar: trainingsdag 836,9 vs 746,1 kcal (verschil 90,8 kcal) en rustdag 387,0 vs 371,8 kcal (verschil 15,2 kcal).
 
 ## Bronnotitie
 - Ontbijt en lunch exact overgenomen uit plan 13 (oorspronkelijk plan 11).
-- Arabische Kurkuma Gehaktpan gebruikt Jumbo Kip-Kalkoen Gehakt met een tomaten-kurkumasaus (kurkuma, komijn, kaneel); training met witte rijst, rust zonder rijst.
+- Arabische Kurkuma Gehaktpan gebruikt Rundergehakt - Jumbo met een tomaten-kurkumasaus (kurkuma, komijn, kaneel); training met witte rijst, rust zonder rijst. De olijfolie is beperkt omdat rundergehakt zelf al vet inbrengt.
 - Arabische Kipfilet met Kikkererwten gebruikt kipfilet en kikkererwten in dezelfde Arabische tomatensaus (kurkuma, komijn, gerookt paprikapoeder, kaneel); training met bulgur, rust zonder bulgur.
