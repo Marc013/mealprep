@@ -4,16 +4,16 @@
 🏪 _*Lidl*_
 
 🥕 *Groenten*
-- Uien — 770 g
+- Uien — 755 g
 - Knoflook — 68 g
-- Prei — 700 g
-- Champignons — 1200 g
-- Paprika — 1000 g
+- Prei — 525 g
+- Champignons — 525 g
+- Paprika — 525 g
 - Tomaat — 360 g
-- Kikkererwten (uitgelekt) — 440 g
+- Kikkererwten (uitgelekt) — 640 g
 
 🍚 *Koolhydraten & sauzen*
-- Tomaten Gezeefd Passata - Jumbo — 380 g
+- Tomaten Gezeefd Passata - Jumbo — 360 g
 
 🍎 *Fruit*
 - Appel (voor shakes) — 5 stuks
@@ -32,16 +32,16 @@
 
 🥩 *Vlees & eiwit*
 - Jumbo Gekookte Hamreepjes — 360 g
-- Rundergehakt - Jumbo — 500 g
-- Kipfilet (rauw) — 1390 g
+- Rundergehakt - Jumbo — 690 g
+- Kipfilet (rauw) — 1750 g
 
 🍚 *Koolhydraten & sauzen*
-- Witte rijst (droog) — 440 g
-- Biologisch Volkoren bulgur - AH — 440 g
+- Witte rijst (droog) — 400 g
+- Biologisch Volkoren bulgur - AH — 300 g
 - Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo — 126 g
 
 🧂 *Kruiden & olie*
-- Olijfolie Extra Vierge — 52 g
+- Olijfolie Extra Vierge — 40 g
 - Chilivlokken — 7 g
 - Kerriepoeder — 14 g
 - Kurkumapoeder — 14 g

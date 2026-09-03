@@ -686,16 +686,16 @@
             },
             "totals": {
                 "training": {
-                    "kcal": 2891.5,
-                    "protein": 237.1,
-                    "fat": 54.4,
-                    "carbs": 334.6
+                    "kcal": 2881.9,
+                    "protein": 255.9,
+                    "fat": 59.1,
+                    "carbs": 304.7
                 },
                 "rest": {
-                    "kcal": 1867.8,
-                    "protein": 226.4,
-                    "fat": 56.9,
-                    "carbs": 95.9
+                    "kcal": 1875.7,
+                    "protein": 232.6,
+                    "fat": 58.7,
+                    "carbs": 90.2
                 }
             },
             "schedule": [
@@ -6503,23 +6503,23 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 818.0,
-                        "carbs": 114.1,
-                        "fat": 10.7,
-                        "protein": 60.3
+                        "kcal": 824.2,
+                        "carbs": 104.9,
+                        "fat": 9.7,
+                        "protein": 73.1
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "190 g",
+                            "amount": "250 g",
                             "ingredient_id": "kipfilet-rauw",
-                            "amount_g": 190.0
+                            "amount_g": 250.0
                         },
                         {
                             "name": "Witte rijst (droog)",
-                            "amount": "110 g",
+                            "amount": "100 g",
                             "ingredient_id": "witte-rijst-droog",
-                            "amount_g": 110.0
+                            "amount_g": 100.0
                         },
                         {
                             "name": "Kikkererwten (blik, uitgelekt)",
@@ -6529,9 +6529,9 @@
                         },
                         {
                             "name": "Paprika",
-                            "amount": "100 g",
+                            "amount": "75 g",
                             "ingredient_id": "paprika",
-                            "amount_g": 100.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Ui (rauw)",
@@ -6541,9 +6541,9 @@
                         },
                         {
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "80 g",
+                            "amount": "75 g",
                             "ingredient_id": "passata-jumbo",
-                            "amount_g": 80.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -6559,9 +6559,9 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g",
+                            "amount": "3 g",
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 5.0
+                            "amount_g": 3.0
                         },
                         {
                             "name": "Komijnpoeder",
@@ -6580,23 +6580,23 @@
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 366.8,
-                        "carbs": 16.3,
-                        "fat": 7.6,
-                        "protein": 53.1
+                        "kcal": 378.3,
+                        "carbs": 10.7,
+                        "fat": 8.2,
+                        "protein": 61.0
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "210 g",
+                            "amount": "250 g",
                             "ingredient_id": "kipfilet-rauw",
-                            "amount_g": 210.0
+                            "amount_g": 250.0
                         },
                         {
                             "name": "Paprika",
-                            "amount": "200 g",
+                            "amount": "75 g",
                             "ingredient_id": "paprika",
-                            "amount_g": 200.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Ui (rauw)",
@@ -9277,32 +9277,32 @@
                         {
                             "id": "rundergehakt14",
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "500 g"
+                            "amount": "690 g"
                         },
                         {
                             "id": "kipfilet14",
                             "name": "Kipfilet (rauw)",
-                            "amount": "1390 g"
+                            "amount": "1750 g"
                         },
                         {
                             "id": "kikkererwten14",
                             "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "440 g"
+                            "amount": "640 g"
                         },
                         {
                             "id": "prei14",
                             "name": "Prei",
-                            "amount": "700 g"
+                            "amount": "525 g"
                         },
                         {
                             "id": "champignons14",
                             "name": "Champignons",
-                            "amount": "1200 g"
+                            "amount": "525 g"
                         },
                         {
                             "id": "ui14",
                             "name": "Ui (rauw)",
-                            "amount": "770 g"
+                            "amount": "755 g"
                         },
                         {
                             "id": "knoflook14",
@@ -9312,7 +9312,7 @@
                         {
                             "id": "paprika14",
                             "name": "Paprika",
-                            "amount": "1000 g"
+                            "amount": "525 g"
                         },
                         {
                             "id": "tomaat14",
@@ -9322,7 +9322,7 @@
                         {
                             "id": "passata14",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "380 g"
+                            "amount": "360 g"
                         },
                         {
                             "id": "sojasaus14",
@@ -9332,7 +9332,7 @@
                         {
                             "id": "olie14",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "52 g"
+                            "amount": "40 g"
                         },
                         {
                             "id": "chilivlokken14",
@@ -9362,12 +9362,12 @@
                         {
                             "id": "rijst14",
                             "name": "Witte rijst (droog)",
-                            "amount": "440 g"
+                            "amount": "400 g"
                         },
                         {
                             "id": "bulgur14",
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "440 g"
+                            "amount": "300 g"
                         }
                     ]
                 },

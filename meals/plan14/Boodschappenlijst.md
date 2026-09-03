@@ -25,25 +25,25 @@ Uitgangspunt:
 | Volkoren brood                                 |                140 g |
 | Kaas Extra Belegen 48+ - Jumbo                 |                100 g |
 | Remia mayolijn - Jumbo                         |                 32 g |
-| Rundergehakt - Jumbo                           |                500 g |
-| Kipfilet (rauw)                                |               1390 g |
-| Kikkererwten (blik, uitgelekt)                 |                440 g |
-| Prei                                           |                700 g |
-| Champignons                                    |               1200 g |
-| Ui (rauw)                                      |                770 g |
+| Rundergehakt - Jumbo                           |                690 g |
+| Kipfilet (rauw)                                |               1750 g |
+| Kikkererwten (blik, uitgelekt)                 |                640 g |
+| Prei                                           |                525 g |
+| Champignons                                    |                525 g |
+| Ui (rauw)                                      |                755 g |
 | Knoflook                                       |                 68 g |
-| Paprika                                        |               1000 g |
+| Paprika                                        |                525 g |
 | Tomaat                                         |                360 g |
-| Tomaten Gezeefd Passata - Jumbo                |                380 g |
+| Tomaten Gezeefd Passata - Jumbo                |                360 g |
 | Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo |                126 g |
-| Olijfolie Extra Vierge                         |                 52 g |
+| Olijfolie Extra Vierge                         |                 40 g |
 | Chilivlokken                                   |                  7 g |
 | Kerriepoeder                                   |                 14 g |
 | Kurkumapoeder                                  |                 14 g |
 | Komijnpoeder                                   |                 14 g |
 | Gerookt paprikapoeder                          |                  4 g |
-| Witte rijst (droog)                            |                440 g |
-| Biologisch Volkoren bulgur - AH                |                440 g |
+| Witte rijst (droog)                            |                400 g |
+| Biologisch Volkoren bulgur - AH                |                300 g |
 
 ## Lidl
 
