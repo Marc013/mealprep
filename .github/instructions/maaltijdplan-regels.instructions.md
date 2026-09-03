@@ -70,12 +70,14 @@ Shakeblok (vast, beide shakes + fruit samen): **535 kcal / 79 g eiwit / 6 g vet 
 
 ## Macro-validatie (verplicht na elke berekening)
 
-1. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
-2. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `promp.md` (en, indien aanwezig, de actieve `weekplans`-totalen in `docs/data/meals.json`)
-3. Als een dagdoel dreigt te worden overschreden: **corrigeer porties en herbereken** — publiceer nooit een overschrijding van kcal, vet of koolhydraten
-4. Controleer macro-evenredigheid per maaltijd: geen extreme pieken tenzij expliciet functioneel onderbouwd
-5. Controleer tekstconsistentie: alle ingrediënten genoemd in Voorbereiding/Bereiding staan in de ingrediëntenlijst met gramhoeveelheid, behalve expliciet als optioneel gemarkeerde toevoegingen
-6. Bij feedback op bestaande recepten geldt verplichte volgorde: eerst receptaanpassing, daarna herberekening maaltijdmacro's, vervolgens update van `Macros_Dagtotalen.md`, daarna `Boodschappenlijst.md`, en afsluitend een korte validatiesamenvatting
+1. Maak vóór het rekenen een checklist van alle harde eisen uit `promp.md` en de gebruikersvraag: maxima, minima, caps, verboden ingrediënten en verplichte onderdelen. Noteer minima naast maxima; gebruik nooit alleen de maxima uit `promp.md` als de gebruiker een aanvullende ondergrens geeft.
+2. Controleer dat ingredient-niveau optelt naar het macroblok boven aan het maaltijdbestand
+3. Controleer dat alle maaltijden samen optellen naar de dagdoelen in `promp.md` (en, indien aanwezig, de actieve `weekplans`-totalen in `docs/data/meals.json`), inclusief alle opgegeven ondergrenzen
+4. Als een harde grens wordt overschreden of een harde ondergrens wordt gemist: corrigeer porties en herbereken. Publiceer geen plan als compliant zolang de afwijking bestaat.
+5. Controleer na de laatste wijziging opnieuw alle ingredient-caps en verboden ingrediënten; een latere portieverhoging mag een eerdere capcheck niet ongeldig maken.
+6. Controleer macro-evenredigheid per maaltijd: geen extreme pieken tenzij expliciet functioneel onderbouwd
+7. Controleer tekstconsistentie: alle ingrediënten genoemd in Voorbereiding/Bereiding staan in de ingrediëntenlijst met gramhoeveelheid, behalve expliciet als optioneel gemarkeerde toevoegingen
+8. Bij feedback op bestaande recepten geldt verplichte volgorde: eerst receptaanpassing, daarna herberekening maaltijdmacro's, vervolgens update van `Macros_Dagtotalen.md`, daarna `Boodschappenlijst.md`, en afsluitend een korte validatiesamenvatting
 
 ## Kwaliteitscriteria
 

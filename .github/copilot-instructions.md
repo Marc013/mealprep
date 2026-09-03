@@ -23,6 +23,9 @@ Voer deze workflow proactief uit; wacht niet op een extra gebruikersprompt.
 - Voor website-output geldt: `docs/data/meals.json` is leidend voor wat in de UI verschijnt.
 - Voor plan-documentatie geldt: mealbestanden + `Macros_Dagtotalen.md` + `Boodschappenlijst.md` moeten numeriek en inhoudelijk overeenkomen met de actieve planblokken in `docs/data/meals.json`.
 - Corrigeer inconsistenties direct in alle gekoppelde bestanden binnen dezelfde wijzigingsronde.
+- Maak vóór elke berekening een constraint-checklist uit `promp.md` én de actuele gebruikersvraag: maxima, minima, ingredient-caps, verboden ingrediënten, vaste maaltijdonderdelen en gewenste voorkeuren. Een gebruikersminimum is een harde eis naast bestaande maxima; behandel het niet als voorkeur.
+- Valideer tegen de actuele brondata nadat alle wijzigingen zijn verwerkt. Meld alleen "voldoet", "geslaagd" of een groene grenscheck als alle harde eisen aantoonbaar kloppen; anders rapporteer de concrete afwijking als ❌ en noem wat nog nodig is.
+- Als de gebruiker uitsluitend afgeleide bestanden wil synchroniseren en de brondata een harde grens overschrijdt, synchroniseer dan zonder de maaltijden stilzwijgend aan te passen, maar markeer de validatie als mislukt. Claim nooit dat het plan compliant is.
 
 ## Slash commands
 
@@ -64,6 +67,7 @@ Website vernieuwen?        → /website-bijwerken
 ## Vaste regels (altijd van toepassing)
 
 - Dagmacro's zijn **strikte bovengrenzen** — nooit overschrijden. Targets staan in `promp.md`.
+- Controleer vóór publicatie zowel ondergrenzen (indien door de gebruiker of configuratie opgegeven) als bovengrenzen per dagtype; een plan kan niet "kloppen" wanneer een harde ondergrens wordt gemist.
 - Benader dagtargets zo dicht mogelijk; kleine afwijkingen van enkele grammen zijn toegestaan. Grote afwijkingen vermijden.
 - Eiwit mag beperkt boven target uitkomen wanneer dit praktisch nut heeft (verzadiging/uitvoerbaarheid), maar niet structureel extreem boven target.
 - Verdeel macro's evenredig over de dag; voorkom dat 1 maaltijd disproportioneel veel van 1 macro bevat.
@@ -89,11 +93,12 @@ Website vernieuwen?        → /website-bijwerken
 - Consistentieregel: alles wat in Voorbereiding/Bereiding wordt genoemd, moet in de ingrediëntenlijst staan met gramhoeveelheid, tenzij expliciet als "optioneel" gemarkeerd.
 
 Wijzigingslogica bij gebruikersfeedback (verplicht):
-- 1) Pas eerst de gevraagde receptbeperking of ingrediëntwijziging toe.
-- 2) Herbereken direct de macro's per aangepaste maaltijd.
-- 3) Update daarna `Macros_Dagtotalen.md`.
-- 4) Synchroniseer daarna `Boodschappenlijst.md`.
-- 5) Geef afsluitend een korte validatiesamenvatting met dagtotalen en grenscheck.
+- 1) Leg eerst alle expliciete caps, minima, uitsluitingen en voorkeuren vast en controleer ze na elke portiewijziging.
+- 2) Pas daarna de gevraagde receptbeperking of ingrediëntwijziging toe; verander geen niet-gevraagde ingrediënten zonder dit kort te motiveren.
+- 3) Herbereken direct de macro's per aangepaste maaltijd en controleer de actuele configuratie plus gebruikersconstraints.
+- 4) Update daarna `Macros_Dagtotalen.md`.
+- 5) Synchroniseer daarna `Boodschappenlijst.md`.
+- 6) Geef afsluitend een korte validatiesamenvatting met dagtotalen en een expliciete ✅/❌-check voor elke harde grens.
 
 ## Hard-limit realisme checks (Verbetering 5)
 

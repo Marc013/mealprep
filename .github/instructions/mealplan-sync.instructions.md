@@ -7,14 +7,16 @@ applyTo: "meals/plan*/**/*.md"
 
 Bij elke inhoudelijke wijziging in een mealplanbestand in `meals/plan*/`:
 
-1. Werk de gewijzigde maaltijdinhoud bij in het betreffende bestand.
-2. Herbereken en update `Macros_Dagtotalen.md` binnen hetzelfde plan.
-3. Herbereken en update `Boodschappenlijst.md` binnen hetzelfde plan.
-4. Synchroniseer dezelfde wijzigingen naar `docs/data/meals.json` voor hetzelfde plan:
+1. Leg vóór het wijzigen de actuele gebruikersconstraints vast: minima, maxima, ingredient-caps en expliciete uitsluitingen.
+2. Werk de gewijzigde maaltijdinhoud bij in het betreffende bestand.
+3. Herbereken en update `Macros_Dagtotalen.md` binnen hetzelfde plan.
+4. Herbereken en update `Boodschappenlijst.md` binnen hetzelfde plan.
+5. Synchroniseer dezelfde wijzigingen naar `docs/data/meals.json` voor hetzelfde plan:
 - `weekplans.planX.totals`
 - `meals.[meal-id].variants`
 - `shopping.planX`
-5. Valideer daarna de website-output op:
+6. Valideer daarna brondata en website-output op:
+- alle opgegeven minima/maxima/caps en verboden ingrediënten
 - `docs/index.html`
 - `docs/macros.html`
 - `docs/shopping.html`
@@ -23,10 +25,12 @@ Bij elke inhoudelijke wijziging in een mealplanbestand in `meals/plan*/`:
 
 - De UI leest uit `docs/data/meals.json`; gebruik die output als eindcontrole.
 - Plan-markdown en website-data moeten exact overeenkomen op macro's, ingredienthoeveelheden en boodschappen-totalen.
+- Synchronisatie en compliance zijn aparte checks: als de gebruiker vraagt om alleen afgeleide bestanden te synchroniseren, mag een bestaande overtreding worden doorgegeven maar moet de eindstatus ❌ blijven met de exacte afwijking.
 
 ## Rapportageverplichting
 
 Rapporteer na wijzigingen altijd:
 - Bijgewerkte dagtotalen (training + rust)
-- Grenscheck voor kcal/vet/koolhydraten
+- Grenscheck voor alle harde maxima én minima/caps uit de gebruikersvraag
 - Bevestiging dat index/macros/shopping UI consistent is
+- Als iets niet voldoet: ❌ status, exacte afwijking en geen claim dat het plan geslaagd is

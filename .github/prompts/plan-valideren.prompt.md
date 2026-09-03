@@ -20,6 +20,7 @@ Controleer `Macros_Dagtotalen.md`:
 - Shake-blok correct meegeteld? (535 kcal / 79 g eiwit / 6 g vet / 38 g KH)
 - Trainingsdag binnen: kcal ≤ 2900, vet ≤ 60 g, KH ≤ 400 g? (eiwit = target 190 g, beperkte overschrijding toegestaan)
 - Rustdag binnen: kcal ≤ 1880, vet ≤ 80 g, KH ≤ 100 g? (eiwit = target 190 g, beperkte overschrijding toegestaan)
+- Controleer ook alle aanvullende minima, maxima en ingredient-caps uit de gebruikersvraag of plancontext; die zijn harde constraints en moeten expliciet in de rapportage staan.
 - Zijn de totalen de som van de losse maaltijden + shakeblok?
 
 ### 3. Ingrediëntconsistentie
@@ -50,5 +51,6 @@ Gevolgd door een samenvattingstabel met dagtotalen.
 - Lees alle maaltijdbestanden in het aktieve plan
 - Gebruik `src/ingredients.json` voor alle voedingswaarden
 - Corrigeer gevonden fouten direct als het om kleine discrepanties gaat; rapporteer grotere problemen aan de gebruiker
+- Geef alleen een ✅-status als alle harde grenzen, minima, caps en synchronisatiecontroles slagen. Bij een bekende afwijking moet de categorie ❌ blijven, ook wanneer de JSON parsebaar is en de UI rendert.
 
 $args
