@@ -576,6 +576,57 @@
         },
         "plan12": {
             "id": "plan12",
+            "name": "Mexicaanse Chili + Maaltijdsalade Gerookte Kip",
+            "description": "Plan 11 als basis; 15:45 vervangen door aangepaste Mexicaanse Rundergehakt Chili uit plan 3 en 18:30 door aangepaste Maaltijdsalade Krieltjes Gerookte Kip uit plan 10.",
+            "dayCounts": {
+                "training": 4,
+                "rest": 3
+            },
+            "totals": {
+                "training": {
+                    "kcal": 2811.0,
+                    "protein": 226.3,
+                    "fat": 64.5,
+                    "carbs": 306.8
+                },
+                "rest": {
+                    "kcal": 1835.0,
+                    "protein": 205.5,
+                    "fat": 59.8,
+                    "carbs": 108.6
+                }
+            },
+            "schedule": [
+                {
+                    "time": "07:30",
+                    "meal": "shake-ochtend-plan9",
+                    "fixed": true
+                },
+                {
+                    "time": "10:15",
+                    "meal": "ontbijt-plan11"
+                },
+                {
+                    "time": "13:00",
+                    "meal": "lunch-plan11"
+                },
+                {
+                    "time": "15:45",
+                    "meal": "mealprep1-plan12"
+                },
+                {
+                    "time": "18:30",
+                    "meal": "mealprep2-plan12"
+                },
+                {
+                    "time": "21:15",
+                    "meal": "shake-avond-plan9",
+                    "fixed": true
+                }
+            ]
+        },
+"plan13": {
+            "id": "plan13",
             "name": "Gele Curry + Koude Pesto-Kip Maaltijdsalade",
             "description": "Plan 11 als basis; 15:45 is de gele curry uit plan 11 en 18:30 de aangepaste koude pesto-kip maaltijdsalade uit plan 7.",
             "dayCounts": {
@@ -612,11 +663,11 @@
                 },
                 {
                     "time": "15:45",
-                    "meal": "mealprep1-plan12"
+                    "meal": "mealprep1-plan13"
                 },
                 {
                     "time": "18:30",
-                    "meal": "mealprep2-plan12"
+                    "meal": "mealprep2-plan13"
                 },
                 {
                     "time": "21:15",
@@ -5702,6 +5753,280 @@
         },
         "mealprep1-plan12": {
             "id": "mealprep1-plan12",
+            "title": "Mexicaanse Rundergehakt Chili",
+            "time": "15:45",
+            "description": "Aangepast uit plan 3: paprika, ui, tomaat en passata begrensd; trainingsvariant vult calorieverlies aan met Go-Tan Sweet Chilli Sauce.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 872,
+                        "carbs": 106,
+                        "fat": 28,
+                        "protein": 40
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Biologisch Volkoren bulgur - AH",
+                            "amount": "75 g (droog)",
+                            "ingredient_id": "bulgur-ah",
+                            "amount_g": 75.0
+                        },
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "125 g",
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 125.0
+                        },
+                        {
+                            "name": "Zwarte bonen (blik, uitgelekt)",
+                            "amount": "50 g",
+                            "ingredient_id": "zwarte-bonen-blik",
+                            "amount_g": 50.0
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "50 g",
+                            "ingredient_id": "paprika",
+                            "amount_g": 50.0
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "50 g",
+                            "ingredient_id": "ui-rauw",
+                            "amount_g": 50.0
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "50 g",
+                            "ingredient_id": "tomaat",
+                            "amount_g": 50.0
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "75 g",
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 75.0
+                        },
+                        {
+                            "name": "Go-Tan Sweet Chilli Sauce",
+                            "amount": "60 g",
+                            "ingredient_id": "sweet-chilli-gotan",
+                            "amount_g": 60.0
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "5 g",
+                            "ingredient_id": "knoflook",
+                            "amount_g": 5.0
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "1 g",
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g",
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2.0
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 405,
+                        "carbs": 14.6,
+                        "fat": 26.1,
+                        "protein": 26.7
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "130 g",
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 130.0
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "30 g",
+                            "ingredient_id": "paprika",
+                            "amount_g": 30.0
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "30 g",
+                            "ingredient_id": "ui-rauw",
+                            "amount_g": 30.0
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "20 g",
+                            "ingredient_id": "tomaat",
+                            "amount_g": 20.0
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "30 g",
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 30.0
+                        },
+                        {
+                            "name": "Go-Tan Sweet Chilli Sauce",
+                            "amount": "15 g",
+                            "ingredient_id": "sweet-chilli-gotan",
+                            "amount_g": 15.0
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "2 g",
+                            "ingredient_id": "knoflook",
+                            "amount_g": 2.0
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "1 g",
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g",
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "1 g",
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 1.0
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Bak rundergehakt rul en goed bruin in olijfolie.",
+                "Voeg ui en knoflook toe en bak kort mee.",
+                "Voeg paprika en tomaat toe en laat kort zachter worden.",
+                "Roer passata, Go-Tan Sweet Chilli Sauce, komijn en chilivlokken erdoor.",
+                "Training: voeg zwarte bonen toe en serveer met bulgur. Rust: laat compact inkoken zonder extra koolhydraatbasis."
+            ]
+        },
+        "mealprep2-plan12": {
+            "id": "mealprep2-plan12",
+            "title": "Maaltijdsalade Krieltjes Gerookte Kip",
+            "time": "18:30",
+            "description": "Aangepast uit plan 10: maximaal 50 g Jumbo Zoetzuur Augurken en extra Jumbo Gerookte Kipfilet in de trainingsvariant.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 658,
+                        "carbs": 93,
+                        "fat": 8,
+                        "protein": 50
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Krieltjes",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Jumbo Zoetzuur Augurken",
+                            "amount": "75 g"
+                        },
+                        {
+                            "name": "Jumbo Zoetzuur Zilver Uitjes",
+                            "amount": "50 g"
+                        },
+                        {
+                            "name": "Jumbo Maiskorrels",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "100 g"
+                        },
+                        {
+                            "name": "IJsbergsla",
+                            "amount": "150 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Komkommer",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "200 g"
+                        },
+                        {
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "40 g"
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 384,
+                        "carbs": 34.2,
+                        "fat": 7.3,
+                        "protein": 43.4
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Jumbo Krieltjes",
+                            "amount": "30 g"
+                        },
+                        {
+                            "name": "Paprika",
+                            "amount": "80 g"
+                        },
+                        {
+                            "name": "IJsbergsla",
+                            "amount": "220 g"
+                        },
+                        {
+                            "name": "Tomaat",
+                            "amount": "40 g"
+                        },
+                        {
+                            "name": "Komkommer",
+                            "amount": "120 g"
+                        },
+                        {
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "200 g"
+                        },
+                        {
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "20 g"
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Kook de krieltjes in 12-15 minuten gaar en laat uitstomen.",
+                "Snijd paprika, ijsbergsla, tomaat, komkommer en gerookte kip.",
+                "Training: meng krieltjes, mais, augurken, zilveruitjes, groente en gerookte kip.",
+                "Rust: meng krieltjes, groente en gerookte kip zonder augurken en zilveruitjes.",
+                "Schep balsamico-dressing erdoor en breng op smaak met peper, dille en gerookt paprikapoeder."
+            ]
+        },
+"mealprep1-plan13": {
+            "id": "mealprep1-plan13",
             "title": "Gele Curry Kip-Kalkoen Balletjes met Witte Rijst",
             "time": "15:45",
             "description": "Overgenomen uit plan 11; kokosmelk en olie aangepast voor de vetgrens.",
@@ -5833,8 +6158,8 @@
                 "Serveer de trainingsvariant met rijst; houd de rustvariant zonder rijst en laat de saus compact inkoken."
             ]
         },
-        "mealprep2-plan12": {
-            "id": "mealprep2-plan12",
+"mealprep2-plan13": {
+            "id": "mealprep2-plan13",
             "title": "Koude Pesto-Kip maaltijdsalade",
             "time": "18:30",
             "description": "Aangepast uit plan 7 met extra pesto en begrensde hoeveelheden fusilli en rauwkost.",
@@ -8040,7 +8365,7 @@
             ]
         },
         "plan12": {
-            "name": "Gele Curry + Koude Pesto-Kip Maaltijdsalade",
+            "name": "Mexicaanse Chili + Maaltijdsalade Gerookte Kip",
             "categories": [
                 {
                     "name": "Jumbo / overig",
@@ -8068,7 +8393,7 @@
                         {
                             "id": "kwark12",
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "2000 g"
+                            "amount": "1380 g"
                         },
                         {
                             "id": "yoghurt12",
@@ -8126,99 +8451,104 @@
                             "amount": "32 g"
                         },
                         {
-                            "id": "kipkalkoen12",
-                            "name": "Jumbo Kip-Kalkoen Gehakt",
-                            "amount": "1420 g"
+                            "id": "rundergehakt12",
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "890 g"
                         },
                         {
-                            "id": "boemboe12",
-                            "name": "Jumbo Boemboe Gele Curry",
-                            "amount": "180 g"
-                        },
-                        {
-                            "id": "kikkererwten12",
-                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "id": "bulgur12",
+                            "name": "Biologisch Volkoren bulgur - AH",
                             "amount": "300 g"
                         },
                         {
-                            "id": "ui12",
-                            "name": "Ui (rauw)",
-                            "amount": "600 g"
-                        },
-                        {
-                            "id": "knoflook12",
-                            "name": "Knoflook",
-                            "amount": "32 g"
+                            "id": "zwartebonen12",
+                            "name": "Zwarte bonen (blik, uitgelekt)",
+                            "amount": "200 g"
                         },
                         {
                             "id": "paprika12",
                             "name": "Paprika",
-                            "amount": "600 g"
+                            "amount": "930 g"
                         },
                         {
-                            "id": "courgette12",
-                            "name": "Courgette",
-                            "amount": "675 g"
+                            "id": "ui12",
+                            "name": "Ui (rauw)",
+                            "amount": "290 g"
                         },
                         {
-                            "id": "kokosmelk12",
-                            "name": "Jumbo Kokosmelk Romig",
-                            "amount": "125 g"
+                            "id": "tomaat12",
+                            "name": "Tomaat",
+                            "amount": "860 g"
                         },
                         {
-                            "id": "limoen12",
-                            "name": "Limoensap",
-                            "amount": "60 g"
+                            "id": "passata12",
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "390 g"
                         },
                         {
-                            "id": "rijst12",
-                            "name": "Witte rijst (droog)",
-                            "amount": "400 g"
+                            "id": "sweetchilli12",
+                            "name": "Go-Tan Sweet Chilli Sauce",
+                            "amount": "285 g"
+                        },
+                        {
+                            "id": "knoflook12",
+                            "name": "Knoflook",
+                            "amount": "26 g"
                         },
                         {
                             "id": "olie12",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "13 g"
+                            "amount": "7 g"
+                        },
+                        {
+                            "id": "chili12",
+                            "name": "Chilivlokken",
+                            "amount": "7 g"
+                        },
+                        {
+                            "id": "komijn12",
+                            "name": "Komijnpoeder",
+                            "amount": "11 g"
+                        },
+                        {
+                            "id": "krieltjes12",
+                            "name": "Jumbo Krieltjes",
+                            "amount": "690 g"
+                        },
+                        {
+                            "id": "augurken12",
+                            "name": "Jumbo Zoetzuur Augurken",
+                            "amount": "300 g"
+                        },
+                        {
+                            "id": "zilveruitjes12",
+                            "name": "Jumbo Zoetzuur Zilver Uitjes",
+                            "amount": "200 g"
+                        },
+                        {
+                            "id": "mais12",
+                            "name": "Jumbo Maiskorrels",
+                            "amount": "320 g"
+                        },
+                        {
+                            "id": "ijsbergsla12",
+                            "name": "IJsbergsla",
+                            "amount": "1260 g"
+                        },
+                        {
+                            "id": "komkommer12",
+                            "name": "Komkommer",
+                            "amount": "840 g"
                         },
                         {
                             "id": "gerooktekip12",
                             "name": "Jumbo Gerookte Kipfilet",
-                            "amount": "850 g"
+                            "amount": "1400 g"
                         },
                         {
-                            "id": "fusilli12",
-                            "name": "Grand'Italia Fusilli Volkoren (droog)",
-                            "amount": "280 g"
-                        },
-                        {
-                            "id": "tomaat12",
-                            "name": "Tomaat, rauw",
-                            "amount": "840 g"
-                        },
-                        {
-                            "id": "rodeui12",
-                            "name": "Rode ui",
-                            "amount": "290 g"
-                        },
-                        {
-                            "id": "selderij12",
-                            "name": "Selderij, bleek, rauw",
-                            "amount": "525 g"
-                        },
-                        {
-                            "id": "radijs12",
-                            "name": "Radijs",
-                            "amount": "350 g"
-                        },
-                        {
-                            "id": "pesto12",
-                            "name": "Jumbo Pesto alla Genovese",
-                            "amount": "155 g"
-                        },
-                        {
-                            "id": "avocado12",
-                            "name": "Avocado",
-                            "amount": "225 g"
+                            "id": "balsamico12",
+                            "name": "Jumbo Biologisch Dressing Crema di Balsamico",
+                            "amount": "220 g"
                         },
                         {
                             "id": "zout12",
@@ -8247,6 +8577,221 @@
                     "items": [
                         {
                             "id": "lidl12",
+                            "name": "Geen verplichte Lidl-producten in dit schema",
+                            "amount": "0 g"
+                        }
+                    ]
+                }
+            ]
+        },
+"plan13": {
+            "name": "Gele Curry + Koude Pesto-Kip Maaltijdsalade",
+            "categories": [
+                {
+                    "name": "Jumbo / overig",
+                    "items": [
+                        {
+                            "id": "whey13",
+                            "name": "Perfect Whey Protein - XXL Nutrition",
+                            "amount": "700 g"
+                        },
+                        {
+                            "id": "appel13",
+                            "name": "Appel (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "banaan-shake13",
+                            "name": "Banaan (voor shakes)",
+                            "amount": "5 stuks"
+                        },
+                        {
+                            "id": "peer13",
+                            "name": "Peer (voor shakes)",
+                            "amount": "4 stuks"
+                        },
+                        {
+                            "id": "kwark13",
+                            "name": "Franse Kwark Mager - Jumbo",
+                            "amount": "2000 g"
+                        },
+                        {
+                            "id": "yoghurt13",
+                            "name": "Halfvolle yoghurt",
+                            "amount": "960 g"
+                        },
+                        {
+                            "id": "bos13",
+                            "name": "Diepvries bosvruchten (Jumbo)",
+                            "amount": "1020 g"
+                        },
+                        {
+                            "id": "haver13",
+                            "name": "Havervlokken (Crownfield)",
+                            "amount": "120 g"
+                        },
+                        {
+                            "id": "rozijnen13",
+                            "name": "Rozijnen",
+                            "amount": "40 g"
+                        },
+                        {
+                            "id": "honing13",
+                            "name": "Honing",
+                            "amount": "20 g"
+                        },
+                        {
+                            "id": "kaneel13",
+                            "name": "Kaneelpoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "eieren13",
+                            "name": "Eieren (M)",
+                            "amount": "14 stuks"
+                        },
+                        {
+                            "id": "ham13",
+                            "name": "Jumbo Gekookte Hamreepjes",
+                            "amount": "360 g"
+                        },
+                        {
+                            "id": "brood13",
+                            "name": "Volkoren brood",
+                            "amount": "140 g"
+                        },
+                        {
+                            "id": "kaas13",
+                            "name": "Kaas Extra Belegen 48+ - Jumbo",
+                            "amount": "100 g"
+                        },
+                        {
+                            "id": "mayo13",
+                            "name": "Remia mayolijn - Jumbo",
+                            "amount": "32 g"
+                        },
+                        {
+                            "id": "kipkalkoen13",
+                            "name": "Jumbo Kip-Kalkoen Gehakt",
+                            "amount": "1420 g"
+                        },
+                        {
+                            "id": "boemboe13",
+                            "name": "Jumbo Boemboe Gele Curry",
+                            "amount": "180 g"
+                        },
+                        {
+                            "id": "kikkererwten13",
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "300 g"
+                        },
+                        {
+                            "id": "ui13",
+                            "name": "Ui (rauw)",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "knoflook13",
+                            "name": "Knoflook",
+                            "amount": "32 g"
+                        },
+                        {
+                            "id": "paprika13",
+                            "name": "Paprika",
+                            "amount": "600 g"
+                        },
+                        {
+                            "id": "courgette13",
+                            "name": "Courgette",
+                            "amount": "675 g"
+                        },
+                        {
+                            "id": "kokosmelk13",
+                            "name": "Jumbo Kokosmelk Romig",
+                            "amount": "125 g"
+                        },
+                        {
+                            "id": "limoen13",
+                            "name": "Limoensap",
+                            "amount": "60 g"
+                        },
+                        {
+                            "id": "rijst13",
+                            "name": "Witte rijst (droog)",
+                            "amount": "400 g"
+                        },
+                        {
+                            "id": "olie13",
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "13 g"
+                        },
+                        {
+                            "id": "gerooktekip13",
+                            "name": "Jumbo Gerookte Kipfilet",
+                            "amount": "850 g"
+                        },
+                        {
+                            "id": "fusilli13",
+                            "name": "Grand'Italia Fusilli Volkoren (droog)",
+                            "amount": "280 g"
+                        },
+                        {
+                            "id": "tomaat13",
+                            "name": "Tomaat, rauw",
+                            "amount": "840 g"
+                        },
+                        {
+                            "id": "rodeui13",
+                            "name": "Rode ui",
+                            "amount": "290 g"
+                        },
+                        {
+                            "id": "selderij13",
+                            "name": "Selderij, bleek, rauw",
+                            "amount": "525 g"
+                        },
+                        {
+                            "id": "radijs13",
+                            "name": "Radijs",
+                            "amount": "350 g"
+                        },
+                        {
+                            "id": "pesto13",
+                            "name": "Jumbo Pesto alla Genovese",
+                            "amount": "155 g"
+                        },
+                        {
+                            "id": "avocado13",
+                            "name": "Avocado",
+                            "amount": "225 g"
+                        },
+                        {
+                            "id": "zout13",
+                            "name": "Zout",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "peper13",
+                            "name": "Zwarte peper",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "dille13",
+                            "name": "Dille",
+                            "amount": "naar smaak"
+                        },
+                        {
+                            "id": "paprikapoeder13",
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "naar smaak"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lidl",
+                    "items": [
+                        {
+                            "id": "lidl13",
                             "name": "Geen verplichte Lidl-producten in dit schema",
                             "amount": "0 g"
                         }
