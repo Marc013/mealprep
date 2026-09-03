@@ -679,23 +679,23 @@
         "plan14": {
             "id": "plan14",
             "name": "Arabische Kurkuma Gehaktpan + Arabische Kipfilet met Kikkererwten",
-            "description": "Plan 13 als basis; 15:45 is de Arabische Kurkuma Gehaktpan en 18:30 de Arabische Kipfilet met Kikkererwten, beide met een Arabisch gekruide tomatensaus.",
+            "description": "Plan 13 als basis; 15:45 is de Arabische Kurkuma Gehaktpan uit plan 5 en 18:30 de Arabische Kipfilet met Kikkererwten uit plan 3, beide integraal overgenomen.",
             "dayCounts": {
                 "training": 4,
                 "rest": 3
             },
             "totals": {
                 "training": {
-                    "kcal": 2864.0,
-                    "protein": 235.5,
-                    "fat": 59.4,
-                    "carbs": 321.7
+                    "kcal": 2891.5,
+                    "protein": 237.1,
+                    "fat": 54.4,
+                    "carbs": 334.6
                 },
                 "rest": {
-                    "kcal": 1804.8,
-                    "protein": 200.2,
-                    "fat": 62.8,
-                    "carbs": 98.2
+                    "kcal": 1867.8,
+                    "protein": 226.4,
+                    "fat": 56.9,
+                    "carbs": 95.9
                 }
             },
             "schedule": [
@@ -6317,215 +6317,46 @@
             "id": "mealprep1-plan14",
             "title": "Arabische Kurkuma Gehaktpan",
             "time": "15:45",
-            "description": "Rundergehakt in een Arabisch gekruide tomaten-kurkumasaus; vervangt de Gele Curry uit plan 13.",
+            "description": "Overgenomen uit plan 5: rundergehakt met prei, champignons en een romige yoghurt-sojasaus met kerrie, kurkuma en chili. Vervangt de Gele Curry uit plan 13.",
             "variants": {
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 836.9,
-                        "carbs": 120.6,
-                        "fat": 20.6,
-                        "protein": 38.4
+                        "kcal": 792.5,
+                        "carbs": 112.7,
+                        "fat": 15.2,
+                        "protein": 40.5
                     },
                     "ingredients": [
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "100 g",
+                            "amount": "50 g",
                             "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 100.0
-                        },
-                        {
-                            "name": "Ui (rauw)",
-                            "amount": "100 g",
-                            "ingredient_id": "ui-rauw",
-                            "amount_g": 100.0
-                        },
-                        {
-                            "name": "Knoflook",
-                            "amount": "8 g",
-                            "ingredient_id": "knoflook",
-                            "amount_g": 8.0
-                        },
-                        {
-                            "name": "Paprika",
-                            "amount": "150 g",
-                            "ingredient_id": "paprika",
-                            "amount_g": 150.0
-                        },
-                        {
-                            "name": "Tomaat, rauw",
-                            "amount": "150 g",
-                            "ingredient_id": "tomaat",
-                            "amount_g": 150.0
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "100 g",
-                            "ingredient_id": "passata-jumbo",
-                            "amount_g": 100.0
-                        },
-                        {
-                            "name": "Kurkumapoeder",
-                            "amount": "4 g",
-                            "ingredient_id": "kurkumapoeder",
-                            "amount_g": 4.0
-                        },
-                        {
-                            "name": "Komijnpoeder",
-                            "amount": "3 g",
-                            "ingredient_id": "komijnpoeder",
-                            "amount_g": 3.0
-                        },
-                        {
-                            "name": "Kaneelpoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "kaneelpoeder",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Limoensap",
-                            "amount": "15 g",
-                            "ingredient_id": "limoensap",
-                            "amount_g": 15.0
-                        },
-                        {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "2 g",
-                            "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Witte rijst (droog)",
-                            "amount": "110 g",
-                            "ingredient_id": "witte-rijst-droog",
-                            "amount_g": 110.0
-                        }
-                    ]
-                },
-                "rest": {
-                    "label": "Rustvariant",
-                    "macros": {
-                        "kcal": 387.0,
-                        "carbs": 18.6,
-                        "fat": 21.6,
-                        "protein": 27.4
-                    },
-                    "ingredients": [
-                        {
-                            "name": "Rundergehakt - Jumbo",
-                            "amount": "100 g",
-                            "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 100.0
-                        },
-                        {
-                            "name": "Ui (rauw)",
-                            "amount": "60 g",
-                            "ingredient_id": "ui-rauw",
-                            "amount_g": 60.0
-                        },
-                        {
-                            "name": "Paprika",
-                            "amount": "80 g",
-                            "ingredient_id": "paprika",
-                            "amount_g": 80.0
-                        },
-                        {
-                            "name": "Tomaat, rauw",
-                            "amount": "80 g",
-                            "ingredient_id": "tomaat",
-                            "amount_g": 80.0
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "40 g",
-                            "ingredient_id": "passata-jumbo",
-                            "amount_g": 40.0
-                        },
-                        {
-                            "name": "Kurkumapoeder",
-                            "amount": "3 g",
-                            "ingredient_id": "kurkumapoeder",
-                            "amount_g": 3.0
-                        },
-                        {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "komijnpoeder",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Kaneelpoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "kaneelpoeder",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Limoensap",
-                            "amount": "10 g",
-                            "ingredient_id": "limoensap",
-                            "amount_g": 10.0
-                        },
-                        {
-                            "name": "Olijfolie Extra Vierge",
-                            "amount": "5 g",
-                            "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 5.0
-                        }
-                    ]
-                }
-            },
-            "preparation": [
-                "Snijd ui, knoflook, paprika en tomaat. Kook de rijst voor de trainingsvariant volgens de verpakking.",
-                "Meng kurkuma, komijn en kaneel vooraf tot een kruidenmix.",
-                "Bak het rundergehakt rul en goudbruin in olijfolie. Voeg ui, knoflook en paprika toe en fruit enkele minuten.",
-                "Roer de kruidenmix erdoor en bak 1 minuut mee. Voeg tomaat en passata toe en laat sudderen tot een dikke saus.",
-                "Maak op smaak af met limoensap. Serveer de trainingsvariant met rijst; houd de rustvariant zonder rijst en laat de saus compact inkoken."
-            ]
-        },
-        "mealprep2-plan14": {
-            "id": "mealprep2-plan14",
-            "title": "Arabische Kipfilet met Kikkererwten",
-            "time": "18:30",
-            "description": "Kipfilet en kikkererwten in dezelfde Arabische tomatensaus; vervangt de Koude Pesto-Kip maaltijdsalade uit plan 13.",
-            "variants": {
-                "training": {
-                    "label": "Trainingsvariant",
-                    "macros": {
-                        "kcal": 746.1,
-                        "carbs": 93.3,
-                        "fat": 10.3,
-                        "protein": 60.8
-                    },
-                    "ingredients": [
-                        {
-                            "name": "Kipfilet (rauw)",
-                            "amount": "170 g",
-                            "ingredient_id": "kipfilet-rauw",
-                            "amount_g": 170.0
+                            "amount_g": 50.0
                         },
                         {
                             "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "150 g",
+                            "amount": "40 g",
                             "ingredient_id": "kikkererwten-blik",
+                            "amount_g": 40.0
+                        },
+                        {
+                            "name": "Prei",
+                            "amount": "100 g",
+                            "ingredient_id": "prei",
+                            "amount_g": 100.0
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "150 g",
+                            "ingredient_id": "champignons",
                             "amount_g": 150.0
                         },
                         {
-                            "name": "Tomaat, rauw",
-                            "amount": "100 g",
-                            "ingredient_id": "tomaat",
-                            "amount_g": 100.0
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "100 g",
-                            "ingredient_id": "passata-jumbo",
-                            "amount_g": 100.0
-                        },
-                        {
                             "name": "Ui (rauw)",
-                            "amount": "80 g",
+                            "amount": "90 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 80.0
+                            "amount_g": 90.0
                         },
                         {
                             "name": "Knoflook",
@@ -6534,99 +6365,203 @@
                             "amount_g": 6.0
                         },
                         {
-                            "name": "Kurkumapoeder",
-                            "amount": "3 g",
-                            "ingredient_id": "kurkumapoeder",
-                            "amount_g": 3.0
-                        },
-                        {
-                            "name": "Komijnpoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "komijnpoeder",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Gerookt paprikapoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "paprika-gerookt",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Kaneelpoeder",
-                            "amount": "1 g",
-                            "ingredient_id": "kaneelpoeder",
-                            "amount_g": 1.0
-                        },
-                        {
-                            "name": "Limoensap",
-                            "amount": "10 g",
-                            "ingredient_id": "limoensap",
-                            "amount_g": 10.0
+                            "name": "Halfvolle yoghurt",
+                            "amount": "90 g",
+                            "ingredient_id": "yoghurt-halfvolle",
+                            "amount_g": 90.0
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "3 g",
+                            "amount": "2 g",
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 3.0
+                            "amount_g": 2.0
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "8 g",
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 8.0
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g",
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "kerriepoeder",
+                            "amount_g": 2.0
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "kurkumapoeder",
+                            "amount_g": 2.0
                         },
                         {
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "60 g",
+                            "amount": "110 g",
                             "ingredient_id": "bulgur-ah",
-                            "amount_g": 60.0
+                            "amount_g": 110.0
                         }
                     ]
                 },
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 371.8,
+                        "kcal": 455.0,
                         "carbs": 19.8,
-                        "fat": 14.8,
-                        "protein": 37.4
+                        "fat": 22.9,
+                        "protein": 37.9
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Rundergehakt - Jumbo",
+                            "amount": "100 g",
+                            "ingredient_id": "gehakt-runder-jumbo",
+                            "amount_g": 100.0
+                        },
+                        {
+                            "name": "Prei",
+                            "amount": "100 g",
+                            "ingredient_id": "prei",
+                            "amount_g": 100.0
+                        },
+                        {
+                            "name": "Champignons",
+                            "amount": "200 g",
+                            "ingredient_id": "champignons",
+                            "amount_g": 200.0
+                        },
+                        {
+                            "name": "Ui (rauw)",
+                            "amount": "60 g",
+                            "ingredient_id": "ui-rauw",
+                            "amount_g": 60.0
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "6 g",
+                            "ingredient_id": "knoflook",
+                            "amount_g": 6.0
+                        },
+                        {
+                            "name": "Halfvolle yoghurt",
+                            "amount": "90 g",
+                            "ingredient_id": "yoghurt-halfvolle",
+                            "amount_g": 90.0
+                        },
+                        {
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "4 g",
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 4.0
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "10 g",
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 10.0
+                        },
+                        {
+                            "name": "Chilivlokken",
+                            "amount": "1 g",
+                            "ingredient_id": "chilivlokken",
+                            "amount_g": 1.0
+                        },
+                        {
+                            "name": "Kerriepoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "kerriepoeder",
+                            "amount_g": 2.0
+                        },
+                        {
+                            "name": "Kurkumapoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "kurkumapoeder",
+                            "amount_g": 2.0
+                        }
+                    ]
+                }
+            },
+            "preparation": [
+                "Snijd alle groenten grof zodat ze na opwarmen structuur houden. Kook de bulgur voor de trainingsvariant volgens de verpakking.",
+                "Meng yoghurt met sojasaus, kerrie, kurkuma en chili tot een gladde saus.",
+                "Bak het rundergehakt in olijfolie rul en licht gekaramelliseerd.",
+                "Voeg ui en knoflook toe, daarna champignons en prei; bak 6-8 minuten. Voeg op trainingsdagen de kikkererwten toe en verwarm kort mee.",
+                "Zet het vuur lager, roer de yoghurtsaus erdoor en laat kort binden zonder hard te koken. Serveer de trainingsvariant met bulgur."
+            ]
+        },
+        "mealprep2-plan14": {
+            "id": "mealprep2-plan14",
+            "title": "Arabische Kipfilet met Kikkererwten",
+            "time": "18:30",
+            "description": "Overgenomen uit plan 3: kipfilet en kikkererwten in een passatasaus met sojasaus, komijn en gerookt paprikapoeder. Vervangt de Koude Pesto-Kip maaltijdsalade uit plan 13.",
+            "variants": {
+                "training": {
+                    "label": "Trainingsvariant",
+                    "macros": {
+                        "kcal": 818.0,
+                        "carbs": 114.1,
+                        "fat": 10.7,
+                        "protein": 60.3
                     },
                     "ingredients": [
                         {
                             "name": "Kipfilet (rauw)",
-                            "amount": "140 g",
+                            "amount": "190 g",
                             "ingredient_id": "kipfilet-rauw",
-                            "amount_g": 140.0
+                            "amount_g": 190.0
+                        },
+                        {
+                            "name": "Witte rijst (droog)",
+                            "amount": "110 g",
+                            "ingredient_id": "witte-rijst-droog",
+                            "amount_g": 110.0
                         },
                         {
                             "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "40 g",
+                            "amount": "70 g",
                             "ingredient_id": "kikkererwten-blik",
-                            "amount_g": 40.0
+                            "amount_g": 70.0
                         },
                         {
-                            "name": "Tomaat, rauw",
-                            "amount": "60 g",
-                            "ingredient_id": "tomaat",
-                            "amount_g": 60.0
-                        },
-                        {
-                            "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "50 g",
-                            "ingredient_id": "passata-jumbo",
-                            "amount_g": 50.0
+                            "name": "Paprika",
+                            "amount": "100 g",
+                            "ingredient_id": "paprika",
+                            "amount_g": 100.0
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "30 g",
+                            "amount": "50 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 30.0
+                            "amount_g": 50.0
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "80 g",
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 80.0
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "10 g",
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 10.0
                         },
                         {
                             "name": "Knoflook",
-                            "amount": "4 g",
+                            "amount": "5 g",
                             "ingredient_id": "knoflook",
-                            "amount_g": 4.0
+                            "amount_g": 5.0
                         },
                         {
-                            "name": "Kurkumapoeder",
-                            "amount": "3 g",
-                            "ingredient_id": "kurkumapoeder",
-                            "amount_g": 3.0
+                            "name": "Olijfolie Extra Vierge",
+                            "amount": "5 g",
+                            "ingredient_id": "olijfolie-jumbo",
+                            "amount_g": 5.0
                         },
                         {
                             "name": "Komijnpoeder",
@@ -6636,37 +6571,84 @@
                         },
                         {
                             "name": "Gerookt paprikapoeder",
-                            "amount": "2 g",
-                            "ingredient_id": "paprika-gerookt",
-                            "amount_g": 2.0
-                        },
-                        {
-                            "name": "Kaneelpoeder",
                             "amount": "1 g",
-                            "ingredient_id": "kaneelpoeder",
+                            "ingredient_id": "paprika-gerookt",
                             "amount_g": 1.0
+                        }
+                    ]
+                },
+                "rest": {
+                    "label": "Rustvariant",
+                    "macros": {
+                        "kcal": 366.8,
+                        "carbs": 16.3,
+                        "fat": 7.6,
+                        "protein": 53.1
+                    },
+                    "ingredients": [
+                        {
+                            "name": "Kipfilet (rauw)",
+                            "amount": "210 g",
+                            "ingredient_id": "kipfilet-rauw",
+                            "amount_g": 210.0
                         },
                         {
-                            "name": "Limoensap",
+                            "name": "Paprika",
+                            "amount": "200 g",
+                            "ingredient_id": "paprika",
+                            "amount_g": 200.0
+                        },
+                        {
+                            "name": "Ui (rauw)",
                             "amount": "10 g",
-                            "ingredient_id": "limoensap",
+                            "ingredient_id": "ui-rauw",
                             "amount_g": 10.0
                         },
                         {
+                            "name": "Tomaat",
+                            "amount": "120 g",
+                            "ingredient_id": "tomaat",
+                            "amount_g": 120.0
+                        },
+                        {
+                            "name": "Tomaten Gezeefd Passata - Jumbo",
+                            "amount": "20 g",
+                            "ingredient_id": "passata-jumbo",
+                            "amount_g": 20.0
+                        },
+                        {
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "8 g",
+                            "ingredient_id": "sojasaus-kikkoman",
+                            "amount_g": 8.0
+                        },
+                        {
+                            "name": "Knoflook",
+                            "amount": "2 g",
+                            "ingredient_id": "knoflook",
+                            "amount_g": 2.0
+                        },
+                        {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "12 g",
+                            "amount": "4 g",
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 12.0
+                            "amount_g": 4.0
+                        },
+                        {
+                            "name": "Komijnpoeder",
+                            "amount": "2 g",
+                            "ingredient_id": "komijnpoeder",
+                            "amount_g": 2.0
                         }
                     ]
                 }
             },
             "preparation": [
-                "Snijd de kipfilet in blokjes en snipper ui en knoflook. Snijd de tomaat en laat de kikkererwten uitlekken.",
-                "Kook de bulgur voor de trainingsvariant volgens de verpakking en laat uitdampen.",
-                "Bak de kipblokjes rondom gaar in olijfolie. Voeg ui en knoflook toe en fruit kort mee.",
-                "Roer kurkuma, komijn, gerookt paprikapoeder en kaneel erdoor. Voeg tomaat, passata en kikkererwten toe en laat sudderen tot een stevige saus.",
-                "Maak op smaak af met limoensap. Serveer de trainingsvariant met bulgur; houd de rustvariant compacter."
+                "Snijd de kip in reepjes, de paprika in reepjes, de ui in halve ringen en hak de knoflook fijn. Spoel de kikkererwten af.",
+                "Kook de witte rijst voor de trainingsvariant gaar.",
+                "Bak de kip rondom goudbruin in olijfolie en haal uit de pan.",
+                "Bak ui en knoflook 2 minuten, voeg de paprika (en op rustdagen ook tomaat) toe en bak 3 minuten mee.",
+                "Roer passata, sojasaus, komijn en gerookt paprikapoeder erdoor, voeg de kip en kikkererwten terug en laat 5 minuten sudderen. Serveer de trainingsvariant met rijst."
             ]
         }
     },
@@ -9235,12 +9217,12 @@
                         {
                             "id": "kwark14",
                             "name": "Franse Kwark Mager - Jumbo",
-                            "amount": "2000 g"
+                            "amount": "1380 g"
                         },
                         {
                             "id": "yoghurt14",
                             "name": "Halfvolle yoghurt",
-                            "amount": "960 g"
+                            "amount": "1530 g"
                         },
                         {
                             "id": "bos14",
@@ -9265,7 +9247,7 @@
                         {
                             "id": "kaneel14",
                             "name": "Kaneelpoeder",
-                            "amount": "35 g"
+                            "amount": "14 g"
                         },
                         {
                             "id": "eieren14",
@@ -9295,12 +9277,32 @@
                         {
                             "id": "rundergehakt14",
                             "name": "Rundergehakt - Jumbo",
+                            "amount": "500 g"
+                        },
+                        {
+                            "id": "kipfilet14",
+                            "name": "Kipfilet (rauw)",
+                            "amount": "1390 g"
+                        },
+                        {
+                            "id": "kikkererwten14",
+                            "name": "Kikkererwten (blik, uitgelekt)",
+                            "amount": "440 g"
+                        },
+                        {
+                            "id": "prei14",
+                            "name": "Prei",
                             "amount": "700 g"
+                        },
+                        {
+                            "id": "champignons14",
+                            "name": "Champignons",
+                            "amount": "1200 g"
                         },
                         {
                             "id": "ui14",
                             "name": "Ui (rauw)",
-                            "amount": "990 g"
+                            "amount": "770 g"
                         },
                         {
                             "id": "knoflook14",
@@ -9310,42 +9312,52 @@
                         {
                             "id": "paprika14",
                             "name": "Paprika",
-                            "amount": "840 g"
+                            "amount": "1000 g"
                         },
                         {
                             "id": "tomaat14",
-                            "name": "Tomaat, rauw",
-                            "amount": "1420 g"
+                            "name": "Tomaat",
+                            "amount": "360 g"
                         },
                         {
                             "id": "passata14",
                             "name": "Tomaten Gezeefd Passata - Jumbo",
-                            "amount": "1070 g"
+                            "amount": "380 g"
                         },
                         {
-                            "id": "kurkuma14",
-                            "name": "Kurkumapoeder",
-                            "amount": "46 g"
-                        },
-                        {
-                            "id": "komijn14",
-                            "name": "Komijnpoeder",
-                            "amount": "32 g"
-                        },
-                        {
-                            "id": "paprikapoeder14",
-                            "name": "Gerookt paprikapoeder",
-                            "amount": "14 g"
-                        },
-                        {
-                            "id": "limoen14",
-                            "name": "Limoensap",
-                            "amount": "160 g"
+                            "id": "sojasaus14",
+                            "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
+                            "amount": "126 g"
                         },
                         {
                             "id": "olie14",
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "71 g"
+                            "amount": "52 g"
+                        },
+                        {
+                            "id": "chilivlokken14",
+                            "name": "Chilivlokken",
+                            "amount": "7 g"
+                        },
+                        {
+                            "id": "kerrie14",
+                            "name": "Kerriepoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "kurkuma14",
+                            "name": "Kurkumapoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "komijn14",
+                            "name": "Komijnpoeder",
+                            "amount": "14 g"
+                        },
+                        {
+                            "id": "paprikapoeder14",
+                            "name": "Gerookt paprikapoeder",
+                            "amount": "4 g"
                         },
                         {
                             "id": "rijst14",
@@ -9353,19 +9365,9 @@
                             "amount": "440 g"
                         },
                         {
-                            "id": "kipfilet14",
-                            "name": "Kipfilet (rauw)",
-                            "amount": "1100 g"
-                        },
-                        {
-                            "id": "kikkererwten14",
-                            "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "720 g"
-                        },
-                        {
                             "id": "bulgur14",
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "240 g"
+                            "amount": "440 g"
                         }
                     ]
                 },

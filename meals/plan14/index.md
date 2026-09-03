@@ -11,8 +11,8 @@ Bestanden:
 
 Kernpunten:
 - Basis is plan 13: ontbijt, lunch en vaste shakes blijven exact gelijk.
-- 15:45 Gele Curry Kip-Kalkoen Balletjes met Witte Rijst is vervangen door Arabische Kurkuma Gehaktpan (rundergehakt in een tomaten-kurkumasaus met komijn en kaneel).
-- 18:30 Koude Pesto-Kip maaltijdsalade is vervangen door Arabische Kipfilet met Kikkererwten (kipfilet en kikkererwten in dezelfde Arabische tomatensaus).
-- Beide nieuwe mealprep-maaltijden zijn eenpansgerechten met een tomatensaus als sauscomponent en dezelfde Arabische kruiding (kurkumapoeder, komijnpoeder, kaneelpoeder, gerookt paprikapoeder), conform de eis van maximaal 2 mealprep-gerechten.
-- De macro's van de twee nieuwe maaltijden liggen bewust dicht bij elkaar (trainingsdag: 836,9 vs 746,1 kcal; rustdag: 387,0 vs 371,8 kcal) in plaats van het grote verschil in plan 13 (978 vs 546 kcal / 306 vs 445 kcal).
-- Dagtotalen zijn opnieuw doorgerekend met 4 trainingsdagen en 3 rustdagen en blijven binnen alle harde maxima voor kcal, vet en koolhydraten.
+- 15:45 Gele Curry Kip-Kalkoen Balletjes met Witte Rijst is vervangen door Arabische Kurkuma Gehaktpan, integraal overgenomen uit plan 5 (rundergehakt, kikkererwten, prei, champignons, ui, knoflook, halfvolle yoghurt, sojasaus, chilivlokken, kerrie, kurkuma en bulgur).
+- 18:30 Koude Pesto-Kip maaltijdsalade is vervangen door Arabische Kipfilet met Kikkererwten, integraal overgenomen uit plan 3 (kipfilet, witte rijst, kikkererwten, paprika, ui, passata, sojasaus, knoflook, olijfolie, komijn en gerookt paprikapoeder).
+- Alle originele ingredienten van beide gerechten zijn behouden; alleen de gramhoeveelheden zijn gefinetuned om de dagmacro's te halen.
+- De macro's van de twee maaltijden liggen dicht bij elkaar (trainingsdag: 792,5 vs 818,0 kcal; rustdag: 455,0 vs 366,8 kcal) in plaats van het grote verschil in plan 13 (978 vs 546 kcal / 306 vs 445 kcal).
+- Dagtotalen zijn doorgerekend met 4 trainingsdagen en 3 rustdagen en blijven binnen alle harde maxima voor kcal, vet en koolhydraten.

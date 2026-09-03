@@ -4,86 +4,91 @@
 15:45 uur
 
 ## Waarom dit gerecht past
-Een Arabisch gekruide eenpansgerecht met rundergehakt in een warme tomaten-kurkumasaus (kurkuma, komijn en kaneel). De trainingsvariant wordt geserveerd met witte rijst; de rustdagvariant blijft zonder rijst voor een lage koolhydraatbelasting en extra volume uit groente. De olijfolie is beperkt omdat rundergehakt zelf al vet inbrengt.
+Deze eenpansmaaltijd komt uit plan 5 en heeft een warm Arabisch profiel door kerrie, kurkuma en chili met een romige yoghurt-sojabasis die sappig blijft na opwarmen. Trainingsdag krijgt bulgur voor glycogeenaanvulling; rustdag houdt koolhydraten strak met hoog groentevolume uit prei, champignons en ui.
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 836,9
-- Eiwitten: 38,4 g
-- Vetten: 20,6 g
-- Koolhydraten: 120,6 g
+- Kcal: 792,5
+- Eiwitten: 40,5 g
+- Vetten: 15,2 g
+- Koolhydraten: 112,7 g
 
 ## Ingredienten per portie
-- 100 g Rundergehakt - Jumbo
-- 100 g Ui (rauw)
-- 8 g Knoflook
-- 150 g Paprika
-- 150 g Tomaat, rauw
-- 100 g Tomaten Gezeefd Passata - Jumbo
-- 4 g Kurkumapoeder
-- 3 g Komijnpoeder
-- 2 g Kaneelpoeder
-- 15 g Limoensap
+- 50 g Rundergehakt - Jumbo
+- 40 g Kikkererwten (blik, uitgelekt)
+- 100 g Prei
+- 150 g Champignons
+- 90 g Ui (rauw)
+- 6 g Knoflook
+- 90 g Halfvolle yoghurt
 - 2 g Olijfolie Extra Vierge
-- 110 g Witte rijst (droog)
+- 8 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
+- 1 g Chilivlokken
+- 2 g Kerriepoeder
+- 2 g Kurkumapoeder
+- 110 g Biologisch Volkoren bulgur - AH (droog)
 
 ## Voorbereiding
-- Snijd ui, knoflook, paprika en tomaat.
-- Kook de rijst volgens de verpakking.
-- Meng kurkuma, komijn en kaneel vooraf tot een kruidenmix.
+- Snijd alle groenten grof zodat ze na opwarmen structuur houden.
+- Meng yoghurt met sojasaus, kerrie, kurkuma en chili tot een gladde saus.
+- Weeg gehakt en kikkererwten apart af en spoel de kikkererwten kort af.
+- Kook de bulgur volgens de verpakking en laat uitdampen.
 
 ## Bereiding
-- Verhit de olijfolie in een grote pan en bak het rundergehakt rul en goudbruin.
-- Voeg ui en knoflook toe en fruit 2 minuten. Voeg paprika toe en bak 3-4 minuten mee.
-- Roer de kruidenmix erdoor en bak 1 minuut mee tot de geur vrijkomt.
-- Voeg tomaat en passata toe en laat 6-8 minuten sudderen tot een dikke saus.
-- Maak op smaak af met limoensap. Serveer met de gare rijst of houd de rijst apart bij mealprep.
+- Bak het rundergehakt in olijfolie rul en licht gekaramelliseerd.
+- Voeg ui en knoflook toe, daarna champignons en prei; bak 6-8 minuten.
+- Voeg de kikkererwten toe en verwarm kort mee.
+- Zet het vuur lager, roer de yoghurtsaus erdoor en laat kort binden zonder hard te koken.
+- Serveer met de gare bulgur of houd de bulgur apart bij mealprep.
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 387,0
-- Eiwitten: 27,4 g
-- Vetten: 21,6 g
-- Koolhydraten: 18,6 g
+- Kcal: 455,0
+- Eiwitten: 37,9 g
+- Vetten: 22,9 g
+- Koolhydraten: 19,8 g
 
 ## Ingredienten per portie
 - 100 g Rundergehakt - Jumbo
+- 100 g Prei
+- 200 g Champignons
 - 60 g Ui (rauw)
-- 80 g Paprika
-- 80 g Tomaat, rauw
-- 40 g Tomaten Gezeefd Passata - Jumbo
-- 3 g Kurkumapoeder
-- 2 g Komijnpoeder
-- 2 g Kaneelpoeder
-- 10 g Limoensap
-- 5 g Olijfolie Extra Vierge
+- 6 g Knoflook
+- 90 g Halfvolle yoghurt
+- 4 g Olijfolie Extra Vierge
+- 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
+- 1 g Chilivlokken
+- 2 g Kerriepoeder
+- 2 g Kurkumapoeder
 
 ## Voorbereiding
-- Snijd ui, paprika en tomaat.
-- Meng kurkuma, komijn en kaneel vooraf tot een kruidenmix.
+- Snijd alle groenten grof zodat ze na opwarmen structuur houden.
+- Meng yoghurt met sojasaus, kerrie, kurkuma en chili tot een gladde saus.
+- Weeg het gehakt apart af.
 
 ## Bereiding
-- Verhit de olijfolie in een pan en bak het rundergehakt rul en goudbruin.
-- Voeg ui toe en fruit 2 minuten. Voeg paprika toe en bak 3-4 minuten mee.
-- Roer de kruidenmix erdoor en bak 1 minuut mee.
-- Voeg tomaat en passata toe en laat 6-8 minuten inkoken tot een compacte saus.
-- Maak op smaak af met limoensap.
+- Bak het rundergehakt in olijfolie rul en licht gekaramelliseerd.
+- Voeg ui en knoflook toe, daarna champignons en prei; bak 6-8 minuten.
+- Zet het vuur lager, roer de yoghurtsaus erdoor en laat kort binden zonder hard te koken.
+- Portioneer direct zonder extra koolhydraatbron.
 
 ## Opwarmadvies
-- Bewaar de rijst apart van de gehaktpan voor de trainingsvariant.
-- Verwarm afgedekt 2-3 minuten op 700W. Voeg een scheutje water toe als de saus te dik is.
+- Opwarmen op middelhoog vuur met deksel.
+- Voeg indien nodig 20-30 ml water toe voor een smeuige saus zonder dat het gerecht nat wordt.
+- Bewaar de bulgur apart van de gehaktpan voor de trainingsvariant.
 
 ## Macro-notitie
 Bronnen per ingredient:
 - Rundergehakt - Jumbo: src/ingredients.json
+- Kikkererwten (blik, uitgelekt): src/ingredients.json
+- Prei: src/ingredients.json
+- Champignons: src/ingredients.json
 - Ui (rauw): src/ingredients.json
 - Knoflook: src/ingredients.json
-- Paprika: src/ingredients.json
-- Tomaat, rauw: src/ingredients.json
-- Tomaten Gezeefd Passata - Jumbo: src/ingredients.json
-- Kurkumapoeder: src/ingredients.json
-- Komijnpoeder: src/ingredients.json
-- Kaneelpoeder: src/ingredients.json
-- Limoensap: src/ingredients.json
+- Halfvolle yoghurt: src/ingredients.json
 - Olijfolie Extra Vierge: src/ingredients.json
-- Witte rijst (droog): src/ingredients.json
+- Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo: src/ingredients.json
+- Chilivlokken: src/ingredients.json
+- Kerriepoeder: src/ingredients.json
+- Kurkumapoeder: src/ingredients.json
+- Biologisch Volkoren bulgur - AH: src/ingredients.json

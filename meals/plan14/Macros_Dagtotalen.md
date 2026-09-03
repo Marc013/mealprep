@@ -1,6 +1,6 @@
 # Macro's dagtotalen (plan 14)
 
-Basis is plan 13. Ontbijt, lunch en vaste shakes zijn gelijk gebleven; de twee mealprep-maaltijden zijn vervangen door Arabisch gekruide eenpansgerechten met een tomatensaus.
+Basis is plan 13. Ontbijt, lunch en vaste shakes zijn gelijk gebleven; de twee mealprep-maaltijden zijn vervangen door bestaande gerechten uit plan 5 en plan 3, met alle originele ingredienten. Alleen de gramhoeveelheden zijn gefinetuned om de dagmacro's te halen.
 
 Gekozen shakes en fruit (vast):
 - 07:30 uur: 50 g whey + 1 stuk fruit (appel, banaan of peer)
@@ -25,11 +25,11 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit           |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15            |  409,0 |         29,6 |        4,6 |             54,8 |
 | Lunch 13:00              |  337,0 |         27,7 |       17,9 |             15,0 |
-| Mealprep 1 (15:45)       |  836,9 |         38,4 |       20,6 |            120,6 |
-| Mealprep 2 (18:30)       |  746,1 |         60,8 |       10,3 |             93,3 |
-| **Totaal trainingsdag**  | 2864,0 |        235,5 |       59,4 |            321,7 |
+| Mealprep 1 (15:45)       |  792,5 |         40,5 |       15,2 |            112,7 |
+| Mealprep 2 (18:30)       |  818,0 |         60,3 |       10,7 |            114,1 |
+| **Totaal trainingsdag**  | 2891,5 |        237,1 |       54,4 |            334,6 |
 | Maximum trainingsdag     | 2900,0 |        190,0 |       60,0 |            400,0 |
-| **Marge t.o.v. maximum** |  -36,0 |        +45,5 |       -0,6 |            -78,3 |
+| **Marge t.o.v. maximum** |   -8,5 |        +47,1 |       -5,6 |            -65,4 |
 
 ## Rustdag totaal
 Gebruikte varianten voor de berekening:
@@ -43,19 +43,20 @@ Gebruikte varianten voor de berekening:
 | Shakes + fruit           |  535,0 |         79,0 |        6,0 |             38,0 |
 | Ontbijt 10:15            |  224,0 |         26,6 |        1,9 |             21,4 |
 | Lunch 13:00              |  287,0 |         29,8 |       18,5 |              0,4 |
-| Mealprep 1 (15:45)       |  387,0 |         27,4 |       21,6 |             18,6 |
-| Mealprep 2 (18:30)       |  371,8 |         37,4 |       14,8 |             19,8 |
-| **Totaal rustdag**       | 1804,8 |        200,2 |       62,8 |             98,2 |
+| Mealprep 1 (15:45)       |  455,0 |         37,9 |       22,9 |             19,8 |
+| Mealprep 2 (18:30)       |  366,8 |         53,1 |        7,6 |             16,3 |
+| **Totaal rustdag**       | 1867,8 |        226,4 |       56,9 |             95,9 |
 | Maximum rustdag          | 1880,0 |        190,0 |       80,0 |            100,0 |
-| **Marge t.o.v. maximum** |  -75,2 |        +10,2 |      -17,2 |             -1,8 |
+| **Marge t.o.v. maximum** |  -12,2 |        +36,4 |      -23,1 |             -4,1 |
 
 ## Validatie grenscheck
-- ✅ Trainingsdag: kcal, vet en koolhydraten blijven onder de maxima (vet zit met 59,4 g nét onder de grens van 60 g).
-- ✅ Rustdag: kcal en vet blijven onder de maxima; koolhydraten liggen dicht bij het maximum (98,2 van 100 g).
+- ✅ Trainingsdag: 2891,5 kcal / 54,4 g vet / 334,6 g koolhydraten — alle onder de maxima (2900 / 60 / 400), kcal ligt 8,5 onder het maximum.
+- ✅ Rustdag: 1867,8 kcal / 56,9 g vet / 95,9 g koolhydraten — alle onder de maxima (1880 / 80 / 100), kcal ligt 12,2 onder het maximum.
 - Eiwit ligt op beide dagen boven target; dit is functioneel voor verzadiging.
-- De twee nieuwe mealprep-maaltijden liggen macrotechnisch dicht bij elkaar: trainingsdag 836,9 vs 746,1 kcal (verschil 90,8 kcal) en rustdag 387,0 vs 371,8 kcal (verschil 15,2 kcal).
+- De twee mealprep-maaltijden liggen dicht bij elkaar: trainingsdag 792,5 vs 818,0 kcal (verschil 25,5 kcal) en rustdag 455,0 vs 366,8 kcal (verschil 88,2 kcal).
 
 ## Bronnotitie
 - Ontbijt en lunch exact overgenomen uit plan 13 (oorspronkelijk plan 11).
-- Arabische Kurkuma Gehaktpan gebruikt Rundergehakt - Jumbo met een tomaten-kurkumasaus (kurkuma, komijn, kaneel); training met witte rijst, rust zonder rijst. De olijfolie is beperkt omdat rundergehakt zelf al vet inbrengt.
-- Arabische Kipfilet met Kikkererwten gebruikt kipfilet en kikkererwten in dezelfde Arabische tomatensaus (kurkuma, komijn, gerookt paprikapoeder, kaneel); training met bulgur, rust zonder bulgur.
+- Arabische Kurkuma Gehaktpan is overgenomen uit plan 5 met alle originele ingredienten (rundergehakt, kikkererwten, prei, champignons, ui, knoflook, halfvolle yoghurt, olijfolie, sojasaus, chilivlokken, kerriepoeder, kurkumapoeder, bulgur). Alleen de bulgur is verhoogd van 90 naar 110 g om de trainingsdagmacro's te halen.
+- Arabische Kipfilet met Kikkererwten is overgenomen uit plan 3 met alle originele ingredienten (kipfilet, witte rijst, kikkererwten, paprika, ui, passata, sojasaus, knoflook, olijfolie, komijnpoeder, gerookt paprikapoeder). Rijst is verhoogd van 90 naar 110 g; op de rustdag zijn kip en paprika verhoogd om de dagmacro's te halen.
+- Er zijn geen ingredienten geschrapt of vervangen ten opzichte van de originele recepten.
