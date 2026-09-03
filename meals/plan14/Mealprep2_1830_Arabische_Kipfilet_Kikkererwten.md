@@ -8,21 +8,21 @@ Dit gerecht komt uit plan 3 en heeft een Arabisch smaakprofiel met komijn, geroo
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 818,0
-- Eiwitten: 60,3 g
-- Vetten: 10,7 g
-- Koolhydraten: 114,1 g
+- Kcal: 824,2
+- Eiwitten: 73,1 g
+- Vetten: 9,7 g
+- Koolhydraten: 104,9 g
 
 ## Ingredienten per portie
-- 190 g Kipfilet (rauw)
-- 110 g Witte rijst (droog)
+- 250 g Kipfilet (rauw)
+- 100 g Witte rijst (droog)
 - 70 g Kikkererwten (blik, uitgelekt)
-- 100 g Paprika
+- 75 g Paprika
 - 50 g Ui (rauw)
-- 80 g Tomaten Gezeefd Passata - Jumbo
+- 75 g Tomaten Gezeefd Passata - Jumbo
 - 10 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 5 g Knoflook
-- 5 g Olijfolie Extra Vierge
+- 3 g Olijfolie Extra Vierge
 - 2 g Komijnpoeder
 - 1 g Gerookt paprikapoeder
 
@@ -42,14 +42,14 @@ Dit gerecht komt uit plan 3 en heeft een Arabisch smaakprofiel met komijn, geroo
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 366,8
-- Eiwitten: 53,1 g
-- Vetten: 7,6 g
-- Koolhydraten: 16,3 g
+- Kcal: 378,3
+- Eiwitten: 61,0 g
+- Vetten: 8,2 g
+- Koolhydraten: 10,7 g
 
 ## Ingredienten per portie
-- 210 g Kipfilet (rauw)
-- 200 g Paprika
+- 250 g Kipfilet (rauw)
+- 75 g Paprika
 - 10 g Ui (rauw)
 - 120 g Tomaat
 - 20 g Tomaten Gezeefd Passata - Jumbo

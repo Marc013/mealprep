@@ -8,25 +8,25 @@ Deze eenpansmaaltijd komt uit plan 5 en heeft een warm Arabisch profiel door ker
 
 ## Trainingsdag-variant
 ## Macro's per portie
-- Kcal: 792,5
-- Eiwitten: 40,5 g
-- Vetten: 15,2 g
-- Koolhydraten: 112,7 g
+- Kcal: 776,7
+- Eiwitten: 46,5 g
+- Vetten: 20,9 g
+- Koolhydraten: 92,0 g
 
 ## Ingredienten per portie
-- 50 g Rundergehakt - Jumbo
-- 40 g Kikkererwten (blik, uitgelekt)
-- 100 g Prei
-- 150 g Champignons
-- 90 g Ui (rauw)
+- 90 g Rundergehakt - Jumbo
+- 90 g Kikkererwten (blik, uitgelekt)
+- 75 g Prei
+- 75 g Champignons
+- 75 g Ui (rauw)
 - 6 g Knoflook
 - 90 g Halfvolle yoghurt
-- 2 g Olijfolie Extra Vierge
+- 1 g Olijfolie Extra Vierge
 - 8 g Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo
 - 1 g Chilivlokken
 - 2 g Kerriepoeder
 - 2 g Kurkumapoeder
-- 110 g Biologisch Volkoren bulgur - AH (droog)
+- 75 g Biologisch Volkoren bulgur - AH (droog)
 
 ## Voorbereiding
 - Snijd alle groenten grof zodat ze na opwarmen structuur houden.
@@ -43,16 +43,16 @@ Deze eenpansmaaltijd komt uit plan 5 en heeft een warm Arabisch profiel door ker
 
 ## Rustdag-variant
 ## Macro's per portie
-- Kcal: 455,0
-- Eiwitten: 37,9 g
-- Vetten: 22,9 g
-- Koolhydraten: 19,8 g
+- Kcal: 451,5
+- Eiwitten: 36,2 g
+- Vetten: 24,1 g
+- Koolhydraten: 19,7 g
 
 ## Ingredienten per portie
-- 100 g Rundergehakt - Jumbo
-- 100 g Prei
-- 200 g Champignons
-- 60 g Ui (rauw)
+- 110 g Rundergehakt - Jumbo
+- 75 g Prei
+- 75 g Champignons
+- 75 g Ui (rauw)
 - 6 g Knoflook
 - 90 g Halfvolle yoghurt
 - 4 g Olijfolie Extra Vierge

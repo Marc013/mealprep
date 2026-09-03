@@ -6322,41 +6322,41 @@
                 "training": {
                     "label": "Trainingsvariant",
                     "macros": {
-                        "kcal": 792.5,
-                        "carbs": 112.7,
-                        "fat": 15.2,
-                        "protein": 40.5
+                        "kcal": 776.7,
+                        "carbs": 92.0,
+                        "fat": 20.9,
+                        "protein": 46.5
                     },
                     "ingredients": [
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "50 g",
+                            "amount": "90 g",
                             "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 50.0
+                            "amount_g": 90.0
                         },
                         {
                             "name": "Kikkererwten (blik, uitgelekt)",
-                            "amount": "40 g",
+                            "amount": "90 g",
                             "ingredient_id": "kikkererwten-blik",
-                            "amount_g": 40.0
+                            "amount_g": 90.0
                         },
                         {
                             "name": "Prei",
-                            "amount": "100 g",
+                            "amount": "75 g",
                             "ingredient_id": "prei",
-                            "amount_g": 100.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Champignons",
-                            "amount": "150 g",
+                            "amount": "75 g",
                             "ingredient_id": "champignons",
-                            "amount_g": 150.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "90 g",
+                            "amount": "75 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 90.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Knoflook",
@@ -6372,9 +6372,9 @@
                         },
                         {
                             "name": "Olijfolie Extra Vierge",
-                            "amount": "2 g",
+                            "amount": "1 g",
                             "ingredient_id": "olijfolie-jumbo",
-                            "amount_g": 2.0
+                            "amount_g": 1.0
                         },
                         {
                             "name": "Kikkoman Natuurlijk Gebrouwen Sojasaus - Jumbo",
@@ -6402,44 +6402,44 @@
                         },
                         {
                             "name": "Biologisch Volkoren bulgur - AH",
-                            "amount": "110 g",
+                            "amount": "75 g",
                             "ingredient_id": "bulgur-ah",
-                            "amount_g": 110.0
+                            "amount_g": 75.0
                         }
                     ]
                 },
                 "rest": {
                     "label": "Rustvariant",
                     "macros": {
-                        "kcal": 455.0,
-                        "carbs": 19.8,
-                        "fat": 22.9,
-                        "protein": 37.9
+                        "kcal": 451.5,
+                        "carbs": 19.7,
+                        "fat": 24.1,
+                        "protein": 36.2
                     },
                     "ingredients": [
                         {
                             "name": "Rundergehakt - Jumbo",
-                            "amount": "100 g",
+                            "amount": "110 g",
                             "ingredient_id": "gehakt-runder-jumbo",
-                            "amount_g": 100.0
+                            "amount_g": 110.0
                         },
                         {
                             "name": "Prei",
-                            "amount": "100 g",
+                            "amount": "75 g",
                             "ingredient_id": "prei",
-                            "amount_g": 100.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Champignons",
-                            "amount": "200 g",
+                            "amount": "75 g",
                             "ingredient_id": "champignons",
-                            "amount_g": 200.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Ui (rauw)",
-                            "amount": "60 g",
+                            "amount": "75 g",
                             "ingredient_id": "ui-rauw",
-                            "amount_g": 60.0
+                            "amount_g": 75.0
                         },
                         {
                             "name": "Knoflook",
